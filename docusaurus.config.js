@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Fabulas & Goblins',
+  title: 'Fábulas & Goblins',
   tagline: 'Um sistema de RPG aberto, gratuíto e colaborativo.',
   url: 'https://fabulas-e-goblins.netlify.app',
   baseUrl: '/',
