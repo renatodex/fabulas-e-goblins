@@ -13,7 +13,7 @@ const features = [
     description: (
       <>
         Em sistemas tradicionais, Goblins são vistos como monstros horrendos.
-        No F&G, não existem humanos, e os Goblins são conhecimentos por serem
+        No F&G, não existem humanos, e os Goblins são conhecidos por serem
         pioneiros da exploração.
       </>
     ),
