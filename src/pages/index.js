@@ -1,43 +1,43 @@
-import React from 'react';
-import clsx from 'clsx';
-import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import styles from './styles.module.css';
+import React from 'react'
+import clsx from 'clsx'
+import Layout from '@theme/Layout'
+import Link from '@docusaurus/Link'
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+import styles from './styles.module.css'
 
 const features = [
   {
     title: 'Um mundo populado por Goblins',
     imageUrl: 'img/feature1.png',
     description: (
-      <>
+      <div>
         Em sistemas tradicionais, Goblins são vistos como monstros horrendos.
         No F&G, não existem humanos, e os Goblins são conhecidos por serem
         pioneiros da exploração.
-      </>
+      </div>
     ),
   },
   {
     title: 'Simples como deve ser',
     imageUrl: 'img/feature2.png',
     description: (
-      <>
+      <div>
         Um sistema simples e fácil de digerir, agradando tanto Iniciantes como
         jogadores Avançados. Baseado em Sistemas OSR, é projetado para que a sua diversão
         esteja sempre em primeiro lugar.
-      </>
+      </div>
     ),
   },
   {
     title: '100% livre e gratuito',
     imageUrl: 'img/feature3.png',
     description: (
-      <>
+      <div>
         Acreditamos que o RPG precisa ser acessível, por isso, estamos cultivando uma
         comunidade para melhorar o sistema colaborativamente.
         O Fábulas & Goblins é 100% gratuito, e sempre será.
-      </>
+      </div>
     ),
   },
 ];
