@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Fabulas & Goblins',
   tagline: 'Um sistema de RPG aberto, gratuíto e colaborativo.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://fabulas-e-goblins.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/renatodex/fabulas-e-goblins',
           label: 'GitHub',
           position: 'right',
         },
@@ -71,7 +71,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/renatodex/fabulas-e-goblins',
             },
           ],
         },
@@ -87,13 +87,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/renatodex/fabulas-e-goblins/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/renatodex/fabulas-e-goblins/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
