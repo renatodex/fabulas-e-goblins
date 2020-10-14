@@ -33,37 +33,20 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Livro',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Começando a jogar',
+              to: '/docs/1-starting-the-game',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Comunidade',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Instagram',
+              href: 'https://instagram.com/tendadogoblin',
             },
             {
               label: 'GitHub',
@@ -71,8 +54,17 @@ module.exports = {
             },
           ],
         },
+        {
+          title: 'Mais',
+          items: [
+            {
+              label: 'Blog',
+              to: 'blog',
+            },
+          ],
+        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" property="dct:title" href="https://www.fabulasegoblins.com.br">Fábulas & Goblins</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/renatodex">Renato Alves</a> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /></a></p>`,
     },
   },
   presets: [
