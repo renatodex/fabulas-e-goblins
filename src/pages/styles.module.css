@@ -5,6 +5,10 @@
  * and scoped locally.
  */
 
+.ctaButton {
+  text-align: left;
+}
+
 .hero__title {
  font-size: 100px !important;
 }
@@ -16,6 +20,7 @@
   overflow: hidden;
   background-image: url("/img/banner-feg.jpg");
   background-position: center;
+  background-size: cover;
 }
 
 @media screen and (max-width: 966px) {

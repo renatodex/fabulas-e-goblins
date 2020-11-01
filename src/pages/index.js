@@ -17,6 +17,8 @@ const features = [
         pioneiros da exploração.
       </div>
     ),
+    cta_text: 'Saiba mais',
+    cta_link: '/docs',
   },
   {
     title: 'Simples como deve ser',
@@ -28,6 +30,8 @@ const features = [
         esteja sempre em primeiro lugar.
       </div>
     ),
+    cta_text: 'Ler o Livro',
+    cta_link: '/docs',
   },
   {
     title: '100% livre e gratuito',
@@ -39,10 +43,12 @@ const features = [
         O Fábulas & Goblins é 100% gratuito, e sempre será.
       </div>
     ),
+    cta_text: 'Ver Licença',
+    cta_link: 'https://creativecommons.org/licenses/by-nc/4.0',
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({imageUrl, title, description, cta_text, cta_link}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
@@ -53,6 +59,16 @@ function Feature({imageUrl, title, description}) {
       )}
       <h3>{title}</h3>
       <p>{description}</p>
+
+      <Link
+        className={clsx(
+          'button button--outline button--success button--md',
+          styles.ctaButton,
+        )}
+        style={{marginBottom: '40px'}}
+        to={useBaseUrl(cta_link)}>
+        {cta_text}
+      </Link>
     </div>
   );
 }
@@ -66,17 +82,14 @@ function Home() {
       description="Um Sistema de RPG onde Goblins dominam o mundo e humanos não existem.<head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/')}>
-              Ler o Livro
-            </Link>
+          <Link
+            to={'/docs'}>
+            <img width={400} src={useBaseUrl('img/logo.png')}></img>
+          </Link>
+
+          <div class="lower">
+            <div className={styles.buttons}>
+            </div>
           </div>
         </div>
       </header>

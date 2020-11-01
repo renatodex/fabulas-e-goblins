@@ -1,0 +1,113 @@
+.characteristics {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 14px;
+
+  &__block {
+    background-color: #95d29d;
+    padding: 14px;
+
+    label {
+      font-weight: 900;
+      font-size: 14px;
+      display: block;
+    }
+  }
+}
+
+.big-number {
+  font-size: 32px;
+  margin-top: 12px;
+  font-weight: 900;
+}
+
+.title-grid {
+  display: grid;
+  grid-template-columns: 9fr 1fr;
+}
+
+.hability-type {
+  font-size: 15px;
+  display: inline-block;
+  padding: 7px;
+  border-radius: 7px;
+  color: #fff;
+  margin-bottom: 14px;
+
+  &--battle_passive {
+    background-color: #287de6;
+  }
+
+  &--battle_active {
+    background-color: #da3636;
+  }
+
+  &--peace_action {
+    background-color: #40a20d;
+  }
+}
+
+
+.subtitle {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.spell-block {
+  margin-bottom: 21px;
+  border-bottom: 3px solid #000;
+  padding-bottom: 14px;
+
+  background-color: #cbecf1;
+  padding: 14px;
+  margin-bottom: 21px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 2px rgba(0,0,0,0.2);
+
+  // background: rgb(146,217,188);
+  // background: linear-gradient(90deg, rgba(146,217,188,1) 0%, rgba(78,200,201,1) 100%);
+
+  p {
+    line-height: 21px;
+  }
+}
+
+.mechanic {
+  margin: 14px 0px;
+
+  label {
+    display: block;
+    font-size: 18px;
+    font-weight: 900;
+  }
+
+  p {
+    background-color: #f6f6f6;
+    font-style: italic;
+
+    padding: 14px;
+  }
+
+  div {
+    margin-bottom: 20px
+  }
+}
+
+.equip-category {
+  h2 {
+    font-size: 36px;
+    font-weight: 900;
+    border-bottom: 3px solid #000;
+    margin-bottom: 20px;
+  }
+}
+
+.options-grid {
+  margin-bottom: 30px;
+  @media screen and (min-width: 700px) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 14px;
+  }
+}
