@@ -1,8 +1,15 @@
 import React from 'react';
 
-const Home = () => {
-  window.location = "https://airtable.com/shrftjSexrVTNFcO3";
-  return null
+class Home extends React.Component {
+  componentDidMount () {
+    if (window) {
+      window.location = "https://airtable.com/shrftjSexrVTNFcO3";
+    }
+  }
+
+  render () {
+    return null
+  }
 };
 
 export default Home
