@@ -39,6 +39,10 @@ module.exports = {
               label: 'Começando a jogar',
               to: '/docs/1-starting-the-game',
             },
+            {
+              label: 'Qual é o papel do jogador?',
+              to: '/docs/players-role',
+            }
           ],
         },
         {
