@@ -41,7 +41,7 @@ module.exports = {
             },
             {
               label: 'Qual é o papel do jogador?',
-              to: '/docs/players-role',
+              to: '/docs/1-starting-the-game/players-role',
             }
           ],
         },
