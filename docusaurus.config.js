@@ -22,6 +22,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
+        {href: 'https://rolador.fabulasegoblins.com.br', label: 'Rolador de Dados', position: 'left'},
         {
           href: 'https://github.com/renatodex/fabulas-e-goblins',
           label: 'GitHub',
