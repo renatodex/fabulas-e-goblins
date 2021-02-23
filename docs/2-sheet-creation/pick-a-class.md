@@ -8,6 +8,7 @@ slug: /2-sheet-creation/pick-a-class
 No jogo, você pode escolher entre 5 classes distintas. <br/>
 Abaixo listamos de forma resumida as classes disponíveis, e entre parênteses, os Atributos Base para cada uma delas.
 
+
 - **Aventureiro** (Força, Agilidade)
 - **Caçador** (Agilidade, Força)
 - **Arcanista** (Inteligencia, Carisma)
