@@ -4,7 +4,7 @@ title: Escolha sua classe
 slug: /2-sheet-creation/pick-a-class
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criacao-ficha.png"/>
+<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/escolha-classe.png"/>
 No jogo, você pode escolher entre 5 classes distintas. <br/>
 Abaixo listamos de forma resumida as classes disponíveis, e entre parênteses, os Atributos Base para cada uma delas.
 
