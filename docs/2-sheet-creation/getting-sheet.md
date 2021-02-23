@@ -4,7 +4,7 @@ title: Obtendo a Ficha
 slug: /2-sheet-creation/getting-sheet
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/FichaThumb.jpg" />
+<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/FichaThumb.jpg" />
 
 Na [última página deste livro](/docs/9-appendix/character-sheet) você encontrará um link para fazer o download do PDF da Ficha do “Fábula de Goblins”.
 
