@@ -4,7 +4,7 @@ title: Nível Inicial
 slug: /2-sheet-creation/initial-level
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/nivel-inicial.png" width="400">
+<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/nivel-inicial.png" width="400"/>
 Níveis representam seu crescimento e ascensão dentro do jogo.<br/>
 No Fábulas de Goblins, o Nível máximo que um personagem pode atingir é 20.
 
