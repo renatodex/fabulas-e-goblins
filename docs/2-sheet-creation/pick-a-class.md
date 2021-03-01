@@ -12,7 +12,7 @@ Abaixo listamos de forma resumida as classes disponíveis, e entre parênteses, 
 - **Caçador** (Agilidade, Força)
 - **Arcanista** (Inteligencia, Carisma)
 - **Sacerdote** (Carisma, Inteligencia)
-- **Fortuno** (Sorte, Carisma)
+- **Fortuno** (Destino, Carisma)
 
 Por enquanto você pode escolher uma classe baseado no Estilo que você mais se identifica, e depois entraremos em mais detalhes sobre as Habilidades dela.
 
