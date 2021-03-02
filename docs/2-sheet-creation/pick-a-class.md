@@ -2,6 +2,7 @@
 id: pick-a-class
 title: Escolha sua classe
 slug: /2-sheet-creation/pick-a-class
+modified: 2021-03-02T02:00:57-03:00
 ---
 
 <img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/escolha-classe.png"/>
@@ -15,6 +16,8 @@ Abaixo listamos de forma resumida as classes disponíveis, e entre parênteses, 
 - **Fortuno** (Destino, Carisma)
 
 Por enquanto você pode escolher uma classe baseado no Estilo que você mais se identifica, e depois entraremos em mais detalhes sobre as Habilidades dela.
+
+É importante ter em mente que, no Fábulas & Goblins, as habilidades vêm do Grimo equipado pelo personagem, e não da própria classe em si. Entretanto, a sua classe inicial define muito sobre suas opções iniciais de Grimo.
 
 Se você ainda está em dúvida e gostaria de saber mais sobre as classes acima, você pode visitar a Seção: [Introdução sobre Classes](/docs/4-classes/classes-introduction).
 
