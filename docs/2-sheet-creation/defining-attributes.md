@@ -39,3 +39,60 @@ Quando você define os atributos do seu personagem, também está dando para ele
 Personagens com muita força demonstram pessoas que priorizam a força física. Personagens com muito Carisma demonstram personalidades marcantes que podem levantar os olhos de qualquer observador desatento.<br/>
 Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difícil tarefa, listamos aqui um descritivo de cada um dos atributos e como eles influenciam no jogo.
 
+<table>
+  <thead>
+  <tr>
+    <th>
+      Atributo
+      </th>
+    <th>
+      Descrição
+      </th>
+    </tr>
+    </thead>
+  
+  <tbody>
+  <tr>
+    <td>
+      Força
+      </td>
+    <td>
+      Define sua força física e seus pontos de vida, e em ataques Corpo-a-Corpo, é usada também para definir se ocorrerá um acerto.
+      </td>
+    </tr>
+    <tr>
+    <td>
+      Agilidade
+      </td>
+    <td>
+      Define sua agilidade e melhora sua movimentação. Também é usada para definir se ocorrerá um acerto em ataques a distância.
+      </td>
+    </tr>
+   <tr>
+    <td>
+      Inteligência
+      </td>
+    <td>
+      Define sua Inteligência e melhora seus pontos de Magia, também é usada para definir o acerto de Ataques Mágicos.
+      </td>
+    </tr>
+     <tr>
+    <td>
+      Carisma
+      </td>
+    <td>
+      Define o quão Sociável e Convincente você é, melhora os preços em Mercadores, e também é usado para definir o acerto em Ataques que envolvem Diálogo.
+      </td>
+    </tr>
+  <tr>
+    <td>
+      Sorte
+      </td>
+    <td>
+      Define o quão Sortudo e Destinado você é, usado em Testes Neutros permite realizar ações de re-rolagem de dados e também é usado para definir o acerto em Ataques de Fortúnio.
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  
+  Atributos podem sim aumentar durante o jogo, mas isso não acontece com frequência, e portanto você deve pensar bem na hora de distribuí-los na criação do seu personagem!
