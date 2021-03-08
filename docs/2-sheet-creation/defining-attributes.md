@@ -23,3 +23,19 @@ Porém, se você tiver azar nos dados, não vai poder rolar de novo nem mudar de
 
   1- Usar o gerador e ter Atributos equilibrados.<br/>
   2- Tentar a sorte rolando você mesmo os dados de Atributos.
+
+:::note Dica
+
+Os valores que aparecem nas rolagem podem ser aplicados em quaisquer atributos,  mas apenas uma vez, ou seja, você não precisa seguir a ordem que está ai mas também não pode usar um resultado para dois atributos:
+
+<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/definindo-atributos-02.jpg" width="300"/>
+:::
+
+# H1 B.1. O que fazem os atributos?
+
+Os atributos são usados para muitas coisas dentro do jogo, desde concepção do personagem até mesmo testes de rolagem durante o jogo.<br/>
+Quando você define os atributos do seu personagem, também está dando para ele traços de personalidade que mostram as coisas que ele prioriza na vida dele.
+
+Personagens com muita força demonstram pessoas que priorizam a força física. Personagens com muito Carisma demonstram personalidades marcantes que podem levantar os olhos de qualquer observador desatento.<br/>
+Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difícil tarefa, listamos aqui um descritivo de cada um dos atributos e como eles influenciam no jogo.
+
