@@ -31,7 +31,7 @@ Os valores que aparecem nas rolagem podem ser aplicados em quaisquer atributos, 
 <img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/definindo-atributos-02.jpg" width="300"/>
 :::
 
-# H1 B.1. O que fazem os atributos?
+# B.1. O que fazem os atributos?
 
 Os atributos são usados para muitas coisas dentro do jogo, desde concepção do personagem até mesmo testes de rolagem durante o jogo.<br/>
 Quando você define os atributos do seu personagem, também está dando para ele traços de personalidade que mostram as coisas que ele prioriza na vida dele.
