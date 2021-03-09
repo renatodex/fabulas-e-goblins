@@ -8,7 +8,7 @@ slug: /2-sheet-creation/hp-points
 Pontos de vida representam o quão vivo você está. <br/>
 Todos os personagem começam o jogo com uma determinada quantidade de pontos de vida, e conforme vão evoluindo, esses pontos também vão aumentando.
 
-Receber dano em batalha reduz os seus pontos de vida, enquanto descansar, e tomar poções de cura aumenta os seus pontos. </br>
+Receber dano em batalha reduz os seus pontos de vida, enquanto descansar, e tomar poções de cura aumenta os seus pontos. <br/>
 Além disso, existem poderes que podem até aumentar temporariamente os seus pontos de vida!
 
 A formula dos Pontos de vida é:
