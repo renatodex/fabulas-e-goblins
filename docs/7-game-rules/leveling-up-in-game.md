@@ -1,6 +1,6 @@
 ---
 id: leveling-up-in-game
-title: Tipos de Ações no Combate
+title: Ganhando Níveis no Jogo
 slug: /7-game-rules/leveling-up-in-game
 ---
 
