@@ -47,8 +47,9 @@ Exemplo:
 Ramón é um Aventureiro, e possui 14 pontos de Defesa.<br/>
 Ramón será alvo do ataque de um Fougrat Guerreiro, cujo ataque é 16.<br/>
 Nosso Aventureiro então deve rolar um D20 para determinar se ele conseguirá absorver o ataque do Fougrat.<br/>
-O resultado da rolagem é 10. Este resultado é somado ao Modificador de Ataque do Fougrat, que é +2, conferindo um total de 12.<br/>
-O resultado de 12 ainda é inferior à defesa de Ramon, que é 14. <br/>
+O resultado da rolagem é 10. Este resultado é somado ao Modificador de Defesa de Ramón, que é +2, conferindo um total de 12.<br/>
+O resultado de 12 ainda é inferior ao ataque do Fougrat Guerreiro, que é 16. <br/>
 
-Portanto, o ataque do Fougrat falha e Ramón consegue absorvê-lo.
+Portanto, o ataque do Fougrat é bem sucedido e acerta Ramón.
+Uma forma fácil de pensar nessa conta, é que o Ataque do monstro sempre ditará qual número final o Jogador precisa tirar no dado, somando-se os modificadores.
 :::
