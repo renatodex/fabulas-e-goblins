@@ -4,7 +4,7 @@ title: Proficiências Mágicas
 slug: /2-sheet-creation/magic-proficience
 ---
 
-No Fábulas & Goblins, existem dois tipos de Ataques: Normais e Mágicos.<br>
+No Fábulas & Goblins, existem dois tipos de Ataques: Normais e Mágicos.<br/>
 Assim como os ataques normais, que utilizam a defesa do alvo para bloquear, os Ataques Mágicos também podem ser bloqueados.
 
 Contudo, a lógica é um pouco diferente, pois para bloquear um ataque Mágico, você precisa primeiro possuir algum tipo de Proficiência Mágica com aquele Elemento.
