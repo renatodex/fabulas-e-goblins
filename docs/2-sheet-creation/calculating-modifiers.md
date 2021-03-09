@@ -20,5 +20,5 @@ Portanto, podemos concluir que o modificador de um atributo será negativo sempr
 Outras situações dentro do jogo podem afetar o seu modificador, adicionado ou subtraindo o valor total do atributo, mas falaremos sobre essas situações bem mais pra frente. 
 :::
 
-Para entender melhor sobre a Fórmula dos Modificadores, visite a seção [Regra do Modificador](https://fabulasegoblins.com.br/docs/9-appendix/modifier-rule).<br/>
-Para entender como evoluir seus Modificadores durante o jogo, visite a seção [Níveis Especiais](https://fabulasegoblins.com.br/docs/7-game-rules/special-levels).
+Para entender melhor sobre a Fórmula dos Modificadores, visite a seção [Regra do Modificador](/docs/9-appendix/modifier-rule).<br/>
+Para entender como evoluir seus Modificadores durante o jogo, visite a seção [Níveis Especiais](/docs/7-game-rules/special-levels).
