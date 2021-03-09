@@ -43,6 +43,7 @@ Uma coisa importante para se ter em mente, é que no Fábula de Goblins, o jogad
 Cada inimigo especifica qual é o seu próprio Ataque, é através desse valor que o Narrador saberá se o Ataque do inimigo teve sucesso ou não.
 
 Exemplo:
+
 Ramón é um Aventureiro, e possui 14 pontos de Defesa.<br/>
 Ramón será alvo do ataque de um Fougrat Guerreiro, cujo ataque é 16.<br/>
 Nosso Aventureiro então deve rolar um D20 para determinar se ele conseguirá absorver o ataque do Fougrat.<br/>
