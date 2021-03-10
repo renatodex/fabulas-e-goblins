@@ -20,7 +20,7 @@ Escrever sua história não só vai te ajudar a interpretar um personagem mais r
 É importante que você não revele seu passado com os outros Jogadores sem motivo, visto que no jogo, seu personagem provavelmente ainda não tem a intimidade suficiente para contar todo o seu passado para pessoas estranhas, certo?A sua história deve ser conhecida apenas pelo Narrador, para que ele possa utiliza-la como ferramenta para enriquecer a história da Campanha.<br/>
 Ainda sim está com dificuldades de imaginar de forma prática?No Apêndice de Arquétipos, ao final deste livro te damos alguns exemplos muito legais de histórias incríveis para você se basear, e principalmente, pegar o espirito da coisa!
 
-##4.2. Mas e se eu tiver sido rico?
+## 4.2. Mas e se eu tiver sido rico?
 
 Qualquer objeto que você possuir devido ao seu passado teoricamente pode sim ser carregado com você, mas essa decisão precisa ser tomada junto com o Narrador, para que ele garanta que sua escolha não irá desbalancear o jogo.
 
