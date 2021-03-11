@@ -28,7 +28,7 @@ A formula para calcular os Pontos de Ataque é:
 ## Modificador de Atributo da Arma
 
 Esse Atributo é descrito na própria arma.<br/>
-Machados e Espadas por exemplo costumam ter a Força como seu principal Atributo, enquanto Arcos e Facas de Arremesso costumam ter Inteligência como atributo.
+Machados e Espadas por exemplo costumam ter a Força como seu principal Atributo, enquanto Arcos e Facas de Arremesso costumam ter Agilidade como atributo.
 A arma que você utilizar definirá como você deverá calcular seu ataque.
 
 Portanto lembre-se, sempre que trocar de arma, lembre-se de verificar se existe a necessidade de revisar seu ataque.
@@ -43,7 +43,7 @@ Mirana é uma Arcanista com 9 de Inteligência (logo, seu M.Inteligencia é +1)<
 
 Mirana está equipando uma **Orbe Rúnica +2 (Bonus de Ataque)**. O Atributo da Orbe Rúnica é **Inteligência**, portanto, para calcular seu ataque com a Orbe Mirana deverá fazer a seguinte conta:
 
-P.A = 10 + 1 (M.Inteligencia) + 2 (Ataque da Arma) = 13
+P.A = 9 + 1 (M.Inteligencia) + 2 (Ataque da Arma) = 13
 Sabendo que seu Ataque 'com a Orbe Rúnica é 13, Mirana pode finalmente calcular seu modificador de Ataque:
 
 **M.Atk = 13 / 3 - 2 = +2**
