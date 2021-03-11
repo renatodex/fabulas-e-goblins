@@ -90,7 +90,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
       Sorte
       </td>
     <td>
-      Define o quão Sortudo e Destinado você é, usado em [Testes Neutros](/docs/7-game-rules/skill-checks) permite realizar ações de re-rolagem de dados e também é usado para definir o acerto em Ataques de Fortúnio.
+      Define o quão Sortudo e Destinado você é, usado em <a href="/docs/7-game-rules/skill-checks">Testes Neutros</a> permite realizar ações de re-rolagem de dados e também é usado para definir o acerto em Ataques de Fortúnio.
       </td>
     </tr>
     </tbody>
