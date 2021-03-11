@@ -27,10 +27,10 @@ A menos que o Narrador da sua campanha diga o contrário, todo Personagem pode c
   <tbody>
   <tr>
     <td>
-      1x Armadura
+      1x Roupa Inicial (não fornece defesa)
       </td>
     <td>
-      +1 de Defesa
+      +0 de Defesa
       </td>
     <td>
       <img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/itens-iniciais-02.png" width="35"/>
@@ -40,7 +40,7 @@ A menos que o Narrador da sua campanha diga o contrário, todo Personagem pode c
     </tr>
     <tr>
     <td>
-      1x Arma Mágica
+      1x Arma Comum
       </td>
     <td>
       +1 de Ataque
@@ -53,7 +53,7 @@ A menos que o Narrador da sua campanha diga o contrário, todo Personagem pode c
     </tr>
    <tr>
     <td>
-      1x Bolsa
+      1x Bolsa (apenas se o Narrador permitir)
       </td>
     <td>
       Cabem 4 Itens(Seu dinheiro ocupa 1 espaço)
@@ -65,4 +65,5 @@ A menos que o Narrador da sua campanha diga o contrário, todo Personagem pode c
     </tbody>
   </table>
   
-  Esses itens são definidos e entregues pelo Narrador logo no início do jogo.Porém, seu Narrador pode alterar essa regra e mudar os itens para adaptar à sua campanha.
+  Na maioria das vezes, esses itens são definidos e entregues pelo Narrador logo no início do jogo.
+  Porém, seu Narrador pode alterar essa regra e mudar os itens para adaptar à sua campanha.
