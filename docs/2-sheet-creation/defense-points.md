@@ -16,17 +16,14 @@ Assim como os Pontos de Vida e Magia, os pontos de Defesa aumentam conforme seu 
 
 A idéia é que você tenha uma Defesa porque vamos usar uma Fórmula para calcular o seu MODIFICADOR DE DEFESA.
 
-Ex: Para um jogador que não tem Agi (Sacerdote), e que tenha um Robe +1, a Defesa dele vai ser:
-0 (AGI MOD) + 1 (ARMOR) = 1
+Exemplo: Se um Personagem tem 5 de Agilidade, e veste uma Armadura +1, a Defesa dele vai ser:
+0 (Modificador de Agilidade) + 1 (ARMOR) = 1
 
-Ou seja, pra esse clérigo bater, os monstros precisam ser tipo DEF = 8, senão fica muito difícil pra ele.
+Ou seja, sempre que esse personagem for atacado fisicamente, ele deverá rolar um D20 e Somar seu Modificador de Defesa, que nesse caso é 1.
+
 E conforme a evolução, como isso fica?<br/>
-Conforme a evolução, os personagens vão aumentar esse número das seguintes formas:
-
-## Modificador de Defesa
-
-Assim que calcular 
-@TODO
+Conforme a evolução, os personagens vão sim poder aumentar esse número de algumas maneiras.
+Vamos falar um pouco sobre isso.
 
 ## Aumentando seus pontos de Defesa
 
@@ -37,13 +34,13 @@ No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 - Treinando Pontos de Defesa nas [Árvores de habilidades](/docs/4-classes/classes-introduction).
 - Adquirindo [Armaduras melhores](/docs/9-appendix/types-of-armor) (ou até escudo e outros acessórios de defesa).
 
-:::note Dica 
-Uma coisa importante para se ter em mente, é que no Fábula de Goblins, o jogador tem o controle inteiro da batalha. Isso quer dizer que, além de fazer as rolagens para seus Ataques, o Próprio jogador também realiza as rolagens para se Defender contra ataques inimigos.
+:::info Importante 
+Uma coisa importante para se ter em mente, é que no Fábulas & Goblins, o jogador é ativo durante o tempo inteiro da batalha. Isso quer dizer que, além de fazer as rolagens para seus Ataques, o Próprio jogador também realiza as rolagens para se Defender contra ataques inimigos.
+Cada inimigo tem na sua ficha seu próprio de Ataque fixo, e é através desse valor que o Narrador saberá se o Ataque do inimigo teve sucesso ou não.
+Como os inimigos não fazem rolagem de dado (exceto em alguns casos especiais), os valores de Ataque e Defesa dos inimigos são fixos.
+:::
 
-Cada inimigo especifica qual é o seu próprio Ataque, é através desse valor que o Narrador saberá se o Ataque do inimigo teve sucesso ou não.
-
-Exemplo:
-
+:::note Exemplo
 Ramón é um Aventureiro, e possui 14 pontos de Defesa.<br/>
 Ramón será alvo do ataque de um Fougrat Guerreiro, cujo ataque é 16.<br/>
 Nosso Aventureiro então deve rolar um D20 para determinar se ele conseguirá absorver o ataque do Fougrat.<br/>
