@@ -34,7 +34,7 @@ No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 - Treinando Pontos de Defesa nas [Árvores de habilidades](/docs/4-classes/classes-introduction).
 - Adquirindo [Armaduras melhores](/docs/9-appendix/types-of-armor) (ou até escudo e outros acessórios de defesa).
 
-:::info Importante 
+:::info Importante
 Uma coisa importante para se ter em mente, é que no Fábulas & Goblins, o jogador é ativo durante o tempo inteiro da batalha. Isso quer dizer que, além de fazer as rolagens para seus Ataques, o Próprio jogador também realiza as rolagens para se Defender contra ataques inimigos.
 Cada inimigo tem na sua ficha seu próprio de Ataque fixo, e é através desse valor que o Narrador saberá se o Ataque do inimigo teve sucesso ou não.
 Como os inimigos não fazem rolagem de dado (exceto em alguns casos especiais), os valores de Ataque e Defesa dos inimigos são fixos.

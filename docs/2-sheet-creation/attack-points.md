@@ -7,12 +7,12 @@ slug: /2-sheet-creation/attack-points
 <img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-ataque-01.png" width="800"/>
 
 A melhor defesa é o ataque, certo? Ou é o que dizem por ai.<br/>
-No Fábula de Goblins, cada jogador possui um Valor de Ataque e um Modificador de Ataque, que é usado tanto para ataques físicos Corpo a Corpo (ex: Espadas), quanto a Distância (ex Arco).
+No Fábulas & Goblins, cada jogador possui um Valor de Ataque e um Modificador de Ataque, que é usado tanto para ataques físicos Corpo a Corpo (ex: Espadas), quanto a Distância (ex Arco).
 
 O modificador de ataque é usado sempre que você declara uma ação de ataque físico a um inimigo, e ele será sempre somado ao resultado do dado para decidir seu sucesso.
 
 Quando dizemos Ataque Físico, nos referimos a qualquer ataque feito com Armas ou Punho sem Utilizar magias.<br/>
-Isso porquê no Fábula de Goblins, ataques mágicos podem ter sua própria fórmula de ataque, que varia entre Ataques Elementais, Ataques de Reação, entre outros.
+Isso porquê no Fábulas & Goblins, ataques mágicos podem ter sua própria fórmula de ataque, que varia entre Ataques Elementais, Ataques de Reação, entre outros.
 Se quiser saber mais como Atacar durante o combate, temos um Capítulo específico para isso, na sessão [Regras de Jogo: Atacando durante o Combate](/docs/7-game-rules/attacking-during-combat).
 
 ## Formula de Ataque

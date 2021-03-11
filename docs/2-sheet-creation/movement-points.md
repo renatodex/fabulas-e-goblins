@@ -6,7 +6,7 @@ slug: /2-sheet-creation/movement-points
 
 <img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-movimento-01.png" width="800"/>
 
-Movimento é a sua capacidade de se locomover durante um combate no Fábula de Goblins, ele basicamente indica sua capacidade de percorrer uma distância num curto espaço de tempo.
+Movimento é a sua capacidade de se locomover durante um combate no Fábulas & Goblins, ele basicamente indica sua capacidade de percorrer uma distância num curto espaço de tempo.
 
 Ter pontos em movimento significa que você conseguirá se locomover e se posicionar pelo campo de batalha mais facilmente do que os outros jogadores, e dependendo da sua estratégia, pode ser uma ótima idéia investir neste atributo.
 
