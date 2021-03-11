@@ -21,8 +21,9 @@ Porém, se você tiver azar nos dados, não vai poder rolar de novo nem mudar de
 
 **Então suas escolhas são:**
 
-  1- Usar o gerador e ter Atributos equilibrados.<br/>
-  2- Tentar a sorte rolando você mesmo os dados de Atributos.
+  1. Criar seu personagem através do nosso app de <a href="https://ficha.fabulasegoblins.com.br">Criação de Personagem</a>
+  2. Usar o gerador e ter Atributos equilibrados. (nosso gerador está temporariamente indisponível)<br/>
+  3. Tentar a sorte rolando você mesmo os dados de Atributos.
 
 :::note Dica
 
