@@ -4,7 +4,7 @@ title: Definindo suas origens
 slug: /2-sheet-creation/defining-your-origins
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/definindo-suas-origens-01.png" width="800">
+<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/definindo-suas-origens-01.png" width="800"/>
 
 No “Fábula de Goblins” você estará criando um personagem fictício. Este personagem provavelmente estará imerso numa história complexa e cheia de desdobramentos.Mas apesar de você já ter criado sua ficha, com atributos e itens, você ainda não respondeu a pergunta mais crucial?
 
