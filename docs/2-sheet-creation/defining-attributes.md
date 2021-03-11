@@ -95,5 +95,5 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
     </tr>
     </tbody>
   </table>
-  
-  Atributos podem sim aumentar durante o jogo, mas isso não acontece com frequência, e portanto você deve pensar bem na hora de distribuí-los na criação do seu personagem!
+
+Atributos podem sim aumentar durante o jogo, mas isso não acontece com frequência, e portanto você deve pensar bem na hora de distribuí-los na criação do seu personagem!
