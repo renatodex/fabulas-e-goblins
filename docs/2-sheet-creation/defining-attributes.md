@@ -42,58 +42,92 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
 
 <table>
   <thead>
-  <tr>
-    <th>
-      Atributo
+    <tr>
+      <th>
+        Atributo
       </th>
-    <th>
-      Descrição
+      <th>
+        Descrição
       </th>
     </tr>
-    </thead>
-  
+  </thead>
+
   <tbody>
-  <tr>
-    <td>
-      Força
+    <tr>
+      <td>
+        Força
       </td>
-    <td>
-      Define sua força física e seus pontos de vida, e em ataques Corpo-a-Corpo, é usada também para definir se ocorrerá um acerto.
+      <td>
+        Representa a sua Força, utilizada também para definir seus Pontos de Vida no jogo
       </td>
     </tr>
     <tr>
-    <td>
-      Agilidade
+      <td>
+        Agilidade
       </td>
-    <td>
-      Define sua agilidade e melhora sua movimentação. Também é usada para definir se ocorrerá um acerto em ataques a distância.
-      </td>
-    </tr>
-   <tr>
-    <td>
-      Inteligência
-      </td>
-    <td>
-      Define sua Inteligência e melhora seus pontos de Magia, também é usada para definir o acerto de Ataques Mágicos.
+      <td>
+        Define sua agilidade e melhora sua movimentação. Também é usada para definir sua habilidade com armas de projéteis.
       </td>
     </tr>
-     <tr>
-    <td>
-      Carisma
+    <tr>
+      <td>
+        Resiliência
       </td>
-    <td>
-      Define o quão Sociável e Convincente você é, melhora os preços em Mercadores, e também é usado para definir o acerto em Ataques que envolvem Diálogo.
-      </td>
-    </tr>
-  <tr>
-    <td>
-      Sorte
-      </td>
-    <td>
-      Define o quão Sortudo e Destinado você é, usado em <a href="/docs/7-game-rules/skill-checks">Testes Neutros</a> permite realizar ações de re-rolagem de dados e também é usado para definir o acerto em Ataques de Fortúnio.
+      <td>
+        Define sua resistência a atributos negativos e Traumas.
       </td>
     </tr>
-    </tbody>
-  </table>
+    <tr>
+      <td>
+        Intelecto
+      </td>
+      <td>
+        Define seu Grau de Erudição e permite destravar vínculos adicionais com Grimos.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Elo Mágico
+      </td>
+      <td>
+        Representa o "quão mágico" você é. Usado para definir seus Pontos de Magia.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Espírito
+      </td>
+      <td>
+        Representa sua Mediunidade, Define sua Defesa Mágica geral, e pode ser usado para realizar ações impressionantes e que quebram os limites do mundo material.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Influência
+      </td>
+      <td>
+        Define sua eloquência e poder de influência. Melhora os preços em Mercadores, e também é usado para Diplomacia e Manipulação.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Sobrevivência
+      </td>
+      <td>
+        Define sua capacidade de sobreviver em situações difíceis. Permite realizar várias ações que causaria penalidade para outros Personagens. Pode criar itens improvisados.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Destino
+      </td>
+      <td>
+        Define o quão Destinado você é, usado em <a href="/docs/7-game-rules/skill-checks">Testes Neutros</a>, e permite uma série de Ações de Evocação que podem mudar o rumo do jogo.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Atributos podem sim aumentar durante o jogo, mas isso não acontece com frequência, e portanto você deve pensar bem na hora de distribuí-los na criação do seu personagem!
+
+Se quiser saber mais sobre os Atributos, e cada uma das Ações que eles destravam, consulte a Seção [Explicação dos Atributos](/docs/7-game-rules/attributes-details)
