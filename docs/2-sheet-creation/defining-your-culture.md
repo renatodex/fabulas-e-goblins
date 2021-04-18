@@ -71,11 +71,82 @@ Além disso, cada Arma especificará na sua ficha o tipo de combate em que ela s
 
 ## Cultura do Combate Pesado
 
-Espadinhas para você são meras armas de brinquedo, e Adagas são apenas ferramentas culinárias. O seu negócio é bater forte, e pra isso, é preciso de força, poder e impacto.
-E nem sempre as Lâminas são necessárias. Pode ser que sim, mas para você, menos é mais, então nada como um bom Martelada de ferro massivo para derrotar seus inimigos.
+Espadinhas para você são meras armas de brinquedo, e Adagas são apenas ferramentas culinárias. O seu negócio é bater forte, e pra isso, é preciso de força, poder e impacto.<br/>
+E nem sempre as Lâminas são necessárias. Pode ser que sim, mas para você, menos é mais, então nada como um bom Martelada de ferro massivo para derrotar seus inimigos.<br/>
 Você possui uma certa habilidade com esse tipo de arma, e pode até impressionar os mais próximos.<br/>
 Para efeito de jogo, as Armas que se enquadram no Combate Pesado são armas massivas, grandes e pesadas, e que na maioria das vezes são utilizadas como armas de duas mãos.<br/>
 Estamos falando de grandes Martelos, Espadas Largas, Machados de Guerra, Tetsubos, Clavas Pesadas, e Porretes.<br/>
 Além disso, cada Arma especificará na sua ficha o tipo de combate em que ela se enquadra. Então caso tenha dúvidas sobre quais armas podem se beneficiar dessa cultura, consulte o Compendium de Itens e Armas.<br/>
 **Receba +1 em Ataques com Armas Pesadas**
 
+## Cultura do Brigão
+
+Nada como uma boa briga de Rua. Seus punhos estão Calejados pela vida, e você jamais trocaria seu braço firme pelo cabo de uma espada qualquer.<br/>
+Mas isso também não significa que você deva lutar totalmente pelado, afinal de contas, mesmo no confronto corpo a corpo, existem sempre alguns truques que você pode utilizar para tornar a vitória ainda mais certa.<br/>
+Estamos falando de Luvas, Socos Ingleses, Botas de Lâminas, e outros acessórios corporais que podem conter espinhos ou lâminas.<br/>
+Você possui uma certa habilidade com esses tipos de armas, além de ser um ótimo combatente na luta desarmada.<br/>
+Além disso, cada Arma especificará na sua ficha o tipo de combate em que ela se enquadra. Então caso tenha dúvidas sobre quais armas podem se beneficiar dessa cultura, consulte o Compendium de Itens e Armas.<br/>
+**Receba +2 de Bônus em ataques Desarmado e com Armas de Briga**
+
+## Cultura do Atirador
+Pode ter sido apenas um hobie na sua vida, mas o fato é que, durante sua vida toda você aprendeu muito bem a controlar sua respiração, e aprimorar a precisão de sua mira.<br/>
+Você raramente erra um projétil, ou é isso que prefere acreditar. <br/>
+Mas mesmo que não seja perfeito, uma flecha na sua mão dificilmente é disperdiçada, e tende a acertar seu algo como um Imã.<br/>
+**Receba +1 em Ataques a Distância**
+
+## Cultura do Arremesso
+Arcos e Flechas não são confiáveis, você aprendeu isso no curso da sua vida. Ao invés disso, nada melhor como arremessar algo no inimigo com as próprias mãos.<br/>
+Sejam facas, kunais ou bombas, isso é o que você sabe fazer melhor.<br/>
+**Receba +1 em Ataques com Armas de Arremesso**
+
+## Cultura do Lanceiro
+As armas de Haste sempre despertaram um incrível fascinio em você, elas são belas, imponentes, e você sabe usa-las muito bem.<br/>
+**Receba +1 no Ataque com Armas de Haste.**
+
+## Cultura da Resiliência
+Sua vida nunca foi fácil, e talvez você tenha precisado adquirir maturidade muito antes dos outros. <br/>
+Você pode ter se tornado uma pessoa pessoa mais fria, ou simplesmente ter sido obrigado a lidar com os seus problemas.<br/>
+Essa jornada te trouxe uma resiliência incrível, e você sente que pode lidar com traumas de forma melhor que as outras pessoas.<br/>
+**Receba Resiliencia +2**
+
+## Cultura do Erudita
+A sua vida toda você esteve cercado de livros e de conhecimento. Talvez você tenha nascido numa família influente, ou talvez seja apenas um pobre bastardo com acesso a uma boa biblioteca.<br/>
+Seja como for, esse acesso, somado a sua curiosidade natural, lhe tornaram uma pessoa mais Erudita que a média.<br/>
+**Bônus de Intelecto +2**
+
+## Cultura do Escolhido
+As pessoas nunca duvidaram que você tinha futuro. Seja ele qualquer for, você desde pequeno estava destinado a uma espécie de plano.<br/>
+Talvez você nunca mereceu, e talvez nunca desejou, mas esse fato sempre esteve orbitando em volta de sua vida. Talvez você tenha conhecido pessoas influentes, ou apenas viva no meio delas.<br/>
+**Seja como for, sua grandeza lhe confere Destino + 2**
+
+## Cultura do Eloquente
+Você sempre foi muito convicente, pelo menos é o que as pessoas acham. Você sente prazer na comunicação desde criança e sente que todos possuem uma espécie de cofre que precisa ser aberto.<br/>
+Você acredita que você possui a chave para abrir esses cofres.<br/>
+Talvez você tenha sido um humorista, ou um político local, ou até mesmo tenha vidido entre meios muito sociáveis.<br/>
+**Seja como for, essa Cultura lhe garante Influência + 2**
+
+## Cultura do Elo
+Você sempre foi diferente. Durante sua vida toda você ouviu sobre os impactos mágicos do Blecaute, mas você sempre sentiu que isso lhe afetava de forma mais sutil.<br/>
+Você sente a magia de uma forma intensa, e isso afeta até o seu Elo Mágico.<br/>
+**Bônus de Elo Magico +2**
+
+## Cultura da Conexão
+Sua conexão mágica sempre impressionou os outros. O que se esforçavam para fazer, você fazia sem nenhum cansaço.<br/>
+Você não se sente exatamente mais mágico que os outros, mas é como se sua conexão Mágica tivesse menos resistência para acessar Grimos e até outros tipos de Magia.<br/>
+**Comece o jogo com +4 Pontos de Magia.**
+
+## Cultura do Sensitivo
+Existe algo ao redor, e você consegue sentir.<br/>
+Sejam outros planos, ou almas de criaturas que ja partiram, sua mediunidade lhe permite ver aquilo que ninguém mais vê.<br/>
+Fornece visibilidade para Criaturas Fantasmas.<br/>
+**Espirito +2**
+
+## Cultura do Hermitão
+Você sabe o que é estar sozinho. Num mundo perigoso como o das Terras Místicas, você sabe que deve fazer o que é preciso, mesmo que as vezes não pareça a coisa certa a se fazer. <br/>
+Sua vivência lhe permitiu aprender alguns truques aqui e ali que podem facilitar sua sobrevivência.<br/>
+**Sobrevivência +2**
+
+## Cultura do Abastado
+Você nunca teve nenhuma vocação específica, nunca foi um bom combatente, ou um Erudita respeitoso.<br/>
+Sua única vantagem foi ter vivido uma vida extremamente confortável com muita riqueza.<br/>
+**Você começa o jogo com 500 Temirs adicionais.**
