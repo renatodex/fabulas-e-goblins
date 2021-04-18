@@ -150,3 +150,10 @@ Sua vivência lhe permitiu aprender alguns truques aqui e ali que podem facilita
 Você nunca teve nenhuma vocação específica, nunca foi um bom combatente, ou um Erudita respeitoso.<br/>
 Sua única vantagem foi ter vivido uma vida extremamente confortável com muita riqueza.<br/>
 **Você começa o jogo com 500 Temirs adicionais.**
+
+## Cultura do Ferreiro
+Você aprendeu que se tiver as ferramentas certas, pode manipular o metal como qualquer ferreiro médio.<br/>
+Alguns anos de prática não lhe tornaram exatamente um mestre, mas te ensinaram alguns truques que ajudam na sua jornada.<br/>
+Essa Cultura permite utilizar locais Públicos de Forja para consertar armas, adaptar armaduras e até criar alguns itens comuns com os materiais certos.<br/>
+
+No caso de adaptação de armaduras ou conserto de armas, só pode ser feito com itens comuns. O custo obviamente é Zero (desde de que vocêtenha os materiais corretos), mas a chance de penalidade é sempre de 40%. (Não há chance de gerar Aprimoramento)
