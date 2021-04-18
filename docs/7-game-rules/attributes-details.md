@@ -203,7 +203,7 @@ Na prática, o Espírito concede as seguintes mecânicas no jogo:
 
 - Usado para definir sua Defesa geral contra Ataques Mágicos
 - Usado como modificador em procedimentos mágicos para remover Traumas.
-- Especialistas em Espírito podem tentar reencarnar seu personagem caso sofram uma [Morte Permanente](/docs/7-game-rules/what-happens-with-0-hp)
+- Especialistas em Espírito podem tentar reencarnar seu personagem caso sofram uma [Morte Permanente](/docs/7-game-rules/what-happens-when-0-hp)
 
 ### Defesa contra Ataques Mágicos
 
