@@ -47,49 +47,12 @@ module.exports = {
         '4-classes/classes-priest',
         '4-classes/classes-fortuner'
       ],
-      'Grimos e Magias': [
-        {
-          'Aventureiro': [
-            '6-grimos-and-spells/adventurer/grimo-of-the-knight',
-            '6-grimos-and-spells/adventurer/grimo-of-the-protector',
-            '6-grimos-and-spells/adventurer/grimo-of-the-dualist',
-            '6-grimos-and-spells/adventurer/grimo-of-the-etherium',
-            '6-grimos-and-spells/adventurer/grimo-of-the-war',
-            '6-grimos-and-spells/adventurer/grimo-of-the-brawler'
-          ],
-          'Caçador': [
-            '6-grimos-and-spells/hunter/grimo-of-tamer',
-            '6-grimos-and-spells/hunter/grimo-of-hermit',
-            '6-grimos-and-spells/hunter/grimo-of-anatomist',
-            '6-grimos-and-spells/hunter/grimo-of-assassin',
-            '6-grimos-and-spells/hunter/grimo-of-sentinel',
-            '6-grimos-and-spells/hunter/grimo-of-tecmata'
-          ],
-          'Sacerdote': [
-            '6-grimos-and-spells/priest/grimo-of-lunn',
-            '6-grimos-and-spells/priest/grimo-of-arzala',
-            '6-grimos-and-spells/priest/grimo-of-tronus',
-            '6-grimos-and-spells/priest/grimo-of-qabalis',
-            '6-grimos-and-spells/priest/grimo-of-valeon',
-            '6-grimos-and-spells/priest/grimo-of-estiros'
-          ],
-          'Arcanista': [
-            '6-grimos-and-spells/arcanist/grimo-of-arcadia',
-            '6-grimos-and-spells/arcanist/grimo-of-aelus',
-            '6-grimos-and-spells/arcanist/grimo-of-lavos',
-            '6-grimos-and-spells/arcanist/grimo-of-aqualon',
-            '6-grimos-and-spells/arcanist/grimo-of-tundara',
-            '6-grimos-and-spells/arcanist/grimo-of-glacius'
-          ],
-          'Fortuno': [
-            '6-grimos-and-spells/fortuner/grimo-of-anarchist',
-            '6-grimos-and-spells/fortuner/grimo-of-mandraco',
-            '6-grimos-and-spells/fortuner/grimo-of-fortune-teller',
-            '6-grimos-and-spells/fortuner/grimo-of-invoker',
-            '6-grimos-and-spells/fortuner/grimo-of-chaoshifter',
-            '6-grimos-and-spells/fortuner/grimo-of-alchemist'
-          ]
-        }
+      'Escolhendo seu Grimo': [
+        '6-grimos-and-spells/grimo-of-adventurer',
+        '6-grimos-and-spells/grimo-of-hunter',
+        '6-grimos-and-spells/grimo-of-lunn',
+        '6-grimos-and-spells/grimo-of-arcanist',
+        '6-grimos-and-spells/grimo-of-fortunist',
       ],
       'A Magia': [
         '5-the-magic/magic-in-the-world',
