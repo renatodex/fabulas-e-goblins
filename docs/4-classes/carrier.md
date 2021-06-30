@@ -4,8 +4,6 @@ title: Carregador
 slug: /4-classes/classes-adventurer
 ---
 
-## Carregador
-
 Se você é daqueles que não se importa em correr riscos se o objetivo for causar o maior dano, o Papel Carregador é pra você!
 Como o próprio nome diz, o Papel do Carregador possui este nome porque esses personagens geralmente "Carregam" o time em direção a vitória.
 Personagens carregadores costumam tomar as posições de ataque corpo a corpo ou de curto alcance, oferecer o melhor de seus poderes para proteger o grupo e causar muito dano.
