@@ -39,7 +39,7 @@ module.exports = {
         '3-species/specie-razalans',
         '3-species/specie-snalgs'
       ],
-      'Escolhendo sua Classe': [
+      'Escolhendo um Papel de Jogo': [
         '4-classes/classes-introduction',
         '4-classes/classes-adventurer',
         '4-classes/classes-hunter',
