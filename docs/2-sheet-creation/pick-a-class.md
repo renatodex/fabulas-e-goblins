@@ -1,6 +1,6 @@
 ---
 id: pick-a-class
-title: Escolha sua classe
+title: Escolha seu Papel
 slug: /2-sheet-creation/pick-a-class
 modified: 2021-03-02T02:00:57-03:00
 ---
@@ -26,7 +26,7 @@ Apesar de você não escolher uma classe, esses rótulos de Classe existem norma
 A única diferença é que essas "Classes" se restringem ao mundo de jogo, e passam a não representar mais uma "Escolha" na sua ficha. 
 :::
 
-## O que são os papeis?
+## O que são os Papeis?
 
 Muitos daqueles aspectos citados anteriormente ajudam um sistema de RPG a padronizar a evolução mecânica dos personagens, de forma que eles, conforme batalhem e avancem na aventura, possam se tornar mais fortes.
 
@@ -53,169 +53,11 @@ Caso tenha se arrependido da mudança, seu personagem deverá aguardar até a pr
 
 O Papel dita qual é a "Prioridade de Treinamento" do seu personagem. Ele dita como o seu personagem deseja se comportar numa batalha, e essa decisão se reflete em seus atributos e modificadores.
 
-## Carregador
-
-Se você é daqueles que não se importa em correr riscos se o objetivo for causar o maior dano, o Papel Carregador é pra você!
-Como o próprio nome diz, o Papel do Carregador possui este nome porque esses personagens geralmente "Carregam" o time em direção a vitória.
-Personagens carregadores costumam tomar as posições de ataque corpo a corpo ou de curto alcance, oferecer o melhor de seus poderes para proteger o grupo e causar muito dano.
-As categorias de armas que possuem Força e Resiliência como seus atributos costumam causar mais dano e ter dados melhores que outras armas.
-
-Por outro lado, essas armas geralmente possuem efeitos mágicos mais discretos, e quase sempre focados no Papel do Carregador.
-Além disso, Carregadores não costumam ter um vínculo forte com a Magia, mas podem opcionalmente desenvolver este vínculo através dos Grimos.
-
-Ao escolher esse Papel, você terá uma boa base de Pontos de Vida, e isso lhe possibilitará estar sempre próximo aos inimigos, correndo apenas um risco moderado.
-
-### Características Base
-
-Ataque Físico: 12  / Defesa Física : 10
-
-Ataque Magico: 10 / Defesa Magica: 10
-
-Proficiência Armas: Força e Resiliência
-
-Proficiência Elemental: Nenhuma
-
-Fraquezas: Nenhuma
-
-Vantagens: Nenhuma
-
-Movimento: 4
-
-### Progressão
-
-Pontos de Vida: +5/Level
-
-Pontos de Magia: +2/Level
-
-## Atirador
-
-O Atirador é um tipo de Carregador focado no combate a Longa Distância. Costuma focar sua build em aumentar seu ataque e dano sempre que puder.
-
-Personagens atiradores costumam ficar distantes no campo de batalha, oferecendo cobertura aos aliados e alto dano aos inimigos.
-
-### Características Base
-
-Ataque Físico: 12  / Defesa Física : 10
-
-Ataque Magico: 11 / Defesa Magica: 9
-
-Proficiência Armas: Agilidade e Sobrevivência
-
-Proficiência Elemental: Nenhuma
-
-Fraquezas: Nenhuma
-
-Vantagens: Nenhuma
-
-Movimento: 5
-
-### Progressão
-
-Pontos de Vida: +3/Level
-
-Pontos de Magia: +3/Level
-
-
-
-## Tanque
-
-O Tanque é um papel de Defesa, focado em puxar a atenção do maior número de inimigos para si, para que o grupo tenha tempo de agir.
-No campo de batalha preferem gerar a maior exposição possível, devido a sua alta capacidade de sobrevivência. 
-
-
-### Características Base
-
-Ataque Físico: 10  / Defesa Física : 12
-
-Ataque Magico: 10 / Defesa Magica: 10
-
-Proficiência Armas: Força e Resiliência
-
-Proficiência Elemental: Nenhuma
-
-Fraquezas: Nenhuma
-
-Vantagens: Nenhuma
-
-Movimento: 3
-
-### Progressão
-
-Pontos de Vida: +6/Level
-
-Pontos de Magia: +2/Level
-
-
-## Suporte
-
-### Características Base
-
-Ataque Físico: 9  / Defesa Física : 9
-
-Ataque Magico: 12 / Defesa Magica: 12
-
-Proficiência Armas: Armas de Intelecto, Espírito e Elo Mágico
-
-Proficiência Elemental: Nenhuma
-
-Fraquezas: Nenhuma
-
-Vantagens: Nenhuma
-
-Movimento: 4
-
-### Progressão
-
-Pontos de Vida: +2/Level
-
-Pontos de Magia: +5/Level
-
-
-## Conjurador
-
-### Características Base
-
-Ataque Físico: 9  / Defesa Física : 9
-
-Ataque Magico: 12 / Defesa Magica: 12
-
-Proficiência Armas: Armas de Intelecto, Espírito e Elo Mágico
-
-Proficiência Elemental: Nenhuma
-
-Fraquezas: Nenhuma
-
-Vantagens: Nenhuma
-
-Movimento: 3
-
-### Progressão
-
-Pontos de Vida: +2/Level
-
-Pontos de Magia: +6/Level
-
-
-## Utilitário
-
-### Características Base
-
-Ataque Físico: 10  / Defesa Física : 10
-
-Ataque Magico: 10 / Defesa Magica: 10
-
-Proficiência Armas: Escolha 2 atributos de arma
-
-Proficiência Elemental: Nenhuma
-
-Fraquezas: Nenhuma
-
-Vantagens: Nenhuma
-
-Movimento: 4
-
-### Progressão
-
-Pontos de Vida: +3/Level
-
-Pontos de Magia: +3/Level
+Para prosseguir com a criação do seu personagem, escolha um Papel:
+
+- Carregador
+- Atirador
+- Tanque
+- Suporte
+- Conjurador
+- Utilitário
