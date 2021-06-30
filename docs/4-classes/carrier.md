@@ -1,6 +1,6 @@
 ---
 id: classes-adventurer
-title: Aventureiro
+title: Carregador
 slug: /4-classes/classes-adventurer
 ---
 
