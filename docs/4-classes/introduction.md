@@ -1,6 +1,6 @@
 ---
 id: classes-introduction
-title: As Classes do Fábulas & Goblins
+title: Papéis de Jogo
 slug: /4-classes/classes-introduction
 ---
 
