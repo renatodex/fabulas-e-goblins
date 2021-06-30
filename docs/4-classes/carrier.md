@@ -14,24 +14,16 @@ Além disso, Carregadores não costumam ter um vínculo forte com a Magia, mas p
 
 Ao escolher esse Papel, você terá uma boa base de Pontos de Vida, e isso lhe possibilitará estar sempre próximo aos inimigos, correndo apenas um risco moderado.
 
-### Características Base
+# Características Iniciais
 
-Ataque Físico: 12  / Defesa Física : 10
+- Pontos de Vida: 10
+- Pontos de Magia: 10
+- Ataque Físico: 12  / Defesa Física : 10
+- Ataque Magico: 10 / Defesa Magica: 10
+- Proficiência Armas: Força e Resiliência
+- Movimento: 4
 
-Ataque Magico: 10 / Defesa Magica: 10
+# Progressão
 
-Proficiência Armas: Força e Resiliência
-
-Proficiência Elemental: Nenhuma
-
-Fraquezas: Nenhuma
-
-Vantagens: Nenhuma
-
-Movimento: 4
-
-### Progressão
-
-Pontos de Vida: +5/Level
-
-Pontos de Magia: +2/Level
+- Pontos de Vida: +5/Level
+- Pontos de Magia: +2/Level
