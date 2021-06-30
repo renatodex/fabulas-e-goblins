@@ -1,3 +1,9 @@
+---
+id: classes-priest
+title: Suporte
+slug: /4-classes/classes-priest
+---
+
 O Tanque é um papel de Defesa, focado em puxar a atenção do maior número de inimigos para si, para que o grupo tenha tempo de agir.
 No campo de batalha preferem gerar a maior exposição possível, devido a sua alta capacidade de sobrevivência. 
 
