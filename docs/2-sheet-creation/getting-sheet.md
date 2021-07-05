@@ -20,6 +20,6 @@ Com a ficha em mãos, podemos começar o preenchimento.
 :::note Download da Ficha
 Aqui no site, disponibilizamos o Download da Ficha em ambos tanto no formato original, quanto no formato Editável:
 
-- ![Baixar Ficha Normal](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/ficha/Ficha-v0.1.7.pdf)
-- ![Baixar Ficha Editável](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/ficha/Ficha-v0.1.7-Editavel.pdf)
+- [Baixar Ficha Normal](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/ficha/Ficha-v0.1.7.pdf)
+- [Baixar Ficha Editável](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/ficha/Ficha-v0.1.7-Editavel.pdf)
 :::
