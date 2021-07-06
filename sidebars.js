@@ -10,7 +10,7 @@ module.exports = {
       'Criando seu Personagem': [
         '2-sheet-creation/getting-sheet',
         '2-sheet-creation/pick-a-name',
-        '2-sheet-creation/pick-a-class',
+        '2-sheet-creation/pick-a-role',
         '2-sheet-creation/game-money',
         '2-sheet-creation/initial-level',
         '2-sheet-creation/define-your-culture',

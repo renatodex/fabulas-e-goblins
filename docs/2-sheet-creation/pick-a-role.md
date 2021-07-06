@@ -1,7 +1,7 @@
 ---
-id: pick-a-class
+id: pick-a-role
 title: Escolha seu Papel
-slug: /2-sheet-creation/pick-a-class
+slug: /2-sheet-creation/pick-a-role
 modified: 2021-03-02T02:00:57-03:00
 ---
 
