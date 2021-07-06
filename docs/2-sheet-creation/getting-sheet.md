@@ -14,6 +14,7 @@ Criar o personagem é um processo que pode ser dividido em duas etapas:
 Aqui nesse capítulo orientaremos você a Definir as Características Técnicas baseado nas suas escolhas, e nas regras disponibilizadas no nosso Livro.
 
 A Ficha do Personagem é a representação das Características Técnicas dele, descrevendo numericamente coisas como seus pontos de Força, seus Pontos de Vida e suas Magias.
+
 Esses pontos serão necessários para realizar várias ações ao longo do jogo, e evoluir uma determinada característica, geralmente significa que o seu personagem possui mais "Habilidade" naquele aspecto.
 Assim como no mundo real, nossos personagens possuem vantagens e desvantagens. Seria o seu personagem mais Inteligente? Mais fisicamente forte? Mentalmente forte? Ou uma mistura de tudo isso?
 
@@ -23,10 +24,8 @@ Aqui, é você que decide!
 
 Para jogar o Fábulas, a primeira coisa que você precisará fazer é criar a ficha do Personagem.
 
-Na [última página do livro físico](/docs/9-appendix/character-sheet) você encontrará um link para fazer o download do PDF da Ficha do “Fábulas & Goblins”.
-
 Quando o Livro Físico for lançado, dedicaremos a última página para colocar a Ficha de Personagem.<br/>
-Na versão digital, fornecemos o Download em PDF das Fichas, tanto em formato normal, quanto no formato editável.
+Aqui na versão digital, fornecemos o Download em PDF das Fichas, tanto em formato normal, quanto no formato editável.
 
 Assim que você tiver a ficha em mãos, podemos começar o preenchimento!
 
