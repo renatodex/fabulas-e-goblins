@@ -1,7 +1,7 @@
 ---
-id: classes-fortuner
+id: roles-fortuner
 title: Utilitário
-slug: /4-classes/classes-fortuner
+slug: /4-classes/roles-fortuner
 ---
 
 ### Características Base

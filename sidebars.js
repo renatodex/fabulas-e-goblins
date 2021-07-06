@@ -40,12 +40,12 @@ module.exports = {
         '3-species/specie-snalgs'
       ],
       'Escolhendo um Papel de Jogo': [
-        '4-classes/classes-introduction',
-        '4-classes/classes-adventurer',
-        '4-classes/classes-hunter',
-        '4-classes/classes-arcanist',
-        '4-classes/classes-priest',
-        '4-classes/classes-fortuner'
+        '4-roles/roles-introduction',
+        '4-roles/roles-adventurer',
+        '4-roles/roles-hunter',
+        '4-roles/roles-arcanist',
+        '4-roles/roles-priest',
+        '4-roles/roles-fortuner'
       ],
       'Escolhendo seu Grimo': [
         '6-grimos-and-spells/grimo-of-adventurer',

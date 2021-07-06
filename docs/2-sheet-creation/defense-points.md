@@ -30,8 +30,8 @@ Vamos falar um pouco sobre isso.
 No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 
 - Adquirindo pontos de Agilidade nos [Níveis Especiais](/docs/7-game-rules/special-levels).
-- Treinando Agilidade nas [Árvores de habilidades](/docs/4-classes/classes-introduction).
-- Treinando Pontos de Defesa nas [Árvores de habilidades](/docs/4-classes/classes-introduction).
+- Treinando Agilidade nas [Árvores de habilidades](/docs/4-roles/roles-introduction).
+- Treinando Pontos de Defesa nas [Árvores de habilidades](/docs/4-roles/roles-introduction).
 - Adquirindo [Armaduras melhores](/docs/9-appendix/types-of-armor) (ou até escudo e outros acessórios de defesa).
 
 :::info Importante

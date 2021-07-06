@@ -90,3 +90,5 @@ Para prosseguir com a criação do seu personagem, escolha um Papel:
         </tr>
     </tbody>
 </table>
+
+Para saber mais sobre os Papais, consulte o Capítulo [Escolhendo um Papel de Jogo](/docs/4-roles/introduction)
