@@ -16,7 +16,7 @@ Isso porquê, muitas vezes, as Histórias de Origem dos personagens podem acabar
 - "Quais foram seus traumas?"
 - "Ele possui inimigos?"
 
-(Consulte a sessão [Definindo suas Origens](/docs/2-sheet-creation/defining-your-origins.md), se quiser entender melhor o passo a passo para elaborar a sua Origem)
+(Consulte a sessão [Definindo suas Origens](/docs/2-sheet-creation/defining-your-origins), se quiser entender melhor o passo a passo para elaborar a sua Origem)
 
 Restringir os Bônus de Cultura apenas para personagens com História definida incentiva os jogadores a criá-la o mais rápido possível, afinal, **você não vai querer deixar de receber um belo bônus na ficha apenas por não ter escrito a história de seu personagem!**.
 
