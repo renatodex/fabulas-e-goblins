@@ -9,7 +9,7 @@ slug: /2-sheet-creation/deck-of-archetypes
 Para auxiliar os jogadores, tanto nosso App quanto este livro possuem um “Gerador de Arquétipos”, que pode rapidamente criar uma situação completamente aleatória sobre o seu passado para te poupar do denso trabalho de pensar em todos os aspectos. Você pode usar os resultados do Gerador como sua História definitiva, ou também pode usa-lo como inspiração e adapta-lo como quiser!
 
 Para baixar nosso App, consulte a ultima página deste Livro.<br/>
-Se você não quiser usar ou não puder usar o App para gerar sua História, você sempre pode usar o Apêndice neste livro para [Consultar os Arquétipos](/docs/9-appendix/stereotypes) de Inspiração. Neste livro, listamos um total de 120 Arquétipos para auxilia-lo na criação dos mais diversos tipos de histórias interessantes!
+Se você não quiser usar ou não puder usar o App para gerar sua História, você sempre pode usar o Apêndice neste livro para [Consultar os Arquétipos](/docs/10-appendix/stereotypes) de Inspiração. Neste livro, listamos um total de 120 Arquétipos para auxilia-lo na criação dos mais diversos tipos de histórias interessantes!
 
 ## Mas o que é um Arquétipo?
 

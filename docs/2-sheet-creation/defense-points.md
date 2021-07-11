@@ -30,9 +30,9 @@ Vamos falar um pouco sobre isso.
 No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 
 - Adquirindo pontos de Agilidade nos [Níveis Especiais](/docs/7-game-rules/special-levels).
-- Treinando Agilidade nas [Árvores de habilidades](/docs/4-roles/roles-introduction).
-- Treinando Pontos de Defesa nas [Árvores de habilidades](/docs/4-roles/roles-introduction).
-- Adquirindo [Armaduras melhores](/docs/9-appendix/types-of-armor) (ou até escudo e outros acessórios de defesa).
+- Treinando Agilidade nas [Árvores de habilidades](/docs/5-roles/roles-introduction).
+- Treinando Pontos de Defesa nas [Árvores de habilidades](/docs/5-roles/roles-introduction).
+- Adquirindo [Armaduras melhores](/docs/10-appendix/types-of-armor) (ou até escudo e outros acessórios de defesa).
 
 :::info Importante
 Uma coisa importante para se ter em mente, é que no Fábulas & Goblins, o jogador é ativo durante o tempo inteiro da batalha. Isso quer dizer que, além de fazer as rolagens para seus Ataques, o Próprio jogador também realiza as rolagens para se Defender contra ataques inimigos.

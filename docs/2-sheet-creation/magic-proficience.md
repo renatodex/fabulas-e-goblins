@@ -15,7 +15,7 @@ Na parte trazeira da Ficha, você pode ver uma tabela com todos tipos de Profici
 
 <img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/proficiencias-magicas-01.png" width="600"/>
 
-Cada elemento possui sua [Forma Corrompida](/docs/5-the-magic/corrupted-elements), que segue uma lógica física e química diferente do [elemento em seu estado natural](/docs/5-the-magic/magic-items).
+Cada elemento possui sua [Forma Corrompida](/docs/8-the-magic/corrupted-elements), que segue uma lógica física e química diferente do [elemento em seu estado natural](/docs/8-the-magic/magic-items).
 
 # Definindo Proficiências Mágicas na sua Ficha
 
