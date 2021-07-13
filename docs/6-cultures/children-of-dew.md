@@ -4,14 +4,14 @@ title: Filhos do Orvalho
 slug: /6-cultures/children-of-dew
 ---
 
-## Filhos da Floresta
-
 Nascidos em pequenos vilarejos ou reinos situados no interior de matas densas, os Filhos da Floresta, a exemplo dos Galanorianos, estão acostumados com a presença da vida selvagem a sua porta.
 
 As Florestas são biomas vastos, repletos de vida e com plena oferta de água e alimentos. Regiões florestanas como Tol'Deran, Galanor, e Ak'Dumor costumam ser habitadas por reinos de todos os portes, desde de pequenos vilarejos isolados até reinos de grande porte, como Galanor.
 Por serem conglomerados geralmente isolados, Indivíduos com essa cultura costumam geralmente viver uma vida mais comoda, e possuir menos interesse nos assuntos do mundo, a menos que ameaças externas obriguem esses indivíduos a agir.
 
-### Crenças & Tradições
+Os Povos da Floresta, ou Florestanos, costumam priorizar a colheita como forma primária de alimentar seu povo. Isso porquê, para eles, a Colheita pode ser feita sem danificar a natureza, ou transformar seu estado inicial. Viver em co-existência com as Leis de Gumera faz com que os Florestanos busquem formas de expandir seus povos sem destruir o ecosistema em sua volta.
+
+## Crenças & Tradições
 
 Tradicionalmente, os reinos florestanos frequentemente vêem com estranhamento a presença de viajantes de fora, com a constante desconfiança que sua chegada pode trazer mau agouro, ou desencadear problemas em suas comunidades.
 
@@ -21,16 +21,44 @@ Nas florestas, Gumero e Musgom são forças opostas que estão constantemente em
 Os Filhos da Floresta tradicionalmente respeitam o ciclo da vida, e acreditam que os Goblins e outras espécies não devem interferir para desestabilizá-lo, e é por isso, que muitos segredos das regiões florestanas ainda seguem guardados a sete chaves por matronas e patronos de seus povos.
 A Exploração agressiva das riquezas da floresta é vista por maus olhos tanto pelos olhos de Gumera como de Musgom, que dependem de sua densidade vegetal para se protegerem, e protegerem seus habitantes.
 
-### Seus Trajes
+As Famílias dos Povos Florestanos frequentemente ensinam suas crianças sobre a importância da União, sobre a preservação das Matas e Bosques, e o quanto essa preservação é importante para manter a terra em equilíbrio, para que a fúria dos Deuses nunca seja despertada.
+
+## Seus Trajes
 
 Suas vestimentas, quando se trata de trajes comuns, podem incluir fibras entrelaçadas com folhas, túnicas de couro batido e pequenos apetrechos artesanais feitos a partir de elementos da floresta em seu estado bruto e sem muito tratamento. 
+
 Já as vestimentas luxuosas dos Filhos da Floresta podem conter tecidos finos feitos através da prensagem aquecida do Couro de Aburu, lutrados a partir do mais puro Óleo de Quark, além de finas mantas costuradas artesanalmente pela oxidação das fibra de algodão pelo gás Hirânio, liberado das delicadas flores rosadas das Boreias Sanfloras no seu período lunar.
 Ornamentos, jóias e adereços também são comuns nos trajes Luxuosos, apesar de também estarem presentes nos trajes comuns, porém, de forma mais rústica e simplificada.
 
 ## Criando um Filho da Floresta
 
-Jogadores podem utilizar essa Cultura para criar personagens em alinhamento com os conceitos do povo florestano, mantendo e seguindo seus costumes à risca. 
+Personagens alinhados com essa cultura serão em sua maioria indivíduos "do campo", possivelmente com alguma dificuldade de se encaixar em grandes conglomerados urbanos, e até mesmo em explorar artefatos mágicos.
 
-Outra possibilidade, seria criar um personagem que esteja em desalinhamento com esses costumem, ou que possua motivos claros para explorar novas regiões, seja por alguma ameaça externa que ameaça sua terra natal, ou alguma outra força que o obrigou a sair de sua área de conforto.
+Esses indivíduos poderão sentir algum receio ao utilizar qualquer forma de tecnologia que vá contra o uso dos meios naturais. Artefatos mágicos e templos antigos costumam não ser facilmente profanados pelos Florestanos, já que isso põe em cheque os limites da civilização estabelecidos pela sua cultura. Para muitos Filhos da Floresta, os segredos do mundo devem se manter em segredo.
 
-É o jogador que dirá quais elementos da cultura florestana serão levados a sério por seu personagem.
+Personagens parcialmente alinhados com esse conceito podem ter explorado o mundo pois sentiam curiosidade de desvendar seus mistérios, ou porque estavam em desacordo com os ensinamentos dos Povos da Floresta.
+
+Talvez um personagem alinhado pode também, por forças externas que ele não controla, ter sido forçado a seguir um caminho que iria contra os costumes de seu Povo, nesse caso, ele pode ou não chegar a conclusão que alguns desses valores tradicionais não faça sentido para o mundo atual.
+
+## Bônus de Cultura
+
+Ao escolher a cultura Filho da Floresta, seu personagem receberá os seguintes Bônus:
+
+- Sobrevivência +3
+- Agilidade +2
+- Intelecto +2
+- P.M +2
+
+### Ação: Rastrear (Sobrevivência)
+
+Devido a sua experiência vivendo próximo a florestas por tanto tempo, você possui uma habilidade natural para perceber rastros de movimentação na floresta, deixados pela bagunça das folhas, e outras nuances que passariam despercebido a um olho destreinado.
+
+A Habilidade só funciona se houverem Rastros detectáveis.
+Ao utilizar essa habilidade, o Narrador pode exigir um teste de Sobrevivência.
+
+### Ação: Conhecimento da Mata (Sobrevivência/Destino)
+
+Você conhece alguns tipos de plantas, ervas e frutas, e pode identificar alimentos seguros para serem consumidos numa ocasião de emergência, assim como certas ervas.
+
+Ao utilizar essa habilidade, o Narrador pode exigir um teste de Sobrevivência.
+Caso você esteja procurando por uma determinada erva, pode solicitar ao Narrador um teste de Destino. 
