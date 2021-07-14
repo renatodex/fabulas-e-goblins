@@ -72,7 +72,7 @@ As Culturas disponíveis são:
         <tr>
             <td>Filhos da Nau</td>
             <td>Exploração, Adaptação, Disciplina</td>
-            <td>Trajes Leves, Tecidos a base de Algodão e Couro</td>
+            <td>Trajes Leves e Quentes, Tecidos a base de Algodão e Couro especiais para baixas temperaturas</td>
             <td>Ehphyros, Valis, Estiros</td>
             <td>Agilidade +2, Influência +2, Resiliência +2, Iniciativa +2</td>
         </tr>
