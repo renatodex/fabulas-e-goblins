@@ -73,8 +73,9 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 ### Passiva: Resistência ao Frio
 
-Seu personagem está normalmente adaptado para resistir ao Frio, conseguindo resistir muito bem a baixas temperaturas sem muitos prejuízos.
-As regras de Temperatura estão descritas na Seção Efeitos de Terreno.
+Seu personagem está normalmente adaptado para resistir ao Frio, conseguindo resistir muito bem a baixas temperaturas sem muitos prejuízos.<br/>
+**Receba +3 de Resistência ao Frio.**<br/>
+Para saber mais sobre as regras de Temperatura consulte a Seção [Efeitos de Terreno](/docs/7-game-rules/terrain-effects).
 
 ### Ação: Velejar (Sobrevivência)
 

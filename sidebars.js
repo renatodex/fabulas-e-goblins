@@ -37,7 +37,8 @@ module.exports = {
         '3-species/specie-armadons',
         '3-species/specie-metaloids',
         '3-species/specie-razalans',
-        '3-species/specie-snalgs'
+        '3-species/specie-valdaris',
+        '3-species/specie-luminins'
       ],
       '4. Escolhendo seu Grimo': [
         '4-grimos-and-spells/grimo-of-adventurer',
@@ -88,7 +89,8 @@ module.exports = {
         '7-game-rules/negative-effects-in-combat',
         '7-game-rules/extreme-epic-and-tragic-actions',
         '7-game-rules/special-levels',
-        '7-game-rules/evolving-classes'
+        '7-game-rules/evolving-classes',
+        '7-game-rules/terrain-effects'
       ],
       '8. A Magia': [
         '8-the-magic/magic-in-the-world',

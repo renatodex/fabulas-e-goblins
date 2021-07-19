@@ -4,33 +4,30 @@ title: Definindo Atributos
 slug: /2-sheet-creation/defining-attributes
 ---
 
+Os Atributos definem suas capacidades no jogo, e para criar o seu personagem, você precisará distribuir 54 pontos entre 9 atributos disponíveis.
+Os atributos são:
+
+- Força
+- Agilidade
+- Resiliência
+- Intelecto
+- Elo Mágico
+- Espírito
+- Influência
+- Sobrevivência
+- Destino
+
 No site da Tenda do Goblin, temos uma página específica para gerar Atributos de Personagem.
 https://www.tendadogoblin.com.br/gerador-de-atributos
 
 Com o gerador, você consegue obter uma lista equilibrada de atributos, que na grande maioria das vezes vai somar um total de 30 pontos. (com uma chance rara de se obter mais do que isso, e uma chance rara de se obter menos do que isso!)
 
-Agora, se você não quiser depender do gerador, e quiser você mesmo gerar seus atributos, preparamos uma forma simples de fazer essa distribuição.<br/>
-Para fazer isso, você precisará rolar os seguintes dados:
-
-Abaixo você você o conjunto de dados que precisa rolar, sendo sempre a Imagem representativa do Dado, e ao lado o número de vezes que você vai rolar (x1)
-
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/definindo-atributos-01.jpg" width="600"/>
-
-**O número máximo de pontos que você pode tirar no conjunto acima são 32 pontos**, ou seja, mais do que o set gerado automaticamente. (que tem apenas 30 pontos)<br/>
-Porém, se você tiver azar nos dados, não vai poder rolar de novo nem mudar de idéia, e vai ter que se ater aos resultados e adaptar seu personagem.
+Agora, se você não quiser depender do gerador, e quiser você distribuir seus pontos, a regra é a seguinte:
 
 **Então suas escolhas são:**
 
   1. Criar seu personagem através do nosso app de <a href="https://ficha.fabulasegoblins.com.br">Criação de Personagem</a>
   2. Usar o gerador e ter Atributos equilibrados. (nosso gerador está temporariamente indisponível)<br/>
-  3. Tentar a sorte rolando você mesmo os dados de Atributos.
-
-:::note Dica
-
-Os valores que aparecem nas rolagem podem ser aplicados em quaisquer atributos,  mas apenas uma vez, ou seja, você não precisa seguir a ordem que está ai mas também não pode usar um resultado para dois atributos:
-
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/definindo-atributos-02.jpg" width="300"/>
-:::
 
 # B.1. O que fazem os atributos?
 
@@ -58,7 +55,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Força
       </td>
       <td>
-        Representa a sua Força, utilizada também para definir seus Pontos de Vida no jogo
+        Representa a sua Força, e é usado para definir seus Pontos de Vida e sua capacidade de carregamento de itens.
       </td>
     </tr>
     <tr>

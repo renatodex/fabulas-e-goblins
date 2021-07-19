@@ -59,6 +59,12 @@ Esses conhecimentos são muito específicos e sutís, mas essas técnicas são f
 
 Para procurar água, você poderá, como uma ação, fazer um teste de Sobrevivência.
 
+### Passiva: Resistência ao Calor
+
+Seu personagem está normalmente adaptado para resistir ao Calor, conseguindo resistir muito bem a altas temperaturas sem muitos prejuízos.<br/>
+**Receba +2 de Resistência ao Calor.**<br/>
+Para saber mais sobre as regras de Temperatura consulte a Seção [Efeitos de Terreno](/docs/7-game-rules/terrain-effects).
+
 ### Ação: Voo Livre (Agilidade)
 
 Os Vórtices de Areia no Deserto são definitivamente uma atração turística (e por sinal perigosa!), mas é muito dificil pensar em um Areano que nunca tenha tido a curiosidade de praticar o Voo Livre através de um Paraglider.
