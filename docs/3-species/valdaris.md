@@ -68,3 +68,22 @@ Ao criar um personagem Valdari, você estará potencialmente criando um habitand
 Os conhecimentos sobre a Sociedade, a Cultura e a Religião Valdari muito provavelmente serão naturais de seu personagem, a menos que a sua história diga o contrário, e não justifique esses conhecimentos.
 
 Dependendo da história de seu personagem, ele pode ser um Adapto das Divindades Timerianas, ou até mesmo ter passado tempo suficiente na superfície para se adequar aos costumes dos **Terranos**.
+
+## Habilidades Raciais
+
+### Passiva: Respiração Anfíbia
+
+*Não existe tempo ruim para um bom Valdari. Seja no mundo submerso ou em terra firme, esses anfíbios podem respirar normalmente, sem precisar de quaisquer equipamentos ou sofrer qualquer penalidade.*
+
+### Ação: Nadar
+
+*Devido as suas características evolutivas, os Valdari foram adaptados para se locomover rapidamente no ambiente submerso, sendo capazes de se movimentar de forma muito mais veloz*
+
+Valdari gastar duas ações (Movimento e Ataque) para realizar a Ação *Nadar*.<br/>
+Quando estiverem utilizando essa ação, além de poder realizar duas ações de movimento, receberão um bônus de +3 de movimento.
+
+### Passiva: Movimentação Submersa
+
+*Enquanto outras Espécies podem sentir uma pequena dificuldade para se locomover no mundo submerso, Valdari são habitantes natos deste mundo, se movendo normalmente como se estivessem andando sobre a terra.*
+
+Outras espécies recebem -1 de penalidade ao se locomover dentro da água. Valdari ignoram essa penalidade, podendo se locomover normalmente.
