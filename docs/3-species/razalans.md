@@ -62,9 +62,23 @@ Uma delas, muito conhecida entre os Razalans é `Mucha`, a Deusa do Fogo Primal.
 
 ## Habilidades Especiais
 
-Por possuirem asas naturais, os Razalans são capazes de flutuar por poucos segundos no ar, algo que seria equivalente ao folego que um Goblin possui para respirar debaixo d' água.
-Além disso, os Razalans podem gerar boas rajadas de vento com suas asas, o que não é necessariamente potente o suficiente para ser considerado como um ataque, ou até causar dano, mas pode causar um certo impacto e ser usado como vantagem durante alguns tipos dee interpretação, ou até mesmo como forma de intimidação.
+### Ação: Flutuar
 
-Uma outra utilização prática para as Asas é que Razalans, se estiverem conscientes e com folego, podem utilizar as asas para evitar o dano que seria causado de uma queda de grande altitude. Os Razalans podem utilizar suas asas para planarem de grandes atitudes sem sofrer qualquer tipo de dano.
+*Por possuirem asas naturais, os Razalans são capazes de flutuar por poucos segundos no ar, algo que seria equivalente ao folego que um Goblin possui para respirar debaixo d' água.*
 
-Mesmo sendo conhecidas como criaturas que possuem uma conexão mais próxima com a Magia, os Razalans não posssuem nenhuma habilidade mágica, ou qualquer tipo de constituição mágica, pelo menos nada que possa ser usado para justificar uma habilidade racial.
+Se usado fora de combate, permite ao Razalan flutuar por alguns flutuar por alguns centimetros do chão.
+Se usado em combate, Flutuar pode ser usado como uma Ação de Ataque ou movimento, com duraçao de 3 turnos.
+A Ação não consome Pontos de Magia e pode ser repetida quantas vezes for necessário. (não cumulativo)
+
+### Ação: Rajada de Vento
+
+*Razalans podem gerar boas rajadas de vento com suas asas, o que não é necessariamente potente o suficiente para ser considerado como um ataque, ou até causar dano, mas com uma pequena chance pode derrubar um inimigo desprevinido, podendo até ser usado como forma de intimidação.*
+
+Desfere uma rajada de vento com as Asas que causa 1D10+3 de Dano.
+O ataque é feito contra a defesa física do inimigo, e possui Derrubar 10. (não funciona com alvos Grandes ou superior)
+
+### Ação Menor/Reação: Queda Suave
+
+*Razalans podem utilizar suas asas para evitar quedas perigosas, planando no ar suavemente até tocarem no chão.*
+
+A Ação pode ser utilizada no ar, mas exige que o Razalan esteja consciente e focado para usar. Não consome uma ação maior como se movimentar ou atacar, e pode ser utilizada em qualquer momento, até mesmo como uma reação.
