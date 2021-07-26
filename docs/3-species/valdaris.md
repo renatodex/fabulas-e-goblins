@@ -4,6 +4,12 @@ title: Valdaris
 slug: /3-species/specie-valdaris
 ---
 
+import { Spell, SpellFromJson, Caption, Description } from './../../src/components/skill_block/index'
+
+import AmphibiousBreathing from './../../data/spells/amphibious_breathing.json'
+import Swim from './../../data/spells/swim.json'
+import MoveUnderwater from './../../data/spells/move_underwater.json'
+
 ![Valdaris.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf58c81f6-ca3c-4d7b-930e-31d6719a2624.png)
 
 *O pobre pescador Goblin segurava calmamente sua vara, enquanto apreciava a vista do mar de Caldera. Nunca havia pescada ali, pensou, e provavelmente sua linha pegaria algo interessante. Horas depois, veio o primeiro tranco. Era forte, e ele pensou realmente que poderia ser um peixe grande. Mas daí veio o segundo tranco, e sua linha a cada segundo encurtava, até que um ser finalmente se ergueu de dentro do mar, com o anzol do pescador nas mãos. "Olha, você devia tomar cuidado com essas coisas, essa área é protegida, e se os Guardas Valdari te pegam, você com certeza vai passar bons bocados lá na nossa prisão. Toma cuidado, ok?*
@@ -71,19 +77,8 @@ Dependendo da história de seu personagem, ele pode ser um Adapto das Divindades
 
 ## Habilidades Raciais
 
-### Passiva: Respiração Anfíbia
+<SpellFromJson spellData={AmphibiousBreathing} />
 
-*Não existe tempo ruim para um bom Valdari. Seja no mundo submerso ou em terra firme, esses anfíbios podem respirar normalmente, sem precisar de quaisquer equipamentos ou sofrer qualquer penalidade.*
+<SpellFromJson spellData={Swim} />
 
-### Ação: Nadar
-
-*Devido as suas características evolutivas, os Valdari foram adaptados para se locomover rapidamente no ambiente submerso, sendo capazes de se movimentar de forma muito mais veloz*
-
-Valdari gastar duas ações (Movimento e Ataque) para realizar a Ação *Nadar*.<br/>
-Quando estiverem utilizando essa ação, além de poder realizar duas ações de movimento, receberão um bônus de +3 de movimento.
-
-### Passiva: Movimentação Submersa
-
-*Enquanto outras Espécies podem sentir uma pequena dificuldade para se locomover no mundo submerso, Valdari são habitantes natos deste mundo, se movendo normalmente como se estivessem andando sobre a terra.*
-
-Outras espécies recebem -1 de penalidade ao se locomover dentro da água. Valdari ignoram essa penalidade, podendo se locomover normalmente.
+<SpellFromJson spellData={MoveUnderwater} />

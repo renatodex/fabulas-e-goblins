@@ -76,7 +76,7 @@ Opcionalmente, os Metalóides também podem comer raíses e frutos da Terra para
 
 ### Ação: Manipulação Mágica
 
-*O Metalóide entra em comunhão com sua própria essência, consumindo um item normal para transformá-lo em um item mágico através da manipulação do fluxo mágico.*
+> O Metalóide entra em comunhão com sua própria essência, consumindo um item normal para transformá-lo em um item mágico através da manipulação do fluxo mágico.
 
 Exige uma fonte de magia bruta. (pode ser qualquer Grimo).
 No processo, a magia da fonte será será acessada para fornecer uma propriedade mágica ao Item.
@@ -89,7 +89,7 @@ A Manipulação Mágica deve ser usada em repouso, em lugar silencioso, durando 
 
 ### Passiva: Sentir Magia
 
-*Para os Metalóides, a Magia é como o Olfato, eles podem senti-la a distância como o sutil odor liberado pela rosa durante o orvalho.*
+> Para os Metalóides, a Magia é como o Olfato, eles podem senti-la a distância como o sutil odor liberado pela rosa durante o orvalho.
 
 Como uma ação de percepção, você pode sentir qualquer concentração de origem mágica nos arredores.<br/>
 Essa habilidade é praticamente sensorial para os Metalóides, de forma similar ao odor emanado por um perfume.
@@ -98,7 +98,7 @@ Contudo, não controlarem precisamente essa percepção sensorial (pelo menos n�
 
 ### Ação Menor: Escalar
 
-*Metalóides estão acostumados com a altura, e a arquitetura de suas cidades utiliza o eixo Z de forma muito inteligente e elegante.*
+> Metalóides estão acostumados com a altura, e a arquitetura de suas cidades utiliza o eixo Z de forma muito inteligente e elegante.
 
 Como uma ação normal, você pode escalar ou subir um obstáculo durante a sua ação de movimento.
 Qualquer obstáculo plausível de se escalar que exigisse uma única ação extra de acrobacia pode ser escalado normalmente durante uma ação de movimento como se equivalesse a um único quadrado de sua movimentação.

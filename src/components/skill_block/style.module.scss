@@ -1,0 +1,224 @@
+.spell-block {
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+
+    &__header {
+        display: flex;
+        flex-direction: column;
+        @media only screen and (min-width: 800px) {
+            flex-direction: row;
+        }
+    }
+
+    &__body {
+        background-color: #fff;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+
+    &__icon {
+        width: 60px;
+        height: 60px;
+        border-radius: 50% 50%;
+        font-size: 65px;
+        @media only screen and (min-width: 800px) {
+            margin-right: 10px;
+        }
+
+        &--light {
+            background-color: #fff;
+        }
+
+        &--dark {
+            background-color: #000;
+        }
+
+        &-wrapper {
+            top: -18px;
+            left: -3px;
+            position: relative;
+
+            svg {
+                clip-path: circle(30px at center);
+            }            
+        }
+    }
+
+    &__col1 {
+        display: flex;
+        @media only screen and (min-width: 800px) {
+           order: 3;
+        }
+        @media only screen and (min-width: 800px) {
+            flex-grow: 2;
+            justify-content: flex-end;
+            div:last-child {
+                margin-right: 0;
+            }
+            div {
+                margin: 0px 5px;
+            }
+        }
+    }
+
+    &__iconright {
+        margin-left: auto;
+        @media only screen and (min-width: 800px) {
+            margin-left: initial;
+        }
+    }
+
+    &__col2 {
+        text-align: center;
+        margin: 0 auto;
+        @media only screen and (min-width: 800px) {
+            margin: 0;
+        }
+        @media only screen and (min-width: 800px) {
+            order: 1;
+        }
+    }
+
+    &__col3 {
+        @media only screen and (min-width: 800px) {
+            order: 2;
+        }
+    }
+
+    &__title {
+        font-size: 28px;
+        font-weight: bold;
+        text-align: center;
+        @media only screen and (min-width: 800px) {
+            text-align: left;
+        }
+
+        &--light {
+            color: #fff;
+        }
+
+        &--dark {
+            color: #000;
+        }
+    }
+
+    &__properties {
+        padding-top: 10px;
+        text-align: center;
+        @media only screen and (min-width: 800px) {
+            text-align: left;
+        }
+
+        div:first-child {
+            margin-left: 0;
+        }
+        div {
+            margin: 2px 5px;
+        }
+    }
+    
+    &__properties {
+        margin-left: 0px;
+    }
+
+    &__property {
+    }
+
+    &__property-icon {
+
+    }
+
+    &__property-label {
+
+    }
+
+    &__epic_description {
+        background-color: #dfdfdf;
+        padding: 15px;
+        border-radius: 10px 10px 0px 0px;
+        font-style: italic;
+    }
+
+    &__mechanic_description {
+        padding: 15px;
+    }
+}
+
+.spell-block--default {
+    background-color:#4d4d4d;
+}
+
+.spell-block--fire {
+    background-color:#c7220c;
+}
+
+.spell-block--ice {
+    background-color:#018f94;
+}
+
+.spell-block--wind {
+    background-color:#0093b8;
+}
+
+.spell-block--water {
+    background-color:#1347d8;
+}
+
+.spell-block--eletric {
+    background-color:#f2f542;
+}
+
+.spell-block--holy {
+    background-color:#a09980;
+}
+
+.spell-block--darkness {
+    background-color:#3d1275;
+}
+
+.spell-block--arcane {
+    background-color:#c73aa2;
+}
+
+.spell-block--acid {
+    background-color:#a9e613;
+}
+
+.spell-block--nature {
+    background-color: #299a15;
+}
+
+.spell-block--materia {
+    background-color:#65482a;
+}
+
+.spell-block--chaos {
+    background-color:#c73a3a;
+}
+
+.taglabel {
+    font-size: 18px;
+    padding: 2px 5px;
+    display: inline-block;
+    border-radius: 10px;
+    font-weight: 700;
+
+    &__icon {
+
+    }
+
+    &__label {
+
+    }
+}
+
+.taglabel--light {
+    background-color: #fff;
+    color: #000;
+}
+
+.taglabel--dark {
+    background-color: #000;
+    color: #fff;
+}
