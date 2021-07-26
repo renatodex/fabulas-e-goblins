@@ -4,6 +4,11 @@ title: Razalans
 slug: /3-species/specie-razalans
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import Float from './../../data/spells/float.json'
+import SoftFall from './../../data/spells/soft_fall.json'
+import WindBlow from './../../data/spells/wind_blow.json'
+
 ![](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/especies-jogaveis/razalans/RazalansSpecie.jpg)
 
 *Flutuando com sua superioridade indubitável, o soldado Razalan espantava aquelas terríveis criaturas apenas com o bater de suas asas e o brandir de sua lança, que lembrava vagamente um tridente. Enquanto as criaturas correm em busca de abrigo longe do Soldado, o jovem Goblin sente-se aliviado, agradecendo a presença de seu salvador. Ele então aponta ao Goblin o caminho da estrada segura, e pede ao pequeno que a siga, evitando adentrar a mata das ilhas flutuantes. Subitamente, ele salta pelo penhasco e abre suas asas, planando graciosamente pelo vento, e provendo um espetáculo a parte que o jovem Goblin jamais esqueceria.*  
@@ -62,23 +67,8 @@ Uma delas, muito conhecida entre os Razalans é `Mucha`, a Deusa do Fogo Primal.
 
 ## Habilidades Especiais
 
-### Ação: Flutuar
+<SpellFromJson spellData={Float} />
 
-> Por possuirem asas naturais, os Razalans são capazes de flutuar por poucos segundos no ar, algo que seria equivalente ao folego que um Goblin possui para respirar debaixo d' água.
+<SpellFromJson spellData={SoftFall} />
 
-Se usado fora de combate, permite ao Razalan flutuar por alguns flutuar por alguns centimetros do chão.
-Se usado em combate, Flutuar pode ser usado como uma Ação de Ataque ou movimento, com duraçao de 3 turnos.
-A Ação não consome Pontos de Magia e pode ser repetida quantas vezes for necessário. (não cumulativo)
-
-### Ação: Rajada de Vento
-
-> Razalans podem gerar boas rajadas de vento com suas asas, o que não é necessariamente potente o suficiente para ser considerado como um ataque, ou até causar dano, mas com uma pequena chance pode derrubar um inimigo desprevinido, podendo até ser usado como forma de intimidação.
-
-Desfere uma rajada de vento com as Asas que causa 1D10+3 de Dano.
-O ataque é feito contra a defesa física do inimigo, e possui Derrubar 10. (não funciona com alvos Grandes ou superior)
-
-### Ação Menor/Reação: Queda Suave
-
-> Razalans podem utilizar suas asas para evitar quedas perigosas, planando no ar suavemente até tocarem no chão.
-
-A Ação pode ser utilizada no ar, mas exige que o Razalan esteja consciente e focado para usar. Não consome uma ação maior como se movimentar ou atacar, e pode ser utilizada em qualquer momento, até mesmo como uma reação.
+<SpellFromJson spellData={WindBlow} />

@@ -4,8 +4,7 @@ title: Valdaris
 slug: /3-species/specie-valdaris
 ---
 
-import { Spell, SpellFromJson, Caption, Description } from './../../src/components/skill_block/index'
-
+import { SpellFromJson } from './../../src/components/skill_block/index'
 import AmphibiousBreathing from './../../data/spells/amphibious_breathing.json'
 import Swim from './../../data/spells/swim.json'
 import MoveUnderwater from './../../data/spells/move_underwater.json'
