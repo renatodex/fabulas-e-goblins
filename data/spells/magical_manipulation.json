@@ -1,0 +1,15 @@
+{
+    "name": "Manipulação Mágica",
+    "magic_cost": "5 P.M",
+    "duration_time": null,
+    "attack_logic": null,
+    "action_type": "Ativa",
+    "cast_distance": null,
+    "range_amount": null,
+    "range_type": null,
+    "icon": "GiMagicAxe",
+    "element": null,
+    "caption": "O Metalóide entra em comunhão com sua própria essência, consumindo um item normal para transformá-lo em um item mágico através da manipulação do fluxo mágico.",
+    "description": "<p>Exige uma fonte de magia bruta. (pode ser qualquer Grimo). No processo, a magia da fonte será será acessada para fornecer uma propriedade mágica ao Item.</p><p>O processo custa 5 P.M, mas se o portador estiver descansado e com P.M recuperados, pode utilizar todos seus Pontos para aumentar a eficácia em 5%. (O teste é realizado com um D100, ou 2D10, sendo um utilizado para determinar a \"dezena\" e outro para determinar a \"unidade\".)</p><div>O procedimento tem 10% de chance de funcionar.</div><p>Caso falhe, o Metalóide recebe o Status negativo \"**Exaustão Mágica**\" que fornece +2 de Dificuldade em qualquer teste que utilize P.M. A Manipulação Mágica deve ser usada em repouso, em lugar silencioso, durando cerca de 20 minutos e só podendo ser realizada 1 única vez por dia</p>",
+    "tags": ["racial"]
+}

@@ -4,6 +4,11 @@ title: Metalóides
 slug: /3-species/specie-metaloids
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import MagicalManipulation from './../../data/spells/magical_manipulation.json'
+import SenseMagic from './../../data/spells/sense_magic.json'
+import Climb from './../../data/spells/climb.json'
+
 ![metaloides.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cac8fe27f-88cb-41e9-96b4-8225a379df93.png)
 
 *Ainda quando era pequeno, os mais velhos contavam-lhe histórias sobre terríveis criaturas da floresta de cogumelos. Seus corpos alongados mediam cerca de 1,90cm, possuindo bolsões espalhados cujo estranho líquido metálico esverdeado circulava como sangue. Seus rostos podiam assustar até a mais corajosa das crianças, e diziam que qualquer um que olhasse no fundo de seus quatro olhos negros estaria perdido para sempre.*  
@@ -74,31 +79,8 @@ Opcionalmente, os Metalóides também podem comer raíses e frutos da Terra para
 
 ## Habilidades Especiais
 
-### Ação: Manipulação Mágica
+<SpellFromJson spellData={MagicalManipulation} />
 
-> O Metalóide entra em comunhão com sua própria essência, consumindo um item normal para transformá-lo em um item mágico através da manipulação do fluxo mágico.
+<SpellFromJson spellData={SenseMagic} />
 
-Exige uma fonte de magia bruta. (pode ser qualquer Grimo).
-No processo, a magia da fonte será será acessada para fornecer uma propriedade mágica ao Item.
-
-O processo custa 5 P.M, mas se o portador estiver descansado e com P.M recuperados, pode utilizar todos seus Pontos para aumentar a eficácia em 5%. (O teste é realizado com um D100, ou 2D10, sendo um utilizado para determinar a "dezena" e outro para determinar a "unidade".)
-
-O procedimento tem 10% de chance de funcionar.<br/>
-Caso falhe, o Metalóide recebe o Status negativo "**Exaustão Mágica**" que fornece +2 de Dificuldade em qualquer teste que utilize P.M.
-A Manipulação Mágica deve ser usada em repouso, em lugar silencioso, durando cerca de 20 minutos e só podendo ser realizada 1 única vez por dia.
-
-### Passiva: Sentir Magia
-
-> Para os Metalóides, a Magia é como o Olfato, eles podem senti-la a distância como o sutil odor liberado pela rosa durante o orvalho.
-
-Como uma ação de percepção, você pode sentir qualquer concentração de origem mágica nos arredores.<br/>
-Essa habilidade é praticamente sensorial para os Metalóides, de forma similar ao odor emanado por um perfume.
-
-Contudo, não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes múltiplas de concentração mágica poderiam facilmente confundir o precisão dos sentidos de um Metalóide.  
-
-### Ação Menor: Escalar
-
-> Metalóides estão acostumados com a altura, e a arquitetura de suas cidades utiliza o eixo Z de forma muito inteligente e elegante.
-
-Como uma ação normal, você pode escalar ou subir um obstáculo durante a sua ação de movimento.
-Qualquer obstáculo plausível de se escalar que exigisse uma única ação extra de acrobacia pode ser escalado normalmente durante uma ação de movimento como se equivalesse a um único quadrado de sua movimentação.
+<SpellFromJson spellData={Climb} />

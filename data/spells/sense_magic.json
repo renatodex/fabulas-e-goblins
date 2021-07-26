@@ -1,0 +1,15 @@
+{
+    "name": "Sentir Magia",
+    "magic_cost": null,
+    "duration_time": null,
+    "attack_logic": null,
+    "action_type": "Ativa",
+    "cast_distance": null,
+    "range_amount": null,
+    "range_type": null,
+    "icon": "GiMagicPalm",
+    "element": null,
+    "caption": "Para os Metalóides, a Magia é como o Olfato, eles podem senti-la a distância como o sutil odor liberado pela rosa durante o orvalho.",
+    "description": "<p>Como uma ação de percepção, você pode sentir qualquer concentração de origem mágica nos arredores.<br/>Essa habilidade é praticamente sensorial para os Metalóides, de forma similar ao odor emanado por um perfume.</p><p>Contudo, não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes múltiplas de concentração mágica poderiam facilmente confundir o precisão dos sentidos de um Metalóide.</p>",
+    "tags": ["racial"]
+}
