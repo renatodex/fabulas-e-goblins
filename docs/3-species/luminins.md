@@ -44,7 +44,7 @@ Sua religião é tradicionalmente baseada na veneração de Igadash, uma divinda
 
 Alguns de seus reinos em locais remotos costumam ter receio de visitas de Civilizações estrangeiras. É comum que esses reinos sejam mais reclusos e ofereçam algum tipo de resistencia social, seja de forma leve como apenas uma restrição de acesso aos serviços comuns como Vendedores e Estalagens, como também bloqueios sociais rígidos que  podem não permitir a entrada de forasteiros em determinadas épocas do ano.
 
-Entretanto, diversos grandes reinos Luminis conhecidos como as Fendas Invernais, **Diméria** e **Balsídia**, possuem vasta aceitação de outras civilizações dos Reinos Unidos, além de serem muito ricos em recursos naturais.
+Entretanto, diversos grandes reinos Luminis conhecidos como as **Fendas Invernais**, **Diméria** e **Balsídia**, possuem vasta aceitação de outras civilizações dos Reinos Unidos, além de serem muito ricos em recursos naturais.
 
 Muitos desses reinos estão localizados em áreas subterrâneas, devido ao isolamento e a preferencia da espécie de optar pela proximidade das concentrações minerais e cristalinas.
 

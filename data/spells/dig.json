@@ -1,0 +1,15 @@
+{
+  "name": "Cavar",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Os Armadons herdaram dos Cungulins, seus primos selvagens, a habilidade exímia de cavar buracos na terra rapidamente, não necessitando de qualquer ferramenta ou auxílio.",
+  "description": "<p>Pode ser usado como uma ação a qualquer momento durante o combate para cavar um túnel abaixo da terra. (caso a terra seja diretamente acessível). Cada ação cava 1 quadrado de Túnel.</p><p>A Ação pode ser utilizada normalmente fora do combate para cavar túneis. Exige concentração e tempo.</p><p>Não consome P.M ou P.V para ser utilizada.</p>",
+  "tags": ["racial"]
+}

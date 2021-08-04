@@ -4,6 +4,11 @@ title: Armadons
 slug: /3-species/specie-armadons
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import Dig from './../../data/spells/dig.json'
+import Geolocalization from './../../data/spells/geolocalization.json'
+import HardHull from './../../data/spells/hard_hull.json'
+
 ![armadons.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9803005f-8a23-49b6-9f46-7d3773060351.png)
 
 *Pequenos e ágeis, os Armadons são incríveis construtores, as maravilhas da engenharia que foram construídas em seus mundos ancestrais mostram a impressionante capacidade dos Armadons de sobreviver mesmo sob condições hostis.*
@@ -68,27 +73,8 @@ Estátuas dessas Divindades preenchem os muros das Megalópolis dos Armadons, co
 
 ## Habilidades Especiais
 
-### Ação: Cavar
+<SpellFromJson spellData={Dig} />
 
-*Os Armadons herdaram dos Cungulins, seus primos selvagens, a habilidade exímia de cavar buracos na terra rapidamente, não necessitando de qualquer ferramenta ou auxílio.*
+<SpellFromJson spellData={Geolocalization} />
 
-Pode ser usado como uma ação a qualquer momento durante o combate para cavar um túnel abaixo da terra. (caso a terra seja diretamente acessível). Cada ação cava 1 quadrado de Túnel.
-
-A Ação pode ser utilizada normalmente fora do combate para cavar túneis. Exige concentração e tempo.
-
-Não consome P.M ou P.V para ser utilizada.
-
-### Passiva: Geolocalização
-
-*Seus corpos cascudos podem perceber pequenos abalos na terra, sendo capazes até mesmo de se orientar geograficamente.*
-
-Como uma ação de percepção, você pode sentir qualquer abalo na Terra.
-Essa habilidade é praticamente sensorial para os Armadons, de forma similar à audição dos Goblins.
-
-Contudo, por não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes múltiplas de movimentações sísmicas poderiam facilmente confundir o precisão dos sentidos de um Armadon.
-
-### Passiva: Casco Duro
-
-*Seu rígido casco permite que os Armadons possuam resistência adicional ao serem atacados pelas costas.*
-
-+2 de Defesa para qualquer ataque físico realizado contra a carapaça dorsal dos Armadons.
+<SpellFromJson spellData={HardHull} />

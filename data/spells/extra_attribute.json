@@ -1,0 +1,15 @@
+{
+  "name": "Vantagem de Goblin",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Inicial",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "Goblins são muito habilidosos, e parecem ter uma enorme disposição para aprender muitas coisas diferentes.",
+  "description": "Ao criar um Goblin, receba 2 pontos extra de Atributos para distribuir como quiser.",
+  "tags": ["racial"]
+}

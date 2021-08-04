@@ -4,6 +4,11 @@ title: Goblins
 slug: /3-species/specie-goblins
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import ExtraAttributes from './../../data/spells/extra_attribute.json'
+import GoblinAudition from './../../data/spells/goblin_audition.json'
+import LuckyArmor from './../../data/spells/lucky_armor.json'
+
 ![goblins.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca1585ace-df77-4c02-8740-6788f993dc2f.png)
 
 *É dificil não tropeçar em um Reino Goblin em um dia comum de viajem. Eles estão realmente por toda a parte, são numerosos, curiosos, exploradores, mas felizmente parecem aliados. Pelo menos, até agora não tive grandes problemas, mas dizem que grandes cidades como Galanor podem ser "complicadas".*
@@ -62,23 +67,6 @@ Talvez a única Religião ainda forte em muitas regiões seja A **Igreja de Lunn
 
 ## Habilidades Especiais
 
-### Benefício Inicial: Atributos Extra
-
-> Goblins são muito habilidosos, e parecem ter uma enorme disposição para aprender muitas coisas diferentes.
-
-Ao criar um Goblin, receba 2 pontos extra de Atributos para distribuir como quiser.
-
-### Passiva: Audição de Goblin
-
-> Suas enormes orelhas conseguem perceber até mesmo pequenas variações sonoras no ar, vibrando em reação ao som em sinal de alerta.
-
-Como uma ação de percepção, você pode sentir pequenos cuídos ou barulhos no ar, que seriam imperceptíveis para outros Indivíduos.
-Essa habilidade é praticamente sensorial para os Goblins, de forma similar à Geolocalização dos Armadons.
-
-Contudo, por não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes sonoras podem facilmente confundir a precisão dos sentidos de um Goblin.
-
-### Passiva: Sorte de Goblin
-
-> Os Goblins são tão populosos, que estatisticamente, é muito mais fácil você encontrar uma Armadura para Goblin numa Masmorra.
-
-Receba +3 para testar a compatibilidade de uma Armadura ou Item encontrado numa masmorra.
+<SpellFromJson spellData={ExtraAttributes} />
+<SpellFromJson spellData={GoblinAudition} />
+<SpellFromJson spellData={LuckyArmor} />
