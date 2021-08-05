@@ -1,0 +1,15 @@
+{
+  "name": "Resistência ao Calor",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiHeatHaze",
+  "element": null,
+  "caption": "O Deserto pode até ser agradável se o sol calejar sua pele por tempo suficiente.",
+  "description": "<p>Seu personagem está normalmente adaptado para resistir ao Calor, conseguindo resistir muito bem a altas temperaturas sem muitos prejuízos.</p><p><i>Receba +2 de Resistência ao Calor.</i></p><p>Para saber mais sobre as regras de Temperatura consulte a Seção Efeitos de Terreno.</p>",
+  "tags": ["cultural"]
+}

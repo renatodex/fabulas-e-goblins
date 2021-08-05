@@ -59,7 +59,13 @@ export function SpellFromJson ({ spellData }) {
             icon={spellData.icon}
             element={spellData.element}
         >
-            <Caption>{spellData.caption}</Caption>
+            <Caption>
+                <div
+                    dangerouslySetInnerHTML={{
+                        __html: spellData.caption,
+                    }}
+                />
+            </Caption>
             <Description>
                 <div
                     dangerouslySetInnerHTML={{

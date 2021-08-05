@@ -1,0 +1,15 @@
+{
+  "name": "Rastrear (Sobrevivência)",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiFootsteps",
+  "element": null,
+  "caption": "Após anos de experiência caçando na floresta, pode ser impossível não reconhecer rastros óbvios.",
+  "description": "<p>Devido a sua experiência vivendo próximo a florestas por tanto tempo, você possui uma habilidade natural para perceber rastros de movimentação na floresta, deixados pela bagunça das folhas, e outras nuances que passariam despercebido a um olho destreinado.</p><p>A Habilidade só funciona se houverem Rastros detectáveis.</p><p>Ao utilizar essa habilidade, o Narrador pode exigir um teste de Sobrevivência.</p>",
+  "tags": ["cultural"]
+}

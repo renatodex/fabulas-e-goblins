@@ -4,6 +4,11 @@ title: Filhos das Areias
 slug: /6-cultures/children-of-sands
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import FreeFlight from './../../data/spells/free_flight.json'
+import HeatResistance from './../../data/spells/heat_resistance.json'
+import FindWater from './../../data/spells/find_water.json'
+
 A vida no Deserto, diferente da Floresta, é desafiadora. Os perígos estão sempre a espreita, e se perder numa núvem de areia pode significar o seu fim.
 
 Por isso, os Filhos das Areias, ou Areanos, geralmente aprendem uma coisa ou duas sobre como se dar bem nesse Bioma tão complexo.
@@ -51,23 +56,8 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 - Força +1
 - P.V +4
 
-### Ação: Encontrar Água (Sobrevivência)
+## Habilidades
 
-O costume e a proximidade da Vegetação Desértica permitiram aos Areanos aprender algumas técnicas interessantes para encontrar água ao ar livre. Plantas da vegetação comum escondem reservatórios de água que podem ser explorados por alguém que souber onde olhar.
-
-Esses conhecimentos são muito específicos e sutís, mas essas técnicas são frequentemente muito difundidas pelos Povos de Areia. A navegação entre cidades no Deserto é muito comum entre esses povos, e em situações de emergência esse conhecimento pode ser interessante.
-
-Para procurar água, você poderá, como uma ação, fazer um teste de Sobrevivência.
-
-### Passiva: Resistência ao Calor
-
-Seu personagem está normalmente adaptado para resistir ao Calor, conseguindo resistir muito bem a altas temperaturas sem muitos prejuízos.<br/>
-**Receba +2 de Resistência ao Calor.**<br/>
-Para saber mais sobre as regras de Temperatura consulte a Seção [Efeitos de Terreno](/docs/7-game-rules/terrain-effects).
-
-### Ação: Voo Livre (Agilidade)
-
-Os Vórtices de Areia no Deserto são definitivamente uma atração turística (e por sinal perigosa!), mas é muito dificil pensar em um Areano que nunca tenha tido a curiosidade de praticar o Voo Livre através de um Paraglider.
-Como uma etapa opcional, seu personagem pode possuir a prática necessária para operar um desses Paraglider, e voar pelos céus durante uma Tempestade de Areia Intensa. Os Areanos usam essas Tempestades para viajar rapidamente de um local ao outro.
-
-Viajar num Paraglider exigiria um **Teste Continuo** de Agilidade/Resiliência, mas um Areano não precisa fazer teste nenhum!
+<SpellFromJson spellData={FindWater} />
+<SpellFromJson spellData={HeatResistance} />
+<SpellFromJson spellData={FreeFlight} />

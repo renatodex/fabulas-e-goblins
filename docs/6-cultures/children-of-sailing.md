@@ -4,6 +4,10 @@ title: Filhos da Nau
 slug: /6-cultures/children-of-sailing
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import ColdResistance from './../../data/spells/cold_resistance.json'
+import Sail from './../../data/spells/sail.json'
+
 Acostumados a passar meses velejando no extenso e inexplorado mar de Caldera, esses Aventureiros estão desacostumados com a comodidade da Terra.
 Reinos portuários como **Tol'Deran**, **Nuvenar** e **Celendor** são com certeza a única porção de terra que eles podem considerar como um "Porto Seguro", e até, talvez, chamar de lar.
 
@@ -71,15 +75,7 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 - Resiliência +2
 - Iniciativa +2
 
-### Passiva: Resistência ao Frio
+## Habilidades
 
-Seu personagem está normalmente adaptado para resistir ao Frio, conseguindo resistir muito bem a baixas temperaturas sem muitos prejuízos.<br/>
-**Receba +3 de Resistência ao Frio.**<br/>
-Para saber mais sobre as regras de Temperatura consulte a Seção [Efeitos de Terreno](/docs/7-game-rules/terrain-effects).
-
-### Ação: Velejar (Sobrevivência)
-
-Para você, um barco não precisa de capitão, afinal de contas, qualquer Calderiano poderia controlar uma embarcação sem muito trabalho, desde que claro, pudesse instruir sua tripulação de como ajuda-lo neste trabalho.
-Com anos de treino, talvez você até se tornasse um bom Capitão, ou Corsário!
-
-Personagens sem treinamento não poderiam Velejar, nem se tirassem sucessos Decisivos *(na verdade, um Narrador jamais deveria permitir que um personagem fizesse um teste do qual não pode passar)*, mas você apenas precisará fazer um pequeno teste de Sobrevivência para controlar uma embarcação.
+<SpellFromJson spellData={ColdResistance} />
+<SpellFromJson spellData={Sail} />

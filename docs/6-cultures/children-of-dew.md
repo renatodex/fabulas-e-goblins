@@ -4,6 +4,10 @@ title: Filhos do Orvalho
 slug: /6-cultures/children-of-dew
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import Track from './../../data/spells/track.json'
+import WoodsSurvival from './../../data/spells/woods_survival.json'
+
 Nascidos em pequenos vilarejos ou reinos situados no interior de matas densas, os Filhos da Floresta, a exemplo dos Galanorianos, estão acostumados com a presença da vida selvagem a sua porta.
 
 As Florestas são biomas vastos, repletos de vida e com plena oferta de água e alimentos. Regiões florestanas como Tol'Deran, Galanor, e Ak'Dumor costumam ser habitadas por reinos de todos os portes, desde de pequenos vilarejos isolados até reinos de grande porte, como Galanor.
@@ -49,16 +53,7 @@ Ao escolher a cultura Filho da Floresta, seu personagem receberá os seguintes B
 - Intelecto +2
 - P.M +2
 
-### Ação: Rastrear (Sobrevivência)
+## Habilidades
 
-Devido a sua experiência vivendo próximo a florestas por tanto tempo, você possui uma habilidade natural para perceber rastros de movimentação na floresta, deixados pela bagunça das folhas, e outras nuances que passariam despercebido a um olho destreinado.
-
-A Habilidade só funciona se houverem Rastros detectáveis.
-Ao utilizar essa habilidade, o Narrador pode exigir um teste de Sobrevivência.
-
-### Ação: Conhecimento da Mata (Sobrevivência/Destino)
-
-Você conhece alguns tipos de plantas, ervas e frutas, e pode identificar alimentos seguros para serem consumidos numa ocasião de emergência, assim como certas ervas.
-
-Ao utilizar essa habilidade, o Narrador pode exigir um teste de Sobrevivência.
-Caso você esteja procurando por uma determinada erva, pode solicitar ao Narrador um teste de Destino. 
+<SpellFromJson spellData={Track} />
+<SpellFromJson spellData={WoodsSurvival} />
