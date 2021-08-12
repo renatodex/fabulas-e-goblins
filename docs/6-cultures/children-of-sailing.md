@@ -1,6 +1,6 @@
 ---
 id: children-of-sailing
-title: Filhos da Nau
+title: Filhos de Caldera
 slug: /6-cultures/children-of-sailing
 ---
 

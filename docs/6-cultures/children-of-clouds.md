@@ -1,78 +1,71 @@
 ---
 id: children-of-clouds
-title: Filhos das Núvens
+title: Filhos de Arcádia
 slug: /6-cultures/children-of-clouds
 ---
 
-Acima das Núvens, onde os 
+Tudo é diferente no mundo acima das Núvens. E nas Terras Místicas, não é só a vida selvagem que conseguiu se adaptar nas altas altitudes. Parar viver neste mundo, você não precisa necessariamente ter nascido como uma criatura alada, assim como os Razalans e os Luminins, pois qualquer um, até mesmo Goblins podem se aventurar nas alturas do continente flutuante Arcádia.
+
+É verdade sim que nas Ilhas flutuantes, também chamadas pelo povo comum de terras Arcadianas, habitam primariamente diversos reinos de origem Razalan, pois essa espécie é conhecida mundialmente por ter surgido de forma primária nesse continente. Mas é importante mencionar, que Arcadia habita muito mais que Reinos Razalans, pois diversos assentamentos Goblins e Armadons podem ser encontrados devido a constante atividade Aeronáutica nos céus das Terras Místicas.
+
+Movidos pela exploração e pela aventura, é muito comum encontrar Aeronaus tripuladas por Goblins, Razalans, Metalóides e outras espécies desbravando as diversas ilhas Arcadianas.
+
+Os Arcadianos, assim como Calderianos do alto-mar, são tradicionalmente conhecidos como indivíduos curiosos, corajosos e com muitas histórias na manga.
 
 ## Crenças
 
-Os Filhos da Nau são conhecidos como exímios exploradores, pela sua incrível habilidade de passar dias em alto-mar, sobrevivendo com uma alimentação precária. Aqueles que se acostumaram com esse estilo de vida, também se tornaram indivíduos altamente adaptáveis à condições adversas, e é isso que faz dos Calderianos um Povo tão forte.
+Assim com o vida no alto mar fornece os seus perigos, os Arcadianos contam com desafios exclusivos da vida além das núvens. E para sobreviver nessa vida, os Arcadianos encontraram afinidade com algumas divindades muito conhecidas em outras culturas.
 
-De fato, a origem desse estilo de vida remete a Eras atrás, quando o mundo teria finalmente desenvolvido o interesse e a tecnologia necessaria para sustentar vida em Alto-mar por um período prolongado.
-Essa era, também conhecida como Era da Navegação, foi o desabrochar dos Calderianos, suas grandes embarcações e seus reinos flutuantes. 
-Foi também uma época de incríveis descobertas, e a Era mais importante para o mapeamento Geográfico das Terras Místicas.
+Dentre elas, está Joromur, o primeiro Pirata dos Céus do Panteão Oriental. Dizem as lendas que Joromur não só teria desenvolvido a própria tecnologia para velejar nos ares, como também teria abatido em uma de suas aventuras, uma Leviatã gigante utilizando sua embarcação lendária: O Lugre Rubro.
 
-Por estarem sempre em contato com outras terras, as crenças dos Calderianos com o passar do tempo se mesclaram com Divindades de Diversas regiões, sendo 3 delas mais comuns entre seu povo: Ehpyros, Valis e Estiros.
+Sua imagem é frequentemente representada como um Goblin de barba longa portando um arco ornamentado com um minério de raridade lendária, cuja Flecha de Telurita teria sido usada para derrubar a criatura. 
 
-Os Adoradores de Ehphyros contam que seu Deus é tido para os Calderianos como o Guardião dos Velejadores, sendo a entidade respeitada com unanimidade pela maioria de seu Povo. Representado como um Drogo invisível de proporções titânicas, a criatura teve poucas aparições, sendo a maioria delas com um propósito pacífico.
-
-Já Valis, é uma Lenda e uma divindade Calderiana, que conta a história sobre um Metalóide escravizado que teria libertado um Jinn aprisonado em um antigo templo, recebendo como agradecimento as **Correntes Mágicas de El'gamar**. A Lenda conta que as Correntes Mágicas teriam sido usadas para trazer a liberdade para o Povo nativo do Oriente.
-
-Por último, temos Estiros como uma Divindade do Panteão Avérnico, sendo ele o primeiro Filho da Deusa Ludélia com o Deus Valeon, considerado como o Primogênito do Deus Supremo, Tronus.
-Estiros, visto constantemente como o Deus da Liberdade, da Independência e da Igualdade, deixou Zahadia, a morada dos Deuses, para viajar pelo reino das criaturas inferiores e aprender mais sobre o mundo. Dizem as lendas que os poderes permitiam manipular o ar, o clima e a temperatura, para criar e descriar tempestades ao seu bel prazer. 
+Além de Joromur, outras divindades presentes na cultura Arcadiana podem ser destacadas, como Ehphyros, o deus Etéreo Ar, além de Baranir, representado na Mitologia Avérnica como o filho legítimo do Deus Qabalis com Dinímia, a Deusa-Espírito da Terra.
+Ambos Baranir e Joromur fizeram façanhas semelhantes, mas enquanto Joromur tinha como objetivo a pura exploração, Baranir buscava a reunião dos Espíritos Primordiais, irmãos de sua amada Dinímia, que de acordo com a Mitologia teriam sido criados pela Faísca gerada no Momento da Dualidade.
 
 ## Tradições
 
-Passar tanto tempo no mar pode deixar qualquer um maluco, mas os Calderianos sabem exatamente como não se entediar: Jogos, sim, muitos jogos!
+Arcadianos são vistos tradicionalmente como indivíduos libertos e corajosos, que não são muito fãs da vida em baixas altitudes. Muitos deles passam a vida toda nas vidas flutuantes, e outros vivem em suas embarcações voadoras.
 
-É muito provavel que jogos competitivos antigos como o tradicional jogo de Cartas **Galarik**, o jogo de Tokens **Manguni** e o clássico jogo de dados **Grimokai** tenham sua popularidade difundida graças aos Calderianos, que adoram organizar suas mesas de jogos, disputar premios e fazer competições em pleno alto-mar.
+Seja de um jeito ou de outro, a vida em Arcádia oferece muitos tipos de entretenimento, que podem variar entre a **Exploração do Arquipélago**, **Caça Aérea**, **Voo Livre**, ou até mesmo uma vida pacata nos diversos arquipélagos Arcadianos, como **Daleon**, ou as fartas **Ilhas Ivérnicas**, habitadas por diversos anciões Razalans importantes.
 
-Um dos eventos mais populares da cultura Calderiana é o famoso Festival **Siriguni**, nomeado em homenagem ao Pirata Razalan **Garmari Siriguni**, onde jogadores do mundo todo se reunem no Reino-Balsa de **Qae'dramar** para disputar grandes quantias de [Temirs](/docs/2-sheet-creation/game-money) e premios incríveis!
+Na cultura desses indivíduos, Jovens e Iniciantes passam por alguns rituais para que possam um dia se tornarem Veteranos do Ar.
+Entre esses rituais, está o **Vale do Vento Turvo**, uma região extremamente perigosa de Arcádia onde as correntes de vento podem tomar proporções épicas e imprevisíveis num espaço de tempo muito pequeno.
+O Ritual é simples, mas perigoso, pois exige que o novado Pilote uma Aeronau atravessando o Vale pelo máximo de tempo que conseguir, o que pode se mostrar como um desafio impossível dependendo das condições do momento.
 
-Socialmente, os Filhos da Nau são criados de forma um pouco mais livre, onde laços familiares nem sempre são tão fortes como as famílias tradicionais de **Nuvenar**. 
-
-Entretanto, essa liberdade não é de graça, pois os grandes Corsários e Capitães Calderianos frequentemente governam os mares e seus territórios pluviais com punho forte, e os jovens precisam frequentemente se adaptar a essa realidade e respeitar suas regras, aprendendo a ter disciplina pela força do punho. 
+Esses rituais tem o objetivo de preparar Pilotos novatos para situações perigosas, onde precisarão usar ao máximo sua intuição e criatividade para resolver problemas enquanto estão no ar.
 
 ## Seus Trajes
 
-Devido a temperatura dos Oceanos, os Calderianos possuem uma vestimenta equilibrada, que precisa ser leve, e ao mesmo tempo proteger seus corpos das baixas temperaturas. 
+As altas altitudes das Ilhas Arcadianas exigem um dress code adequado e necessário para sobreviver as baixas temperaturas do Arquipélago.
+Muitas vezes, o frio se dá pelas intensas correntes de ar, que são comuns para Arcadianos navegando em Aeronaus pelas ilhas, outras vezes, a precipitação das núvens no ar podem carregar grandes quantidades de gelo, o que contribui para as baixas temperaturas.
 
-Roupas compridas, casacos e túnicas confeccionadas com Penas de Plumus e couro de Cromodon são idéias para os marinheiros de Calderia, pois são tramas leves, finas e ao mesmo tempo fechadas para fornecer uma ótima proteção de climas frios.
+Já nos arquipélagos, o clima é variado, podendo ser agradável, desértico e até congelante.
+Por isso, Arcadianos sempre precisam estar preparados, e nada melhor que carregar consigo Trajes leves de Couro de Cromodon e Mantas Plumadas.
 
-Além disso, os Filhos da Nau são normalmente adaptados para resistir ao Frio.
+Além disso, tradicionalmente os Arcadianos viajantes são tradicionalmente conhecidos por indivíduos precavidos, por carregarem uma grande quantidade de acessórios em suas vestimentas funcionais, que podem variar de cintos de utilidades, braceletes utilitários, cordas, facas, ganchos, bússolas e diversos outros itens utilitários que frequentemente são importante nas Aventuras pelos céus de Arcádia.
+Não é atoa que a "preparação Arcadiana" é uma expressão tão comum nas Terras Místicas!
 
-## Criando um Filho da Nau
+## Criando um Filho de Arcádia
 
-Personagens alinhados nessa cultura frequentemente estarão imersos nas regras e disciplinas da vida pluvial. Algumas delas podem ser rígidas, e até exigir sacrifícios sociais, ou meses de trabalho pesado, pois os Calderianos muitas vezes passam grandes períodos em alto-mar.
-Além disso, se adaptar as regras de um Capitão ou Corsário pode ser complicado, pois muitos governam suas embarcações como ditaduras, e podem ter personalidade forte.
+Personagens dessa cultura frequentemente possuem uma história de vida atrelada com o continente flutuante. Talvez você tenha nascido em um dos diversos territórios de Arcádia, como as **Ilhas Ivérnicas**, o **Arquipélago de Dalenia** ou as **Ilhas Kalari**. Ou talvez tenha passado a vida em uma Aeronau desbravando os diversos territórios suspensos de Arcádia.
 
-Um personagem nascido na cultura dos Filhos da Nau pode ser um incentivador da disciplina dos mares, ou um invidíduo em desacordo parcial ou completo com essas tradições.
+Reinos como **Ivérnia** e **Daleon** são conhecidos por serem populados de forma predominante por **Razalans**,  o que é uma característica comum de Reinos de Arcádia devido as suas origens, mas que não evita que esses Reinos e Territórios também sejam partilhados por diversas outras espécies.
 
-Historicamente, você pode ter nascido numa cidade portuária, velejando com frequência, ou pode até ter sido criado em pleno alto-mar. Também é muito comum indivíduos nascidos e criados em embarcações privadas, assim como em um dos grandes Reinos-Balsa de Caldera, como **Ark'Deria** e **Qae'Dramar**. 
-Mas esses são apenas Reinos-Balsa muito conhecidos, pois existem diversos outros reinos flutuantes menores espalhados pelo extenso mar de Caldera. 
+A vida dos velejadores nas Aeronaus e nos Reinos da região costuma ser bem livre, não exigindo grandes Disciplinas ou Restrições, mas é importante notar que *alguns territórios são considerados sagrados para o Povo Razalan*, e estes costumam ser frequentemente vigiados pelas Autoridades Militares da região.
+Estamos falando de alguns Templos Sagrados, Cavernas naturais, e Territórios de cunho religioso, cuja intrusão é considerada como uma afronta aos costumes Razalans.
+Velejadores experientes conhecem esses lugares, e preferem manter distância, mas aero-embarcações de Piratas estão sempre a espreita de uma oportunidade de lucro fácil, ainda mais se isso significar aprender artefatos sagrados de formas ilegal.
 
-Alguns transformam Ilhas em quarteis generais, e criam verdadeiros Reinos Além-Mar, isolados dos grandes continentes. Nascer nesses reinos também significaria estar isolado do mundo, e não estar acostumado com os hábitos dos Povos do Continente.
+Embarcações Piratas estão sempre encontrando uma forma de saquear outras Aeronaus e regiões fragilizadas, e é por isso que assim como em Caldera, velejar nas Aeronaus também fornece seus riscos. 
 
 ## Bônus de Cultura
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 - Agilidade +2
-- Influência +2
 - Resiliência +2
 - Iniciativa +2
+- Espaços de Inventário +2
 
-### Passiva: Resistência ao Frio
+## Habilidades
 
-Seu personagem está normalmente adaptado para resistir ao Frio, conseguindo resistir muito bem a baixas temperaturas sem muitos prejuízos.<br/>
-**Receba +3 de Resistência ao Frio.**<br/>
-Para saber mais sobre as regras de Temperatura consulte a Seção [Efeitos de Terreno](/docs/7-game-rules/terrain-effects).
-
-### Ação: Velejar (Sobrevivência)
-
-Para você, um barco não precisa de capitão, afinal de contas, qualquer Calderiano poderia controlar uma embarcação sem muito trabalho, desde que claro, pudesse instruir sua tripulação de como ajuda-lo neste trabalho.
-Com anos de treino, talvez você até se tornasse um bom Capitão, ou Corsário!
-
-Personagens sem treinamento não poderiam Velejar, nem se tirassem sucessos Decisivos *(na verdade, um Narrador jamais deveria permitir que um personagem fizesse um teste do qual não pode passar)*, mas você apenas precisará fazer um pequeno teste de Sobrevivência para controlar uma embarcação.

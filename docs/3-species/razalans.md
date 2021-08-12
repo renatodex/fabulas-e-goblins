@@ -43,11 +43,13 @@ Os Razalans possuem uma das economias mais ricas do mundo, sendo eles também co
 ## Onde vivem?
 
 Os Razalans são criaturas que se adaptam melhor ao ar rarefeito e a altas atitudes, e é lá que estão localizados a maioria de seus reinos conhecidos.
-O Arquipélago das Ilhas de Ivérnicos, é onde os Anciãos mais respeitados das Terras Misticas residem. 
+Nas Terras Acima das núvens, existem diversos Arquipélagos conhecidos, e o amontoado desses Arquipélagos é frequentemente interpretado como um continente a parte, um continente flutuante conhecido como Arcádia.
+
+Dentre os Arquipélagos famosos estão as Ilhas de Ivérnicos, onde os Anciãos Razalans mais respeitados das Terras Misticas residem. 
 Além disso, muitas das ilhas dos Razalans possuem a capacidade de se locomover, pois os próprios Razalans desenvolveram técnicas e artefatos que permitem controlar a flutuação das Ilhas, sendo o primeiro reino conhecido a utilizar tecnicas de Terraformação para flutuar e mover novas amontoados de terra.
 
 Devido a sua separação física natural de outros reinos terrestres, os Razalans construíram vários postos de transporte espalhados pelo mundo, por onde outras Espécies podem visitá-los.
-De fato, assim como muitas outras espécies, os Razalans são grande incentivadores do turismo entre Reinos, pois de forma geral, acreditam que o contato com outras culturas podem trazer muitos benefícios ao comércio e a economia de suas cidades e Reinos.
+De fato, assim como muitas outras espécies, os Razalans são grande incentivadores do turismo entre Reinos, pois de forma geral, acreditam que o contato com outras culturas podem trazer muitos benefícios ao comércio e a economia de suas cidades e Reinos, e para o continente Arcadiano em geral.
 
 ## Interpretando um Razalan
 
