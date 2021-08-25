@@ -1,0 +1,15 @@
+{
+  "name": "Cultura Luxuosa",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiStarFormation",
+  "element": null,
+  "caption": "O Privilégio pode ser uma dádiva, mas pode cegar o indivíduo aos dilemas da realidade.",
+  "description": "<p>Você inicia o jogo com riqueza extra. Adicione 200 Temirs à sua ficha.</p>",
+  "tags": ["cultural"]
+}

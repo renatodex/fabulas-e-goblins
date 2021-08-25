@@ -4,68 +4,84 @@ title: Filhos de Arcádia
 slug: /6-cultures/children-of-clouds
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import LuxuryCulture from './../../data/spells/luxury_culture.json'
+import LuxuryClothes from './../../data/spells/luxury_clothes.json'
+import MagicalEfficience from './../../data/spells/magical_efficience.json'
+
 Tudo é diferente no mundo acima das Núvens. E nas Terras Místicas, não é só a vida selvagem que conseguiu se adaptar nas altas altitudes. Parar viver neste mundo, você não precisa necessariamente ter nascido como uma criatura alada, assim como os Razalans e os Luminins, pois qualquer um, até mesmo Goblins podem se aventurar nas alturas do continente flutuante Arcádia.
 
 É verdade sim que nas Ilhas flutuantes, também chamadas pelo povo comum de terras Arcadianas, habitam primariamente diversos reinos de origem Razalan, pois essa espécie é conhecida mundialmente por ter surgido de forma primária nesse continente. Mas é importante mencionar, que Arcadia habita muito mais que Reinos Razalans, pois diversos assentamentos Goblins e Armadons podem ser encontrados devido a constante atividade Aeronáutica nos céus das Terras Místicas.
 
-Movidos pela exploração e pela aventura, é muito comum encontrar Aeronaus tripuladas por Goblins, Razalans, Metalóides e outras espécies desbravando as diversas ilhas Arcadianas.
-
-Os Arcadianos, assim como Calderianos do alto-mar, são tradicionalmente conhecidos como indivíduos curiosos, corajosos e com muitas histórias na manga.
+Mas os Filhos da Arcádia não são conhecidos pela exploração ou pela aventura.
+Os Arcadianos, diferente dos Calderianos de alto mar, são tradicionalmente conhecidos como indivíduos mais conservadores, diligentes, aplicados e estudiosos, além de também conhecidos por já terem trazido diversas inovações para a civilização moderna das Terras Místicas.
 
 ## Crenças
 
-Assim com o vida no alto mar fornece os seus perigos, os Arcadianos contam com desafios exclusivos da vida além das núvens. E para sobreviver nessa vida, os Arcadianos encontraram afinidade com algumas divindades muito conhecidas em outras culturas.
+Enquanto uns preferem a agitação da exploração e a aventura, os Arcadianos são acostumados ao silêncio de uma boa biblioteca. Para eles, é lá que a grande aventura realmente se encontra, escondida nos rodapés dos grandes livros empoeirados, esquecidos por civilizações antigas, e que enterram em suas páginas conhecimentos essenciais para o futuro da Civilização.
 
-Dentre elas, está Joromur, o primeiro Pirata dos Céus do Panteão Oriental. Dizem as lendas que Joromur não só teria desenvolvido a própria tecnologia para velejar nos ares, como também teria abatido em uma de suas aventuras, uma Leviatã gigante utilizando sua embarcação lendária: O Lugre Rubro.
+E é natural que, com toda essa sede de conhecimento, os Arcadianos sintam afinidade por divindades Eruditas como Zaravos, Ysanar e até Qabalis.
 
-Sua imagem é frequentemente representada como um Goblin de barba longa portando um arco ornamentado com um minério de raridade lendária, cuja Flecha de Telurita teria sido usada para derrubar a criatura. 
+Záravos, por exemplo, é representado por um grande e velho Mago com características etéreas, e é por muitos considerado o Patrono de todo conhecimento do mundo. Ele possuiria, de acordo com as lendas, o corpo formado inteiramente por energia arcanas, vestidas por densos trajes mágicos de um erudito ancestral.
 
-Além de Joromur, outras divindades presentes na cultura Arcadiana podem ser destacadas, como Ehphyros, o deus Etéreo Ar, além de Baranir, representado na Mitologia Avérnica como o filho legítimo do Deus Qabalis com Dinímia, a Deusa-Espírito da Terra.
-Ambos Baranir e Joromur fizeram façanhas semelhantes, mas enquanto Joromur tinha como objetivo a pura exploração, Baranir buscava a reunião dos Espíritos Primordiais, irmãos de sua amada Dinímia, que de acordo com a Mitologia teriam sido criados pela Faísca gerada no Momento da Dualidade.
+A divindade teria abdicado das limitações físicas, convertendo o próprio corpo em uma massa de energia atemporal. De acordo com Záravos, seria apenas através do sacrifício dos próprios limites, que a verdade permanente poderia ser alcançada.
 
 ## Tradições
 
-Arcadianos são vistos tradicionalmente como indivíduos libertos e corajosos, que não são muito fãs da vida em baixas altitudes. Muitos deles passam a vida toda nas vidas flutuantes, e outros vivem em suas embarcações voadoras.
+Muitos vêem os Arcadianos como indivíduos reservados, mas para eles muitas vezes é dificíl socializar com outros indivíduos que não possuem o mesmo interesse por conhecimento como eles.
+Assuntos do cotidiano podem facilmente entediar um Arcadiano tradicional, pois para eles, o conhecimento e a inovação possibilitada por ele é o que norteia grande parte das ações desses seres estudiosos.
 
-Seja de um jeito ou de outro, a vida em Arcádia oferece muitos tipos de entretenimento, que podem variar entre a **Exploração do Arquipélago**, **Caça Aérea**, **Voo Livre**, ou até mesmo uma vida pacata nos diversos arquipélagos Arcadianos, como **Daleon**, ou as fartas **Ilhas Ivérnicas**, habitadas por diversos anciões Razalans importantes.
+Seja de um jeito ou de outro, a vida em Arcádia oferece muitos tipos de entretenimento eruditos. Um deles é o Grimokai, um jogo de cartas altamente popular no mundo das Terras Místicas.
+Dizem que os melhores jogadores de Grimokai são Arcadianos, pois seu conhecimento e visão de estratégia podem naturalmente superar um grande número de adversários.
 
-Na cultura desses indivíduos, Jovens e Iniciantes passam por alguns rituais para que possam um dia se tornarem Veteranos do Ar.
-Entre esses rituais, está o **Vale do Vento Turvo**, uma região extremamente perigosa de Arcádia onde as correntes de vento podem tomar proporções épicas e imprevisíveis num espaço de tempo muito pequeno.
-O Ritual é simples, mas perigoso, pois exige que o novado Pilote uma Aeronau atravessando o Vale pelo máximo de tempo que conseguir, o que pode se mostrar como um desafio impossível dependendo das condições do momento.
+De fato, a `Imokalia`, corporação por trás da criação e manutenção do jogo, é composta majoriariamente por Arcadianos, que muito frequentemente são **Razalans**, ou pelo menos é isso que dizem os boatos.
 
-Esses rituais tem o objetivo de preparar Pilotos novatos para situações perigosas, onde precisarão usar ao máximo sua intuição e criatividade para resolver problemas enquanto estão no ar.
+E por falar em boatos, dentre as tradições Arcadianas, existem muitos mitos que norteiam os livros, conhecimentos específicos e até mesmo a arquitetura de Bibliotecas.
+Muitos dos eruditos acreditam na existência de livros ancestrais, cuja criação data da própria criação da magia. Nesses livros, teoriza-se que rituais mágicos específicos poderiam conter instruções precisas de como reverter ou até de como realizar o temido feitiço do **Blecaute**.
+
+Passagens secretas em Bibliotecas ancestrais poderiam revelar um caminho esquecido para uma coleção rara tomos e grimórios lendários.
+De fato, muitas localizações no mundo contém portas seladas magicamente, cuja intrusão forçada é impossível de ser realizada.
+
+Para os Arcadianos, aqueles que obtivessem o conhecimento correto seriam capazes de abrir essas portas, revelando o caminho para a obtenção de conhecimentos inimagináveis.
 
 ## Seus Trajes
 
 As altas altitudes das Ilhas Arcadianas exigem um dress code adequado e necessário para sobreviver as baixas temperaturas do Arquipélago.
 Muitas vezes, o frio se dá pelas intensas correntes de ar, que são comuns para Arcadianos navegando em Aeronaus pelas ilhas, outras vezes, a precipitação das núvens no ar podem carregar grandes quantidades de gelo, o que contribui para as baixas temperaturas.
 
-Já nos arquipélagos, o clima é variado, podendo ser agradável, desértico e até congelante.
-Por isso, Arcadianos sempre precisam estar preparados, e nada melhor que carregar consigo Trajes leves de Couro de Cromodon e Mantas Plumadas.
+De forma geral, a roupagem de Arcádia é bem luxuosa, o que faz com que o uso de Mantas Plumadas, Túnicas de Algodão Oxidado, e Robes ornamentados sejam muito comuns para estes indivíduos.
 
-Além disso, tradicionalmente os Arcadianos viajantes são tradicionalmente conhecidos por indivíduos precavidos, por carregarem uma grande quantidade de acessórios em suas vestimentas funcionais, que podem variar de cintos de utilidades, braceletes utilitários, cordas, facas, ganchos, bússolas e diversos outros itens utilitários que frequentemente são importante nas Aventuras pelos céus de Arcádia.
-Não é atoa que a "preparação Arcadiana" é uma expressão tão comum nas Terras Místicas!
+Mas nem todos são estudiosos sedentários, muitos deles são guerreiros que descendem de uma linhagem de Eruditos, ou cuja missão envolve a proteção de um local ou pessoa.
+Nesses casos, a utilização de vestes pesadas pode ser um problema para locomoção ágil desses indivíduos, o que não é exatamente um problema prático, pois os diversos reinos do Arquipélagos possuem vestimentas adequadas para Guerreiros e Lutadores de combate ágil. (Praticidade com luxo, eles dizem!)
+
+Não é atoa que a expressão: *"Vista-se como um Arcadiano"* é tão comum em outras partes do mundo.
 
 ## Criando um Filho de Arcádia
 
-Personagens dessa cultura frequentemente possuem uma história de vida atrelada com o continente flutuante. Talvez você tenha nascido em um dos diversos territórios de Arcádia, como as **Ilhas Ivérnicas**, o **Arquipélago de Dalenia** ou as **Ilhas Kalari**. Ou talvez tenha passado a vida em uma Aeronau desbravando os diversos territórios suspensos de Arcádia.
+Personagens dessa cultura frequentemente possuem uma história de vida atrelada com o continente flutuante. Talvez você tenha nascido em um dos diversos territórios de Arcádia, como as **Ilhas Ivérnicas**, o **Arquipélago de Dalenia** ou as **Ilhas Kalari**. Ou até mesmo migrado para região devido a eventos externos ou incontroláveis.
 
-Reinos como **Ivérnia** e **Daleon** são conhecidos por serem populados de forma predominante por **Razalans**,  o que é uma característica comum de Reinos de Arcádia devido as suas origens, mas que não evita que esses Reinos e Territórios também sejam partilhados por diversas outras espécies.
+Reinos como **Ivérnia** e **Daleon** são conhecidos por serem populados de forma predominante por **Razalans**,  o que é uma característica comum de **Reinos de Arcádia** devido as suas origens, mas que não evita que esses Reinos e Territórios também sejam partilhados por diversas outras espécies.
 
-A vida dos velejadores nas Aeronaus e nos Reinos da região costuma ser bem livre, não exigindo grandes Disciplinas ou Restrições, mas é importante notar que *alguns territórios são considerados sagrados para o Povo Razalan*, e estes costumam ser frequentemente vigiados pelas Autoridades Militares da região.
-Estamos falando de alguns Templos Sagrados, Cavernas naturais, e Territórios de cunho religioso, cuja intrusão é considerada como uma afronta aos costumes Razalans.
-Velejadores experientes conhecem esses lugares, e preferem manter distância, mas aero-embarcações de Piratas estão sempre a espreita de uma oportunidade de lucro fácil, ainda mais se isso significar aprender artefatos sagrados de formas ilegal.
+A vida dos **Filhos das Núvens** costuma ser bastante calma e erudita. A circulação pelos reinos é livre, mas é pouco comum, pois muitos destes indivíduos acabam se apegando aos lugares que vivem.
+Mas é importante notar que *alguns territórios são considerados sagrados para Eruditos das Núvens*, e estes costumam ser frequentemente vigiados pelas Autoridades Militares da região.
+Estamos falando de alguns Templos Sagrados, Cavernas naturais, e Territórios de cunho religioso, cuja intrusão é considerada como uma afronta aos costumes dessa cultura.
 
-Embarcações Piratas estão sempre encontrando uma forma de saquear outras Aeronaus e regiões fragilizadas, e é por isso que assim como em Caldera, velejar nas Aeronaus também fornece seus riscos. 
+Algumas vezes os estudiosos e eruditos precisam realizar viajens longas para outros locais do Arquipélago flutuante para estudar conhecimentos que não estão disponíveis na sua região de origem. Essa é muitas vezes a causa da migração dos Filhos das Núvens.
 
 ## Bônus de Cultura
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Agilidade +2
-- Resiliência +2
-- Iniciativa +2
-- Espaços de Inventário +2
+- Intelecto +3
+- Elo Mágico +2
+- Resiliência +1
+- P.M +3
 
 ## Habilidades
 
+<SpellFromJson spellData={LuxuryCulture} />
+<SpellFromJson spellData={LuxuryClothes} />
+
+- Cultura Luxuosa - Começa com dinheiro Extra (uns 100 Temir a mais)
+- Trajes de Luxo - Começa com Trajes de Luxo independente do Grimo
+- Eficiência Mágica - Todas as Habilidades Custam -1 P.M.

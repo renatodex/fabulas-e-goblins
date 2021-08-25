@@ -1,0 +1,15 @@
+{
+  "name": "Trajes de Luxo",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiRolledCloth",
+  "element": null,
+  "caption": "Algumas pessoas levam a sério a expressão: \"Vista-se como um Arcadiano.\"",
+  "description": "<p>Você pode iniciar o jogo utilizando roupas finas, independente do personagem ou espécie que escolher.</p>",
+  "tags": ["cultural"]
+}
