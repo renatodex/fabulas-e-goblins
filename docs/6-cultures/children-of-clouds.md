@@ -81,7 +81,4 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 <SpellFromJson spellData={LuxuryCulture} />
 <SpellFromJson spellData={LuxuryClothes} />
-
-- Cultura Luxuosa - Começa com dinheiro Extra (uns 100 Temir a mais)
-- Trajes de Luxo - Começa com Trajes de Luxo independente do Grimo
-- Eficiência Mágica - Todas as Habilidades Custam -1 P.M.
+<SpellFromJson spellData={MagicalEfficience} />
