@@ -9,8 +9,8 @@ No jogo, possuir uma Cultura diferente significa ter valores distintos e únicos
 
 ## Recomendação de Uso
 
-Nossa recomendação é que as Culturas sejam utilizadas **apenas depois que a História de Origem do Personagem (Background) já foi definida pelo Jogador e aceita pelo Narrador**. 
-Isso porquê, muitas vezes, as Histórias de Origem dos personagens podem acabar sendo sub-priorizadas, pois elas exigem que o Jogador "faça o dever de casa", e gaste um tempo fora da sessão de jogo para responder perguntas como: 
+Nossa recomendação é que as Culturas sejam utilizadas **apenas depois que a História de Origem do Personagem (Background) já foi definida pelo Jogador e aceita pelo Narrador**.
+Isso porquê, muitas vezes, as Histórias de Origem dos personagens podem acabar sendo sub-priorizadas, pois elas exigem que o Jogador "faça o dever de casa", e gaste um tempo fora da sessão de jogo para responder perguntas como:
 
 - "Onde meu personagem nasceu?"
 - "Quais foram seus traumas?"

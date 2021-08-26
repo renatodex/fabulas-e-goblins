@@ -1,11 +1,11 @@
 ---
-id: roles-priest
+id: roles-tank
 title: Suporte
-slug: /5-roles/roles-priest
+slug: /5-roles/roles-tank
 ---
 
 O Tanque é um papel de Defesa, focado em puxar a atenção do maior número de inimigos para si, para que o grupo tenha tempo de agir.
-No campo de batalha preferem gerar a maior exposição possível, devido a sua alta capacidade de sobrevivência. 
+No campo de batalha preferem gerar a maior exposição possível, devido a sua alta capacidade de sobrevivência.
 
 ### Características Base
 
