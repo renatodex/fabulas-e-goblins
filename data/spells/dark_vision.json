@@ -1,0 +1,15 @@
+{
+  "name": "Visão no Escuro",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Com o tempo, os olhos podem se adaptar à escuridão.",
+  "description": "<p>Permite enxergar +1 quadrado, mesmo sem fonte de iluminação.</p>",
+  "tags": ["cultural"]
+}

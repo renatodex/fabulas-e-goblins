@@ -1,0 +1,15 @@
+{
+  "name": "Meditação",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiMeditation",
+  "element": null,
+  "caption": "Aqueles que possuem a conexão com o mundo espiritual podem utilizar sua energia alcançar a cura.",
+  "description": "<p>Uma vez por dia você pode entrar em transe com o mundo Espiritual para recuperar (1*Lv/5)d8 de P.V</p>",
+  "tags": ["cultural"]
+}

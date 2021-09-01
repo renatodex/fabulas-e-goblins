@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-islands
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import LuxuryCulture from './../../data/spells/luxury_culture.json'
-import LuxuryClothes from './../../data/spells/luxury_clothes.json'
-import MagicalEfficience from './../../data/spells/magical_efficience.json'
+import SpiritualConversion from './../../data/spells/spiritual_conversion.json'
+import Meditation from './../../data/spells/meditation.json'
+import SenseEnergy from './../../data/spells/sense_energy.json'
 
 Os Nativos, ou Filhos das Ilhas, são um grupo seleto de pessoas que habitam as Ilhas dos Arquipélagos Terrestres das Terras Místicas. Essas Ilhas são ambientes de terra virgem que são guardados e protegidos por tribos Nativas ancestrais.
 
@@ -72,6 +72,6 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 ## Habilidades
 
-- Conversão Espiritual - Seu espirito é mais resistente a traumas, receba +4 de Bônus ao resistir a Traumas de morte.
-- Meditação - Uma vez por dia você pode entrar em transe com o mundo Espiritual para recuperar (1*Lv/5)d12 de P.V
-- Sentir Energia - Sua conexão espiritual pode permiti-lo sentir uma presença espiritual relevante em uma localidade.
+<SpellFromJson spellData={SpiritualConversion} />
+<SpellFromJson spellData={Meditation} />
+<SpellFromJson spellData={SenseEnergy} />
