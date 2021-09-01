@@ -1,0 +1,15 @@
+{
+  "name": "Montaria Inicial",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Inicial",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiHorseshoe",
+  "element": null,
+  "caption": "Quem preza os próprios joelhos sabe quando pode ser perigoso viajar distancias longas a pé.",
+  "description": "<p>Você inicia o jogo com uma Montaria Inicial (escolhas: Cromodon, Bungan).</p>",
+  "tags": ["cultural"]
+}
