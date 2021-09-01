@@ -99,7 +99,7 @@ As Culturas disponíveis são:
         </tr>
         <tr>
             <td>Filhos da Tempestade</td>
-            <td>Ascendência, Religião, Ordem</td>
+            <td>Doutrina, Religião, Ordem</td>
             <td>Túnicas elegantes, capuzes e adereços religiosos</td>
             <td>Quaemanir, Dzeranir, Ysanar</td>
             <td>Destino +3, Influência +3, Espírito +3</td>
