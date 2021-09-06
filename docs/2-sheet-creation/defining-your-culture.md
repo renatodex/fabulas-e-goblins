@@ -105,18 +105,18 @@ As Culturas disponíveis são:
             <td>Destino +3, Influência +3, Espírito +3</td>
         </tr>
         <tr>
-            <td>Filhos das Planícies</td>
+            <td>Filhos do Povo Livre</td>
             <td>Agricultura, Comércio, Fronteiras</td>
             <td>Trajes típico de viajantes, com muitas aberturas e bolsos</td>
             <td>Somonir, Joromur, Aypheria</td>
             <td>Influência +4, Agilidade +1, Inventário +2, Mod. Ataque +1</td>
         </tr>
         <tr>
-            <td>Filhos da Montanha</td>
-            <td>Expedição, Vigília, Riqueza</td>
+            <td>Filhos de Eregor</td>
+            <td>Ceticismo, Tecnologia, Forja</td>
             <td>Roupas ornamentadas, túnicas banhadas em ouro e pequenas jóias como adereços</td>
-            <td>Beremord, Ogoron, Taphyria</td>
-            <td>Força +4, Temirs +800, Influência +2</td>
+            <td>Moltron, Razandibu e Beremord</td>
+            <td>Força +4, Influência + 2, Resiliência +2</td>
         </tr>
         <tr>
             <td>Filhos das Profundezas</td>

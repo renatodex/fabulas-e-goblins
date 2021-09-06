@@ -1,0 +1,15 @@
+{
+  "name": "Metal Leve",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiMovementSensor",
+  "element": null,
+  "caption": "Seu hábito com a utilização de armaduras metálicas lhe permite locomover com mais facilidade.",
+  "description": "<p>Fornece um Bônus Passivo de +2 para anular qualquer Penalidade de movimento no uso de Equipamentos</p>",
+  "tags": ["cultural"]
+}

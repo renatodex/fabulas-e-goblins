@@ -1,0 +1,15 @@
+{
+  "name": "Armadura de Metal",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Inicial",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiMetalScales",
+  "element": null,
+  "caption": "Você possui uma Armadura de sobreposição com placas de Metal que lhe conferem resistência extra contra ataques.",
+  "description": "<p>A Armadura de sobreposição pode ser instalada sob vestes de tecido e couro, ou pode ser integrada a armaduras de metal. Você recebe Defesa + 2</p>",
+  "tags": ["cultural"]
+}
