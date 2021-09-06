@@ -119,9 +119,9 @@ As Culturas disponíveis são:
             <td>Força +4, Influência + 2, Resiliência +2</td>
         </tr>
         <tr>
-            <td>Filhos das Profundezas</td>
-            <td>Mistério, Equilíbrio, Honra</td>
-            <td>Couro aquático, Esnorques, Túnicas de Lã de Algas</td>
+            <td>Filhos de Timéria</td>
+            <td>Mistério, Equilíbrio, Respeito</td>
+            <td>Couro aquático, Exo-Esqueletos, Túnicas de Lã de Algas</td>
             <td>Koroma, Lazan, Gaeria</td>
             <td>Elo Mágico +4, Espírito +3, Força +2</td>
         </tr>

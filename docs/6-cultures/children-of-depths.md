@@ -1,71 +1,88 @@
 ---
 id: children-of-depths
-title: Filhos das Profundezas
+title: Filhos de Timéria
 slug: /6-cultures/children-of-depths
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import SpiritualConversion from './../../data/spells/spiritual_conversion.json'
-import Meditation from './../../data/spells/meditation.json'
-import SenseEnergy from './../../data/spells/sense_energy.json'
+import FatigueImmunity from './../../data/spells/fatigue_immunity.json'
+import SeaMagic from './../../data/spells/sea_magic.json'
+import AquaShell from './../../data/spells/aqua_shell.json'
 
-Profundezas DO OCEANO
+Enquanto as Espécies da superfície batizaram o extenso mar das Terras Místicas como Caldera, para os povos dessa cultura, ele é muito mais que um mero impecílio de transporte.<br/>
+Batizado pelos antigos **Valdari** como o Mar de **Timeria**, ele representa todo o território dos oceanos submersos (não se engane, pois existem Oceanos suspensos!). Por esse motivo, é muito comum se referir ao Povo Submerso como Timerianos.
 
-## Crenças
+Como um Filho de Timéria, você nasceu e viveu por um longo tempo nas Terras do Oceano de Timéria, seja em um pequeno vilarejo, ou em uma das grandes cidades submersas como `Baion`, `Cardumia` ou `Pomedon`.
 
-Nas Ilhas, divindades como Ogoron, Herodus e Dinímia são frequentemente veneradas, devido a sua conexão espiritual e sabedoria infinita.
+O Mar de Timéria é também o cemitério de civilizações primordiais, templos antigos e ruínas que escondem muitos mistérios.<br/>
+É um território inexplorado, cujos limites ainda não foram completamente mapeados.
 
-Ogoron por exemplo é uma figura temida pelos **La'Mai** a gerações. Ele é simbolizado por um grande passaro negro coberto por trevas. É a representação essencial da própria escuridão, e sua presença sinaliza um grande desequílibrio, ou **"Agumane"** *(Agu: Oposto, Mane: Equilíbrio)*, na lingua Ancestral.
+A Cultura `Timeriana` é sobre Mistério, Equilíbrio e Respeito, sendo muito admirada por reinos Terranos.
 
-Outra Divindade muito conhecida é **Herodus**, ela é vista como uma Goblin idosa, cujas mãos carregam um belo Cajado rústico feito com Ossos cuidadosamente polidos.
-A civilização **Lunir** é conhecida historicamente por apoiar e exaltar a deusa Herodus, e acreditam que ela teria dado ao povo pré-**Lunir** o conhecimento para unificar os outros povos das ilhas, que estiveram em guerra por Milênios.
-Diferente de outros relatos de divindades, as escritas antigas dos Lunirs apontam que Herodus teria realmente vivido entre as montanhas de **Vonimus**, tendo sido inclusive responsável por desenvolver e registrar a evolução do Alfabeto Ancestral.
+## Crenças e Tradições
 
-Estudos da escrita bíblica dos **Lunirs** teriam revelado que o termo "Herodus" não era explicitamente o nome da Divindade, mas um título, que seria dado ao nascimento Divino do indivíduo escolhido para trazer a União. (Hoero => Divino, Odus => União). Na fala popular, o termo *"Hoero Odus"* acabou sendo encurtado para apenas "Herodus"
+As Crenças e Tradições dessa cultura estão muito relacionadas com as da própria espécie `Valdari`, pois em Eras passadas, eles foram a única Espécie sensciente conhecida por habitar as Terras de `Timéria`.
+E apesar de hoje em dia seus reinos serem, em sua maioria, mistos, e populados por diversas espécies do mundo todo, a educação e religião dos grandes reinos ainda é majoritariamente `Valdari`.
 
-## Tradições
+Os Timerianos possuem seu próprio panteão de Divindades, que também é baseado no **Panteão Timeriano**.
+As **Ostres** são largamente consideradas divindades primordiais da formação de **Timéria**, e teriam sidoresponsáveis, de acordo com as lendas antigas, não só pela criação do `Mar de Calderia`, como chamam os **Goblins**, mas também pela criação de toda a vida existente nas Terras Místicas.
 
-No continente, é muito comum a impressão que os Nativos sejam apenas hermitões isolados em suas ilhas e fadados ao encolhimento, mas a história revela que os Nativos tem se tornado cada vez mais forte, enrijecendo suas conexões com o mundo espiritual e transformando seus lares em um verdadeiro Farol para a sabedoria da vida e o aprendizado sobre outros planos.
-
-Nos templos do povo **La'Mai**, existem sacerdotes muito experiêntes que são frequentemente procurados por Aventureiros veteranos do continente para receber seus ensinamentos.
-Já os **Gougans** se orgulham de sua arte de combate utilizando a *Magia do Espírito*, e seu treinamento especial é cada vez mais procurado entre os Aventureiros de fora.
-
-Seria impossível descrever cada detalhe intrínseco da cultura desses povos, mas um ritual popular em muitos desses povos é o **Mortkai**, onde os jovens são exilados de suas aldeias quando atingem a fase adulta, e apenas podem retornar ao seu lar após 5 anos.
-
-O não retorno é considerado uma traição, e ocasiona no banimento automatico do indivíduo ao seu povo.
+Além do `Ostrecismo` (religião que acredita nas `Ostres` como divindades), os `Timerianos` acabaram trazendo da Terra a veneração à outras entidades, como `Koroma`, `Lazan` e `Gaéria`.
 
 ## Seus Trajes
 
-Os Nativos das ilhas costumam usar Trajes de origem tribal. É muito comum encontrar o uso de Mantos rúnicos e muitos adereços e acessórios para refletir os costumes e religião dos povos das Ilhas.
+Os Timerianos costumam utilizar trajes híbridos, criados muitas vezes partir da mistura da cultura `Terrana` com a cultura `Valdari`, que frequentemente utilizam materiais e recursos encontrados no fundo do mar para a sua confecção.
+O couro da `Alga Garbalena` é frequentemente utilizado para construção de Trajes leves, além de peças de armaduras construídas com Exo-Esqueletos e Escamas de Gonshu.
 
-Além das vestimentas, marcações corporais são frequentemente encontradas entre os Povos Nativos, como Tatuagens, Piercings e outros tipos de Pinturas faciais.
-Esses adereços frequentemente remetem a adoração de suas divindades, ou até mesmo de heróis que viveram em tempos passados.
+Na parte de adereços, o `Arbum` (ou Tinta de `Blob`), é frequentemente usada para tatuagens corporais que simbolizam o orgulho aos Reinos Submersos, além das **Runas Tatúnicas** (forjadas pelos Bruxos de `Pomedon`), que se fundem aos corpos do `Timeriano` como uma marca corporal, e que concedem bençãos permanentes até que seja desequipadas.
 
-Totens, Artefatos Rúnicos e itens de herança são também formas comuns que os Povos Nativos encontraram para se comunicar com suas vidas passadas, com o mundo espiritual, e com a magia.
+## A Fatiga do Fôlego
 
-## Criando um Filho das Ilhas
+Um **Goblin** ou **Armadon** nascidos em `Timéria` não são fisicamente diferente de um **Goblin** ou **Armadon** `Terrano`. Porém, há uma característica anatômica importante.
 
-Um personagem nessa cultura está interligado com seus costumes e tradições. Talvez tenha vivido nas ilhas desde nascencia, ou talvez seja um estrangeiro que acabou se integrando aos seus costumes.
+Quando um `Terrano` desce aos reinos Submersos, ele pode utilizar equipamentos próprios para respirar no Oceano, ou pode ser envolto por uma `Magia de Contenção` (`Aquashell`), muito segura e frequentemente utilizada.
 
-Muitos Nativos migram para o continente durante o período do **Mortkai**, que pode variar entre Povo e cultura, mas o fato é que esse também é um motivo comum para aventureiros terem deixado sua terra natal.
+A `Aquashell` permite ao terrano respirar normalmente abaixo D'agua, por tempo indeterminado até que ela seja removida pelo conjurador.<br/>
+Então teoricamente, os Reinos de Timéria podem ser visitados normalmente por `Terranos`, com uma única ressalva:
 
-Nativos banidos de suas terras por quebrarem suas tradições também são comuns, pois as vezes as leis naturais dos povos **La'Mai** ou **Gougans** podem ser punitivas com aqueles que não se adaptam aos seus costumes ancestrais.
+Sempre que um `Terrano` faz um **Descanço Prolongado** nos Oceanos salgados de Timéria, ele recebe uma carga de `Fatiga de Fôlego`. Esse efeito reduz de forma temporária **-2 P.V** do `Terrano`.<br/>
+Se um `Terrano` passar 3 dias abaixo d'agua, ele receberá 3 cargas de `Fatiga de Fôlego`, reduzindo seus P.V totais em **-6 P.V**.
 
-Seja como for, um Nativo recém-chegado ao continente pode estranhar a liberdade dos reinos e a quantidade diversa de religiões e tradições. Ele pode ter dificuldade para se adaptar a um mundo onde pessoas não são destinadas a cargos ou responsabilidades antes mesmo de nascer, e pode estranhar o desprezo de um povo com a sua própria Terra.
+O efeito negativo apenas será removido se o `Terrano` retornar a Terra e passar lá fora o mesmo tempo que passou dentro do Oceano.<br/>
+Em outras palavras mais mecânicas, a cada **Descanço Prolongado** que o `Terrano` tiver em terra firme, ele recuperará 1 (uma) carga de `Fatiga do Fôlego`, o equivalente a `+2 P.V`.
 
-A ligação espiritual é um dos aspectos mais importantes da Cultura das Ilhas, e personagens vindos dessa cultura podem não estar acostumados ao relativo desprezo ou até mesmo dificuldade dos reinos modernos de compreender a importância do mundo espiritual.
+A diferença entre `Terranos` e `Timerianos`, é que os `Timerianos` nativos não são afetados pela `Fatiga de Fôlego`.
+
+A única excessão se aplica a Espécie `Valdari`, que não precisa de uma Mágica para respirar dentro dágua, pois é uma espécie Híbrida, mas ainda é afetada pela `Fatiga de Fôlego`, a menos que também tenha a cultura `Filhos de Timéria`.
+
+## Conjuração Mágica
+
+Para um `Terrano`, conjurar Magia em `Timéria` pode ser ligeiramente mais difícil.
+Enquanto um `Timeriano` pode utilizar seu `Grimo` normalmente, a conjuração Mágica para os `Terranos` possui um Custo adicional base de **+2 P.M**.<br/>
+Outros poderes podem especificar um custo pré-definido para ser conjurado dentro D'água.
+
+Além disso, mesmo Elementos normalmente opostos como o **Fogo** podem ser conjurados normalmente em `Timéria`, a única diferença é que seu efeito luminoso não é tão intenso como na Terra, e sua textura costuma ser mais "gelatinosa".
+
+Em `Timéria`, o elemento `Ar` não existe como um Elemento Mecânico, além de não haverem criaturas do tipo `Ar`. Itens ou Magias que aplicam efeitos ou dano baseados no elemento `Ar` podem ser utilizados normalmente, mas seus efeitos elementais são substituidos mecanicamente pelo elemento `Água`.
+
+## Criando um Filho de Timéria
+
+Por ser nascido em Timéria, você já está acostumado com a vida no Fundo do Mar, e por isso, é inevitável que você conheça pelo menos um pouco sobre os costumes do tradicional povo `Valdari` (mesmo que você não seja um `Valdari`).
+
+A vida em `Timéria` é tranquila desde que você respeite os limites da exploração. Alguns locais não estão sob a proteção dos Grandes Reinos, e explorá-los pode significar uma ofensa aos Reinos locais e ao `Ostrecismo` (religião `Timeriana` que venera as grandes `Odes` como Divindades).
+
+Como `Timeriano`, você é visto sem grandes preconceitos pelos `Terranos`, mas o uso de Trajes de Algas e Exo-Esqueletos pode parecer um pouco incomum em Reinos Terrestres.
 
 ## Bônus de Cultura
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
+- Elo Mágico +4
 - Espírito +3
-- Elo Mágico +2
-- Sobrevivência +1
-- P.M +4
+- Força +2
 
 ## Habilidades
 
-<SpellFromJson spellData={SpiritualConversion} />
-<SpellFromJson spellData={Meditation} />
-<SpellFromJson spellData={SenseEnergy} />
+<SpellFromJson spellData={FatigueImmunity} />
+<SpellFromJson spellData={SeaMagic} />
+<SpellFromJson spellData={AquaShell} />

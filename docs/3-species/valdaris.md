@@ -41,7 +41,7 @@ Sendo geralmente orgulhosos de sua origem, os Reinos Valdari geralmente vêem co
 
 ## Onde Vivem?
 
-Grandes Reino Valdarianos como Baion, Cardumia e Pomedon são bastante conhecidos pelo seu poderio e influência religiosa sobre todas as terras submersas.
+Grandes Reino Valdarianos como `Baion`, `Cardumia` e `Pomedon` são bastante conhecidos pelo seu poderio e influência religiosa sobre todas as terras submersas.
 
 Também muito influente, o **Conselho dos Saru**, é uma entidade independente conhecida por serem conselheiros dos grandes governadores dos Reinos Valdari, sendo ela composta por Valdaris Ancestrais de grande respeito conhecidos como **Sarunins**.
 
@@ -49,7 +49,7 @@ Dentre os poderosos **Sarunins** estão Sacerdotes, Arcanistas e Profetas que s�
 
 ## O mundo de Timéria
 
-Dentre biomas vastos como Florestas, Planícies e Cavernas subterrâneas, o mundo de Timéria é tão grande e inexplorado quanto as próprias Terras Místicas. 
+Dentre biomas vastos como Florestas, Planícies e Cavernas subterrâneas, o mundo de Timéria é tão grande e inexplorado quanto as próprias Terras Místicas.
 Além disso, algumas regiões de Timéria são bloqueadas por grandes amontuados de terra, cujo acesso se dá apenas através de passagens profundas.
 
 O problema é que grande parte dessas passagens são habitadas por criaturas massivas com dezenas de metros de comprimento e muito temidas pelo Povo Valdari, conhecidas como Ípiros, uma espécie de Peixe semi-sensciente que é capaz de dominar magia elemental em grande escala. *(ou como os Calderianos costumam chamar, "Dragões do Mar")*
@@ -68,7 +68,7 @@ De fato, o **Ostrecismo** não acredita que as Ostres teriam nascido e vivido no
 
 ## Interpretando um Valdari
 
-Ao criar um personagem Valdari, você estará potencialmente criando um habitando dos mares, cuja vida ou parte dela tenha se originado em **Timéria**. 
+Ao criar um personagem Valdari, você estará potencialmente criando um habitando dos mares, cuja vida ou parte dela tenha se originado em **Timéria**.
 
 Os conhecimentos sobre a Sociedade, a Cultura e a Religião Valdari muito provavelmente serão naturais de seu personagem, a menos que a sua história diga o contrário, e não justifique esses conhecimentos.
 
