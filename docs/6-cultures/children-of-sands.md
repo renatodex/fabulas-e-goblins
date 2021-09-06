@@ -5,7 +5,7 @@ slug: /6-cultures/children-of-sands
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import FreeFlight from './../../data/spells/free_flight.json'
+import SharpWeapon from './../../data/spells/sharp_weapon.json'
 import HeatResistance from './../../data/spells/heat_resistance.json'
 import FindWater from './../../data/spells/find_water.json'
 
@@ -23,7 +23,7 @@ A fundação dos reinos desérticos se iniciou com a vinda dos Armadons para Gal
 
 Os Armadons foram cruciais para que esses reinos pudessem nascer no coração da areia, e junto com Armadons, muitos de seus costumes e culturas também foram mesclados as fundações das cidades.
 
-Moltron, o Espírito do Fogo, é representado como um grande Aburu de Lava e venerado como o Deus do Fogo e da Força pelos povos Saibron. Outra Igreja muito presente nos Povos da Areia é a Igreja de Valamir, que enaltece o Herói, Profeta e Explorador, cuja posse da Espada Lendária "Sabre dos ventos" ajudou a conquistar os Reinos do Mediterrâneo e que de acordo com antigos manuscritos, teria também culminado na chegada dos Armadons em Galantia. 
+Moltron, o Espírito do Fogo, é representado como um grande Aburu de Lava e venerado como o Deus do Fogo e da Força pelos povos Saibron. Outra Igreja muito presente nos Povos da Areia é a Igreja de Valamir, que enaltece o Herói, Profeta e Explorador, cuja posse da Espada Lendária "Sabre dos ventos" ajudou a conquistar os Reinos do Mediterrâneo e que de acordo com antigos manuscritos, teria também culminado na chegada dos Armadons em Galantia.
 
 Também muito venerado entre os Povos de Areia é o Deus Valeon, uma divindade do Panteão Avérnico que é dita como filho do Deus Supremo conhecido como Tronus. Valeon, o Primeiro Cavaleiro, teria libertado os povos antigos, através da sua conexão com a poderosa Energia Arcana.
 
@@ -39,7 +39,7 @@ Na região, existe menos preferência na utilização armas a distância, pois o
 
 ## Criando um Filho da Areia
 
-Personagens alinhados com a Cultura do Filho da Areia podem ter uma personalidade forte. 
+Personagens alinhados com a Cultura do Filho da Areia podem ter uma personalidade forte.
 Podem ser mais brutos, ou ter dificuldade para se espressar de forma delicada com outros indivíduos.
 Por outro lado, poderão também ser personagens criativos, que sabem como se livrar de uma situação complexa através criatividade.
 
@@ -60,4 +60,4 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 <SpellFromJson spellData={FindWater} />
 <SpellFromJson spellData={HeatResistance} />
-<SpellFromJson spellData={FreeFlight} />
+<SpellFromJson spellData={SharpWeapon} />
