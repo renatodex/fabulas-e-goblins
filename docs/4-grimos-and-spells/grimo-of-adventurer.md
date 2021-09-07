@@ -135,7 +135,7 @@ Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavale
 
 ### Habilidades - Tier 2
 
-Essas são Habilidades do Tier 2, e só podem ser aprendidas a partir do Nível 5 do Grimo.
+Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
 <SpellFromJson spellData={armored2} />
 <SpellFromJson spellData={duel} />
@@ -150,7 +150,7 @@ Essas são Habilidades do Tier 2, e só podem ser aprendidas a partir do Nível 
 
 ### Habilidades - Tier 3
 
-Essas são Habilidades do Tier 2, e só podem ser aprendidas a partir do Nível 5 do Grimo.
+Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 <SpellFromJson spellData={crucial_block} />
 <SpellFromJson spellData={elemental_defense_aura} />
@@ -162,3 +162,18 @@ Essas são Habilidades do Tier 2, e só podem ser aprendidas a partir do Nível 
 <SpellFromJson spellData={spiral_attack} />
 <SpellFromJson spellData={stunning_blast} />
 <SpellFromJson spellData={trained_parry} />
+
+### Habilidades - Tier 4
+
+Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
+<SpellFromJson spellData={aurea_action} />
+<SpellFromJson spellData={elemental_instance} />
+<SpellFromJson spellData={epic_blow} />
+<SpellFromJson spellData={etereal_cavalry} />
+<SpellFromJson spellData={honor_instance} />
+<SpellFromJson spellData={knights_shielding} />
+<SpellFromJson spellData={lion_force} />
+<SpellFromJson spellData={powerful_duel} />
+<SpellFromJson spellData={reflex_master} />
+<SpellFromJson spellData={shields_purge} />
