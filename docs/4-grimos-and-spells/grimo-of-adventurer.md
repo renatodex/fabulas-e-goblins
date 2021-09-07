@@ -43,6 +43,18 @@ import spiral_attack from './../../data/spells-knight/tier3/spiral_attack.json'
 import stunning_blast from './../../data/spells-knight/tier3/stunning_blast.json'
 import trained_parry from './../../data/spells-knight/tier3/trained_parry.json'
 
+import aurea_action from './../../data/spells-knight/tier4/aurea_action.json'
+import elemental_instance from './../../data/spells-knight/tier4/elemental_instance.json'
+import epic_blow from './../../data/spells-knight/tier4/epic_blow.json'
+import etereal_cavalry from './../../data/spells-knight/tier4/etereal_cavalry.json'
+import honor_instance from './../../data/spells-knight/tier4/honor_instance.json'
+import knights_shielding from './../../data/spells-knight/tier4/knights_shielding.json'
+import lion_force from './../../data/spells-knight/tier4/lion_force.json'
+import powerful_duel from './../../data/spells-knight/tier4/powerful_duel.json'
+import reflex_master from './../../data/spells-knight/tier4/reflex_master.json'
+import shields_purge from './../../data/spells-knight/tier4/shields_purge.json'
+
+
 A Academia de Cavalaria é o local onde muitos Aventureiros são treinados para se tornarem Cavaleiros em diversos reinos do mundo.<br/>
 Diferente de muitas Academias, Os jovens Aventureiros apenas podem ingressar na Academia através de de um processo rígido de indicação, onde os Mestres Cavaleiros avaliarão a procedência e legitimidade do indicador.
 

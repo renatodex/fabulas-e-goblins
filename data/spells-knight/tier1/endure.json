@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Endurecer",
+  "magic_cost": "2 P.M",
   "duration_time": null,
-  "attack_logic": "Físico",
+  "attack_logic": null,
   "action_type": "Ativa",
   "cast_distance": 0,
-  "range_amount": "1",
-  "range_type": "Alvo",
+  "range_amount": null,
+  "range_type": null,
   "icon": "GiStripedSword",
   "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "caption": "Uma aura de proteção amarelada parece emanar de seu Grimo, cobrindo o seu corpo e fornecendo proteção contra os ataques inimigos.",
+  "description": "<p>A aura afeta apenas seu personagem e confere uma redução de 5*TIER pontos de dano no próximo ataque inimigo.<br/>Não é necessário realizar testes para usar este poder.<br/>Endurecer não custa uma ação, e pode ser usado antes de um ataque.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }
