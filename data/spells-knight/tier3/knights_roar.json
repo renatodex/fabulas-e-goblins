@@ -7,7 +7,7 @@
   "cast_distance": 7,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiStripedSword",
+  "icon": "GiBearFace",
   "element": null,
   "caption": "Como um bom Cavaleiro, você lidera ataque contra um único alvo, inspirando seus aliados a fazer o mesmo.",
   "description": "<p>Esta habilidade não gasta nenhuma ação para ser feita, mas apenas pode ser feita durante o seu turno.<br/>Ao atacar um alvo, você permite que um aliado, ainda no seu turno, possa fazer uma ação de movimento e uma de ataque comum. O ataque precisa ser feito contra o mesmo alvo que você está atacando. Se o seu ataque foi feito contra múltiplos alvos, o Aliado pode escolher.</p>",

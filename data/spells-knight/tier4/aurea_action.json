@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Ação Áurea",
+  "magic_cost": "100% P.M",
   "duration_time": null,
   "attack_logic": "Físico",
   "action_type": "Ativa",
   "cast_distance": 0,
-  "range_amount": "1",
-  "range_type": "Alvo",
-  "icon": "GiStripedSword",
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNinjaHeroicStance",
   "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "caption": "Todos acharam que seria impossível. Um feito reservado apenas para lendas fictícias, histórias que contamos para as crianças para alimentar sua esperança, mas que nunca se concretizariam no mundo real.<br/>Apenas ele, o Cavaleiro, contra todas as possibilidades e estatísticas, diante de todas as barreiras do mundo, sabe em seu âmago que é possível realizar.<br/>Apenas um louco tentaria isso...ou um Cavaleiro.",
+  "description": "<p>Uma vez por ano de jogo, você pode realizar uma Ação Aurea. Isso significa que a sua próxima rolagem, independente da dificuldade da ação, será sempre um sucesso decisivo.<br/>Isso não significa que o Narrador deverá deixá-lo realizar ações impossíveis, ou irreais, ou que quebrem a própria realidade do jogo. Ao invés disso, isso significa que você pode realizar ações bem sucedidas em momentos críticos e certeiros, e encará-las como resultados épicos, com o mesmo mérito de um Sucesso Decisivo natural (ou até mais mérito!).<br/>A Ação Áurea é uma ação precisa e perfeita, algo que todos diriam ser impossível, mas que com sua habilidade, pode tornar-se realizável.<br/>Para ativá-la, você precisa declarar uma Ação e um alvo (se houver), e pode evocar a Ação Áura mesmo que não possua Pontos de Magia ou de Vida suficientes para utilizar a Ação.<br/>Se a escolha da Ação Áurea for uma habilidade (que não a própria), a habilidade poderá ser utilizada mesmo que já possua restrições, como é o caso de habilidades Especiais.<br/>A habilidade Especial Ação Áurea não pode ser usada para utilizar a própria habilidade Ação Áurea.<br/>Essa habilidade também não conta como uma Ação, portanto, pode ser utilizada no turno do Cavaleiro antes que ele tenha agido, ou durante, mas também pode ser utilizada como uma Reação.<br/>A única excessão é que essa habilidade não pode ser usada como Reação para um momento de morte. (quando o personagem chega a 0 P.V)*<br/><b>Essa habilidade pode ser utilizada normalmente durante o tempo do poder &quot;Instância de Honra&quot;.</b></p>",
   "tags": ["ultimate", "grimo", "knight"]
 }

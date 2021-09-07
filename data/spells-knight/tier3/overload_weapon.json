@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiStripedSword",
+  "icon": "GiGooeySword",
   "element": null,
   "caption": "Canalizando uma grande quantidade de energia na sua arma, ela se torna mais potente por um breve período, podendo desferir um ataque impressionante.",
   "description": "<p>Ao sobrecarregar sua arma, você dobra o resultado do seu dano, caso acerte um ataque normal.<br/>Além disso, qualquer propriedade que a arma possua também é intensificada. Características de Arma como Envenenar, Queimar ou Congelar recebem um adicional de +4.<br/>Intensificar Armas comuns custa 4 P.M. Para Armas Mágicas, o custo é de 8 P.M, e para Armas de Herança o custo é de 12 P.M.</p>",

@@ -7,7 +7,7 @@
   "cast_distance": 5,
   "range_amount": "2x2",
   "range_type": "Área",
-  "icon": "GiStripedSword",
+  "icon": "GiIonCannonBlast",
   "element": null,
   "caption": "A ira do Cavaleiro desce sobre seus inimigos, canalizando uma energia incrível que flui do Grimo para sua arma, disparando uma rajada poderosa que atordoa seus inimigos.",
   "description": "<p>Você canaliza o poder do Grimo em sua arma, desferindo uma forte rajada numa área 2x2, causando 3D8+6 de dano e atordoando todos inimigos atingidos.</p>",

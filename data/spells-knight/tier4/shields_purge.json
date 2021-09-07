@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Escudo do Expurgo",
+  "magic_cost": "14 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
   "action_type": "Ativa",
   "cast_distance": 0,
-  "range_amount": "1",
+  "range_amount": "X",
   "range_type": "Alvo",
-  "icon": "GiStripedSword",
-  "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "icon": "GiExplosionRays",
+  "element": "holy",
+  "caption": "Você se encontra cercado por seus inimigos, mas ao levantar seu escudo para o ar e pedir a proteção do seu Grimo, um feixe de energia poderosa o atinge, lhe dando o poder para afasta-los, enquanto causa um dano gigantesco.",
+  "description": "<p>Esse poder só pode ser usado se o personagem estiver engajado com mais de 1 inimigo.<br/>Para cada inimigo engajado com você, um feixe de luz desce do céu e atinge o seu escudo, causando uma explosão que empurra todos os alvos engajados, causando 3D20, que estaca a cada inimigo adjacente, até um limite de 10. [Fórmula = (3*N#Inimigos)d20]<br/>O dano é causado igualmente em todos inimigos, exigindo apenas um único teste de ataque.<br/>No caso de falha (excepto por falha crítica), a explosão ainda causa metade do dano.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }
