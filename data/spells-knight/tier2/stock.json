@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Estocar",
+  "magic_cost": "6 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
   "action_type": "Ativa",
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiStripedSword",
+  "icon": "GiPiercingSword",
   "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "caption": "As vezes, Estocar pode ser o caminho mais curto para o sucesso, driblando qualquer possível defesa de um alvo desprevinido.",
+  "description": "<p>Seu Grimo lhe confere o conhecimento de uma técnica especial conhecida como Estocada. A Estocada é uma manobra que causa grande dano ao inimigo, diminuindo parte de sua resistência.<br/>A manobra de ataque que causa 3D8 + 4 de dano. Ao realizar o ataque, você recebe um bônus de +1 de ataque momentâneo devido a técnica desta habilidade.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }

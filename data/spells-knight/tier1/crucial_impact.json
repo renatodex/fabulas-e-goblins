@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiStripedSword",
+  "icon": "GiPiercingSword",
   "element": null,
   "caption": "Uma Energia incrível emana de seu Grimo, e você canaliza um poderoso ataque, que consome sua própria vitalidade para causar dano em um alvo.",
   "description": "<p>O Impacto devera ser testado contra a Defesa Física de um único Alvo, consumindo 1d4 de P.V a cada 2 Níveis e causando 1d6 de Dano a cada 2 Níveis.<br/>É considerado como um ataque fisico, então deve ser feito a Distância da arma.</p>",

@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Ataque Duplo Focado",
+  "magic_cost": "5 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
   "action_type": "Ativa",
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiStripedSword",
+  "icon": "GiDervishSwords",
   "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "caption": "Você usa toda sua inércia para realizar um ataque duplo, que pode causar o dobro de dano no inimigo.",
+  "description": "<p>Para usar o Ataque Duplo, você não poderá ter se movido no seu turno. Ele também também exige que você esteja em plena forma, por isso, não poderá estar sofrendo nenhuma condição Negativa, Doença ou Maldição.<br/>O Ataque Duplo é um ataque de origem mágica, que flui diretamente do seu Grimo, e por isso, possui um custo de Pontos de Magia.<br/>Ao utilizar este poder, você deverá rolar dois ataques, um seguido do outro, como se estivesse atacando duas vezes. A falha em um ataque não impede que o outro seja realizado, ambos os ataques são realizados de forma independente. (a não ser que uma Falha Crítica diga o contrário)</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }
