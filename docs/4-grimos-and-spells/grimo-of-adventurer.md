@@ -5,8 +5,43 @@ slug: /4-grimos-and-spells/grimo-of-adventurer
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import Bash from './../../data/spells-knight/tier1/bash.json'
-import KnightsFury from './../../data/spells-knight/tier1/knights_fury.json'
+
+import knights_fury from './../../data/spells-knight/tier1/knights_fury.json'
+
+import armored from './../../data/spells-knight/tier1/armored.json'
+import bash from './../../data/spells-knight/tier1/bash.json'
+import cavalry from './../../data/spells-knight/tier1/cavalry.json'
+import crucial_impact from './../../data/spells-knight/tier1/crucial_impact.json'
+import disorient from './../../data/spells-knight/tier1/disorient.json'
+import endure from './../../data/spells-knight/tier1/endure.json'
+import hammerboy from './../../data/spells-knight/tier1/hammerboy.json'
+import knights_magic from './../../data/spells-knight/tier1/knights_magic.json'
+import lancerboy from './../../data/spells-knight/tier1/lancerboy.json'
+import squire_specialization from './../../data/spells-knight/tier1/squire_specialization.json'
+import swordman from './../../data/spells-knight/tier1/swordman.json'
+import warrior_resistance from './../../data/spells-knight/tier1/warrior_resistance.json'
+
+import armored2 from './../../data/spells-knight/tier2/armored.json'
+import duel from './../../data/spells-knight/tier2/duel.json'
+import focused_double_attack from './../../data/spells-knight/tier2/focused_double_attack.json'
+import improved_strength from './../../data/spells-knight/tier2/improved_strength.json'
+import precise_parry from './../../data/spells-knight/tier2/precise_parry.json'
+import right_hit from './../../data/spells-knight/tier2/right_hit.json'
+import sismic_parry from './../../data/spells-knight/tier2/sismic_parry.json'
+import squire_specialization2 from './../../data/spells-knight/tier2/squire_specialization.json'
+import stock from './../../data/spells-knight/tier2/stock.json'
+import wear_resistance from './../../data/spells-knight/tier2/wear_resistance.json'
+
+import crucial_block from './../../data/spells-knight/tier3/crucial_block.json'
+import elemental_defense_aura from './../../data/spells-knight/tier3/elemental_defense_aura.json'
+import impetuous_impact from './../../data/spells-knight/tier3/impetuous_impact.json'
+import inspiring_bash from './../../data/spells-knight/tier3/inspiring_bash.json'
+import knights_roar from './../../data/spells-knight/tier3/knights_roar.json'
+import overload_weapon from './../../data/spells-knight/tier3/overload_weapon.json'
+import reflect_magic from './../../data/spells-knight/tier3/reflect_magic.json'
+import spiral_attack from './../../data/spells-knight/tier3/spiral_attack.json'
+import stunning_blast from './../../data/spells-knight/tier3/stunning_blast.json'
+import trained_parry from './../../data/spells-knight/tier3/trained_parry.json'
 
 A Academia de Cavalaria é o local onde muitos Aventureiros são treinados para se tornarem Cavaleiros em diversos reinos do mundo.<br/>
 Diferente de muitas Academias, Os jovens Aventureiros apenas podem ingressar na Academia através de de um processo rígido de indicação, onde os Mestres Cavaleiros avaliarão a procedência e legitimidade do indicador.
@@ -79,13 +114,51 @@ Ainda sim, uma das grandes virtudes que se destacam na criação do Grimo é sua
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
-<SpellFromJson spellData={KnightsFury} />
+<SpellFromJson spellData={knights_fury} />
 
 ### Habilidades - Tier 1
 
 Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
 
-<SpellFromJson spellData={Bash} />
+<SpellFromJson spellData={armored} />
+<SpellFromJson spellData={bash} />
+<SpellFromJson spellData={cavalry} />
+<SpellFromJson spellData={crucial_impact} />
+<SpellFromJson spellData={disorient} />
+<SpellFromJson spellData={endure} />
+<SpellFromJson spellData={hammerboy} />
+<SpellFromJson spellData={knights_magic} />
+<SpellFromJson spellData={lancerboy} />
+<SpellFromJson spellData={squire_specialization} />
+<SpellFromJson spellData={swordman} />
+<SpellFromJson spellData={warrior_resistance} />
 
+### Habilidades - Tier 2
 
+Essas são Habilidades do Tier 2, e só podem ser aprendidas a partir do Nível 5 do Grimo.
 
+<SpellFromJson spellData={armored2} />
+<SpellFromJson spellData={duel} />
+<SpellFromJson spellData={focused_double_attack} />
+<SpellFromJson spellData={improved_strength} />
+<SpellFromJson spellData={precise_parry} />
+<SpellFromJson spellData={right_hit} />
+<SpellFromJson spellData={sismic_parry} />
+<SpellFromJson spellData={squire_specialization2} />
+<SpellFromJson spellData={stock} />
+<SpellFromJson spellData={wear_resistance} />
+
+### Habilidades - Tier 3
+
+Essas são Habilidades do Tier 2, e só podem ser aprendidas a partir do Nível 5 do Grimo.
+
+<SpellFromJson spellData={crucial_block} />
+<SpellFromJson spellData={elemental_defense_aura} />
+<SpellFromJson spellData={impetuous_impact} />
+<SpellFromJson spellData={inspiring_bash} />
+<SpellFromJson spellData={knights_roar} />
+<SpellFromJson spellData={overload_weapon} />
+<SpellFromJson spellData={reflect_magic} />
+<SpellFromJson spellData={spiral_attack} />
+<SpellFromJson spellData={stunning_blast} />
+<SpellFromJson spellData={trained_parry} />

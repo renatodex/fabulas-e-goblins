@@ -1,0 +1,15 @@
+{
+  "name": "Skill",
+  "magic_cost": "X P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiStripedSword",
+  "element": null,
+  "caption": "This Skill is strong",
+  "description": "<p>This is the description</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}
