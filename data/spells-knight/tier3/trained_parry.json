@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Aparo Treinado II",
+  "magic_cost": null,
   "duration_time": null,
   "attack_logic": "Físico",
-  "action_type": "Ativa",
+  "action_type": "Reação",
   "cast_distance": 0,
-  "range_amount": "1",
-  "range_type": "Alvo",
+  "range_amount": null,
+  "range_type": null,
   "icon": "GiStripedSword",
   "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "caption": "Seus reflexos são superiores, e você pode aparar vários ataques, mesmo em situações desfavoráveis.",
+  "description": "<p>Receba 2 (dois) Tokens de Aparo.<br/>Duas vezes por dia, quando uma ação sua ou do inimigo gerar um ou mais ataques de oportunidade contra você, você pode gastar um token para aparar automaticamente todos os ataques da ocasião, evitando qualquer dano que seria causado. Os Tokens dessa Skill e da Skill anterior não se acumulam.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }

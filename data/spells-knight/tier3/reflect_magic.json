@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Refletir Mágica",
+  "magic_cost": "6 P.M",
   "duration_time": null,
-  "attack_logic": "Físico",
-  "action_type": "Ativa",
+  "attack_logic": "Mágica",
+  "action_type": "Reação",
   "cast_distance": 0,
-  "range_amount": "1",
-  "range_type": "Alvo",
+  "range_amount": null,
+  "range_type": null,
   "icon": "GiStripedSword",
   "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "caption": "Você usa o poder de seu Grimo para reagir ao dano iminente de um projétil mágico e redirecioná-lo ao inimigo.",
+  "description": "<p>A ação pode acontecer a qualquer momento, mas exige um teste bem sucedido de Agilidade para ser direcionada corretamente ao seu alvo.<br/>Essa ação deve ser realizada como uma ação Trágica. Sendo que falhas críticas normalmente resultam em aliados atingidos.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }

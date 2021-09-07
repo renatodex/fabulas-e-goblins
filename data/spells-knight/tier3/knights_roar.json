@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "X P.M",
+  "name": "Grito do Cavaleiro",
+  "magic_cost": "6 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
   "action_type": "Ativa",
-  "cast_distance": 0,
+  "cast_distance": 7,
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiStripedSword",
   "element": null,
-  "caption": "This Skill is strong",
-  "description": "<p>This is the description</p>",
+  "caption": "Como um bom Cavaleiro, você lidera ataque contra um único alvo, inspirando seus aliados a fazer o mesmo.",
+  "description": "<p>Esta habilidade não gasta nenhuma ação para ser feita, mas apenas pode ser feita durante o seu turno.<br/>Ao atacar um alvo, você permite que um aliado, ainda no seu turno, possa fazer uma ação de movimento e uma de ataque comum. O ataque precisa ser feito contra o mesmo alvo que você está atacando. Se o seu ataque foi feito contra múltiplos alvos, o Aliado pode escolher.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }
