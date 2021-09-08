@@ -18,7 +18,8 @@
     "docusaurus-plugin-sass": "^0.1.11",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-icons": "^4.2.0"
+    "react-icons": "^4.2.0",
+    "react-spring": "^9.2.4"
   },
   "browserslist": {
     "production": [

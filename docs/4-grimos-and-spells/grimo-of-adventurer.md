@@ -126,66 +126,66 @@ Ainda sim, uma das grandes virtudes que se destacam na criação do Grimo é sua
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
-<SpellFromJson spellData={knights_fury} />
+<SpellFromJson expanded={false} spellData={knights_fury} />
 
 ### Habilidades - Tier 1
 
 Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
 
-<SpellFromJson spellData={armored} />
-<SpellFromJson spellData={bash} />
-<SpellFromJson spellData={cavalry} />
-<SpellFromJson spellData={crucial_impact} />
-<SpellFromJson spellData={disorient} />
-<SpellFromJson spellData={endure} />
-<SpellFromJson spellData={hammerboy} />
-<SpellFromJson spellData={knights_magic} />
-<SpellFromJson spellData={lancerboy} />
-<SpellFromJson spellData={squire_specialization} />
-<SpellFromJson spellData={swordman} />
-<SpellFromJson spellData={warrior_resistance} />
+<SpellFromJson expanded={false} spellData={armored} />
+<SpellFromJson expanded={false} spellData={bash} />
+<SpellFromJson expanded={false} spellData={cavalry} />
+<SpellFromJson expanded={false} spellData={crucial_impact} />
+<SpellFromJson expanded={false} spellData={disorient} />
+<SpellFromJson expanded={false} spellData={endure} />
+<SpellFromJson expanded={false} spellData={hammerboy} />
+<SpellFromJson expanded={false} spellData={knights_magic} />
+<SpellFromJson expanded={false} spellData={lancerboy} />
+<SpellFromJson expanded={false} spellData={squire_specialization} />
+<SpellFromJson expanded={false} spellData={swordman} />
+<SpellFromJson expanded={false} spellData={warrior_resistance} />
 
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
-<SpellFromJson spellData={armored2} />
-<SpellFromJson spellData={duel} />
-<SpellFromJson spellData={focused_double_attack} />
-<SpellFromJson spellData={improved_strength} />
-<SpellFromJson spellData={precise_parry} />
-<SpellFromJson spellData={right_hit} />
-<SpellFromJson spellData={sismic_parry} />
-<SpellFromJson spellData={squire_specialization2} />
-<SpellFromJson spellData={stock} />
-<SpellFromJson spellData={wear_resistance} />
+<SpellFromJson expanded={false} spellData={armored2} />
+<SpellFromJson expanded={false} spellData={duel} />
+<SpellFromJson expanded={false} spellData={focused_double_attack} />
+<SpellFromJson expanded={false} spellData={improved_strength} />
+<SpellFromJson expanded={false} spellData={precise_parry} />
+<SpellFromJson expanded={false} spellData={right_hit} />
+<SpellFromJson expanded={false} spellData={sismic_parry} />
+<SpellFromJson expanded={false} spellData={squire_specialization2} />
+<SpellFromJson expanded={false} spellData={stock} />
+<SpellFromJson expanded={false} spellData={wear_resistance} />
 
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
-<SpellFromJson spellData={crucial_block} />
-<SpellFromJson spellData={elemental_defense_aura} />
-<SpellFromJson spellData={impetuous_impact} />
-<SpellFromJson spellData={inspiring_bash} />
-<SpellFromJson spellData={knights_roar} />
-<SpellFromJson spellData={overload_weapon} />
-<SpellFromJson spellData={reflect_magic} />
-<SpellFromJson spellData={spiral_attack} />
-<SpellFromJson spellData={stunning_blast} />
-<SpellFromJson spellData={trained_parry} />
+<SpellFromJson expanded={false} spellData={crucial_block} />
+<SpellFromJson expanded={false} spellData={elemental_defense_aura} />
+<SpellFromJson expanded={false} spellData={impetuous_impact} />
+<SpellFromJson expanded={false} spellData={inspiring_bash} />
+<SpellFromJson expanded={false} spellData={knights_roar} />
+<SpellFromJson expanded={false} spellData={overload_weapon} />
+<SpellFromJson expanded={false} spellData={reflect_magic} />
+<SpellFromJson expanded={false} spellData={spiral_attack} />
+<SpellFromJson expanded={false} spellData={stunning_blast} />
+<SpellFromJson expanded={false} spellData={trained_parry} />
 
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
-<SpellFromJson spellData={aurea_action} />
-<SpellFromJson spellData={elemental_instance} />
-<SpellFromJson spellData={epic_blow} />
-<SpellFromJson spellData={etereal_cavalry} />
-<SpellFromJson spellData={honor_instance} />
-<SpellFromJson spellData={knights_shielding} />
-<SpellFromJson spellData={lion_force} />
-<SpellFromJson spellData={powerful_duel} />
-<SpellFromJson spellData={reflex_master} />
-<SpellFromJson spellData={shields_purge} />
+<SpellFromJson expanded={false} spellData={aurea_action} />
+<SpellFromJson expanded={false} spellData={elemental_instance} />
+<SpellFromJson expanded={false} spellData={epic_blow} />
+<SpellFromJson expanded={false} spellData={etereal_cavalry} />
+<SpellFromJson expanded={false} spellData={honor_instance} />
+<SpellFromJson expanded={false} spellData={knights_shielding} />
+<SpellFromJson expanded={false} spellData={lion_force} />
+<SpellFromJson expanded={false} spellData={powerful_duel} />
+<SpellFromJson expanded={false} spellData={reflex_master} />
+<SpellFromJson expanded={false} spellData={shields_purge} />

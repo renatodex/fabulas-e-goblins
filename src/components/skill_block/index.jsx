@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, Fragment } from 'react'
 import styles from './style.module.scss'
 import { RiRulerLine } from 'react-icons/ri';
 import { HiOutlineClock } from 'react-icons/hi';
+import { useSpring, animated } from 'react-spring'
 
 export function TagLabel ({ icon, children, mode = 'light' }) {
     const themeClass = mode == 'light' ? 'taglabel--light' : 'taglabel--dark'
@@ -11,7 +12,7 @@ export function TagLabel ({ icon, children, mode = 'light' }) {
                 {icon}
             </span>
             <span className={styles['taglabel__label']}>
-                {children}  
+                {children}
             </span>
         </div>
     )
@@ -38,14 +39,14 @@ export function Icon ({ name, icon, mode = 'light' }) {
 
     return (
         <div className={`${styles['spell-block__icon']} ${styles[themeClass]}`}>
-            <div className={styles['spell-block__icon-wrapper']}>   
+            <div className={styles['spell-block__icon-wrapper']}>
                 {IconComponent}
             </div>
         </div>
     )
 }
 
-export function SpellFromJson ({ spellData }) {
+export function SpellFromJson ({ spellData, expanded = true }) {
     return (
         <Spell
             name={spellData.name}
@@ -58,21 +59,24 @@ export function SpellFromJson ({ spellData }) {
             range_type={spellData.range_type}
             icon={spellData.icon}
             element={spellData.element}
+            expanded={expanded}
         >
+          <Fragment>
             <Caption>
                 <div
-                    dangerouslySetInnerHTML={{
-                        __html: spellData.caption,
-                    }}
+                  dangerouslySetInnerHTML={{
+                    __html: spellData.caption,
+                  }}
                 />
             </Caption>
             <Description>
                 <div
-                    dangerouslySetInnerHTML={{
-                        __html: spellData.description,
-                    }}
+                  dangerouslySetInnerHTML={{
+                    __html: spellData.description,
+                  }}
                 />
             </Description>
+          </Fragment>
         </Spell>
     )
 }
@@ -88,8 +92,24 @@ export function Spell ({
     range_type,
     children,
     icon,
+    expanded,
     element = 'default',
 }) {
+  const [expandToggle, setExpandToggle] = useState(expanded)
+  const props = useSpring({
+    config: { duration: 180 },
+    to: {
+      opacity: (expandToggle ? 1 : 0),
+      transform: (expandToggle ? 'scaleY(1)' : 'scaleY(0)'),
+      maxHeight:  (expandToggle ? '1000px' : '0px'),
+    },
+    from: {
+      opacity: (expandToggle ? 0 : 1),
+      transform: (expandToggle ? 'scaleY(0)' : 'scaleY(1)'),
+      maxHeight:  (expandToggle ? '0px' : '1000px'),
+    },
+  })
+
   let mode = 'light';
   if (element == 'eletric' || element == 'acid' || element == 'chaos') {
     mode = 'dark'
@@ -112,7 +132,10 @@ export function Spell ({
 
   return (
     <div className={`${styles['spell-block']} ${styles[`spell-block--${element || 'default'}`]}`}>
-        <div className={styles['spell-block__header']}>
+        <div
+          className={styles['spell-block__header']}
+          onClick={e => { setExpandToggle(!expandToggle) }}
+        >
             <div className={styles['spell-block__col1']}>
                 <div className={styles['spell-block__iconleft']}>
                     {attack_logic && (
@@ -137,7 +160,7 @@ export function Spell ({
                         {magic_cost}
                       </TagLabel>
                     )}
-                    
+
                     {duration_time && (
                         <TagLabel mode={mode}>
                             <HiOutlineClock />
@@ -153,7 +176,7 @@ export function Spell ({
                             {cast_distance} | {range_type} {range_amount}
                         </TagLabel>
                     )}
-                    
+
                     {elementMap && (
                         <TagLabel mode={mode}>
                             {elementMap}
@@ -163,9 +186,9 @@ export function Spell ({
             </div>
         </div>
 
-        <div className={styles['spell-block__body']}>
-            {children}
-        </div>
+           <animated.div style={props} className={styles['spell-block__body']}>
+                {children}
+           </animated.div>
     </div>
   )
 }
