@@ -1,6 +1,6 @@
 ---
 id: grimo-of-hunter
-title: Grimo do Sobrevivente
+title: Grimo do Hermitão
 slug: /4-grimos-and-spells/grimo-of-hunter
 ---
 
