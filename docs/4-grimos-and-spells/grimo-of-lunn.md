@@ -4,6 +4,56 @@ title: Grimo de Lunn
 slug: /4-grimos-and-spells/grimo-of-lunn
 ---
 
+import lunns_echo from './../../data/spells-lunn/ultimates/lunns_echo.json'
+
+import chosens_miracle from './../../data/spells-lunn/tier1/chosens_miracle.json'
+import healer_vitality from './../../data/spells-lunn/tier1/healer_vitality.json'
+import healing_touch from './../../data/spells-lunn/tier1/healing_touch.json'
+import iluminate from './../../data/spells-lunn/tier1/iluminate.json'
+import light_beam from './../../data/spells-lunn/tier1/light_beam.json'
+import magical_blessing from './../../data/spells-lunn/tier1/magical_blessing.json'
+import pray from './../../data/spells-lunn/tier1/pray.json'
+import purge_curge from './../../data/spells-lunn/tier1/purge_curge.json'
+import repel_darkness from './../../data/spells-lunn/tier1/repel_darkness.json'
+import repel_light from './../../data/spells-lunn/tier1/repel_light.json'
+import resist_curse from './../../data/spells-lunn/tier1/resist_curse.json'
+import reveal_spirits from './../../data/spells-lunn/tier1/reveal_spirits.json'
+import sterilize_poison from './../../data/spells-lunn/tier1/sterilize_poison.json'
+
+import anti_paralizis_blessing from './../../data/spells-lunn/tier2/anti_paralizis_blessing.json'
+import anti_poison_blessing from './../../data/spells-lunn/tier2/anti_poison_blessing.json'
+import defensive_blessing from './../../data/spells-lunn/tier2/defensive_blessing.json'
+import healing_beam from './../../data/spells-lunn/tier2/healing_beam.json'
+import healing_touch2 from './../../data/spells-lunn/tier2/healing_touch2.json'
+import healing_unction from './../../data/spells-lunn/tier2/healing_unction.json'
+import iluminate2 from './../../data/spells-lunn/tier2/iluminate2.json'
+import purge_evil from './../../data/spells-lunn/tier2/purge_evil.json'
+import snatch_ally from './../../data/spells-lunn/tier2/snatch_ally.json'
+import unchurch from './../../data/spells-lunn/tier2/unchurch.json'
+
+import anti_charm_blessing from './../../data/spells-lunn/tier3/anti_charm_blessing.json'
+import chosens_miracle_benevolence from './../../data/spells-lunn/tier3/chosens_miracle_benevolence.json'
+import exorcismus from './../../data/spells-lunn/tier3/exorcismus.json'
+import faith_sacrifice from './../../data/spells-lunn/tier3/faith_sacrifice.json'
+import hololo from './../../data/spells-lunn/tier3/hololo.json'
+import light_beam_powerful from './../../data/spells-lunn/tier3/light_beam_powerful.json'
+import light_pillar from './../../data/spells-lunn/tier3/light_pillar.json'
+import light_stars from './../../data/spells-lunn/tier3/light_stars.json'
+import powerful_pray from './../../data/spells-lunn/tier3/powerful_pray.json'
+import regenerate from './../../data/spells-lunn/tier3/regenerate.json'
+
+import angelicus from './../../data/spells-lunn/tier4/angelicus.json'
+import aurelium from './../../data/spells-lunn/tier4/aurelium.json'
+import columna_lucis from './../../data/spells-lunn/tier4/columna_lucis.json'
+import ezomaximum from './../../data/spells-lunn/tier4/ezomaximum.json'
+import impositio_dogmas from './../../data/spells-lunn/tier4/impositio_dogmas.json'
+import infinitus from './../../data/spells-lunn/tier4/infinitus.json'
+import jugamentum from './../../data/spells-lunn/tier4/jugamentum.json'
+import magnus_impositio from './../../data/spells-lunn/tier4/magnus_impositio.json'
+import potentis from './../../data/spells-lunn/tier4/potentis.json'
+import translocus from './../../data/spells-lunn/tier4/translocus.json'
+import ultimatum from './../../data/spells-lunn/tier4/ultimatum.json'
+
 A Igreja de Lunn é essencialmente uma religião que dedica sua veneração ao Deus Lunn, um suposto Goblin que teria chegado nas Terras Místicas eras atrás, e que teria sido responsável pelo advento dos Goblins no mundo.<br/>
 O alcance da devoção a Lunn se extende a diversos continentes, sendo seu símbolo adorado por inúmeras Civilizações e Espécies distintas.<br/>
 Mas enquanto alguns apenas adoram seus feitos e ensinamentos, outros procuram o caminho da palavra, se tornando verdadeiros Sacerdotes de Lunn.<br/>
