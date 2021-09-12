@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": null,
   "caption": "Caption",
-  "description": "<p></p>",
+  "description": "<p>Translocus (Permite ao Sacerdote realizar uma translocação como ação de movimento)</p>",
   "tags": ["grimo", "lunn"]
 }

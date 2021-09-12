@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": null,
   "caption": "Caption",
-  "description": "<p></p>",
+  "description": "<p>Regenerar (cura por turno)</p>",
   "tags": ["grimo", "lunn"]
 }

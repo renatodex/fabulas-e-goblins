@@ -4,6 +4,8 @@ title: Grimo de Lunn
 slug: /4-grimos-and-spells/grimo-of-lunn
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
 import lunns_echo from './../../data/spells-lunn/ultimates/lunns_echo.json'
 
 import chosens_miracle from './../../data/spells-lunn/tier1/chosens_miracle.json'
@@ -87,68 +89,68 @@ Após o Blecaute, muitos Terrores deixaram o manto da Escuridão para encobrir a
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
-- Eco de Lunn
+<SpellFromJson expanded={false} spellData={lunns_echo} />
 
 ### Habilidades - Tier 1
 
-Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
+Essas são as habilidades iniciais do Grimo de Lunn. Normalmente, um Sacerdote inicial seleciona duas dessas habilidades para compor sua build inicial.
 
-- Toque de Cura
-- Exorcizar Maldição
-- Oração
-- Revelar Espíritos
-- Esterlizar Veneno
-- Feixe de Luz
-- Benção Mágica
-- Milagre do Escolhido
-- Repelir a Luz
-- Repelir a Escuridão
-- Vigor do Curandeiro
-- Resistir à Maldição
-- Iluminar
+<SpellFromJson expanded={false} spellData={chosens_miracle} />
+<SpellFromJson expanded={false} spellData={healer_vitality} />
+<SpellFromJson expanded={false} spellData={healing_touch} />
+<SpellFromJson expanded={false} spellData={iluminate} />
+<SpellFromJson expanded={false} spellData={light_beam} />
+<SpellFromJson expanded={false} spellData={magical_blessing} />
+<SpellFromJson expanded={false} spellData={pray} />
+<SpellFromJson expanded={false} spellData={purge_curge} />
+<SpellFromJson expanded={false} spellData={repel_darkness} />
+<SpellFromJson expanded={false} spellData={repel_light} />
+<SpellFromJson expanded={false} spellData={resist_curse} />
+<SpellFromJson expanded={false} spellData={reveal_spirits} />
+<SpellFromJson expanded={false} spellData={sterilize_poison} />
 
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
-- Expurgar o Mal
-- Feixe Curativo
-- Benção Anti-Veneno
-- Benção Anti-Paralizia
-- Arrebatar Aliado
-- Escomungar
-- Iluminar
-- Benção Defensiva
-- Toque de Cura
-- Unção de Cura
+<SpellFromJson expanded={false} spellData={anti_paralizis_blessing} />
+<SpellFromJson expanded={false} spellData={anti_poison_blessing} />
+<SpellFromJson expanded={false} spellData={defensive_blessing} />
+<SpellFromJson expanded={false} spellData={healing_beam} />
+<SpellFromJson expanded={false} spellData={healing_touch2} />
+<SpellFromJson expanded={false} spellData={healing_unction} />
+<SpellFromJson expanded={false} spellData={iluminate2} />
+<SpellFromJson expanded={false} spellData={purge_evil} />
+<SpellFromJson expanded={false} spellData={snatch_ally} />
+<SpellFromJson expanded={false} spellData={unchurch} />
 
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
-- Benção Anti-Charme
-- Hololo (Converte inimigo humanoide de pouca fé)
-- Oração Poderosa (+4 de defesa)
-- Milagre do Escolhido: Benevolência (aliado não morre quando chega a 0)
-- Estrelas de Luz (Ilumina sala inteira)
-- Feixe de Luz: Poderoso
-- Pilar de Luz (inimigo impura entra e recebe dano, estaca até 3)
-- Regenerar (cura por turno)
-- Sacrifício da Fé (Melhora cura em 1d6, remove 6 P.V de forma permanente)
-- Exorcismus (Área de Dano Undead)
+<SpellFromJson expanded={false} spellData={anti_charm_blessing} />
+<SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
+<SpellFromJson expanded={false} spellData={exorcismus} />
+<SpellFromJson expanded={false} spellData={faith_sacrifice} />
+<SpellFromJson expanded={false} spellData={hololo} />
+<SpellFromJson expanded={false} spellData={light_beam_powerful} />
+<SpellFromJson expanded={false} spellData={light_pillar} />
+<SpellFromJson expanded={false} spellData={light_stars} />
+<SpellFromJson expanded={false} spellData={powerful_pray} />
+<SpellFromJson expanded={false} spellData={regenerate} />
 
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
-- Magnus Impositio (Aumenta em 3d12+10 os P.M de um alvo)
-- Ezomaximum (Cura todos P.V de um aliado e fornece 3d12+10 de PV Temporario. Pode ser usado apenas uma vez por encontro)
-- Infinitus (Roda 1D100 para aprisionar um inimigo em outra dimensão. Pode ser usado em inimigos Épicos, mas requer 5 turnos de duração e requer reagente emocional do inimigo)
-- Translocus (Permite ao Sacerdote realizar uma translocação como ação de movimento)
-- Angelicus (Passiva: Dá imunidade ao elemento Luz)
-- Impositio Dogmas (Como uma ação de Reação, uma vez por encontro, pode realizar uma segunda ação)
-- Jugamentum (Um raio de Luz que causa dano gigantesco)
-- Aurelium (Aura que permite Re-rolar um resultado mal sucedido no dado)
-- Potentis (Passiva, Aumenta em 3d12 toda cura realizada como uma ação)
-- Columna Lucis (Cada cura realizada como uma ação conjura 1 Pilar de luz)
-- Ultimatum (Se transforma em pura luz para curar toda a Party (P.V, P.M e condições negativas))
+<SpellFromJson expanded={false} spellData={angelicus} />
+<SpellFromJson expanded={false} spellData={aurelium} />
+<SpellFromJson expanded={false} spellData={columna_lucis} />
+<SpellFromJson expanded={false} spellData={ezomaximum} />
+<SpellFromJson expanded={false} spellData={impositio_dogmas} />
+<SpellFromJson expanded={false} spellData={infinitus} />
+<SpellFromJson expanded={false} spellData={jugamentum} />
+<SpellFromJson expanded={false} spellData={magnus_impositio} />
+<SpellFromJson expanded={false} spellData={potentis} />
+<SpellFromJson expanded={false} spellData={translocus} />
+<SpellFromJson expanded={false} spellData={ultimatum} />
