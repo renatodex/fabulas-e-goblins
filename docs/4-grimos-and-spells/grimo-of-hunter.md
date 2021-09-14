@@ -93,6 +93,10 @@ A outra escolha será seu **Temor de Caça**, lhe fornecendo **-2 de Bônus em a
       <td>Vazio</td>
       <td>Criaturas misteriosas do Vazio como <b>Voloms</b></td>
      </tr>
+     <tr>
+      <td>Morto-Vivo</td>
+      <td>Criaturas biológicas reanimadas através de magia como <b>Zumbis</b>.</td>
+     </tr>
   </tbody>
 </table>
 
