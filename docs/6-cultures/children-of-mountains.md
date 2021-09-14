@@ -44,19 +44,37 @@ Por isso, nos últimos anos, muitas famílias do Povo Eregor tem migrado dessas 
 ## A Grimotek
 
 Os `Eregor`, por serem um povo Cético em relação a magia, acabaram desenvolvendo ao longo do tempo uma Arte que mistura a Magia com os fundamentos dos Mestre-Elos utilizados para criar os `Grimos`.
-Enquanto os outros povos aprenderam a conectar os Grimos com indivíduos, os Eregors desenvolveram uma tecnologia que permite aos `Grimos` se conectar com objetos, criando a arte que eles chamam de `Grimotek`.
+Enquanto os outros povos aprenderam a conectar os **Grimos** com indivíduos, os Eregors desenvolveram uma tecnologia que permite aos `Grimos` se conectar com objetos, criando a arte que eles chamam de `Grimotek`.
 
 A `Grimotek` permitiu aos Eregor criarem cidades automatizadas que podem dispor de Elevadores, Embarcações Aéreas, iluminação Mágica automatizada, e até sistemas que auxiliam na produção de alimentos, mineração e forja.
 
-Já os guerreiros e Aventureiros de Eregor passaram a fundir seus `Grimos` em objetos, criando fendas esculpidas em seus interiores que permitem a integração de `Grimos` especiais com equipamentos, o que varia entre armas como Espadas e Machados e até Armaduras e Elmos.
+E foram as experiências com a `Grimotek` que permitiram ao povo Eregor desenvolver a tecnologia de `Engastes` que hoje integra os Grimos em Armas, Escudos e Equipamentos do mundo todo.<br/>
+A diferença da `Grimotek` para os `Equipamentos com Engaste`, é que os Equipamentos possuem apenas as adaptações necessárias para permitir que o indivíduo acesse os conhecimentos do Grimo através do seu implemento (Escudo, Armadura, Espada, etc).
+
+Já a `Grimotek` é diferente, pois ela não necessita de um indivíduo para ser controlada, e permite que um conjunto de `Grimos` seja colocado em circuito fechado para se auto-operar de forma independente, sem a intervenção de ninguém. E é dai que vem toda crítica da sociedade Mágica contra os Eregor. Pois para os povos tradicionais, o processo de Escravizar os Grimos para finalidades mecânicas seria exatamente o tipo de equívoco que teria levado ao `Blecaute`.
+
+E apesar da tecnologia dos `Engastes` já ser muito difundida no mundo, os `Eregor` enfrentam diversos problemas políticos por seus ideais reacionários sobre o uso da Magia.
+
+:::note Engastes
+
+Os **Eregor** são os criadores dos **Equipamentos com Engaste**, hoje muito comuns nas **Terras Místicas**, permitem que os **Grimos** **sejam integrados em Equipamentos e Armas** e sejam controlados por seu utilizador.
+
+Esses equipamentos possuem micro câmaras de ar populadas por **cristais de Engaste**, que podem canalizar a energia e o Elo Mágico de um utilizador até o interior do **Grimo**. Se não fosse por esse acabamento especial, o denso material dos Equipamentos serviria como uma barreira para impedir o acesso do utilizador ao Engaste.
+
+Na parte interior, os Engastes são revestidos por uma densa camada de **fibras de Jargônio**, um metal abundante de tonalidade irregular verde-escura que, quando tratado, pode adquirir uma característica magnética capaz de se adaptar a um determinado volume de Magia em estado bruto.
+
+Os Engastes nos equipamentos então funcionam como câmaras magnéticas, *que se repelem e se contraem conforme os Grimos são adicionados ou removidos dos Engastes*.
+:::
 
 ## Seus Trajes
 
-Equipamentos `Grimotek`, Armaduras metálicas, túnicas banhadas em metais, e pequenas jóias como adereços são apenas alguns exemplos de vestimentas comuns para esse povo.
+Armaduras metálicas, túnicas banhadas em metais, e pequenas jóias como adereços são apenas alguns exemplos de vestimentas comuns para esse povo.
 Devido a proximidade dos minerais, o Povo Eregor possui uma cultura rica na Forja e na Mineiração, sendo eles conhecidos pela qualidade indiscutível de seus trabalhos com metais.
 De fato, muitos Mestres-Elo visitam as Academias de Forja dos Eregor para aprimorar seus conhecimentos de Metalurgia e manipulação de Matéria.
 
 Além disso, os Reinos montanhosos são um dos melhores locais para confecção e reparo de armaduras, visto que seus Ferreiros possuem as condições e materiais da melhor qualidade para atender até mesmo os clientes mais exigentes.
+
+Equipamentos `Grimotek` também existem, mas são peças raras que apenas indivíduos muito influêntes da sociedade `Eregor` estão prontos para usar.
 
 ## Criando um Filho de Eregor
 
