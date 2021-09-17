@@ -1,16 +1,18 @@
 ---
-id: grimo-of-arcanist
-title: Grimo do Arcanista
-slug: /4-grimos-and-spells/grimo-of-arcanist
+id: ark-of-ravna
+title: Arca de Ravna
+slug: /4-grimos-and-spells/ark-of-ravna
 ---
 
-Texto inicial
+*Também conhecidos como Fortunos de Ravna.*
 
 ## Criando um Sobrevivente
 
 ## Interpretando um Sobrevivente
 
 ## Origem do Grimo do Sobrevivente
+
+O Grimo possui o formato de um Octáculo, que consiste basicamente em um objeto com 8 lados, onde cada lado significa um esteriótipo do Plano Caótico.
 
 ## Poderes do Grimo
 

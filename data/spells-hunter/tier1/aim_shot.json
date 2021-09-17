@@ -1,0 +1,15 @@
+{
+  "name": "Mirar e Atirar",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiArmoredPants",
+  "element": null,
+  "caption": "Mira em um ponto efetivo do alvo para proferir o melhor dano",
+  "description": "<p></p>",
+  "tags": ["grimo", "hunter"]
+}

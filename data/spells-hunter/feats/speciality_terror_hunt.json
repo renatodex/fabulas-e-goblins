@@ -1,0 +1,15 @@
+{
+  "name": "Especialidade/Terror de  Caça",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiArmoredPants",
+  "element": null,
+  "caption": "Spell",
+  "description": "<p></p>",
+  "tags": ["feat", "grimo", "hunter"]
+}

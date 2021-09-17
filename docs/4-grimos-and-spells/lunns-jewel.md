@@ -1,7 +1,7 @@
 ---
-id: grimo-of-lunn
-title: Grimo de Lunn
-slug: /4-grimos-and-spells/grimo-of-lunn
+id: lunns-jewel
+title: Jóia de Lunn
+slug: /4-grimos-and-spells/lunns-jewel
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -56,30 +56,70 @@ import potentis from './../../data/spells-lunn/tier4/potentis.json'
 import translocus from './../../data/spells-lunn/tier4/translocus.json'
 import ultimatum from './../../data/spells-lunn/tier4/ultimatum.json'
 
+*Também conhecidos como Sacerdotes de Lunn.*
+
 A Igreja de Lunn é essencialmente uma religião que dedica sua veneração ao Deus Lunn, um suposto Goblin que teria chegado nas Terras Místicas eras atrás, e que teria sido responsável pelo advento dos Goblins no mundo.<br/>
 O alcance da devoção a Lunn se extende a diversos continentes, sendo seu símbolo adorado por inúmeras Civilizações e Espécies distintas.<br/>
-Mas enquanto alguns apenas adoram seus feitos e ensinamentos, outros procuram o caminho da palavra, se tornando verdadeiros Sacerdotes de Lunn.<br/>
+Mas enquanto alguns apenas adoram seus feitos e ensinamentos, outros procuram o caminho da palavra, se tornando assim **Adeptos de Lunn**.<br/>
 
-Esses indivíduos passam por um treinamento intensivo com Oradores e Arche-Sacerdotes poderosos para ao final receber em mãos um artefato e um Símbolo de Fé muito valioso conhecido como o `Grimo de Lunn`.
+Esses indivíduos passam por um treinamento intensivo com Oradores e Arche-Sacerdotes poderosos para ao final receber em mãos um artefato e um Símbolo de Fé muito valioso conhecido como a `Jóia de Lunn`.
 
-O Grimo conteria, de forma compacta, não só os ensinamentos e a Fé de seu Deus, mas como também técnicas práticas que permitiria aos Sacerdotes exercer o poder e a Fé de Lunn contra seus inimigos, e purificar o mundo através de seu toque divino.
+A **Jóia de Lunn** é um tipo de artefato especial conhecido como **Grimo**, que contém, de forma compacta, não só os ensinamentos e a Fé de seu Deus, mas também técnicas práticas que permitem aos seus **Adeptos** exercer o poder e a **Fé de Lunn** contra seus inimigos, purificando o mundo através de seu toque divino.
 
 O artefato conta com técnicas especializadas na arte do suporte, como Cura, Defesa e Proteção.
 
-## Criando um Sacerdote de Lunn
+## Criando um Adepto de Lunn
 
-Quando você cria um `Sacerdote de Lunn`, você pode nomear um ou mais **Mentores**. O mentor é de certa forma o seu mestre, a pessoa que teria sido responsável pela sua formação e treinamento.<br/>
-Você não necessariamente deve obrigações a esse **Mentor**, mas a ele possui um grande respeito. Você deve a ele seu acolhimento como Sacerdote, que pode ter ocorrido em um momento oportuno de sua vida, além é claro, de todo treinamento recebido por ele.
+Ao seguir esse caminho, você precisará:
+
+### 1. Escolher um Mentor
+
+Ao criar um personagem neste caminho, você pode nomear um ou mais **Mentores**. O mentor é de certa forma o seu mestre, a pessoa que teria sido responsável pela sua formação e treinamento.<br/>
+Você não necessariamente deve obrigações a esse **Mentor**, mas de alguma forma você deve a ele seu acolhimento como **Adepto de Lunn**, que pode ter ocorrido em um momento oportuno de sua vida, além é claro, de todo treinamento recebido por ele.
 
 O **Mentor** adiciona novos personagens na história que o `Narrador de Jogo` pode usar para entrelaçar e aprofundar sua história como personagem.
 
+### 2. Escolher uma Descrença
+
+Sua alta devoção a Lunn e seus Dogmas irrefutáveis sobre a verdade do mundo faz com que seja muito difícil acreditar ou respeitar a existência de uma ou mais Divindade/Religião específicas.
+
+Para você, outros ensinamentos além de Lunn seriam equivocados ou até absurdos, e você tem dificuldade para entender o propósito que leva os Adaptos a seguirem essa Divindade/Religião.
+Abaixo, fornecemos uma lista pequena com algumas divindades alternativas:
+
+<table>
+  <thead>
+    <tr>
+      <td>Divindade</td>
+      <td>Descriçao</td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>Eterialismo</td>
+      <td>Religião dos Adeptos que acreditam que certas criaturas selvagens lendárias são os Guardiões e criadores do mundo.</td>
+     </tr>
+     <tr>
+      <td>Avernícismo</td>
+      <td>Religião dos Adeptos que não acreditam na existência de um único Deuses onipotente, mas que veneram certos indivíduos do passado por terem realizado ações lendárias que iluminaram o caminho do mundo.</td>
+     </tr>
+      <tr>
+      <td>Arzalismo</td>
+      <td>Religião dos Adeptos que acreditam na Mitologia de Heróis lendários que foram gerados a partir do sacrifício de um ser Primordial.</td>
+     </tr>
+     <tr>
+      <td>Primalismo</td>
+      <td>Religião dos Adeptos que acreditam na existência de Diversos deuses Primais, que teriam sido responsáveis pela criação de todos os mundos.</td>
+     </tr>
+  </tbody>
+</table>
+
 ## Interpretando um Sacerdote
 
-Tradicionalmente, **Sacerdotes** são indivíduos benevolentes, pois a eles foi confiado pelos `Arche-Sacerdotes` um Artefato divino conhecido como `Grimo de Lunn`.
+Tradicionalmente, **Adeptos de Lunn** são indivíduos benevolentes, pois a eles foi confiado pelos **Arche-Sacerdotes** um Artefato divino conhecido como **Jóia de Lunn**.
 
-A **Doutrina** dos *Sacerdotes de Lunn* especifica que o poder do **Grimo** deve ser apenas usado para o bem, sendo o Sacerdote um *Farol de Luz* cuja missão é iluminar os cantos mais obscuros do mundo com o ensinamento de seu Deus Benevolente, e o poder Mágico do seu Grimo aliado ao poder da sua Fé.
+A **Doutrina** dos **Adeptos de Lunn** especifica que o poder do **Grimo** deve ser apenas usado para o bem, sendo o Sacerdote um **Farol de Luz** cuja missão é iluminar os cantos mais obscuros do mundo com o ensinamento de seu Deus Benevolente, e o poder Mágico do seu Grimo aliado ao poder da sua Fé.
 
-Como Sacerdote, espera-se que você utilize seu poder e seu conhecimento para curar a ferida da escuridão que assombra o mundo, e através de sua longa peregrinação, levar a palavra de seu Deus para aqueles que perderam a esperança.
+Sua missão é utilizar o poder e seu conhecimento para curar a ferida da escuridão que assombra o mundo, e através de sua longa peregrinação, levar a palavra de seu Deus para aqueles que perderam a esperança. (ou pelo menos era isso que esperavam de você)
 
 Após o Blecaute, muitos Terrores deixaram o manto da Escuridão para encobrir as Terras Místicas com o silêncio do Vazio, e por isso, sobram lugares no mundo onde a Fé e a Esperança devem ser restauradas a qualquer custo.
 

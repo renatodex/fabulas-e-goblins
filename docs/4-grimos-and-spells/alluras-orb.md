@@ -1,16 +1,18 @@
 ---
-id: grimo-of-fortunist
-title: Grimo do Fortuno
-slug: /4-grimos-and-spells/grimo-of-fortunist
+id: alluras-orb
+title: Orbe de Allura
+slug: /4-grimos-and-spells/alluras-orb
 ---
 
-Texto inicial
+*Também conhecidos como Magos de Allura.*
 
 ## Criando um Sobrevivente
 
 ## Interpretando um Sobrevivente
 
 ## Origem do Grimo do Sobrevivente
+
+Criado por uma Augúria do passado, Allura Mantis foi uma Profeta e Especialista em energias Arcanas, que decidiu, após ter tido uma suposta visão sobre um futuro Apocalyptico, armazenar seus conhecimentos sobre a Magia Arcana num Grimo que ficou conhecido como a Orbe de Allura.
 
 ## Poderes do Grimo
 
