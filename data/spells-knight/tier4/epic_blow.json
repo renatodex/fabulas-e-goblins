@@ -10,6 +10,6 @@
   "icon": "GiFlyingDagger",
   "element": null,
   "caption": "Uma energia abrupta se materializa rapidamente em volta da lâmina do Cavaleiro, crescendo numa velocidade espantosa enquanto aqueles a sua volta se assustam com o poderoso estampido seco de pura liberação mágica causado pelo impacto do Petardo Épico.",
-  "description": "<p>Realiza um ataque Épico impressionante contra um único inimigo. Este ataque causa 1D100 de dano ao inimigo, e é realizado como uma ação Épica.</p>",
+  "description": "<p>Realiza um ataque Épico impressionante contra um único inimigo. Este ataque causa Dano da Arma + 1D100 de dano ao inimigo, e é realizado como uma ação Épica.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiIonCannonBlast",
   "element": null,
   "caption": "A ira do Cavaleiro desce sobre seus inimigos, canalizando uma energia incrível que flui do Grimo para sua arma, disparando uma rajada poderosa que atordoa seus inimigos.",
-  "description": "<p>Você canaliza o poder do Grimo em sua arma, desferindo uma forte rajada numa área 2x2, causando 3D8+6 de dano e atordoando todos inimigos atingidos.</p>",
+  "description": "<p>Você canaliza o poder do Grimo em sua arma, desferindo uma forte rajada numa área 2x2, causando Dano da Arma + 3D8+6 de dano e atordoando todos inimigos atingidos.</p>",
   "tags": ["ultimate", "grimo", "knight"]
 }
