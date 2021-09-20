@@ -4,24 +4,68 @@ title: Suporte
 slug: /5-roles/roles-priest
 ---
 
-### Características Base
+O Papel de Suporte geralmente é utilizado por personagens que não priorizam o dano no combate.
 
-Ataque Físico: 9  / Defesa Física : 9
+Esses personagens geralmente possuem um vasto arsenal de habilidades focadas em auxiliar estrategicamente o time para garantir a sobrevivência da maneira mais eficiente possível.
 
-Ataque Magico: 12 / Defesa Magica: 12
+Devido a utilização de muitas habilidades à distância, esses personagens não precisam de uma movimentação intensa no combate, apenas se posicionando de forma estratégica na linha de fundo do combate.
 
-Proficiência Armas: Armas de Intelecto, Espírito e Elo Mágico
+## Você deve escolher este Papel se...
 
-Proficiência Elemental: Nenhuma
+- Seu objetivo primário não é causar dano.
+- Prioriza o auxílio e suporte a seus aliados.
+- Não prioriza tanto a movimentação no combate.
+- Prefere utilizar armas baseadas em atributos mágicos, como Cetros, Orbes e Cajados
 
-Fraquezas: Nenhuma
+## Características Iniciais
 
-Vantagens: Nenhuma
-
-Movimento: 4
-
-### Progressão
-
-Pontos de Vida: +2/Level
-
-Pontos de Magia: +5/Level
+<table>
+  <thead>
+      <tr>
+      <th>Atributo</th>
+      <th>Valor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pontos de Vida</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Pontos de Magia</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>Ataque Físico</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Defesa Física</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Ataque Magico</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Defesa Magica</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>Movimento</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Proficiência Armas</td>
+      <td>Intelecto, Elo Mágico ou Espírito</td>
+    </tr>
+    <tr>
+      <td>Pontos de Vida por Nível e Tier</td>
+      <td>+2/+4/+6/+8</td>
+    </tr>
+    <tr>
+      <td>Pontos de Magia por Nível e Tier</td>
+      <td>+4/+6/+8/+10</td>
+    </tr>
+  </tbody>
+</table>

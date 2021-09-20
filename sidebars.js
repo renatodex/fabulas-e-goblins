@@ -53,6 +53,7 @@ module.exports = {
       '5. Escolhendo um Papel de Jogo': [
         '5-roles/roles-introduction',
         '5-roles/roles-adventurer',
+        '5-roles/roles-tank',
         '5-roles/roles-hunter',
         '5-roles/roles-arcanist',
         '5-roles/roles-priest',
