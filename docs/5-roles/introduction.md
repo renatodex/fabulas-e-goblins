@@ -118,21 +118,21 @@ Para ajudá-lo em sua decisão, preparamos uma tabela abaixo comparando os atrib
     </tr>
     <tr>
       <td>Pontos de Vida por Nível</td>
-      <td>4/6/8/10</td>
-      <td>2/4/6/8</td>
-      <td>3/5/7/9</td>
-      <td>2/4/6/8</td>
-      <td>4/6/8/10</td>
-      <td>3/5/7/9</td>
+      <td>4/4/8/8</td>
+      <td>2/4/4/6</td>
+      <td>3/3/6/6</td>
+      <td>2/4/4/6</td>
+      <td>5/5/10/10</td>
+      <td>3/3/6/6</td>
     </tr>
     <tr>
       <td>Pontos de Magia por Nível</td>
-      <td>2/4/6/8</td>
-      <td>4/6/8/10</td>
-      <td>3/5/7/9</td>
-      <td>4/6/8/10</td>
-      <td>2/4/6/8</td>
-      <td>3/5/7/9</td>
+      <td>2/4/4/6</td>
+      <td>4/4/8/8</td>
+      <td>3/3/6/6</td>
+      <td>5/5/10/10</td>
+      <td>2/4/4/6</td>
+      <td>3/3/6/6</td>
     </tr>
 
   </tbody>

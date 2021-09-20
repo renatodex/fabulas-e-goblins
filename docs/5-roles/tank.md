@@ -61,11 +61,11 @@ Possuem uma quantidade superior de Pontos de Vida, sendo ideais para liderar o c
     </tr>
     <tr>
       <td>Pontos de Vida por Nível e Tier</td>
-      <td>+4/+6/+8/+10</td>
+      <td>+5/+5/+10/+10</td>
     </tr>
     <tr>
       <td>Pontos de Magia por Nível e Tier</td>
-      <td>+2/+4/+6/+8</td>
+      <td>+2/+4/+4/+6</td>
     </tr>
   </tbody>
 </table>

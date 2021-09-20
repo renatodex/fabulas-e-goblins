@@ -59,11 +59,11 @@ Os Utilitários são como Canivetes Suíços, oferecendo grande flexibilidade de
     </tr>
     <tr>
       <td>Pontos de Vida por Nível</td>
-      <td>+3/+5/+7/+9</td>
+      <td>+3/+3/+6/+6</td>
     </tr>
     <tr>
       <td>Pontos de Magia por Nível</td>
-      <td>+3/+5/+7/+9</td>
+      <td>+3/+3/+6/+6</td>
     </tr>
   </tbody>
 </table>

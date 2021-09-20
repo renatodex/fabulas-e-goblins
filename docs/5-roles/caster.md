@@ -67,11 +67,11 @@ Ao escolher esse Papel, você terá uma boa base de Pontos de Magia, e isso lhe 
     </tr>
     <tr>
       <td>Pontos de Vida por Nível</td>
-      <td>+2/+4/+6/+8</td>
+      <td>+2/+4/+4/+6</td>
     </tr>
     <tr>
       <td>Pontos de Magia por Nível</td>
-      <td>+4/+6/+8/+10</td>
+      <td>+4/+4/+8/+8</td>
     </tr>
   </tbody>
 </table>
