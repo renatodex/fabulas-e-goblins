@@ -159,6 +159,13 @@ No primeiro momento essa definição pode ser tão simples como: Meu Mestre cham
 *É importante lembrar que a nomeação de um Mestre não é obrigatória, mas defini-lo na criação do seu personagem faz com que o Narrador possa interligar seu passado, seu presente e seu futuro, criando uma história profunda e interessante que pode beneficiar a todos os jogadores.*<br/>
 :::
 
+### 5. Escolher seus Poderes Iniciais
+
+A menos que outra regra diga o contrário, você deverá:
+
+- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 1x (um) Poder Especial.
+
 ## Interpretando um Adepto de Allura
 
 Os portadores das **Orbes de Allura** são vistos como exímios Dominadores Elementais, cuja estratégia de combate é primariamente agressiva com alguns traços de controle, possuindo o Dominador um extenso Leque de Habilidades de Ataque e Contenção de inimigos, que pode ser usado para causar grandes quantidades de dano à curta ou longa distância.

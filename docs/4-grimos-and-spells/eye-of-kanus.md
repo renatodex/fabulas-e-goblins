@@ -164,6 +164,13 @@ Para sua comodidade, segue a lista de tipos de Criatura:
   </tbody>
 </table>
 
+### 3. Escolher seus Poderes Iniciais
+
+A menos que outra regra diga o contrário, você deverá:
+
+- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 1x (um) Poder Especial.
+
 ## Interpretando um Adepto de Kanus
 
 Os Adeptos são vistos como exímios Caçadores, especialistas na arte da Caça e Sobrevivência, rastreando e abatendo suas vítimas com precisão e rapidez.<br/>

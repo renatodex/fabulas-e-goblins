@@ -89,6 +89,8 @@ Dentre as categorias de armas, estão:
   - Armas de Haste
   - Escudos
 
+**A escolha da Especialização se aplica tanto para Armas de Uma Mão ou de Duas Mãos.**
+
 :::note Armas e suas Categorias
 No mundo real, o combate com tipos diferentes de espadas pode afetar completamente o tipo de treinamento que você precisa para utilizar uma certa arma.
 
@@ -106,9 +108,6 @@ A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
-
-**A escolha da Especialização se aplica tanto para Armas de Uma Mão ou de Duas Mãos.**
-
 
 ## Interpretando um Adepto de Giurad
 

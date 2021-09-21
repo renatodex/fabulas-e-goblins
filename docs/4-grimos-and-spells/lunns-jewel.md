@@ -113,6 +113,13 @@ Abaixo, fornecemos uma lista pequena com algumas divindades alternativas:
   </tbody>
 </table>
 
+### 3. Escolher seus Poderes Iniciais
+
+A menos que outra regra diga o contrário, você deverá:
+
+- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 1x (um) Poder Especial.
+
 ## Interpretando um Sacerdote
 
 Tradicionalmente, **Adeptos de Lunn** são indivíduos benevolentes, pois a eles foi confiado pelos **Arche-Sacerdotes** um Artefato divino conhecido como **Jóia de Lunn**.
