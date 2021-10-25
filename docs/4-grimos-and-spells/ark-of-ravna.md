@@ -4,16 +4,15 @@ title: Arca de Ravna
 slug: /4-grimos-and-spells/ark-of-ravna
 ---
 
-As vezes, passamos a vida inteira procurando respostas, mas os conhecimentos para as nossas Perguntas podem não estar no nosso plano, ou pelo menos é isso que acreditam os **Adeptos de Ravna**.
+Os **Adeptos de Ravna** acreditam que a forma mais pura de manipular a Magia seja através de seus portadores originais, as Criaturas Selvagens.
+Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as criaturas selvagens se unem à magia por **Simbiose Mágica**, e muitas dessas criaturas necessitam da relação de coexistência para sobreviver.
 
-Criado a partir de um **Ritual do Caos**, a **Arca de Ravna** é artefato especial que teria pertencido inicialmente à Orácula **Ravna Damagun**, forjados em seu tempo pela busca de respostas sobre como Dominar a Essência do Caos.
+A **Arca de Ravna** é artefato especial que contém dentro de si os echos de diversas criaturas selvagens que viveram no passado.
+E é através da comunhão com a essência dessas criaturas, que os dominadores podem acessar o conhecimento de combate delas e utilizá-lo para desferir ataques poderosos no campo de batalha.
 
-**Ravna Damagun** já era popular entre **Cultistas** por ter sido a primeira **Orácula** a explorar a extração de conhecimento Mágico das Criaturas selvagens.
-Quando o Artefato foi descoberto, o líder Cultista **Kalef Jadar** utilizou seus conhecimentos e influência para unir uma rede de Adeptos, que depois acabou culminando na criação do **Culto de Ravna**.
+Os Adeptos que querem aprender mais sobre os ensinamentos do Grimo devem ingressar nos **Templos de Ravna**, onde os dogmas e doutrinas para dominar a **Arca de Ravna** são repassados aos **Adeptos iniciantes**.
 
-Os Adeptos que querem aprender mais sobre os ensinamentos do Grimo devem ingressar nos **Templos de Ravna**, onde os ensinamentos e doutrinas para dominar a **Arca de Ravna** são repassados aos **Adeptos iniciantes**.
-
-O Grimo possui dentro de Sí o conhecimento Mágico de Criaturas Selvagens, sendo capaz de conjurar Poderes de Dualidade Elemental, além de outras combinações caóticas.
+Através desse conhecimento, os dominadores da Arca podem utilizar técnicas que vão muito além da Dominação Elemental bruta, manipulando as armas naturais dessas criaturas e desferindo ataques que podem mudar o rumo de um combate.
 
 ## Criando um Adepto de Ravna
 
@@ -35,12 +34,21 @@ A **Arca de Ravna** possui o conhecimento Mágico de criaturas selvagens, e esse
 
 Sempre que o Personagem falhar na conjuração de uma Mágica do Grimo, ele receberá **1x Token de Revés**.
 
-O Token sinaliza um desequilíbrio mágico dentro do Grimo, que aumenta cumulativamente a cada falha do Jogador.
+O Token sinaliza um desequilíbrio mágico dentro do Grimo, que representa a dificuldade de domar os Ecos das criaturas contidas dentro dele. Esses Tokens se somam cumulativamente a cada falha adicional do Jogador.
 
-Os Tokens não possuem validade, e se acumulam indeterminadamente.<br/>
-Tanto o **Narrador** quanto o **Jogador** podem "consumi-lo", convertendo o Token num modificador de -2 de penalidade, que pode se aplicar a qualquer rolagem que o Jogador faça, e a qualquer momento. (seja de combate ou não)
+**Os Tokens não possuem validade, e se acumulam indeterminadamente.**
 
-Inicialmente, os **Adeptos de Ravna** podem acumular até 2 Tokens sem penalidade. Quando o Terceiro Token é gerado, o Jogador será atacado pela própria Magia da Arca, recebendo TIER*1d4 de Dano Não-Elemental para cada token Acumulado.
+A Mágica que controla a Arca é uma potente concentração do Elemento Caos, o que torna o Grimo ainda mais instável e perigoso, emitindo uma aura de Caos que pode até mesmo desestabilizar as ações de outros jogadores.
+
+Mecanicamente, tanto o **Narrador** quanto o **Jogador** podem "consumi-lo", convertendo o Token num modificador de -2 de penalidade, que pode se aplicar a qualquer rolagem que o Jogador faça, e a qualquer momento. **(O Narrador pode consumir os Tokens a qualquer momento, mas o Jogador pode apenas consumí-lo durante o combate)**
+
+Inicialmente, os **Adeptos de Ravna** podem acumular até 2 Tokens sem penalidade. Quando o Terceiro Token é gerado, o Jogador passa a correr o risco constante de ser atacado pela própria Magia da Arca, recebendo TIER*1d4 de Dano Não-Elemental para cada token Acumulado.
+
+Para cada **ataque bem sucedido** da Arca realizado com 3 ou mais tokens acumulados, o Narrador deverá fazer um teste neutro oculto com dificuldade 10, que deve ocorrer antes da rolagem de dano do Jogador. Se o teste falhar, o Jogador recebe o Dano da penalidade para cada **Token de Revés** Acumulado (`[N# Tokens * TIER] * 1D4`), e sua ação é cancelada. ***(Onde TIER é o TIER atual do Grimo, e não da habilidade utilizada)***
+
+Para cada **ataque mal sucedido** da Arca realizado com 3 ou mais tokens, o jogador não recebe dano, mas acumula 1x Token Adicional, aumentando ainda mais o risco e o perigo de utilizar a Arca.
+
+**Apenas 1 Token pode ser consumido por turno.**
 
 ### 3. A Essência Selvagem
 
@@ -108,7 +116,7 @@ O **Culto de Ravna** é uma organização independente e recluída, que não dev
 
 Seus interesses são pautados pela acumulação de conhecimento sobre a Magia selvagem e como ela se relaciona com o mundo. Apesar de serem conhecidos como um Culto, os **Adeptos de Ravna** são indivíduos respeitados, pois com o Blecaute, os **Adeptos** vêm coletando e estudando **fragmentos de Zirgônio** pelo mundo para criar itens poderosos e proteger a Civilização contra o avanço desenfreado das Criaturas Selvagens.
 
-Diferente dos membros da **Guilda de Kanus** que possuem um estranho prazer em abater criaturas Selvagens, os **Adeptos de Ravna** não são caçadores, e no geral, não possuem como objetivo a acumulação de **Zirgônio** pelo extermínio selvagem.<br/>
+Diferente dos membros da **Guilda de Kanus** que possuem uma estranha inclinação para abater criaturas Selvagens, os **Adeptos de Ravna** não são caçadores, e no geral, não possuem como objetivo a acumulação de **Zirgônio** pelo extermínio selvagem.<br/>
 Ao invés disso, a Doutrina de Ravna ensina que a Magia faz parte de um ciclo delicado, e assim como a matéria precisa retornar ao planeta, a magia precisa retornar ao seu plano Mágico de origem.
 
 E por isso, os **Adeptos** devem utilizar seu poder para estudar as criaturas do Mundo, e entender melhor como manter seu equilíbrio, e não extraí-lo e explorá-lo em benefício próprio.
@@ -133,6 +141,38 @@ Os boatos sobre a Arca e seu Culto se espalharam rapidamente, e foi apenas quand
 Os Grimos foram entregues aos seus Cultistas mais fieis, resultando na fundação do **Culto de Ravna**.
 
 Não se sabe exatamente como a Arca foi criada, mas sabe-se que além dos conhecimentos de **Ravna**, o Grimo também armazena o conhecimento Mágico de criaturas selvagens de origem mágica, e acredita-se que essa é a fonte de seu verdadeiro poder. Os métodos utilizados por **Ravna** para aprisonar a Magia selvagem ainda são obscuros, mas tudo indica que o procedimento também envolveria um poderoso Ritual Mágico de origem Caótica, onde a essência mágica de monstros poderia teoricamente ter sido inserida na **Arca** no momento de sua construção.
+
+## Os Ecos da Arca
+
+A Arca é idealizada por seu criador como um grande santuário onde vivem mutuamente os ecos das Criaturas armazenadas no Grimo.
+Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
+
+<table>
+  <tr>
+    <th>Eco</th>
+    <th>Descrição</th>
+  </tr>
+
+  <tr>
+    <td>Aburodon</td>
+    <td>Descrito como o Eco de um enorme Aburu pre-histórico que é conhecido por ser o precursor dos Aburus modernos. O Aburudon é uma criatura lendária extinta, sendo conhecido por possuir incríveis poderes sônicos.</td>
+  </tr>
+
+  <tr>
+    <td>Gamoru</td>
+    <td>Descrito como uma enorme besta bípedde, o Gamoru é a versão ancestral dos Gamor modernos, descrito nos livros antigos como uma besta capaz de carregar arvores com uma única garra e manipular a terra.</td>
+  </tr>
+
+  <tr>
+    <td>Luzibal</td>
+    <td>Ainda venerado pelos Luzibs modernos como sua Divindade, os historiadores veem Luzibal como um lendário Réptil que andou pelas Terras Místicas em eras passadas. Seu curioso veneno inflamável era capaz de corroer florestas inteiras e transformar biomas vivos em verdadeiros desertos.</td>
+  </tr>
+
+  <tr>
+    <td>K'gon</td>
+    <td>Acredita-se que os K'gons eram os Knerotraco pré-históricos, manipulando múltiplos elementos e possuindo o poder de controlar a <b>Dualidade Elemental</b>. Os K'gons não apenas  misturavam elementos opostos, como também podiam criar conjurações de natureza quântica, que permitiam elementos opostos como o Fogo e a Água a co-existir no mesmo espaço, sem se anularem.</td>
+  </tr>
+</table>
 
 ## Poderes do Grimo
 
