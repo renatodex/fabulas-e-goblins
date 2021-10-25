@@ -4,15 +4,32 @@ title: Tótem de Darian
 slug: /4-grimos-and-spells/darians-totem
 ---
 
-*Também conhecidos como Acólitos de Darian.*
+Estudiosos das antigas civilizações, os **Adeptos de Darian** se especializaram nas artes místicas de manipular o **Plano Astral**.
 
-## Criando um ??????
+Com a ajuda do Grimo, o **Elo Mágico** destes habilidosos dominadores é capaz de penetrar nas camadas mais densas do mundo Espiritual, permitindo-os acessar conhecimentos antigos, que são carregados pela própria *essência do mundo*, sendo descritos por seu criador como **Ecos do Passado** que reverberam o conhecimento dos antigos através do tempo e do espaço.
 
-## Interpretando um ??????
+O **Grimo de Darian** é um aparato mágico criado por `Darian Nagar`. Ele contém os conhecimentos Mágicos das **Artes Esquecidas**, que ensinam o poder de se comunicar e extrair o poder da **Magia Astral**.
 
-## Origem do Grimo do ??????
+O Estilo de Combate deste Grimo não utiliza o poder dos Elementos. Ao invés disso, ele funciona despertando presenças etéreas que auxiliam o Dominador no campo de batalha.
 
-O Grimo é um aparato mágico criado por `Darian Nagar`. Contém os conhecimentos Mágicos do ficcionado estudioso das Artes Proibídas, que ensinam o poder de se comunicar e extrair o poder da Magia Corrompida.
+:::note O Plano Astral
+A **Magia Astral**, assim como a **Magia Elemental**, opera em um plano similar, protegido do **Caos Elemental** do **Plano Mágico**, O plano Astral é descrito como um grande Templo tranquilo e silencioso, que funciona como uma espécie de *espaço transitório*, onde as essências vitais e as consciências de seres que viveram ou que ainda irão viver podem transitar de forma temporária e compartilhar conhecimentos com outros viajantes do plano ou até mesmo com indivíduos do **Plano Material**.
+
+Diferente da **Magia Elemental**, que é extraída diretamente do **Plano Mágico** através do **Elo Mágico** de um Dominador, a **Magia Astral** pode extrair ou materializar temporariamente a **Presença Etérea** de um indivíduo ou entidade do **Plano Astral**, sendo também muitas vezes utilizadas como meio para se comunicar e absorver conhecimentos dos indivíduos que habitam este plano.
+:::
+
+## Criando um Adepto de Darian
+
+
+
+
+## Interpretando um Adepto de Darian
+
+## Origem do Grimo
+
+Antigos manuscritos derivados dascivilizações Gudrash e Lunir já revelavam que os primeiros Goblins que habitavam as terras místicas, antes mesmo do surgimento da civilização como conhecemos hoje, já utlilizavam a Magia de forma primitiva. O Elo Mágico destes povos com o Plano da Magia é considerado pelos estudiosos de Darian como a forma de conexão mais Pura que pode existir.
+
+De acordo com eles, o próprio surgimento dos Augúrios estaria relacionado a herança genética de determinados indivíduos com Povos antigos, como os Gobolur e os Lunir.
 
 ## Poderes do Grimo
 
