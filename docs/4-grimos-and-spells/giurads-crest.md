@@ -54,6 +54,8 @@ import powerful_duel from './../../data/spells-knight/tier4/powerful_duel.json'
 import reflex_master from './../../data/spells-knight/tier4/reflex_master.json'
 import shields_purge from './../../data/spells-knight/tier4/shields_purge.json'
 
+![giurad.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6b6ede54-1470-4555-9586-1d19a148dbe3.jpg)
+
 *Também conhecidos como Cavaleiros de Giurad.*
 
 A **Academia de Giurad** é o local onde muitos Aventureiros são treinados para se tornarem **Adeptos de Giurad** em diversos reinos do mundo.<br/>
