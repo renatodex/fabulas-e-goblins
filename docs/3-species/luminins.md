@@ -9,7 +9,7 @@ import Float from './../../data/spells/float.json'
 import NaturalLight from './../../data/spells/natural_light.json'
 import MineralCamouflage from './../../data/spells/mineral_camouflage.json'
 
-![luminins.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7df15a6f-f2ff-4525-8e1a-02826ef5f1d6.jpg)
+![luminins.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf825ad17-1143-4824-8c2d-c448cac0df46.png)
 
 *Enquanto caminhava pela floresta à noite, o corpo daquela criatura parecia iluminar as Cristaritas suavemente, atravessando seus estruturas opacas e cintilando um leve e suave brilho purpúreo, que emanava de.
 Desconfiada, olhava para os lados com um estranho pressentimento de estar sendo observada.
@@ -28,17 +28,17 @@ Assim como um membro físico, a emissão de Luz também pode ser dimerizada por 
 ## Anatomia
 
 Essas criaturas são humanóides, possuindo membros superiores e inferiores encurtados.
-De seus braços saem pequenas protuberâncias similares aos sensores nas patas de criaturas insectóides, que reagem e se modulam em uma micro frequência, possuindo alto grau de sensibilidade a luz. 
+De seus braços saem pequenas protuberâncias similares aos sensores nas patas de criaturas insectóides, que reagem e se modulam em uma micro frequência, possuindo alto grau de sensibilidade a luz.
 Devido a esses sensz, os Luminins são capazes de detectar focos de luz não visíveis a até um kilômetro de distância.
 Alem disso, podem levitar naturalmente devido a capacidade anatômica de regular sua densidade interior
 
 ## Como são vistos
 
-Luminins são tradicionalmente vistos como criaturas intrigantes e  misteriosas, mas nunca delicadas, oferecendo um desafio a altura para qualquer Metalóide que possa subestimar a aptidão destes pequenos seres de luz. 
+Luminins são tradicionalmente vistos como criaturas intrigantes e  misteriosas, mas nunca delicadas, oferecendo um desafio a altura para qualquer Metalóide que possa subestimar a aptidão destes pequenos seres de luz.
 
 Sua inclusão como Civilização no Conclave dos Reinos não é recente, mas sua participação é muitas vezes passiva, uma vez que os Anciões Luminins preferem não se intrometer em assuntos locais.
 
-De qualquer forma, não é incomum encontrar indivíduos dessa espécie circulando nos grandes reinos Goblins e Armadons, e sua presença nestes reinos não será uma surpresa, ou algo a ser notado de forma peculiar, apesar claro, de não serem tão comuns como Goblins. (Mas o que poderia ser mais comum do que Goblins? Afinal, eles estão em toda 
+De qualquer forma, não é incomum encontrar indivíduos dessa espécie circulando nos grandes reinos Goblins e Armadons, e sua presença nestes reinos não será uma surpresa, ou algo a ser notado de forma peculiar, apesar claro, de não serem tão comuns como Goblins. (Mas o que poderia ser mais comum do que Goblins? Afinal, eles estão em toda
 parte!)
 
 ## A Sociedade
