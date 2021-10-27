@@ -56,8 +56,6 @@ import shields_purge from './../../data/spells-knight/tier4/shields_purge.json'
 
 ![giurad.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6b6ede54-1470-4555-9586-1d19a148dbe3.jpg)
 
-*Também conhecidos como Cavaleiros de Giurad.*
-
 A **Academia de Giurad** é o local onde muitos Aventureiros são treinados para se tornarem **Adeptos de Giurad** em diversos reinos do mundo.<br/>
 Diferente de muitas Academias, Os jovens Aventureiros apenas podem ingressar na Academia através de um processo rígido de indicação, onde os **Mestres de Giurad** avaliarão a procedência e legitimidade do indicador.
 

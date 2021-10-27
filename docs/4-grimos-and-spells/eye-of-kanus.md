@@ -52,8 +52,6 @@ import shields_purge from './../../data/spells-knight/tier4/shields_purge.json'
 
 ![kanus.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C12a3c9f2-dd51-4991-b051-baece5bd86e1.jpg)
 
-*Também conhecidos como Caçadores de Kanus.*
-
 A Guilda de Kanus é conhecida por formar exímios sobreviventes letrados na arte da Caça. Diversos Eremitas e Viajantes distantes procuram a Guilda todos os dias para buscar aprender os conhecimentos necessários para se viver e viajar pelo mundo de forma independente e segura.
 
 Além disso, a ajuda dos **Adeptos de Kanus** são sempre bem vistas em Reinos civilizados, oferecendo prêmios em `Temirs` para os **Adeptos** que completarem contratos de Caça estabelecidos pela Guilda.

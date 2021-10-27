@@ -58,8 +58,6 @@ import ultimatum from './../../data/spells-lunn/tier4/ultimatum.json'
 
 ![lunn.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6fce0b58-d6d6-43b7-8d14-c1168fb3a8b8.jpg)
 
-*Também conhecidos como Sacerdotes de Lunn.*
-
 A Igreja de Lunn é essencialmente uma religião que dedica sua veneração ao Deus Lunn, um suposto Goblin que teria chegado nas Terras Místicas eras atrás, e que teria sido responsável pelo advento dos Goblins no mundo.<br/>
 O alcance da devoção a Lunn se extende a diversos continentes, sendo seu símbolo adorado por inúmeras Civilizações e Espécies distintas.<br/>
 Mas enquanto alguns apenas adoram seus feitos e ensinamentos, outros procuram o caminho da palavra, se tornando assim **Adeptos de Lunn**.<br/>
