@@ -8,6 +8,10 @@ Os **Adeptos de Valari** são conhecidos por serem Guerreiros das Trevas, manipu
 
 Muitas vezes mal interpretados como assassinos, os **Valari**, ou **Adeptos de Valari** aprendem desde o início de seu treinamento a se desapegarem de seus laços emotivos, para que não reste a eles qualquer vínculo frágil que possa ser explorado por seus inimigos mais vorazes.
 
+O artefato conhecido como **Frasco de Valari** é um **Grimo** entregue aos Adeptos da **Sociedade Valari**, que contém os conhecimentos antigos de manipular as Sombras e conceder habilidades incríveis a esses guerreiros.
+
+A arte da Doutrina Valari favorece o combate ágil corpo-a-corpo, utilizando armas afiadas como Katares, Adagas e uma grande variedade de Venenos mortais.
+
 ## Criando um Adepto de Valari
 
 Ao escolher esse caminho, você deverá:
@@ -56,7 +60,10 @@ O Grimo é um curioso artefato forjado em Eras desconhecidas pela temida Princes
 
 Foi creditada a ela também a façanha de terminar uma antiga guerra de centenas de anos em apenas uma noite, com o suposto ataque ao Rei `Degladinas VIII`.
 
-As canções antigas contam que **Valari** teria invocado a **Noite Sombria**, utilizando seus conhecimentos de magia negra que foram cuidadosamente registrados no Grimo Original, forjado por um misterioso Mestre-Elo conhecido como `Docaeras Tan`.
+As canções antigas contam que **Valari** teria invocado a **Noite Sombria**, utilizando seus conhecimentos de Magia Sombria que foram cuidadosamente registrados no Grimo Original.
+O artefato teria sido forjado por um misterioso Mestre-Elo conhecido por `Docaeras Tan`, como forma de demonstração de poder e como símbolo Fundador da antiga **Sociedade Valari**.
+
+Por muitos anos essa misteriosa sociedade se mostrou fechada e reclusa, e o conhecimento escasso sobre os seus membros e seus objetivos sempre foram motivo de curiosidade no mundo das Terras Místicas. Mas com o advento do Blecaute, os **Mestres Valaris** passaram a replicar o Grimo original, recrutando guerreiros para aprender seus misteriosos Dogmas, com o objetivo de manter sua integridade como corporação enigmática.
 
 ## Poderes do Grimo
 
