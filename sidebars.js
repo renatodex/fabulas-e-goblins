@@ -48,7 +48,8 @@ module.exports = {
         '4-grimos-and-spells/flask-of-valari',
         '4-grimos-and-spells/giurads-crest',
         '4-grimos-and-spells/lunns-jewel',
-        '4-grimos-and-spells/magni-machine'
+        '4-grimos-and-spells/magni-machine',
+        '4-grimos-and-spells/rune-of-ixin'
       ],
       '5. Escolhendo um Papel de Jogo': [
         '5-roles/roles-introduction',
