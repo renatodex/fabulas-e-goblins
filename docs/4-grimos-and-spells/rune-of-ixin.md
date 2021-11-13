@@ -4,48 +4,127 @@ title: Selo de Ixin
 slug: /4-grimos-and-spells/rune-of-ixin
 ---
 
-Conhecidos por manipular a **Magia do Futuro**, o **Selo de Ixin** é o Grimo dos Conjuradores da **Magia Não-Elemental**.
+O **Selo de Ixin** é o Grimo dos Conjuradores que aprenderam a manipular a Energia dos Templos antigos, cuja origem e tecnologia ainda são incompreensíveis para a civilização moderna. Os segredos desvendendados nesses templos possibilitou a criação de toda uma escola mágica que manipula algo ainda novo, mas que já é conhecido como **Energia Rúnica**.
 
-Diferente das outras escolas Mágicas, os **Adeptos de Ixin** manipulam a **Nanomagia** (ou **Magia do Futuro**), composta por uma mistura de **Feixes de Luz**, **Linhas Mágicas** e **Selos de Conjuração**.
+Diferente das outras escolas Mágicas, os **Adeptos de Ixin** evocam essa energia especial através das **Runas Templárias**, anagramas específicos criados por civilizações esquecidas, e que quando evocados corretamente podem se materializar em poderosos **Feixes de Luz**, **Linhas Etéreas** e **Selos de Conjuração** diversos.
 
-Essas manifestações vivas parecem se originar da própria vontade do dominador, se conectando no ar e criando conjurações Mágicas de origem tecnológica que não podem ser compreendidas por nenhuma *natureza elemental* conhecida.
+O estilo de batalha do **Grimo de Ixin** mistura o combate ágil com a conjuração da energia mágica, evocando os segredos dos **Anagramas Rúnicos** que se formam em pleno ar, e permitem a conjuração de feitiços diversos, cujas finalidades variam entre o combate Ofensivo e o Controle.
 
-O estilo de batalha do **Grimo de Ixin** pode ser bastante flexível, mas se concentra na execução de Anagramas mágicos que representam as 3 Forças do Multiverso: O Kih, o Xah, e o Rah.
+Na doutrina de Ixin, três anagramas principais representam representam as artes da Força, da Manutenção e da Reatividade, também conhecidos como os Pilares do Multiverso: O Urt, o Xah, e o Rah.
 
-## Criando um Adepto de Valari
+## Criando um Adepto de Ixin
 
 Ao escolher esse caminho, você deverá:
 
-### 1. Escolher o seu caminho
+### 1. Escolher sua especialização Rúnica
 
-A complexa Nanomagia pode assumir diversos caminhos, e ser moldada de forma muito flexível por seus dominadores.
-Ao criar um **Adepto de Ixin** você deverá escolher entre um dos 3 caminhos de manipulação:
+A complexa Arte Templária pode assumir diversos caminhos, e ser moldada de forma muito flexível por seus dominadores.
+Ao criar um **Adepto de Ixin** você deverá escolher uma única especialização Rúnica:
 
-#### C. Caminho do Kih
+#### A. Caminho do Urt
 
-O Kih é a representação do equilíbrio. Sua presença neutraliza e pondera os excessos, orientando seus simpatizantes a atingir o estado moral da Neutralidade Suprema.
+O Urt é o Pilar que rege a Manutenção do Multi-Verso. Ele é responsável pela conjuração de Energias de Suporte e Proteção.
 
-#### A. Caminho do Xah
+Quando um **Adepto de Ixin** escolhe o caminho de **Urt**, ele é treinado para canalizar o **Altar de Urt**, uma poderosa técnica de proteção que neutraliza os ataques inimigos numa área.
 
-#### B. Caminho do Rah
+[[Altar de Urt]]
 
----
+#### B. Caminho do Xah
+
+O Xah é o Pilar que rege a Reatividade do Multi-Verso. Ele é responsável pela conjuração de Energias reativas, como Selos e Armadilhas Rúnicas.
+
+Quando um **Adepto de Ixin** escolhe o caminho de **Xah**, ele é treinado para conjurar os poderosos **Olhos de Xah**, uma conjuração reativa poderosa que auxilia o Adepto e seus aliados reagindo ao ataque de presenças inimigas.
+
+#### C. Caminho do Rah
+
+O Rah é o Pilar que rege a Força do Multi-Verso. Ele é responsável pela conjuração de técnicas ofensivas e de ataque, canalizando a Energia Templária para causar dano aos seus inimigos.
+
+Quando um **Adepto de Ixin** escolhe o caminho de **Rah**, ele é treinado para executar o **Castigo de Rah**, uma técnica impiedosa que pode devastar seus inimigos através de **Raios de Energia Templária**
+
+### 2. Interferência Rúnica
+
+Por motivos misteriosos, Templos ancestrais antigos e concentrações mágicas poderosas costumam afetar drasticamente a capacidade de canalização da Energia Templária. Acredita-se que fontes intensas de Magia possam prejudicar em nível microscópico a estabilidade da Energia Rúnica.
+
+Sempre que um **Adepto de Ixin** estiver em um desses locais, ele sentirá a interferência Energética, e deverá realizar um teste de **Elo Mágico** sempre que quiser conjurar um poder do **Grimo de Ixin**.
+
+A dificuldade do teste é definida pelo nível de interferência, cuja intensidade pode variar de acordo com o local e o contexto de jogo.
+Os 3 níveis de interferência Energética são:
+
+- **Fraca**: Dificuldade 8 e -2 nas rolagens.
+- **Moderada**: Dificuldade 12 e -4 nas rolagens.
+- **Forte**: Dificuldade 16 e -6 nas rolagens
+
+<table>
+  <thead>
+    <tr>
+      <td></td>
+      <td>Penalidade Rolagem</td>
+      <td>Dificuldade do Teste (Narrador)</td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Fraca</td>
+      <td>-2</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Moderada</td>
+      <td>-4</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>Forte</td>
+      <td>-6</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 3. Escolher seus Poderes Iniciais
 
 A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
-- Escolher 1x (um) Poder Especial.
-- Iniciar o jogo com o poder **Leitura das Sombras**
+- Escolher 1x (um) Poder Especial baseado na sua **Especialização Rúnica**.
 
 ## Interpretando
 
-???
+Os **Mestres Ixinianos** acreditam que a Energia Rúnica é a forma evoluída do que os outros chamam de Magia. De acordo com eles, a Magia como conhecemos teria sido um acidente, uma forma rudimentar e contagiosa da verdadeira Energia.
+
+Essa versão: a Magia, diferente da **Energia Rúnica**, seria imperfeita, descontrolada e selvagem, tendo se espalhado rapidamente pelo mundo eras antes do Blecaute.
+
+A Doutrina de Ixin ensina que a Energia Rúnica é a tecnologia trazida ao mundo pelos Fundadores originais.
+Essa misteriosa Espécie teria fundado as primeiras civilizações das Terras Místicas, cujos relatos e vestígios ainda estão latentes nos diversos **Templos Antigos** do mundo, com relíquias que datam de antes do surgimento da civilização.
+
+Como **Adepto de Ixin**, é natural que você sinta algum interesse pela Tecnologia Templária, e que as descobertas pelos seus segredos lhe evoquem ao menos alguma curiosidade.
 
 ## Origem do Grimo
 
-???
+De acordo com os textos antigos, **Ixin** teria sido um dos únicos Augúrios de seu tempo. As histórias dizem que este simples aldeão nativo do Oeste das Terras Místicas teria se abrigado em um dos antigos Templos abandonados de **Axihlo'Rah** durante uma forte tempestade na região.
+
+Enquanto passava a noite seguro no interior do templo, Seres misteriosos conhecidos como "Os Fundadores" teriam se comunicado com o aldeão, e elegido o jovem Metalóide para se tornar o mensageiro da profecia, aquela que dizia que a semente de um grande mal crescia no seio da terra, e que um dia os seus frutos iniciariam uma guerra de proporções assustadoras, corrompendo o seu mundo num futuro ainda próximo. De acordo com os Fundadores, os habitantes deste mundo precisavam se preparar, além de exigirem em suas visões de que o Templo deveria ser protegido a qualquer custo. Para eles, a única forma de proteger o mundo da completa corrupção seria através do conhecimento da Energia Rúnica.
+
+Como presente, os Fundadores também teriam entregue a ele o **Selo de Ixin**, um artefato que possuiria dentro de sí o conhecimento preservado dessa antiga civilização, que de acordo com a profecia seriam cruciais na guerra que viria.
+
+O fato curioso sobre o objeto é que os registros da sua existência datam de eras antes que a própria tecnologia dos Grimos pudesse sequer ter sido inventada, mas milênios depois, algumas centenas de anos antes do Blecaute, quando a invenção dos Grimos se popularizava pela primeira vez na história, um Senhor Goblin Mantenedor do **Museu dos Antigos Zigurates** fez uma descoberta impressionante.
+
+Ele percebeu que um dos seus antigos itens do museu se parecia muito com um daqueles luxosos Grimos modernos, e após chamar alguns avaliadores reais, aquilo que jamais se esperava foi finalmente confirmado: O *Selo de Ixin* realmente se tratava de um Grimo!
+Ele seguia em seu design as mesmas especificações do Grimo criadas por seu inventor, e Mestre-Elo experiêntes também confirmaram que conhecimentos guardados nele poderiam ser realmente domados e absorvidos.
+"O Grimo do Futuro", como foi chamado, foi notícia nos quatro cantos do mundo. Todos queriam uma explicação para tal enigma, e mesmo nos dias de hoje, esse Enigma ainda segue sem solução.
+
+## Templos de Ixin
+
+Pouco tempo depois da impressionante descoberta do enigmático Grimo, diversos relatos e diários antigos foram recuperados e associados ao período da história onde Ixin viveu. E com o conhecimento adquirido sobre os Dogmas e Doutrinas da Profecia dos Fundadores, aqueles documentos que sempre foram entendidos como relatos de um mero lunático passaram a ser revisitados com um segundo olhar.
+
+**Templos de Ixin** surgiram por todos os lados, replicando o conteúdo original do Grimo, e ensinando suas doutrinas para aqueles que estivessem dispostos a aprender.
+
+Com o tempo, o poderoso potencial da **Energia Rúnica** foi finalmente revelado, e as incríveis técnicas de conjuração impressionam até mesmo os mais respeitosos Mestres das *Torres de Allura*.
+
+Nos dias de hoje, os **Templos de Ixin** se tornaram locais sagrados para o estudo e compreensão das Doutrinas de Ixin, aquele que ficou finalmente conhecido como "O Primeiro Profeta".
+
+Ixin documentou com detalhe as doutrinas e procedimentos necessários para domar o Grimo. Seus ricos relatos sobre os Templos, os Fundadores, os segredos do Artefato e a Profecia foram cruciais na disseminnação do conhecimento da Energia Rúnica para as novas gerações pós-Blecaute.
 
 ## Poderes do Grimo
 
