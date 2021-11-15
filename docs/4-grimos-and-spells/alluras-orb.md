@@ -200,13 +200,41 @@ As descobertas de **Drako** no primeiro Século após o Blecaute teriam salvo se
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
+- Tempestade de Allura: Conjura uma chuva do *Elemento* escolhido e aplica *Efeito +4* em todos os inimigos.
+
 ### Habilidades - Tier 1
 
-Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
+6 ativas
+- Rajada do Aprendiz: Dispara um lampejo de energia elemental em um único inimigo. Causa 2d6+6.
+- Explosão Prelementar: Emite uma explosão em um ponto especifico que atinge 4 quadrados e causa 1d8+5 a todos inimigos.
+- Amplificação Arcana: Dobra o dano do próximo ataque e adiciona 1d6 de dano.
+- Punhos de Mago: Canaliza o elemento escolhido nas mãos do conjurador, causando um potente impacto a um único inimigo que causa 3d6+4.
+- Onda de Magia: Emite uma onda de Energia elemental que se origina da sua posição e atinge todos inimigos adjacentes causando 1d10+5, afastando-os por 2 quadrados.
+- Expor Fraqueza: Emite uma aura consistente em um inimigo que dura 3 turnos e aumenta em 1d10 o dano mágico elemental causado por feitiços do seu elemento.
+
+6 passivas / utilitárias
+- Minimizar Fraqueza: Reduz em 2d6+5 ataques causados pelo elemento oposto.
+- Detectar Elemento: Pode realizar testes para sentir a presença de seu elemento em até 100 metros de distância.
+- Criar Elemento: Pode criar e manipular uma pequena quantidade do Elemento escolhido em uma área que caiba na palma de sua mão por apenas 1 P.M. O Elemento tem suas propriedades aplicadas normalmente e se mantem ativo até que o Personagem decida desfazer. A Conjuração pode assumir qualquer forma que o dominador queira, desde objetos inanimados até formas orgânicas. Pode ser usado para Manipulação e Blefe. Caso seja usado para causar dano, causa 1d6+3 de dano.
+- Ler Elemento: Você pode se comunicar com uma manifestação ativa do seu elemento para visualizar um evento passado relacionado a essa manifestação. Você pode por exemplo utilizá-lo em um incêndio para identificar o seu causador, ou se comunicar com um Rio fluente para visualizar quem passou por seu leito. Não pode ser utilizado em criaturas/inimigos/npcs.
+- Manipular Elemento: Você pode mover ou dissolver uma manifestação elemental do seu elemento com as mãos. O Custo para essa ação é de 1 P.M, e o jogador apenas pode Manipular o equivalente a 1 metro cúbico do elemento de cada vez. Se Manipular Elemento for usado como forma de ataque, exige um teste difícil de Concentração que pode ser testado com Inteligência. O dano causado nesse caso é o mesmo do **Rajada de Aprendiz**.
+- Fortitude Elemental: Qualquer dano sofrido utilizando o elemento do Dominador é reduzido em 2d6+5.
 
 ### Habilidades - Tier 2
 
-Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
+6 ativas
+- Rajada de Aprendiz 2: Expande a Rajada de Aprendiz para o nível 2, aumentando o Dano para 3d6+12
+- Barreira Elemental: Cria uma Barreira de até 6 Quadrados continuos. Qualquer um que atravessar a barreira receberá 2d10+6 de dano e precisará passar em um teste de Resiliência +3, caso falhe, será empurrado de volta da Barreira e perderá sua ação de movimento. Os Elementos sólidos como Gelo, Matéria e Natureza geram barreiras transponíveis com Espinhos móveis e Passagens espreitas que causam dano.
+- Punhos de Mago 2: Expande os Punhos de Mago para o nível 2, aumentando o Dano para 4d6+10
+- Feixe Contínuo: Conjura um Feixe do Elemento dominado que exige concentração, mas se mantém mesmo por quantos turnos o Conjurador desejar. O Feixe se extende por 6x1 Quadrados e causa 1d8+1d6+6 para cada inimigo que atingir. Para cada turno que o Conjurador quiser manter o Feixe, ele deverá gastar o Custo de Mana persistido (3). O Feixe atravessa inimigos mas causa dano em Aliados também. No inicio do seu próximo turno, conte quantos inimigos permanecem no Feixe, adicione um Token de Feixe Contínuo para cada um deles. Para cada Token, adicione 1d4 de Dano no próximo turno para aquele inimigo. Enquanto estiver dentro do Feixe, cada inimigo receberá uma penalidade de -4 para qualquer Ação. A ação de movimento do inimigo é reduzida em 1 caso ele queira avançar contra o Feixe (a menos que seja imune). Como uma ação de Movimento, o Dominador poderá alterar a Direção do Feixe no seu próximo turno, caso tenha decidido persistir o efeito. No inicio turno dos inimigos, remova todos os Tokens caso eles não estejam no Feixe.
+- Enfeitiçar: Faça um teste para aplicar o Efeito Elemental +2 em um único inimigo.
+- Explosão Prelementar 2: Expande a Explosão Prelementar para o nível 2, aumentando o Dano para 2d8+12.
+
+4 passivas / utilitárias
+- Ler Elemento 2: Expande o Ler Elemento para o nível 2. Agora é possível Ler criaturas constituídas pelo elemento escolhido, permitindo ao seu conjurador visualizar relances do passado do alvo. Se utilizada numa criatura/npc/inimigo, a Ação gera o Efeito "Exaustão 1".
+- Manipular Elemento 2: Expande o Manipular Elemento, permitindo ao conjurador Manipular até 4 Quadrados do Elemento dominado. Caso utilizado como arma (requer 2 turnos), o Manipular Elemento possui o mesmo dano de **Rajada de Aprendiz 2**
+- Meditação Planar: Exige concentração. Conecta-se ao Plano Primal do seu elemento para procurar ajuda, conselhos ou orientação de um ser extra planar. A interação exige um teste de Elo Mágico para determinar o sucesso da interação. Também exige uma narrativa apropriada para convencer a entidade a te ajudar em seus problemas.
+- Ocultação Elemental: Permite se ocultar na natureza elementar da sua dominação. Apenas pode ser utilizada quando a fonte da sua dominação é latente na sua localidade. Exemplo: Ocultar-se no vento requer que o usuário esteja em uma localidade com fontes correntes de vento. Enquanto ocultar-se na Água em Timéria exige que o lugar esteja afetado por fortes correntes marítmas, pois em Teméria, os Elementos Água e Vento são análogos. Para saber o sucesso da Ocultação, você deverá fazer um teste de **Elo Mágico**. A dificuldade do Teste depende da intensidade de presença do elemento dominado. Pode ser usada em combate como um efeito de "Invibilidade", que dura até o momento em que o usuário atacar ou se mover por mais de 3 quadrados. Nesse caso, a ação fornece a vantagem do modificador **Ataque Surpresa**.
 
 ### Habilidades - Tier 3
 
