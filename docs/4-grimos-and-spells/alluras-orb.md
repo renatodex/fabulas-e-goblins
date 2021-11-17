@@ -314,15 +314,3 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={meteors} />
 <SpellFromJson expanded={false} spellData={quadro_blast} />
 <SpellFromJson expanded={false} spellData={torment_master} />
-
-- Meteoros: Dano em área 4x4 Catastrófico: 90+ dano.
-- Cataclisma: Você emite um clarão e concentra toda energia do seu corpo  em si mesmo. Após 5 turnos, a energia elemental em você eclodee abruptamente com a intensidade de um evento cataclísmico. A intensidade é tal, que o clarão e o tremor de seu impacto pode ser percebido por kilômetros de distância de sua localidade. Quase nada no mundo pode evitar o impacto da sua destruição. Causa 50d12+350 de Dano a todos os seres vivos na área. O dano aos aliados não pode ser prevenido pelo poder **Fogo Amigo**. Ao final do poder, sua existência é completamente consumida pelo evento.
-- Feixe Contínuo 2: Aprimora o seu poder Feixe contínuo, aumentando para 4 a quantidade de Feixes que você pode manter por turno, e aumentando o Dano para 40+. O Feixe não exige mais concentração.
-- Inferno: Terraforma uma área de 12x12 com as propriedades do seu elemento. Tanto o terreno quanto o próprio ar são envoltos em uma sutil nevoa elemental que limita a visibilidade de todos inimigos a 2 quadrados. O Terreno e o ar são tomados pelas propriedades de seu elemento, causando **Efeito +6** em todos inimigos que persistirem na área a cada turno. O efeito dura por 3 Turnos mas pode ser interrompido a qualquer momento pelo conjurador.
-- Forma Elemental: Você converte sua matéria para a pura essência de seu elemento. Enquanto estiver na forma elemental, você receberá +5 de Defesa, e não poderá sofrer qualquer dano do seu próprio elemento. Ataques físicos recebem penalidade de -4 de Ataque. A Forma Elemental pode ser assustadora, e Inimigos selvagens precisam fazer um teste de Resiliência para conseguirem te atacar. A forma elemental dura 3 turnos.
-
-- Punho Duplo: Aprimora o Punhos de Mago, desferindo dois Punhos de Mago em uma única ação.
-- Absorção Elemental: Ataques sofridos por ataques com o seu elemento recebem redução fixa de 40 de dano.
-- Rajada Quadro: Efetua dois disparos da Rajada Dupla.
-- Voo Elemental: Utiliza a manipulação do seu elemento para andar livremente pelo Eixo Z. Cada quadrado no Eixo Z equivale a 1 metro cúbico.
-- Mestre da Tormenta: Aumenta o dano por turno do seu Especial em 3d12+30.
