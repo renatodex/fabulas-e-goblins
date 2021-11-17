@@ -253,6 +253,8 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 - Tormenta Elemental: Conjura uma tempestade violenta do *Elemento* escolhido e aplica *Efeito +4* em todos os inimigos. A tempestade ocupa uma área de 10x10 quadrados, e aplica dano TIER*D12+TIER*8 em todos inimigos que permanecerem na área até o final do turno. A tempestade dura 5 turnos. Em Aliados o Dano é reduzido: 1D4*TIER+3*TIER.
 
+<SpellFromJson expanded={false} spellData={alluras_torment} />
+
 ### Habilidades - Tier 1
 
 <SpellFromJson expanded={false} spellData={apprentice_blast} />
@@ -270,6 +272,8 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 ### Habilidades - Tier 2
 
+Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
+
 <SpellFromJson expanded={false} spellData={apprentice_blast_2} />
 <SpellFromJson expanded={false} spellData={elemental_barrier} />
 <SpellFromJson expanded={false} spellData={hex} />
@@ -283,6 +287,8 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 ### Habilidades - Tier 3
 
+Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
+
 <SpellFromJson expanded={false} spellData={auto_element} />
 <SpellFromJson expanded={false} spellData={double_blast} />
 <SpellFromJson expanded={false} spellData={elemental_curse} />
@@ -294,23 +300,9 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={spiral} />
 <SpellFromJson expanded={false} spellData={upgrade_skill} />
 
-6 ativas
-- Espiral: Você conjura uma espiral elemental em uma área de até 2 quadrados em volta de sí mesmo. A espiral causa 3d12+12 de dano a todos os inimigos.
-- Auto-Elemento: Você conjura uma manta elemental em torno do próprio corpo, causando 2d12+12 de dano elemental em qualquer inimigo que realizar um ataque Corpo-a-Corpo bem sucedido. A forma consome 1 P.M por turno e pode ser desligada a qualquer momento a um custo adicional de 1 P.M. Se o personagem chegar a 0 P.M enquanto a Aura está ativa, ela será interrompida abruptamente, e o Personagem sofrerá um efeito de Auto-Combustão elemental, causando a sí mesmo 1D12*TIER+12*TIER de dano.
-- Escudo Elemental: Conjura uma proteção elemental consistente em volta de sí. A Proteção possui 5d12+30 de P.V, sendo que cada ataque bem sucedido contra ela abate seus P.V ao invés dos P.Vs do conjurador. Ataques recebidos seu próprio elemento curam a barreira ao invés de causar dano.
-- Punhos de Mago 3: Expande os Punhos de Mago para o nível 3, aumentando o Dano para 4d8+20.
-- Maldição Elemental: Conjura uma versão corrupta do seu elemento numa área, causando 2d8+18 numa área de 4x4. A maldição também aplica **Efeito +3** em todos inimigos.
-- Cura Elemental: Você pode utilizar a natureza do seu próprio elemento como fonte de recuperação. No processo, a fonte elemental é consumida, e você é curado em 2d8+15. A fonte elemental precisa natural, e não pode ter sida manipulada nem causada pelo efeito do seu Grimo ou de outro conjurador.
-
-4 passive / utilitarias
-- Fogo Amigo: Habilidades conjuradas pelo seu Grimo não afetam mais seus aliados no campo de batalha. Dessa forma, uma Barreira de Fogo pode ser atravessada, e sua Manipulação do Fogo pode permitir que aliados atravessem corredores flamejantes atravez da Ação de Concentração. (Poderes como Rajada de Aprendiz apesar de não causar dano nos aliados, ainda não podem atravessá-los)
-- Rajada Dupla: Aprimora a Rajada de Aprendiz, que agora pode ser usada duas vezes em uma única ação.
-- Aprimorar Técnica: Você pode melhorar de forma permanente o dano ou cura de qualquer poder. O valor é aumentado em 1d12+5 e o Custo de P.M é aumentado em 2 P.M. Pode ser usado no Especial.
-- Meditação Planar: Exige concentração. Conecta-se ao Plano Primal do seu elemento para procurar ajuda, conselhos ou orientação de um ser extra planar. A interação exige um teste de Elo Mágico para determinar o sucesso da interação. Também exige uma narrativa apropriada para convencer a entidade a te ajudar em seus problemas ou responder suas perguntas.
-
-Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
-
 ### Habilidades - Tier 4
+
+Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
 <SpellFromJson expanded={false} spellData={cataclism} />
 <SpellFromJson expanded={false} spellData={double_fist} />
@@ -322,8 +314,6 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={meteors} />
 <SpellFromJson expanded={false} spellData={quadro_blast} />
 <SpellFromJson expanded={false} spellData={torment_master} />
-
-Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
 - Meteoros: Dano em área 4x4 Catastrófico: 90+ dano.
 - Cataclisma: Você emite um clarão e concentra toda energia do seu corpo  em si mesmo. Após 5 turnos, a energia elemental em você eclodee abruptamente com a intensidade de um evento cataclísmico. A intensidade é tal, que o clarão e o tremor de seu impacto pode ser percebido por kilômetros de distância de sua localidade. Quase nada no mundo pode evitar o impacto da sua destruição. Causa 50d12+350 de Dano a todos os seres vivos na área. O dano aos aliados não pode ser prevenido pelo poder **Fogo Amigo**. Ao final do poder, sua existência é completamente consumida pelo evento.

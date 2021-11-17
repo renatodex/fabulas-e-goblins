@@ -1,7 +1,7 @@
 {
   "name": "Meditação Planar",
-  "magic_cost": null,
-  "duration_time": null,
+  "magic_cost": "0 P.M",
+  "duration_time": "?",
   "attack_logic": null,
   "action_type": "Ativa",
   "cast_distance": null,
@@ -9,7 +9,7 @@
   "range_type": null,
   "icon": "GiDigHole",
   "element": null,
-  "caption": "",
-  "description": "<p></p>",
+  "caption": "Algumas respostas apenas podem ser encontradas pelos seres atemporais que viveram mais mil vidas.",
+  "description": "<p>Exige concentração. Conecta-se ao Plano Primal do seu elemento para procurar ajuda, conselhos ou orientação de um poderoso ser <b>extra planar</b>. A interação exige um teste de <b>Elo Mágico</b> para determinar o sucesso da interação. Também <b>exige uma narrativa apropriada</b> para convencer a entidade a te ajudar em seus problemas ou responder suas perguntas.<br/>O ato de meditar <b>precisa ser realizado em um local calmo e de preferência carregado por poder Elemental compatível</b>. A duração da meditação depende do Narrador.</p>",
   "tags": ["grimo", "orbe-de-allura"]
 }
