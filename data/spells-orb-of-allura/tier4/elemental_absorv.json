@@ -1,0 +1,15 @@
+{
+  "name": "Absorção Elemental",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "",
+  "description": "<p></p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

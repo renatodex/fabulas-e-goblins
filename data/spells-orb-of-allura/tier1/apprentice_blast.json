@@ -1,0 +1,15 @@
+{
+  "name": "Rajada do Aprendiz",
+  "magic_cost": "2 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_amount": null,
+  "range_type": "Alvo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Dispara uma rajada de energia elemental em um único inimigo.",
+  "description": "<p>O projétil mágico se transloca desde o Grimo do conjurador até o alvo. O ataque deve ser feito contra a defesa mágica do inimigo. Causa <b>2d6+6</b> de dano.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

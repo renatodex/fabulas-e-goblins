@@ -1,0 +1,15 @@
+{
+  "name": "Punhos de Mago 2",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Nada como a experiência de um bom combate corpo a corpo. Você sabe exatamente onde socar seus inimigos, e seu ataque agora sabe concentrar a Magia Elemental de forma mais eficiente.",
+  "description": "<p>Expande os Punhos de Mago para o nível 2, aumentando o Dano para <b>4d6+10</b>.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

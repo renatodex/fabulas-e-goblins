@@ -4,6 +4,57 @@ title: Orbe de Allura
 slug: /4-grimos-and-spells/alluras-orb
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import alluras_torment from './../../data/spells-orb-of-allura/ultimates/alluras_torment.json'
+
+import apprentice_blast from './../../data/spells-orb-of-allura/tier1/apprentice_blast.json'
+import arcane_amplification from './../../data/spells-orb-of-allura/tier1/arcane_amplification.json'
+import create_element from './../../data/spells-orb-of-allura/tier1/create_element.json'
+import detect_element from './../../data/spells-orb-of-allura/tier1/detect_element.json'
+import elemental_fortitude from './../../data/spells-orb-of-allura/tier1/elemental_fortitude.json'
+import expose_weakness from './../../data/spells-orb-of-allura/tier1/expose_weakness.json'
+import mage_fist from './../../data/spells-orb-of-allura/tier1/mage_fist.json'
+import magic_wave from './../../data/spells-orb-of-allura/tier1/magic_wave.json'
+import manipulate_element from './../../data/spells-orb-of-allura/tier1/manipulate_element.json'
+import minimize_weakness from './../../data/spells-orb-of-allura/tier1/minimize_weakness.json'
+import prelemental_explosion from './../../data/spells-orb-of-allura/tier1/prelemental_explosion.json'
+import read_element from './../../data/spells-orb-of-allura/tier1/read_element.json'
+
+import apprentice_blast_2 from './../../data/spells-orb-of-allura/tier2/apprentice_blast_2.json'
+import elemental_barrier from './../../data/spells-orb-of-allura/tier2/elemental_barrier.json'
+import hex from './../../data/spells-orb-of-allura/tier2/hex.json'
+import hide_in_element from './../../data/spells-orb-of-allura/tier2/hide_in_element.json'
+import linear_beam from './../../data/spells-orb-of-allura/tier2/linear_beam.json'
+import mage_fist_2 from './../../data/spells-orb-of-allura/tier2/mage_fist_2.json'
+import magic_surge from './../../data/spells-orb-of-allura/tier2/magic_surge.json'
+import manipulate_element_2 from './../../data/spells-orb-of-allura/tier2/manipulate_element_2.json'
+import prelemental_explosion_2 from './../../data/spells-orb-of-allura/tier2/prelemental_explosion_2.json'
+import read_element_2 from './../../data/spells-orb-of-allura/tier2/read_element_2.json'
+
+import auto_element from './../../data/spells-orb-of-allura/tier3/auto_element.json'
+import double_blast from './../../data/spells-orb-of-allura/tier3/double_blast.json'
+import elemental_curse from './../../data/spells-orb-of-allura/tier3/elemental_curse.json'
+import elemental_heal from './../../data/spells-orb-of-allura/tier3/elemental_heal.json'
+import elemental_shield from './../../data/spells-orb-of-allura/tier3/elemental_shield.json'
+import friendly_fire from './../../data/spells-orb-of-allura/tier3/friendly_fire.json'
+import mage_fist_3 from './../../data/spells-orb-of-allura/tier3/mage_fist_3.json'
+import planar_meditation from './../../data/spells-orb-of-allura/tier3/planar_meditation.json'
+import spiral from './../../data/spells-orb-of-allura/tier3/spiral.json'
+import upgrade_skill from './../../data/spells-orb-of-allura/tier3/upgrade_skill.json'
+
+import cataclism from './../../data/spells-orb-of-allura/tier4/cataclism.json'
+import double_fist from './../../data/spells-orb-of-allura/tier4/double_fist.json'
+import elemental_absorv from './../../data/spells-orb-of-allura/tier4/elemental_absorv.json'
+import elemental_fly from './../../data/spells-orb-of-allura/tier4/elemental_fly.json'
+import elemental_shape from './../../data/spells-orb-of-allura/tier4/elemental_shape.json'
+import inferno from './../../data/spells-orb-of-allura/tier4/inferno.json'
+import linear_beam_2 from './../../data/spells-orb-of-allura/tier4/linear_beam_2.json'
+import meteors from './../../data/spells-orb-of-allura/tier4/meteors.json'
+import quadro_blast from './../../data/spells-orb-of-allura/tier4/quadro_blast.json'
+import torment_master from './../../data/spells-orb-of-allura/tier4/torment_master.json'
+
+
 A **Orbe de Allura** é um Grimo elemental, que ao ser vinculado, pode adquirir qualquer um dos 12 Aspectos Elementais do mundo.
 
 Em seu interior, um imenso volume instável de **Magia Prelementar** encontra-se dormente, esperando para ser ativado por um utilizador. Diferente das outras fontes de Magia elemental, como o Fogo, a Agua e o Ar, a **Magia Prelementar** é entendida pelos **Arcanistas** por ser um tipo especial de poder não-elemental em estado de bruto.
@@ -200,46 +251,88 @@ As descobertas de **Drako** no primeiro Século após o Blecaute teriam salvo se
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
-- Tempestade de Allura: Conjura uma chuva do *Elemento* escolhido e aplica *Efeito +4* em todos os inimigos.
+- Tormenta Elemental: Conjura uma tempestade violenta do *Elemento* escolhido e aplica *Efeito +4* em todos os inimigos. A tempestade ocupa uma área de 10x10 quadrados, e aplica dano TIER*D12+TIER*8 em todos inimigos que permanecerem na área até o final do turno. A tempestade dura 5 turnos. Em Aliados o Dano é reduzido: 1D4*TIER+3*TIER.
 
 ### Habilidades - Tier 1
 
-6 ativas
-- Rajada do Aprendiz: Dispara um lampejo de energia elemental em um único inimigo. Causa 2d6+6.
-- Explosão Prelementar: Emite uma explosão em um ponto especifico que atinge 4 quadrados e causa 1d8+5 a todos inimigos.
-- Amplificação Arcana: Dobra o dano do próximo ataque e adiciona 1d6 de dano.
-- Punhos de Mago: Canaliza o elemento escolhido nas mãos do conjurador, causando um potente impacto a um único inimigo que causa 3d6+4.
-- Onda de Magia: Emite uma onda de Energia elemental que se origina da sua posição e atinge todos inimigos adjacentes causando 1d10+5, afastando-os por 2 quadrados.
-- Expor Fraqueza: Emite uma aura consistente em um inimigo que dura 3 turnos e aumenta em 1d10 o dano mágico elemental causado por feitiços do seu elemento.
-
-6 passivas / utilitárias
-- Minimizar Fraqueza: Reduz em 2d6+5 ataques causados pelo elemento oposto.
-- Detectar Elemento: Pode realizar testes para sentir a presença de seu elemento em até 100 metros de distância.
-- Criar Elemento: Pode criar e manipular uma pequena quantidade do Elemento escolhido em uma área que caiba na palma de sua mão por apenas 1 P.M. O Elemento tem suas propriedades aplicadas normalmente e se mantem ativo até que o Personagem decida desfazer. A Conjuração pode assumir qualquer forma que o dominador queira, desde objetos inanimados até formas orgânicas. Pode ser usado para Manipulação e Blefe. Caso seja usado para causar dano, causa 1d6+3 de dano.
-- Ler Elemento: Você pode se comunicar com uma manifestação ativa do seu elemento para visualizar um evento passado relacionado a essa manifestação. Você pode por exemplo utilizá-lo em um incêndio para identificar o seu causador, ou se comunicar com um Rio fluente para visualizar quem passou por seu leito. Não pode ser utilizado em criaturas/inimigos/npcs.
-- Manipular Elemento: Você pode mover ou dissolver uma manifestação elemental do seu elemento com as mãos. O Custo para essa ação é de 1 P.M, e o jogador apenas pode Manipular o equivalente a 1 metro cúbico do elemento de cada vez. Se Manipular Elemento for usado como forma de ataque, exige um teste difícil de Concentração que pode ser testado com Inteligência. O dano causado nesse caso é o mesmo do **Rajada de Aprendiz**.
-- Fortitude Elemental: Qualquer dano sofrido utilizando o elemento do Dominador é reduzido em 2d6+5.
+<SpellFromJson expanded={false} spellData={apprentice_blast} />
+<SpellFromJson expanded={false} spellData={arcane_amplification} />
+<SpellFromJson expanded={false} spellData={create_element} />
+<SpellFromJson expanded={false} spellData={detect_element} />
+<SpellFromJson expanded={false} spellData={elemental_fortitude} />
+<SpellFromJson expanded={false} spellData={expose_weakness} />
+<SpellFromJson expanded={false} spellData={mage_fist} />
+<SpellFromJson expanded={false} spellData={magic_wave} />
+<SpellFromJson expanded={false} spellData={manipulate_element} />
+<SpellFromJson expanded={false} spellData={minimize_weakness} />
+<SpellFromJson expanded={false} spellData={prelemental_explosion} />
+<SpellFromJson expanded={false} spellData={read_element} />
 
 ### Habilidades - Tier 2
 
-6 ativas
-- Rajada de Aprendiz 2: Expande a Rajada de Aprendiz para o nível 2, aumentando o Dano para 3d6+12
-- Barreira Elemental: Cria uma Barreira de até 6 Quadrados continuos. Qualquer um que atravessar a barreira receberá 2d10+6 de dano e precisará passar em um teste de Resiliência +3, caso falhe, será empurrado de volta da Barreira e perderá sua ação de movimento. Os Elementos sólidos como Gelo, Matéria e Natureza geram barreiras transponíveis com Espinhos móveis e Passagens espreitas que causam dano.
-- Punhos de Mago 2: Expande os Punhos de Mago para o nível 2, aumentando o Dano para 4d6+10
-- Feixe Contínuo: Conjura um Feixe do Elemento dominado que exige concentração, mas se mantém mesmo por quantos turnos o Conjurador desejar. O Feixe se extende por 6x1 Quadrados e causa 1d8+1d6+6 para cada inimigo que atingir. Para cada turno que o Conjurador quiser manter o Feixe, ele deverá gastar o Custo de Mana persistido (3). O Feixe atravessa inimigos mas causa dano em Aliados também. No inicio do seu próximo turno, conte quantos inimigos permanecem no Feixe, adicione um Token de Feixe Contínuo para cada um deles. Para cada Token, adicione 1d4 de Dano no próximo turno para aquele inimigo. Enquanto estiver dentro do Feixe, cada inimigo receberá uma penalidade de -4 para qualquer Ação. A ação de movimento do inimigo é reduzida em 1 caso ele queira avançar contra o Feixe (a menos que seja imune). Como uma ação de Movimento, o Dominador poderá alterar a Direção do Feixe no seu próximo turno, caso tenha decidido persistir o efeito. No inicio turno dos inimigos, remova todos os Tokens caso eles não estejam no Feixe.
-- Enfeitiçar: Faça um teste para aplicar o Efeito Elemental +2 em um único inimigo.
-- Explosão Prelementar 2: Expande a Explosão Prelementar para o nível 2, aumentando o Dano para 2d8+12.
-
-4 passivas / utilitárias
-- Ler Elemento 2: Expande o Ler Elemento para o nível 2. Agora é possível Ler criaturas constituídas pelo elemento escolhido, permitindo ao seu conjurador visualizar relances do passado do alvo. Se utilizada numa criatura/npc/inimigo, a Ação gera o Efeito "Exaustão 1".
-- Manipular Elemento 2: Expande o Manipular Elemento, permitindo ao conjurador Manipular até 4 Quadrados do Elemento dominado. Caso utilizado como arma (requer 2 turnos), o Manipular Elemento possui o mesmo dano de **Rajada de Aprendiz 2**
-- Meditação Planar: Exige concentração. Conecta-se ao Plano Primal do seu elemento para procurar ajuda, conselhos ou orientação de um ser extra planar. A interação exige um teste de Elo Mágico para determinar o sucesso da interação. Também exige uma narrativa apropriada para convencer a entidade a te ajudar em seus problemas.
-- Ocultação Elemental: Permite se ocultar na natureza elementar da sua dominação. Apenas pode ser utilizada quando a fonte da sua dominação é latente na sua localidade. Exemplo: Ocultar-se no vento requer que o usuário esteja em uma localidade com fontes correntes de vento. Enquanto ocultar-se na Água em Timéria exige que o lugar esteja afetado por fortes correntes marítmas, pois em Teméria, os Elementos Água e Vento são análogos. Para saber o sucesso da Ocultação, você deverá fazer um teste de **Elo Mágico**. A dificuldade do Teste depende da intensidade de presença do elemento dominado. Pode ser usada em combate como um efeito de "Invibilidade", que dura até o momento em que o usuário atacar ou se mover por mais de 3 quadrados. Nesse caso, a ação fornece a vantagem do modificador **Ataque Surpresa**.
+<SpellFromJson expanded={false} spellData={apprentice_blast_2} />
+<SpellFromJson expanded={false} spellData={elemental_barrier} />
+<SpellFromJson expanded={false} spellData={hex} />
+<SpellFromJson expanded={false} spellData={hide_in_element} />
+<SpellFromJson expanded={false} spellData={linear_beam} />
+<SpellFromJson expanded={false} spellData={mage_fist_2} />
+<SpellFromJson expanded={false} spellData={magic_surge} />
+<SpellFromJson expanded={false} spellData={manipulate_element_2} />
+<SpellFromJson expanded={false} spellData={prelemental_explosion_2} />
+<SpellFromJson expanded={false} spellData={read_element_2} />
 
 ### Habilidades - Tier 3
+
+<SpellFromJson expanded={false} spellData={auto_element} />
+<SpellFromJson expanded={false} spellData={double_blast} />
+<SpellFromJson expanded={false} spellData={elemental_curse} />
+<SpellFromJson expanded={false} spellData={elemental_heal} />
+<SpellFromJson expanded={false} spellData={elemental_shield} />
+<SpellFromJson expanded={false} spellData={friendly_fire} />
+<SpellFromJson expanded={false} spellData={mage_fist_3} />
+<SpellFromJson expanded={false} spellData={planar_meditation} />
+<SpellFromJson expanded={false} spellData={spiral} />
+<SpellFromJson expanded={false} spellData={upgrade_skill} />
+
+6 ativas
+- Espiral: Você conjura uma espiral elemental em uma área de até 2 quadrados em volta de sí mesmo. A espiral causa 3d12+12 de dano a todos os inimigos.
+- Auto-Elemento: Você conjura uma manta elemental em torno do próprio corpo, causando 2d12+12 de dano elemental em qualquer inimigo que realizar um ataque Corpo-a-Corpo bem sucedido. A forma consome 1 P.M por turno e pode ser desligada a qualquer momento a um custo adicional de 1 P.M. Se o personagem chegar a 0 P.M enquanto a Aura está ativa, ela será interrompida abruptamente, e o Personagem sofrerá um efeito de Auto-Combustão elemental, causando a sí mesmo 1D12*TIER+12*TIER de dano.
+- Escudo Elemental: Conjura uma proteção elemental consistente em volta de sí. A Proteção possui 5d12+30 de P.V, sendo que cada ataque bem sucedido contra ela abate seus P.V ao invés dos P.Vs do conjurador. Ataques recebidos seu próprio elemento curam a barreira ao invés de causar dano.
+- Punhos de Mago 3: Expande os Punhos de Mago para o nível 3, aumentando o Dano para 4d8+20.
+- Maldição Elemental: Conjura uma versão corrupta do seu elemento numa área, causando 2d8+18 numa área de 4x4. A maldição também aplica **Efeito +3** em todos inimigos.
+- Cura Elemental: Você pode utilizar a natureza do seu próprio elemento como fonte de recuperação. No processo, a fonte elemental é consumida, e você é curado em 2d8+15. A fonte elemental precisa natural, e não pode ter sida manipulada nem causada pelo efeito do seu Grimo ou de outro conjurador.
+
+4 passive / utilitarias
+- Fogo Amigo: Habilidades conjuradas pelo seu Grimo não afetam mais seus aliados no campo de batalha. Dessa forma, uma Barreira de Fogo pode ser atravessada, e sua Manipulação do Fogo pode permitir que aliados atravessem corredores flamejantes atravez da Ação de Concentração. (Poderes como Rajada de Aprendiz apesar de não causar dano nos aliados, ainda não podem atravessá-los)
+- Rajada Dupla: Aprimora a Rajada de Aprendiz, que agora pode ser usada duas vezes em uma única ação.
+- Aprimorar Técnica: Você pode melhorar de forma permanente o dano ou cura de qualquer poder. O valor é aumentado em 1d12+5 e o Custo de P.M é aumentado em 2 P.M. Pode ser usado no Especial.
+- Meditação Planar: Exige concentração. Conecta-se ao Plano Primal do seu elemento para procurar ajuda, conselhos ou orientação de um ser extra planar. A interação exige um teste de Elo Mágico para determinar o sucesso da interação. Também exige uma narrativa apropriada para convencer a entidade a te ajudar em seus problemas ou responder suas perguntas.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 ### Habilidades - Tier 4
 
+<SpellFromJson expanded={false} spellData={cataclism} />
+<SpellFromJson expanded={false} spellData={double_fist} />
+<SpellFromJson expanded={false} spellData={elemental_absorv} />
+<SpellFromJson expanded={false} spellData={elemental_fly} />
+<SpellFromJson expanded={false} spellData={elemental_shape} />
+<SpellFromJson expanded={false} spellData={inferno} />
+<SpellFromJson expanded={false} spellData={linear_beam_2} />
+<SpellFromJson expanded={false} spellData={meteors} />
+<SpellFromJson expanded={false} spellData={quadro_blast} />
+<SpellFromJson expanded={false} spellData={torment_master} />
+
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
+- Meteoros: Dano em área 4x4 Catastrófico: 90+ dano.
+- Cataclisma: Você emite um clarão e concentra toda energia do seu corpo  em si mesmo. Após 5 turnos, a energia elemental em você eclodee abruptamente com a intensidade de um evento cataclísmico. A intensidade é tal, que o clarão e o tremor de seu impacto pode ser percebido por kilômetros de distância de sua localidade. Quase nada no mundo pode evitar o impacto da sua destruição. Causa 50d12+350 de Dano a todos os seres vivos na área. O dano aos aliados não pode ser prevenido pelo poder **Fogo Amigo**. Ao final do poder, sua existência é completamente consumida pelo evento.
+- Feixe Contínuo 2: Aprimora o seu poder Feixe contínuo, aumentando para 4 a quantidade de Feixes que você pode manter por turno, e aumentando o Dano para 40+. O Feixe não exige mais concentração.
+- Inferno: Terraforma uma área de 12x12 com as propriedades do seu elemento. Tanto o terreno quanto o próprio ar são envoltos em uma sutil nevoa elemental que limita a visibilidade de todos inimigos a 2 quadrados. O Terreno e o ar são tomados pelas propriedades de seu elemento, causando **Efeito +6** em todos inimigos que persistirem na área a cada turno. O efeito dura por 3 Turnos mas pode ser interrompido a qualquer momento pelo conjurador.
+- Forma Elemental: Você converte sua matéria para a pura essência de seu elemento. Enquanto estiver na forma elemental, você receberá +5 de Defesa, e não poderá sofrer qualquer dano do seu próprio elemento. Ataques físicos recebem penalidade de -4 de Ataque. A Forma Elemental pode ser assustadora, e Inimigos selvagens precisam fazer um teste de Resiliência para conseguirem te atacar. A forma elemental dura 3 turnos.
+
+- Punho Duplo: Aprimora o Punhos de Mago, desferindo dois Punhos de Mago em uma única ação.
+- Absorção Elemental: Ataques sofridos por ataques com o seu elemento recebem redução fixa de 40 de dano.
+- Rajada Quadro: Efetua dois disparos da Rajada Dupla.
+- Voo Elemental: Utiliza a manipulação do seu elemento para andar livremente pelo Eixo Z. Cada quadrado no Eixo Z equivale a 1 metro cúbico.
+- Mestre da Tormenta: Aumenta o dano por turno do seu Especial em 3d12+30.

@@ -1,0 +1,15 @@
+{
+  "name": "Punhos de Mago",
+  "magic_cost": "2 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": "0",
+  "range_type": "Alvo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Se não pode resolver no Cajado, resolva nos Punhos!",
+  "description": "<p>Canaliza o elemento escolhido nas mãos do conjurador, causando um potente impacto a um único inimigo que causa <b>3d6+4</b> de dano.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}
