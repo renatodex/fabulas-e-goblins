@@ -101,12 +101,12 @@ export function Spell ({
     to: {
       opacity: (expandToggle ? 1 : 0),
       transform: (expandToggle ? 'scaleY(1)' : 'scaleY(0)'),
-      maxHeight:  (expandToggle ? '1000px' : '0px'),
+      maxHeight:  (expandToggle ? '2000px' : '0px'),
     },
     from: {
       opacity: (expandToggle ? 0 : 1),
       transform: (expandToggle ? 'scaleY(0)' : 'scaleY(1)'),
-      maxHeight:  (expandToggle ? '0px' : '1000px'),
+      maxHeight:  (expandToggle ? '0px' : '2000px'),
     },
   })
 
