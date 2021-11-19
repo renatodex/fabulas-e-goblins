@@ -25,7 +25,7 @@ As Crenças e Tradições dessa cultura estão muito relacionadas com as da pró
 E apesar de hoje em dia seus reinos serem, em sua maioria, mistos, e populados por diversas espécies do mundo todo, a educação e religião dos grandes reinos ainda é majoritariamente `Valdari`.
 
 Os Timerianos possuem seu próprio panteão de Divindades, que também é baseado no **Panteão Timeriano**.
-As **Ostres** são largamente consideradas divindades primordiais da formação de **Timéria**, e teriam sidoresponsáveis, de acordo com as lendas antigas, não só pela criação do `Mar de Calderia`, como chamam os **Goblins**, mas também pela criação de toda a vida existente nas Terras Místicas.
+As **Ostres** são largamente consideradas divindades primordiais da formação de **Timéria**, e teriam sido responsáveis, de acordo com as lendas antigas, não só pela criação do `Mar de Calderia`, como chamam os **Goblins**, mas também pela criação de toda a vida existente nas Terras Místicas.
 
 Além do `Ostrecismo` (religião que acredita nas `Ostres` como divindades), os `Timerianos` acabaram trazendo da Terra a veneração à outras entidades, como `Koroma`, `Lazan` e `Gaéria`.
 

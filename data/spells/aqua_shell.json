@@ -1,7 +1,7 @@
 {
-  "name": "Aquashell",
+  "name": "Bolha",
   "magic_cost": "2 P.M",
-  "duration_time": null,
+  "duration_time": "3 dias",
   "attack_logic": null,
   "action_type": "Ativa",
   "cast_distance": "3",
