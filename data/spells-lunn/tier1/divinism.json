@@ -1,0 +1,15 @@
+{
+  "name": "Divinismo",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "2",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Sua elevação Divina e o Vínculo com seu Grimo lhe permite entender e medir a fé das pessoas a sua volta.",
+  "description": "<p>O Divinismo é uma espécie de aura invisível que mede a intensidade da Fé das pessoas. A inclinação da Fé (para o bem ou para o mal) também pode ser sentida ao se realizar um teste bem sucedido de Espírito.<br/>Para utilizar esse poder, você deve <b>fazer um teste contra o nível do atributo Espírito do alvo</b>. Quando o alvo não possuir o atributo Espírito definido, a dificuldade deve ser avaliada pelo Narrador.</p>",
+  "tags": ["grimo", "lunn"]
+}

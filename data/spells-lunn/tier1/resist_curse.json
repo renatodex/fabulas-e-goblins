@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "1 P.M",
+  "name": "Resistir à Maldiçao",
+  "magic_cost": "",
   "duration_time": null,
-  "attack_logic": "Físico",
-  "action_type": "Ativa",
+  "attack_logic": "",
+  "action_type": "Passiva",
   "cast_distance": 0,
-  "range_amount": "1",
-  "range_type": "Alvo",
+  "range_amount": "",
+  "range_type": "",
   "icon": "GiPiercingSword",
   "element": null,
-  "caption": "Caption",
-  "description": "<p></p>",
+  "caption": "Lunn é seu protetor, e nada lhe faltará.",
+  "description": "<p>A Benção Resistir a Maldição é um <b>efeito protetor permanente</b> que lhe garante um <b>Bônus de +4</b> para resistir quaisquer ataques do tipo Maldição.<br/>Tomar poções desconhecidas, Interagir com Artefatos duvidosos e Adentrar Domos de Maldição podem desencadear efeitos horríveis no seu personagem, que podem ser muito difíceis de resistir utilizando simples testes de Resiliência.<br/>Com essa benção, seu personagem estará seguro para adentrar os mais escuros confins amaldiçoados das Terras Místicas.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Excomungar",
+  "magic_cost": "3 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "O Grimo conjura um poderoso Raio de Luz, que desce dos céus emanado da própria vontade de Lunn para testar a Fé dos pecadores.",
+  "description": "<p>Conjura um <b>Feixe Elemental</b> que cai do céu como um <b>Raio de Luz</b>, causando dano apenas em inimigos não religiosos.<br/>Causa <code>2d4+(TIER*9)</code> de dano. <br/>A Oração dos Pecadores apesar de não obrigatória, é comumente falada pelos Sacerdotes que conjuram o Excomungo: <b>\"Lor'Menia Tiha'Nar\"</b> <i>(O Deus de Todos poupa os que temem)</i><br/><b>Os dados do dano são aprimorados para D10 no Tier 3 e para D12 no Tier 4.</b></p>",
+  "tags": ["grimo", "lunn"]
+}

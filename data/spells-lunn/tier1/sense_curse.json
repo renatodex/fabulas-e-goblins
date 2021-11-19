@@ -1,0 +1,15 @@
+{
+  "name": "Sentir Maldição",
+  "magic_cost": "1 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágica",
+  "action_type": "Ativa",
+  "cast_distance": 5,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Sua elevação Divina pode perceber o mal escondido nas entrelinhas do mundo.",
+  "description": "<p>Você é capaz de Sentir Maldições. Maldições de complexidade baixa podem ser sentidas automaticamente sem a necessidade de rolagem.<br/>Para Maldições mais complexas, você deverá fazer um <b>teste contra a Resiliência da Maldição</b>. <i>(a ser definida pelo Narrador)</i>.<br/>O teste lhe permite saber de forma superficial os tipos prejuizos que a Maldição quer causar.<br/><hr/><i>Exemplo, você pode se aproximar de um Vaso em uma Masmorra antiga, e sentir uma maldição nele. Em um teste bem sucedido, você consegue perceber que a Maldição quer causar um Mal Físico de grande intensidade, e que o efeito da Maldição pode ser libertado simplesmente ao tocar sua superfície. Você ainda não sabe que tipo de Mal Físico ele quer causar, e em qual intensidade, mas apenas essa intuição inicial já te ajuda a ter uma boa idéia do que esperar.</i></p>",
+  "tags": ["grimo", "lunn"]
+}

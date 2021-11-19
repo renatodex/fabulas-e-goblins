@@ -8,20 +8,20 @@ import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import lunns_echo from './../../data/spells-lunn/ultimates/lunns_echo.json'
 
-import chosens_miracle from './../../data/spells-lunn/tier1/chosens_miracle.json'
 import healer_vitality from './../../data/spells-lunn/tier1/healer_vitality.json'
 import healing_touch from './../../data/spells-lunn/tier1/healing_touch.json'
 import iluminate from './../../data/spells-lunn/tier1/iluminate.json'
-import light_beam from './../../data/spells-lunn/tier1/light_beam.json'
+import excomuni from './../../data/spells-lunn/tier1/excomuni.json'
 import magical_blessing from './../../data/spells-lunn/tier1/magical_blessing.json'
 import pray from './../../data/spells-lunn/tier1/pray.json'
-import purge_curge from './../../data/spells-lunn/tier1/purge_curge.json'
-import repel_darkness from './../../data/spells-lunn/tier1/repel_darkness.json'
-import repel_light from './../../data/spells-lunn/tier1/repel_light.json'
+import purge_curse from './../../data/spells-lunn/tier1/purge_curse.json'
+import protect_against_evil from './../../data/spells-lunn/tier1/protect_against_evil.json'
+import sense_curse from './../../data/spells-lunn/tier1/sense_curse.json'
 import resist_curse from './../../data/spells-lunn/tier1/resist_curse.json'
-import reveal_spirits from './../../data/spells-lunn/tier1/reveal_spirits.json'
-import sterilize_poison from './../../data/spells-lunn/tier1/sterilize_poison.json'
+import peace_aura from './../../data/spells-lunn/tier1/peace_aura.json'
+import divinism from './../../data/spells-lunn/tier1/divinism.json'
 
+import chosens_miracle from './../../data/spells-lunn/tier2/chosens_miracle.json'
 import anti_paralizis_blessing from './../../data/spells-lunn/tier2/anti_paralizis_blessing.json'
 import anti_poison_blessing from './../../data/spells-lunn/tier2/anti_poison_blessing.json'
 import defensive_blessing from './../../data/spells-lunn/tier2/defensive_blessing.json'
@@ -31,7 +31,6 @@ import healing_unction from './../../data/spells-lunn/tier2/healing_unction.json
 import iluminate2 from './../../data/spells-lunn/tier2/iluminate2.json'
 import purge_evil from './../../data/spells-lunn/tier2/purge_evil.json'
 import snatch_ally from './../../data/spells-lunn/tier2/snatch_ally.json'
-import unchurch from './../../data/spells-lunn/tier2/unchurch.json'
 
 import anti_charm_blessing from './../../data/spells-lunn/tier3/anti_charm_blessing.json'
 import chosens_miracle_benevolence from './../../data/spells-lunn/tier3/chosens_miracle_benevolence.json'
@@ -142,24 +141,24 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 Essas são as habilidades iniciais do Grimo de Lunn. Normalmente, um Sacerdote inicial seleciona duas dessas habilidades para compor sua build inicial.
 
-<SpellFromJson expanded={false} spellData={chosens_miracle} />
-<SpellFromJson expanded={false} spellData={healer_vitality} />
 <SpellFromJson expanded={false} spellData={healing_touch} />
 <SpellFromJson expanded={false} spellData={iluminate} />
-<SpellFromJson expanded={false} spellData={light_beam} />
-<SpellFromJson expanded={false} spellData={magical_blessing} />
+<SpellFromJson expanded={false} spellData={excomuni} />
+<SpellFromJson expanded={false} spellData={divinism} />
 <SpellFromJson expanded={false} spellData={pray} />
-<SpellFromJson expanded={false} spellData={purge_curge} />
-<SpellFromJson expanded={false} spellData={repel_darkness} />
-<SpellFromJson expanded={false} spellData={repel_light} />
+<SpellFromJson expanded={false} spellData={purge_curse} />
+<SpellFromJson expanded={false} spellData={sense_curse} />
+<SpellFromJson expanded={false} spellData={protect_against_evil} />
 <SpellFromJson expanded={false} spellData={resist_curse} />
-<SpellFromJson expanded={false} spellData={reveal_spirits} />
-<SpellFromJson expanded={false} spellData={sterilize_poison} />
+<SpellFromJson expanded={false} spellData={peace_aura} />
+<SpellFromJson expanded={false} spellData={healer_vitality} />
+<SpellFromJson expanded={false} spellData={magical_blessing} />
 
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
+<SpellFromJson expanded={false} spellData={chosens_miracle} />
 <SpellFromJson expanded={false} spellData={anti_paralizis_blessing} />
 <SpellFromJson expanded={false} spellData={anti_poison_blessing} />
 <SpellFromJson expanded={false} spellData={defensive_blessing} />
@@ -169,7 +168,48 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={iluminate2} />
 <SpellFromJson expanded={false} spellData={purge_evil} />
 <SpellFromJson expanded={false} spellData={snatch_ally} />
-<SpellFromJson expanded={false} spellData={unchurch} />
+
+#### Expurgar o Mal
+Causa <code>(TIER*d10+15)</code> dano em inimigos Necróticos.
+
+#### Feixe Curativo
+Cura um aliado a distância.
+
+#### Milagre do Escolhido
+Lunn lhe escolheu para ser aquele que trará a luz de volta no mundo da escuridão.
+Essa benção lhe concede uma proteção Passiva, que permite ao seu personagem sobreviver caso tenha recebido um ataque que reduza seus Pontos de Vida a Zero (0).
+Ao invés disso, seu personagem ficará apenas com 1 Ponto de Vida.
+A Benção funciona apenas uma vez por dia.
+
+#### Benção Anti-Veneno
+Toda vez que o personagem receber um ataque Venenoso de qualquer intensidade, ele fará o teste contra intensidade 10 ao invés da intensidade descrita no poder.
+Dura até o final do encontro.
+
+#### Benção Anti-Paralizia
+Toda vez que o personagem receber um ataque Paralítico de qualquer intensidade, ele fará o teste contra intensidade 10 ao invés da intensidade descrita no poder.
+Dura até o final do encontro.
+
+#### Iluminar
+Atualiza o poder Iluminar do Tier 1, permitindo iluminar alvos mesmo sem consentimento.
+Apenas alvos pequenos e médios podem ser iluminados.
+
+#### Benção Defensiva
+Durante os próximos 3 turnos, o personagem alvo receberá uma redução de <code>TIER*1D10</code> de dano.
+
+#### Toque de Cura
+Aprimora o Toque de Cura, passando a curar um adicional de 3D6
+
+#### Unção de Cura
+Qualquer inimigo que receber dano nos próximos 3 turnos cura 1D6 de dano após receber o ataque.
+
+#### Arrebatar
+Viver por Lunn muitas vezes significa sacrificar o próprio bem estar em pró do Próximo.
+Essa Benção, ao ser concedida, reduz seus Pontos de Vida em -6 para conceder +12 Pontos de Vida a um Aliado a sua escolha, sendo um efeito Permantente que dura pelo tempo em que você estiver conectado ao seu Grimo.
+Para todos os Efeitos, ao aceitar essa Benção, o Aliado afetado passa a reconhecer Lunn como o seu Deus supremo, e qualquer ação que agrida o Legado de Lunn pode converter o Bônus de +10 em uma Maldição que penaliza o Aliado com -10 de Pontos de Vida permanentes (que se desfaz se o Grimo do Sacerdote for desconectado).
+Este poder também pode ser usado em NPCs para transferir um pouco da sua Fé e limpar os caminhos duvidosos das virtudes alheias. Ao utilizado em NPCs, eles podem se sentir iluminados, e até alinhados com suas virtudes. É uma ação nobre, que só pode ser realizada com consentimento, e sacrifica permanentemente -2 Pontos de Vida do Sacerdote.
+A Permanencia deste efeito, seja Benção ou Maldição, dura até que o Grimo esteja conectado ao Sacerdote.
+O Ritual precisa ser realizado num ambiente calmo e carregado com a Fé de Lunn.
+Custo: 20 PM/Ritual
 
 ### Habilidades - Tier 3
 
@@ -186,6 +226,37 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={powerful_pray} />
 <SpellFromJson expanded={false} spellData={regenerate} />
 
+
+#### Benção Anti-Charme
+Benção Anti-Charme
+
+#### Milagre da Benevolência do Escolhido
+Milagre do Escolhido: Benevolência (aliado não morre quando chega a 0)
+
+#### Exorcismus
+Exorcismus (Área de Dano Undead)
+
+#### Sacrifício de Fé
+Sacrifício da Fé (Melhora cura em 1d6, remove 6 P.V de forma permanente)
+
+#### Hololo
+Hololo (Converte inimigo humanoide de pouca fé)
+
+#### Feixe de Luz Poderoso
+Feixe de Luz: Poderoso
+
+#### Pilar de Luz
+Pilar de Luz (inimigo impura entra e recebe dano, estaca até 3)
+
+#### Estrelas de Luz
+Estrelas de Luz (Ilumina sala inteira)
+
+#### Oração Poderosa
+Oração Poderosa (+4 de defesa)
+
+#### Regenerar
+Regenerar (cura por turno)
+
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
@@ -201,3 +272,36 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={potentis} />
 <SpellFromJson expanded={false} spellData={translocus} />
 <SpellFromJson expanded={false} spellData={ultimatum} />
+
+#### Angelicus
+Angelicus (Passiva: Dá imunidade ao elemento Luz)
+
+#### Aurelium
+Aurelium (Aura que permite Re-rolar um resultado mal sucedido no dado)
+
+#### Columna Lucis
+Columna Lucis (Cada cura realizada como uma ação conjura 1 Pilar de luz)
+
+#### Ezomaximum
+Ezomaximum (Cura todos P.V de um aliado e fornece 3d12+10 de PV Temporario. Pode ser usado apenas uma vez por encontro)
+
+#### Impositio Dogmas
+Impositio Dogmas (Como uma ação de Reação, uma vez por encontro, pode realizar uma segunda ação)
+
+#### Infinitus
+Infinitus (Roda 1D100 para aprisionar um inimigo em outra dimensão. Pode ser usado em inimigos Épicos, mas requer 5 turnos de duração e requer reagente emocional do inimigo)
+
+#### Jugamentum
+Jugamentum (Um raio de Luz que causa dano gigantesco)
+
+#### Magnus Impositio
+Magnus Impositio (Aumenta em 3d12+10 os P.M de um alvo)
+
+#### Potentis
+Potentis (Passiva, Aumenta em 3d12 toda cura realizada como uma ação)
+
+#### Translocus
+Translocus (Permite ao Sacerdote realizar uma translocação como ação de movimento)
+
+#### Ultimatum
+Ultimatum (Se transforma em pura luz para curar toda a Party (P.V, P.M e condições negativas))

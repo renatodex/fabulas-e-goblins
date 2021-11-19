@@ -1,15 +1,15 @@
 {
-  "name": "Skill",
-  "magic_cost": "1 P.M",
-  "duration_time": null,
-  "attack_logic": "Físico",
+  "name": "Toque de Cura",
+  "magic_cost": "7 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágica",
   "action_type": "Ativa",
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPiercingSword",
-  "element": null,
-  "caption": "Caption",
-  "description": "<p></p>",
+  "element": "holy",
+  "caption": "Suas mãos canalizam o poder curativo do seu Grimo, restaurando a vitalidade de seus aliados.",
+  "description": "<p>O Toque de Cura permite restaurar <code>3D6+4</code> Pontos de Vida de um único alvo.<br/>Se usado em um inimigo <b>Corrompido</b> (Caído, Morto Vivo, Maldição ou Demônio), causa <b>Dano Dobrado</b> ao invés de curar.<br/><b>O Toque de Cura é um poder do Elemento Luz</b>, o que significa que pode ser potencializado por Bençãos e Bônus que aprimoram fórmulas de Dano/Cura em poderes deste elemento.</p>",
   "tags": ["grimo", "lunn"]
 }
