@@ -1,0 +1,15 @@
+{
+  "name": "Aliviar Traumas",
+  "magic_cost": "1 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": null,
+  "caption": "As aranhas estão saindo por todos os lados. Eu posso perceber o medo que aflige meu aliado, e com a ajuda de meu Grimo, Oro um Salmo para acalmar seus temores, permitindo que ele esqueça seus traumas, e lute bravamenne como a Graça de Lunn.",
+  "description": "<p>O</p>",
+  "tags": ["grimo", "lunn"]
+}

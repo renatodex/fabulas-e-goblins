@@ -1,5 +1,5 @@
 {
-  "name": "Skill",
+  "name": "Expurgar o Mal",
   "magic_cost": "1 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": null,
   "caption": "Caption",
-  "description": "<p></p>",
+  "description": "<p>Causa <code>(TIER*d10+15)</code> dano em inimigos Necróticos.</p>",
   "tags": ["grimo", "lunn"]
 }

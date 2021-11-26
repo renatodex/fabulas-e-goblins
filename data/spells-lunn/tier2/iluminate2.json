@@ -1,5 +1,5 @@
 {
-  "name": "Skill",
+  "name": "Iluminar 2",
   "magic_cost": "1 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": null,
   "caption": "Caption",
-  "description": "<p></p>",
+  "description": "<p>Atualiza o poder Iluminar do Tier 1, permitindo iluminar alvos mesmo sem consentimento. Apenas alvos pequenos e médios podem ser iluminados.</p>",
   "tags": ["grimo", "lunn"]
 }
