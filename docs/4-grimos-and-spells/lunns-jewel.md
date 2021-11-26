@@ -22,12 +22,12 @@ import peace_aura from './../../data/spells-lunn/tier1/peace_aura.json'
 import divinism from './../../data/spells-lunn/tier1/divinism.json'
 
 import chosens_miracle from './../../data/spells-lunn/tier2/chosens_miracle.json'
-import anti_paralizis_blessing from './../../data/spells-lunn/tier2/anti_paralizis_blessing.json'
-import anti_poison_blessing from './../../data/spells-lunn/tier2/anti_poison_blessing.json'
+import relieve_trauma from './../../data/spells-lunn/tier2/relieve_trauma.json'
+import sanctify_earth from './../../data/spells-lunn/tier2/sanctify_earth.json'
 import defensive_blessing from './../../data/spells-lunn/tier2/defensive_blessing.json'
 import healing_beam from './../../data/spells-lunn/tier2/healing_beam.json'
 import healing_touch2 from './../../data/spells-lunn/tier2/healing_touch2.json'
-import healing_unction from './../../data/spells-lunn/tier2/healing_unction.json'
+import lunns_communion from './../../data/spells-lunn/tier2/lunns_communion.json'
 import iluminate2 from './../../data/spells-lunn/tier2/iluminate2.json'
 import purge_evil from './../../data/spells-lunn/tier2/purge_evil.json'
 import snatch_ally from './../../data/spells-lunn/tier2/snatch_ally.json'
@@ -158,58 +158,16 @@ Essas são as habilidades iniciais do Grimo de Lunn. Normalmente, um Sacerdote i
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
-<SpellFromJson expanded={false} spellData={chosens_miracle} />
-<SpellFromJson expanded={false} spellData={anti_paralizis_blessing} />
-<SpellFromJson expanded={false} spellData={anti_poison_blessing} />
+<SpellFromJson expanded={false} spellData={relieve_trauma} />
+<SpellFromJson expanded={false} spellData={sanctify_earth} />
 <SpellFromJson expanded={false} spellData={defensive_blessing} />
 <SpellFromJson expanded={false} spellData={healing_beam} />
 <SpellFromJson expanded={false} spellData={healing_touch2} />
-<SpellFromJson expanded={false} spellData={healing_unction} />
 <SpellFromJson expanded={false} spellData={iluminate2} />
-<SpellFromJson expanded={false} spellData={purge_evil} />
 <SpellFromJson expanded={false} spellData={snatch_ally} />
-
-#### Expurgar o Mal
-Causa <code>(TIER*d10+15)</code> dano em inimigos Necróticos.
-
-#### Feixe Curativo
-Cura um aliado a distância.
-
-#### Milagre do Escolhido
-Lunn lhe escolheu para ser aquele que trará a luz de volta no mundo da escuridão.
-Essa benção lhe concede uma proteção Passiva, que permite ao seu personagem sobreviver caso tenha recebido um ataque que reduza seus Pontos de Vida a Zero (0).
-Ao invés disso, seu personagem ficará apenas com 1 Ponto de Vida.
-A Benção funciona apenas uma vez por dia.
-
-#### Benção Anti-Veneno
-Toda vez que o personagem receber um ataque Venenoso de qualquer intensidade, ele fará o teste contra intensidade 10 ao invés da intensidade descrita no poder.
-Dura até o final do encontro.
-
-#### Benção Anti-Paralizia
-Toda vez que o personagem receber um ataque Paralítico de qualquer intensidade, ele fará o teste contra intensidade 10 ao invés da intensidade descrita no poder.
-Dura até o final do encontro.
-
-#### Iluminar
-Atualiza o poder Iluminar do Tier 1, permitindo iluminar alvos mesmo sem consentimento.
-Apenas alvos pequenos e médios podem ser iluminados.
-
-#### Benção Defensiva
-Durante os próximos 3 turnos, o personagem alvo receberá uma redução de <code>TIER*1D10</code> de dano.
-
-#### Toque de Cura
-Aprimora o Toque de Cura, passando a curar um adicional de 3D6
-
-#### Unção de Cura
-Qualquer inimigo que receber dano nos próximos 3 turnos cura 1D6 de dano após receber o ataque.
-
-#### Arrebatar
-Viver por Lunn muitas vezes significa sacrificar o próprio bem estar em pró do Próximo.
-Essa Benção, ao ser concedida, reduz seus Pontos de Vida em -6 para conceder +12 Pontos de Vida a um Aliado a sua escolha, sendo um efeito Permantente que dura pelo tempo em que você estiver conectado ao seu Grimo.
-Para todos os Efeitos, ao aceitar essa Benção, o Aliado afetado passa a reconhecer Lunn como o seu Deus supremo, e qualquer ação que agrida o Legado de Lunn pode converter o Bônus de +10 em uma Maldição que penaliza o Aliado com -10 de Pontos de Vida permanentes (que se desfaz se o Grimo do Sacerdote for desconectado).
-Este poder também pode ser usado em NPCs para transferir um pouco da sua Fé e limpar os caminhos duvidosos das virtudes alheias. Ao utilizado em NPCs, eles podem se sentir iluminados, e até alinhados com suas virtudes. É uma ação nobre, que só pode ser realizada com consentimento, e sacrifica permanentemente -2 Pontos de Vida do Sacerdote.
-A Permanencia deste efeito, seja Benção ou Maldição, dura até que o Grimo esteja conectado ao Sacerdote.
-O Ritual precisa ser realizado num ambiente calmo e carregado com a Fé de Lunn.
-Custo: 20 PM/Ritual
+<SpellFromJson expanded={false} spellData={purge_evil} />
+<SpellFromJson expanded={false} spellData={lunns_communion} />
+<SpellFromJson expanded={false} spellData={chosens_miracle} />
 
 ### Habilidades - Tier 3
 

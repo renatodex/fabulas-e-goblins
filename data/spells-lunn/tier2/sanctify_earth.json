@@ -1,0 +1,15 @@
+{
+  "name": "Santificar o Solo",
+  "magic_cost": "20 P.M",
+  "duration_time": "?",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 2,
+  "range_amount": "20x20",
+  "range_type": "Área",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "O Poder Divino do Grimo flui para suas mãos e suas palavras, enquanto você canaliza sua fé para blindar uma região contra as forças profanas",
+  "description": "<p>Santificar Solo cria um encantamento poderoso numa area de até <b>20x20</b>, que dura por até 8 horas e causa <b>2d12+8 de Dano Divino por turno</b> em todas as criaturas <b>Profanas</b> que adentrarem a área.<br/><br/>Este poder é um <b>Ritual</b>, e para ser conjurado precisa necessariamente ser <b>feito numa área silenciosa, pacífica e livre de ameaças nos entornos</b>. O <b>tempo de duração</b> do Ritual depende das <b>condições do local</b>, e pode variar <b>entre 1h e 12h de duração</b>. Durante o tempo do Ritual, o <b>Sacerdote estará 100% focado</b>, realizando orações e salmos divinos para Santificar a área.<br/>Quaisquer distrações constantes, ameaça ou agitação nos entornos da Área do Ritual <b>automaticamente cancelará o mesmo</b>, obrigando o Sacerdote a <b>reiniciar o processo</b> apenas quando a região estiver pacificada novamente.<br/><br/>O tempo de persistencia do Ritual pode ser extendido <b>em até 1 ano</b> através da consumação de uma <b><u>Gota de Fé</u></b> durante o processo.<br/><br/><b>Criaturas consideradas Profanas:</b> Mortos-Vivos, Demônios, Aparições, Criaturas das Trevas, Fantasmas e monstros conjurados por Necromancia.</p>",
+  "tags": ["grimo", "lunn"]
+}

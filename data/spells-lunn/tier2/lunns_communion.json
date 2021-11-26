@@ -1,0 +1,15 @@
+{
+  "name": "Comunhão com Lunn",
+  "magic_cost": "1 P.M",
+  "duration_time": null,
+  "attack_logic": "Ritual",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "",
+  "range_type": "Sí mesmo",
+  "icon": "GiPiercingSword",
+  "element": null,
+  "caption": "Com a ajuda de seu Grimo para amplificar sua fé, você se volta para sí mesmo para procurar respostas no próprio refúgio do Criador.",
+  "description": "<p>Através deste Ritual você pode entrar em comunhão com Lunn para obter <b>orientações, conselhos ou apenas respostas</b>.<br/>Talvez você queira saber sobre um perigo iminente em sua vida, ou precise de um conselho sobre como lidar com um Drama emergente em seu momento atual.<br/><br/>Seja como for, Lunn o visitará em suas orações e lhe dará a clareza que você necessita.<br/><br/>Para se comunicar com Lunn, o Narrador fará um teste oculto utilizando seu modificador de <b>Espírito</b> ou <b>Elo Mágico</b> (o maior). <b>A dificuldade padrão é 15</b>, mas pode ser ajustada para cima ou para baixo, a ser definido pelo Narrador.<br/>Caso você passe no teste com a dificuldade definida por ele, sua questão será verdadeira atendida, com um conselho sólido e valioso que poderá mudar sua forma de enxergar uma determinada situação.<br/><br/>A resposta da Comunhão pode ser uma Palavra, uma Frase ou até mesmo uma Imagem. Ficará a cargo do Narrador decidir o resultado baseado no resultado da sua rolagem e na dificuldade estabelecida.<br/><br>A comunhão exige que o Sacerdote esteja em <b>local Pacificado e Silencioso por pelo menos 1 hora</b>.</p>",
+  "tags": ["grimo", "lunn"]
+}

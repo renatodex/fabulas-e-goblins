@@ -1,15 +1,15 @@
 {
   "name": "Benção Defensiva",
-  "magic_cost": "1 P.M",
+  "magic_cost": "6 P.M",
   "duration_time": null,
-  "attack_logic": "Físico",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPiercingSword",
-  "element": null,
-  "caption": "Caption",
-  "description": "<p></p>",
+  "element": "holy",
+  "caption": "Suas mãos tocam um aliado, fornecendo a ele uma benção protetora que o projete contra os ataques inimigos.",
+  "description": "<p>A benção concede um <b>escudo protetor</b> invisível ao aliado, que neutraliza os ataques inimigos. O Escudo possui <b>TIER*2d10 de Pontos de Vida</b>, dura até o final do encontro, e não pode acumular com outros escudos ou bençãos. A benção pode ser dissolvida <b>apenas pelo Sacerdote</b>, e em qualquer momento. Para ser aplicada, <b>precisa de consentimento</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Expurgar o Mal",
-  "magic_cost": "1 P.M",
-  "duration_time": null,
-  "attack_logic": "Físico",
+  "name": "Expurgar Profano",
+  "magic_cost": "10 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": 0,
+  "cast_distance": 6,
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPiercingSword",
-  "element": null,
-  "caption": "Caption",
-  "description": "<p>Causa <code>(TIER*d10+15)</code> dano em inimigos Necróticos.</p>",
+  "element": "holy",
+  "caption": "Conjura uma potente explosão de Luz em um alvo Profano, purificando o mundo de sua presença.",
+  "description": "<p><b>Expurgar Profano</b> conjura uma Explosão de Luz que apenas pode afetar inimigos Profanos (Mortos-Vivos, Sombras, Demônios, etc).<br/>A Explosão se inicia na própria localidade do Alvo, consumindo qualquer elemento de Escuridão e Mal.<br/><br/>Causa <code>(TIER*d10+20)</code> dano em inimigos <b>Profanos</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

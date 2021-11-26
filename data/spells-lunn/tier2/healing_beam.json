@@ -1,15 +1,15 @@
 {
   "name": "Feixe Curativo",
-  "magic_cost": "1 P.M",
-  "duration_time": null,
-  "attack_logic": "Físico",
+  "magic_cost": "7 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": 0,
+  "cast_distance": 6,
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPiercingSword",
-  "element": null,
-  "caption": "Caption",
-  "description": "<p></p>",
+  "element": "holy",
+  "caption": "Sua arma canaliza um poderoso feixe curativo, que restaura um aliado.",
+  "description": "<p>Um <b>Feixe de Luz Divina</b> é canalizado pelo Grimo e disparado de um implemento do Sacerdote <i>(arma, amuleto, Grimo, ou até mesmo das mãos do Sacerdote)</i><br/><br/>O Feixe pára quando <b>atinge o Alvo</b>, e não <b>pode atravessar alvos ou objetos sólidos</b>. <br/><br/>Cura <code>2d10+5</code> de P.V do Alvo. O Feixe não pode ser usado para <b>causar dano</b>, e é <b>dissipado</b> ao acertar um alvo <b>Profano</b>.</p>",
   "tags": ["grimo", "lunn"]
 }
