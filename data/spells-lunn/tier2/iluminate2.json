@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": "holy",
   "caption": "Sua experiência com o manejo da Luz permite utilizá-la como uma técnica ofensiva, iluminando alvos contra a vontade deles.",
-  "description": "<p>Atualiza o poder <b>Iluminar</b> do Tier 1, permitindo iluminar alvos <b>mesmo sem consentimento</b>.<br/>Apenas alvos pequenos e médios podem ser iluminados.<br/><br/>Alvos do <b>Elemento Trevas</b> recebem um adicional de <code>1d6</code> de dano em cada turno que a luz estiver ativa.</p>",
+  "description": "<p>Atualiza o poder <b>Iluminar</b> do Tier 1, permitindo iluminar alvos <b>mesmo sem consentimento</b>.<br/>Apenas alvos pequenos e médios podem ser iluminados.<br/><br/>Alvos do <b>Elemento Trevas</b> recebem um adicional de <code>1d6</code> de dano em cada turno que a luz estiver ativa.<br/><br/><b>Se o Sacerdote possuir mais de 1 Token de Ação Profana, a Luz do Iluminar se torna corrompida, fazendo com que apenas criaturas Divinas como Anjos e Celestiais recebam dano, ao invés de criaturas Profanas.</b></p>",
   "tags": ["grimo", "lunn"]
 }

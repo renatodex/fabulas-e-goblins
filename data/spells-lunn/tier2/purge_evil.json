@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": "holy",
   "caption": "Conjura uma potente explosão de Luz em um alvo Profano, purificando o mundo de sua presença.",
-  "description": "<p><b>Expurgar Profano</b> conjura uma Explosão de Luz que apenas pode afetar inimigos Profanos (Mortos-Vivos, Sombras, Demônios, etc).<br/>A Explosão se inicia na própria localidade do Alvo, consumindo qualquer elemento de Escuridão e Mal.<br/><br/>Causa <code>(TIER*d10+20)</code> dano em inimigos <b>Profanos</b>.</p>",
+  "description": "<p><b>Expurgar Profano</b> conjura uma Explosão de Luz que apenas pode afetar inimigos Profanos (Mortos-Vivos, Sombras, Demônios, etc).<br/>A Explosão se inicia na própria localidade do Alvo, consumindo qualquer elemento de Escuridão e Mal.<br/><br/>Causa <code>(TIER*d10+20)</code> dano em inimigos <b>Profanos</b>.<br/><br/><b>Sacerdotes com mais de 1 Ação Profana só podem conjurar a versão corrompida deste poder, podendo apenas Expurgar inimigos Divinos, como Anjos, Celestiais e Elementais da Luz</b></p>",
   "tags": ["grimo", "lunn"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": null,
   "caption": "Você é um dos escolhidos de Lunn para banir escuridão do mundo, e ele não poupará esforços para garantir que você cumpra sua missão.",
-  "description": "<p>Essa benção lhe concede uma <b>proteção Passiva</b>, que permite ao seu personagem sobreviver caso tenha recebido um ataque que <b>reduza seus Pontos de Vida a Zero (0)</b>.<br/>Ao invés disso, você se recupera do ataque letal, retirando forças de seu Senhor para retornar ao campo de batalha com <b>1 Ponto de Vida</b>.<br/>A Benção funciona apenas <b>uma vez por dia</b>.<br/><br/>Nenhum trauma é aplicado ao Sacerdote devido a proteção da Benção.<hr/><i>&quot;Aquele que caminhar no jardim do criador, jamais temerá seu inimigo.&quot; - Ganaias 12:11</i></p>",
+  "description": "<p>Essa benção lhe concede uma <b>proteção Passiva</b>, que permite ao seu personagem sobreviver caso tenha recebido um ataque que <b>reduza seus Pontos de Vida a Zero (0)</b>.<br/>Ao invés disso, você se recupera do ataque letal, retirando forças de seu Senhor para retornar ao campo de batalha com <b>1 Ponto de Vida</b>.<br/>A Benção funciona apenas <b>uma vez por dia</b>.<br/><br/>Nenhum trauma é aplicado ao Sacerdote devido a proteção da Benção.<br/><br/><b>Sacerdotes com mais de 5 Ações Profanas recebem 2 proteções Passivas, ao invés de uma.</b><hr/><i>&quot;Aquele que caminhar no jardim do criador, jamais temerá seu inimigo.&quot; - Ganaias 12:11</i></p>",
   "tags": ["grimo", "lunn"]
 }

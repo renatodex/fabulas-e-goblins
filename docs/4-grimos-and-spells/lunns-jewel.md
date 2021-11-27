@@ -32,7 +32,7 @@ import iluminate2 from './../../data/spells-lunn/tier2/iluminate2.json'
 import purge_evil from './../../data/spells-lunn/tier2/purge_evil.json'
 import snatch_ally from './../../data/spells-lunn/tier2/snatch_ally.json'
 
-import anti_charm_blessing from './../../data/spells-lunn/tier3/anti_charm_blessing.json'
+import mark_of_penitence from './../../data/spells-lunn/tier3/mark_of_penitence.json'
 import chosens_miracle_benevolence from './../../data/spells-lunn/tier3/chosens_miracle_benevolence.json'
 import exorcismus from './../../data/spells-lunn/tier3/exorcismus.json'
 import faith_sacrifice from './../../data/spells-lunn/tier3/faith_sacrifice.json'
@@ -119,6 +119,20 @@ A menos que outra regra diga o contrário, você deverá:
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
 
+## Ações Profanas
+
+Como **Sacerdote de Lunn**, você vive sob a Doutrina dele, que espera que você trabalhe para realizar ações de benfeitoria no mundo.
+
+Quando, por algum motivo, você realiza ações no mundo que podem ser julgadas por Lunn como ações de cunho <b>Profano</b>, você receberá do Narrador um **Token de Ação Profana**.
+
+Cada Token só pode ser anulado por uma **Ação de Benfeitoria** comprovada e aprovada pelo Narrador.
+
+Os Tokens afetam a vida do Sacerdote de várias maneiras:
+
+- Sacerdotes podem perceber se você realizou muitas **Ações Profanas**, e tratar você de acordo.
+- **Ações Profanas** podem gerar **Efeitos Profanos** em Habilidades.
+- Sua presença será barrada em Templos de Lunn e outros locais sagrados caso você tenha mais de **1 Carga de Ação Profana**.
+
 ## Interpretando um Sacerdote
 
 Tradicionalmente, **Adeptos de Lunn** são indivíduos benevolentes, pois a eles foi confiado pelos **Arche-Sacerdotes** um Artefato divino conhecido como **Jóia de Lunn**.
@@ -173,7 +187,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
-<SpellFromJson expanded={false} spellData={anti_charm_blessing} />
+<SpellFromJson expanded={false} spellData={mark_of_penitence} />
 <SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={exorcismus} />
 <SpellFromJson expanded={false} spellData={faith_sacrifice} />
@@ -184,9 +198,8 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={powerful_pray} />
 <SpellFromJson expanded={false} spellData={regenerate} />
 
-
-#### Benção Anti-Charme
-Benção Anti-Charme
+#### Marca da Penitência
+Toda vez que realizar um pecado ou uma ação Profana, recebe uma carga visual ,que pode ser apenas vista pelo Sacerdote que conjurou. A marca se dilui de forma passiva após 7 dias.
 
 #### Milagre da Benevolência do Escolhido
 Milagre do Escolhido: Benevolência (aliado não morre quando chega a 0)
@@ -195,7 +208,7 @@ Milagre do Escolhido: Benevolência (aliado não morre quando chega a 0)
 Exorcismus (Área de Dano Undead)
 
 #### Sacrifício de Fé
-Sacrifício da Fé (Melhora cura em 1d6, remove 6 P.V de forma permanente)
+Sacrifício da Fé (Melhora cura em TIER*1d8, remove 6 P.V de forma permanente)
 
 #### Hololo
 Hololo (Converte inimigo humanoide de pouca fé)
