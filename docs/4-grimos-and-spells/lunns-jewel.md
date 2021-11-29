@@ -36,8 +36,8 @@ import mark_of_penitence from './../../data/spells-lunn/tier3/mark_of_penitence.
 import chosens_miracle_benevolence from './../../data/spells-lunn/tier3/chosens_miracle_benevolence.json'
 import exorcismus from './../../data/spells-lunn/tier3/exorcismus.json'
 import faith_sacrifice from './../../data/spells-lunn/tier3/faith_sacrifice.json'
-import hololo from './../../data/spells-lunn/tier3/hololo.json'
-import light_beam_powerful from './../../data/spells-lunn/tier3/light_beam_powerful.json'
+import redemption from './../../data/spells-lunn/tier3/redemption.json'
+import temple_portal from './../../data/spells-lunn/tier3/temple_portal.json'
 import light_pillar from './../../data/spells-lunn/tier3/light_pillar.json'
 import light_stars from './../../data/spells-lunn/tier3/light_stars.json'
 import powerful_pray from './../../data/spells-lunn/tier3/powerful_pray.json'
@@ -191,8 +191,8 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={exorcismus} />
 <SpellFromJson expanded={false} spellData={faith_sacrifice} />
-<SpellFromJson expanded={false} spellData={hololo} />
-<SpellFromJson expanded={false} spellData={light_beam_powerful} />
+<SpellFromJson expanded={false} spellData={redemption} />
+<SpellFromJson expanded={false} spellData={temple_portal} />
 <SpellFromJson expanded={false} spellData={light_pillar} />
 <SpellFromJson expanded={false} spellData={light_stars} />
 <SpellFromJson expanded={false} spellData={powerful_pray} />
@@ -210,8 +210,8 @@ Exorcismus (Área de Dano Undead)
 #### Sacrifício de Fé
 Sacrifício da Fé (Melhora cura em TIER*1d8, remove 6 P.V de forma permanente)
 
-#### Hololo
-Hololo (Converte inimigo humanoide de pouca fé)
+#### redemption
+redemption (Converte inimigo humanoide de pouca fé)
 
 #### Feixe de Luz Poderoso
 Feixe de Luz: Poderoso
