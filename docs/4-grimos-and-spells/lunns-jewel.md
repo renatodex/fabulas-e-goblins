@@ -37,11 +37,11 @@ import chosens_miracle_benevolence from './../../data/spells-lunn/tier3/chosens_
 import exorcismus from './../../data/spells-lunn/tier3/exorcismus.json'
 import faith_sacrifice from './../../data/spells-lunn/tier3/faith_sacrifice.json'
 import redemption from './../../data/spells-lunn/tier3/redemption.json'
-import temple_portal from './../../data/spells-lunn/tier3/temple_portal.json'
+import truth_aura from './../../data/spells-lunn/tier3/truth_aura.json'
 import light_pillar from './../../data/spells-lunn/tier3/light_pillar.json'
-import light_stars from './../../data/spells-lunn/tier3/light_stars.json'
+import evoke_light from './../../data/spells-lunn/tier3/evoke_light.json'
 import powerful_pray from './../../data/spells-lunn/tier3/powerful_pray.json'
-import regenerate from './../../data/spells-lunn/tier3/regenerate.json'
+import healing_pray from './../../data/spells-lunn/tier3/healing_pray.json'
 
 import angelicus from './../../data/spells-lunn/tier4/angelicus.json'
 import aurelium from './../../data/spells-lunn/tier4/aurelium.json'
@@ -188,45 +188,15 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 <SpellFromJson expanded={false} spellData={mark_of_penitence} />
-<SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={exorcismus} />
+<SpellFromJson expanded={false} spellData={truth_aura} />
+<SpellFromJson expanded={false} spellData={light_pillar} />
+<SpellFromJson expanded={false} spellData={evoke_light} />
+<SpellFromJson expanded={false} spellData={healing_pray} />
+<SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={faith_sacrifice} />
 <SpellFromJson expanded={false} spellData={redemption} />
-<SpellFromJson expanded={false} spellData={temple_portal} />
-<SpellFromJson expanded={false} spellData={light_pillar} />
-<SpellFromJson expanded={false} spellData={light_stars} />
 <SpellFromJson expanded={false} spellData={powerful_pray} />
-<SpellFromJson expanded={false} spellData={regenerate} />
-
-#### Marca da Penitência
-Toda vez que realizar um pecado ou uma ação Profana, recebe uma carga visual ,que pode ser apenas vista pelo Sacerdote que conjurou. A marca se dilui de forma passiva após 7 dias.
-
-#### Milagre da Benevolência do Escolhido
-Milagre do Escolhido: Benevolência (aliado não morre quando chega a 0)
-
-#### Exorcismus
-Exorcismus (Área de Dano Undead)
-
-#### Sacrifício de Fé
-Sacrifício da Fé (Melhora cura em TIER*1d8, remove 6 P.V de forma permanente)
-
-#### redemption
-redemption (Converte inimigo humanoide de pouca fé)
-
-#### Feixe de Luz Poderoso
-Feixe de Luz: Poderoso
-
-#### Pilar de Luz
-Pilar de Luz (inimigo impura entra e recebe dano, estaca até 3)
-
-#### Estrelas de Luz
-Estrelas de Luz (Ilumina sala inteira)
-
-#### Oração Poderosa
-Oração Poderosa (+4 de defesa)
-
-#### Regenerar
-Regenerar (cura por turno)
 
 ### Habilidades - Tier 4
 
