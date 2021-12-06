@@ -1,15 +1,15 @@
 {
   "name": "Ultimatum",
-  "magic_cost": "1 P.M",
+  "magic_cost": "40 P.M",
   "duration_time": null,
-  "attack_logic": "Físico",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": 0,
-  "range_amount": "1",
-  "range_type": "Alvo",
+  "range_amount": "",
+  "range_type": "Sí mesmo",
   "icon": "GiPiercingSword",
-  "element": null,
-  "caption": "Caption",
-  "description": "<p>Ultimatum (Se transforma em pura luz para curar toda a Party (P.V, P.M e condições negativas))</p>",
+  "element": "holy",
+  "caption": "O poder supremo dos Sacerdotes de Lunn, utilizado apenas quando a purificação suprema é a única alternativa.",
+  "description": "<p>O Mestre Sacerdote se embeda com a <b>Pura essencia da Luz</b>, emitindo uma densa <b>auréola mágica</b> que <b>cura todos P.V, P.M e expurga quaisquer condições negativas ou maldições</b> que possam estar afligindo aliados <b>numa área de 30x30</b>.<br/><br/>Além disso, todos aliados na área recebem <code>4d20 de P.V</code> temporário e são arrebatados por um sentimento incrível de paz, segurança, motivação e fé.<br/><br/>Os efeitos se <b>repetem/renovam por até 3 turnos</b>. Em cada turno, o Mestre Sacerdote <b>precisa estar 100% focado</b> em canalizar \"Ultimatum\", <b>não podendo realizar ações de movimento ou outras ações</b>. (nem mesmo ações de Reação)<br/><br/>No final de cada turno enquanto a canalização está ativa, o Sacerdote <b>pode decidir sobrecarregar o seu Grimo</b> para causar o <b>\"Ultimatum\"</b>, o poder supremo dos Sacerdotes de Lunn. Caso decida apenas utilizar o <b>Ultimatum</b> para Cura, após o terceiro turno, o Sacerdote volta ao seu estado normal, e apenas pode repetir o feito em <b>1 ano</b>.<br/><br/>O Ultimatum é o resultado da condensação extrema da luz no corpo do Mestre Sacerdote. Como resultado, <b>você se torna a essência da pura magia da Fé</b>, causando um enorme <b>erupção elemental</b> que se origina à partir do Sacerdote, e se expande como uma <b>violenta explosão de luz</b> e afeta uma <b>Área de 5000x5000</b>.<br/><br/><b>Inimigos Profano e Maldições na área são obliteradas por completo</b>, sofrendo <code>30d100+300 de Dano</code>, enquanto as <b>Maldições são dissolvidas sem qualquer teste</b>. <b>Ultimatum</b> purifica toda a área de alcance do poder e <b>elimina qualquer vestígio da influência das trevas</b>.<br/><br/>Como resultado, o corpo e a alma do Sacerdote se dividem, sendo sua <b>parte física dissolvida no processo</b>. Por fim, sua parte espiritual é enviada para o <b>Plano de Lunn</b>, onde atuará eternamente como um dos <b>seus Guardiões</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

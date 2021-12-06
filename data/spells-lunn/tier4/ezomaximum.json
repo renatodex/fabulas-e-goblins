@@ -1,15 +1,15 @@
 {
-  "name": "Ezomaximum",
-  "magic_cost": "1 P.M",
+  "name": "Eczomaximum",
+  "magic_cost": "18 P.M",
   "duration_time": null,
-  "attack_logic": "Físico",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPiercingSword",
-  "element": null,
-  "caption": "Caption",
-  "description": "<p>Ezomaximum (Cura todos P.V de um aliado e fornece 3d12+10 de PV Temporario. Pode ser usado apenas uma vez por encontro)</p>",
+  "element": "holy",
+  "caption": "Ao recitar a sagrada Oração do Eczomaximum, você conjura um Pilar de Cura que envolve o corpo de um alvo selando todas suas feridas e protegendo-o contra feridas futuras.",
+  "description": "<p>Cura <b>todos P.V de um aliado</b> e fornece <code>3d12+10 de PV</code> Temporario.<br/><b>Pode ser usado apenas uma vez por encontro</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

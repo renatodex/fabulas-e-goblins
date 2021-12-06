@@ -51,9 +51,10 @@ import impositio_dogmas from './../../data/spells-lunn/tier4/impositio_dogmas.js
 import infinitus from './../../data/spells-lunn/tier4/infinitus.json'
 import jugamentum from './../../data/spells-lunn/tier4/jugamentum.json'
 import magnus_impositio from './../../data/spells-lunn/tier4/magnus_impositio.json'
-import potentis from './../../data/spells-lunn/tier4/potentis.json'
-import translocus from './../../data/spells-lunn/tier4/translocus.json'
+import healing_master from './../../data/spells-lunn/tier4/healing_master.json'
+import abbots_hand from './../../data/spells-lunn/tier4/abbots_hand.json'
 import ultimatum from './../../data/spells-lunn/tier4/ultimatum.json'
+import lunns_command from './../../data/spells-lunn/tier4/lunns_command.json'
 
 ![lunn.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6fce0b58-d6d6-43b7-8d14-c1168fb3a8b8.jpg)
 
@@ -210,39 +211,59 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={infinitus} />
 <SpellFromJson expanded={false} spellData={jugamentum} />
 <SpellFromJson expanded={false} spellData={magnus_impositio} />
-<SpellFromJson expanded={false} spellData={potentis} />
-<SpellFromJson expanded={false} spellData={translocus} />
+<SpellFromJson expanded={false} spellData={abbots_hand} />
 <SpellFromJson expanded={false} spellData={ultimatum} />
+<SpellFromJson expanded={false} spellData={lunns_command} />
+<SpellFromJson expanded={false} spellData={healing_master} />
 
 #### Angelicus
-Angelicus (Passiva: Dá imunidade ao elemento Luz)
+Uma Auréola divina se origina de sua coordenada, se afastando por 6 quadrados em uma expansão circular, curando 3d12+20 P.V de todos aliados atingindos.
 
 #### Aurelium
 Aurelium (Aura que permite Re-rolar um resultado mal sucedido no dado)
 
 #### Columna Lucis
-Columna Lucis (Cada cura realizada como uma ação conjura 1 Pilar de luz)
+Cada cura realizada como uma ação conjura 1 Pilar de luz na coordenada onde a cura foi realizada. Até um máximo de 6 Pilares. (considerando também os do poder **Pilar de Luz**)
 
 #### Ezomaximum
 Ezomaximum (Cura todos P.V de um aliado e fornece 3d12+10 de PV Temporario. Pode ser usado apenas uma vez por encontro)
 
 #### Impositio Dogmas
-Impositio Dogmas (Como uma ação de Reação, uma vez por encontro, pode realizar uma segunda ação)
+Como uma ação de Reação que pode ser usada a qualquer momento, o Sacerdote pode realizar uma ação adicional imediata, mesmo que esteja fora do seu turno.
+Com esta ação, o Sacerdote pode curar um aliado como reação a um acerto que seria fatal. (apenas aliados).
+Neste caso, o Aliado não é abatido, ao invés disso, ele tem seus P.Vs zerados, e logo em seguida recebe a Cura do Sacerdote.
+Só pode ser usado uma vez por encontro.
 
-#### Infinitus
-Infinitus (Roda 1D100 para aprisionar um inimigo em outra dimensão. Pode ser usado em inimigos Épicos, mas requer 5 turnos de duração e requer reagente emocional do inimigo)
+#### Prisão Divina
+Rode 1D100 para aprisionar um inimigo na Prisão Divina. O poder precisa de 2 turnos para ser canalizado, consome todos os P.M do Sacerdote e só pode ser usado uma única vez por dia. Se utilizada em sua forma mais básica, a canalização do poder dura 1 único turno.
+Relatos das escritas antigas afirmam que até mesmo Criaturas Lendárias poderiam ser aprisionadas com a Prisão Divina. E não só apenas criaturas Lendárias, mas as escritas antigas descrevem sacerdotes aprisonando Ecos Etéros e até mesmo Deuses!
+Nestes casos específicos, acredita-se que uma canalização extendida (5~10 turnos) seria necessária, além da consumação de um reagente emocional do alvo.
+A prisão dura 1 hora, mas o Mestre Sacerdote pode extender o tempo do aprisionamento por **1 ano** caso sacrifique uma **Gota de Fé** e **-2d12+10 P.V** de forma permanente. O sacríficio de P.V funciona como uma espécie de Maldição permanente, que é aplicada após todos os bônus do Sacerdote, e não pode ser dissipada ou recuperada de forma alguma, mesmo que mágica, exceto pela intervenção dos **Magos do Tempo**.
 
 #### Jugamentum
-Jugamentum (Um raio de Luz que causa dano gigantesco)
+Um raio de Luz cai sobre um inimigo, causando um dano gigantesco.
 
 #### Magnus Impositio
 Magnus Impositio (Aumenta em 3d12+10 os P.M de um alvo)
 
-#### Potentis
-Potentis (Passiva, Aumenta em 3d12 toda cura realizada como uma ação)
+#### Mestre da Cura
+Potencializa ao máximo o poder **Toque de Cura/Oração de Cura**, aumentando a fórmula para **TIER*d20+30**
 
-#### Translocus
-Translocus (Permite ao Sacerdote realizar uma translocação como ação de movimento)
+#### Mão do Ábade
+Um Ritual de cura profundo e duradouro que permite remover permanentemente um Trauma adquirido por um alvo.
+O Mestre Sacerdote precisa de consentimento para realizar a operação, assim como a consumação de uma **Gota de Fé**.
+Assim como outros rituais do tipo, precisa ser realizado em ambiente silencioso e munido das forças da fé.
 
 #### Ultimatum
-Ultimatum (Se transforma em pura luz para curar toda a Party (P.V, P.M e condições negativas))
+Se transforma em pura luz para curar toda a Party, podendo opcionalmente ativar o julgamento supremo conhecido como: Ultimatum.
+
+O Mestre Sacerdote se embeda com a Pura essencia da Luz, emitindo uma densa auréola mágica que cura todos P.V, P.M e expurga quaisquer condições negativas ou maldições que possam estar afligindo aliados numa área de 30x30.
+Além disso, todos aliados na área recebem 4d20 de P.V temporário e são arrebatados por um sentimento incrível de paz, segurança, motivação e fé.
+Os efeitos se repetem por até 3 turnos. Em cada turno, o Mestre Sacerdote precisa estar 100% focado em canalizar "Ultimatum", não podendo realizar ações de movimento ou outras ações. (nem mesmo ações de Reação)
+No final de cada turno enquanto a canalização está ativa, o Sacerdote pode decidir sobrecarregar o seu Grimo para causar o "Ultimatum", o poder supremo dos Sacerdotes de Lunn. Caso decida apenas utilizar o **Ultimatum** para Cura, após o terceiro turno, o Sacerdote volta ao seu estado normal, e apenas pode repetir o feito em 1 ano.
+O Ultimatum é o resultado da condensação extrema da luz no corpo do Mestre Sacerdote. Como resultado, você se torna a essência da pura magia da Fé, causando um enorme erupção elemental que se origina à partir do Sacerdote, e se expande como uma violenta explosão de luz e afeta uma Área de 5000x5000.
+Inimigos Profano e Maldições na área são obliteradas por completo, sofrendo 30d100+300 de Dano, enquanto as Maldições são dissolvidas sem qualquer teste. **Ultimatum** purifica toda a área de alcance do poder e elimina qualquer vestígio da influência das trevas.
+Como resultado, o corpo e a alma do Sacerdote se dividem, sendo sua parte física dissolvida no processo. Por fim, sua parte espiritual é enviada para o **Plano de Lunn**, onde atuará eternamente como um dos **seus Guardiões**.
+
+#### Comando de Lunn
+Permite a um aliado agir imediatamente após o Sacerdote, mesmo que este esteja sofrendo restrições por Maldições, efeitos negativos, ou até doenças. A Aura canaliza um grande energia de bravura direto para o aliado, fazendo com que ele possa superar quaisquer barreiras por um breve momento.

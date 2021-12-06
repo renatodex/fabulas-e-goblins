@@ -1,0 +1,15 @@
+{
+  "name": "Mestre da Cura",
+  "magic_cost": "",
+  "duration_time": null,
+  "attack_logic": "Aprimoramento",
+  "action_type": "Passiva",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": null,
+  "caption": "O Grimo de Lunn destrava o conhecimento supremo da arte da Cura.",
+  "description": "<p>Potencializa ao máximo o poder <b>Toque de Cura/Oração de Cura</b>, aumentando a fórmula de efeito para <code>TIER*d20+30</code>.</p>",
+  "tags": ["grimo", "lunn"]
+}

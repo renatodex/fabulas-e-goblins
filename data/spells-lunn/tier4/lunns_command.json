@@ -1,0 +1,15 @@
+{
+  "name": "Comando de Lunn",
+  "magic_cost": "18 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "",
+  "range_type": "Sí mesmo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Lunn ilumina um aliado, permitindo que ele tenha as forças que precisa para continuar na luta.",
+  "description": "<p>Permite a um aliado agir imediatamente após o Sacerdote, mesmo que este esteja sofrendo restrições por Maldições, efeitos negativos, ou até doenças. A Aura canaliza um grande energia de bravura direto para o aliado, fazendo com que ele possa superar quaisquer barreiras por um breve momento.</p>",
+  "tags": ["grimo", "lunn"]
+}
