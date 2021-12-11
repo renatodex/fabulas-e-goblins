@@ -1,0 +1,15 @@
+{
+  "name": "Chuva de Disparos",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiPocketBow",
+  "element": "nature",
+  "caption": "Uma nuvem de projéteis afiados é criada no ar e disparada numa área causando danos a todos inimigos.",
+  "description": "<p>A Chuva de Disparos é um ataque mágico e não exige arco ou flechas para ser realizado.<br/>O ataque é disparado numa área de 2x2 e afeta todos inimigos na área.<br/>Para acertar, você deve rolar um teste contra a Defesa de cada um dos alvos.</p>",
+  "tags": ["grimo", "kanus"]
+}

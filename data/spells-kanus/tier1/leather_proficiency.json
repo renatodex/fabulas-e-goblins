@@ -1,5 +1,5 @@
 {
-  "name": "Spell",
+  "name": "Eficiência do Couro",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
+  "icon": "GiPocketBow",
   "element": null,
   "caption": "Spell",
   "description": "<p></p>",
-  "tags": ["grimo", "hunter"]
+  "tags": ["grimo", "kanus"]
 }

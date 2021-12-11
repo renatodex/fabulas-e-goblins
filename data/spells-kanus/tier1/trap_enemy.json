@@ -1,5 +1,5 @@
 {
-  "name": "Spell",
+  "name": "Prender Inimigo",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "Spell",
-  "description": "<p></p>",
+  "icon": "GiPocketBow",
+  "element": "nature",
+  "caption": "Você retira forças de seu Grimo para conjurar uma Boleadeira mágica, prendendo seu inimigo no lugar e restringindo suas ações.",
+  "description": "<p>Você conjura uma Boleadeira mágica que prende seu inimigo por 1 turno, impossibilitando-o de se Mover ou Atacar.<br/>Você deverá passar num teste contra a Defesa Física do alvo para ser bem sucedido.<br/>Não funciona com alvos Grandes.</p>",
   "tags": ["grimo", "hunter"]
 }

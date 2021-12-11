@@ -1,15 +1,15 @@
 {
-  "name": "Spell",
-  "magic_cost": null,
-  "duration_time": null,
-  "attack_logic": null,
+  "name": "Disparo Letal",
+  "magic_cost": "8 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
+  "cast_distance": "20",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPocketBow",
   "element": null,
-  "caption": "Spell",
-  "description": "<p></p>",
-  "tags": ["grimo", "hunter"]
+  "caption": "Materializa um Arco Mágico para desferir um único disparo preciso e mortal, causando um dano gigantesco em um alvo.",
+  "description": "<p>O Disparo Fatal sempre acerta um inimigo no seu ponto mais fraco, causando <code>TIER*(2D10+25)</code> de dano direto e causando <code>Sangramento 10*TIER</code> <b>(perda de vida por turno)</b> por 3 (três) turnos. Para acertar o ataque, você deve testar contra a Defesa Física do alvo.<br/><b>Pode atingir alvos de uma distância gigantesca.</b></p>",
+  "tags": ["grimo", "kanus", "ultimate"]
 }

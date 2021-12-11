@@ -1,0 +1,15 @@
+{
+  "name": "Avaliar Ferimentos",
+  "magic_cost": "2*(TIER ALVO) P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPocketBow",
+  "element": null,
+  "caption": "O Grimo desperta os seus sentidos selvagens, permitindo que você possa sentir a vitalidade dos seres vivos a sua volta.",
+  "description": "<p>Como uma ação livre, e a qualquer momento, você pode utilizar Avaliar Ferimentos para verificar os Pontos de Vida remanescentes de um alvo. Esse alvo pode ser aliado ou inimigo, e não há qualquer forma de impedir ou bloquear a sua avaliação.<br/><br/>O poder não tem efeito caso o Alvo esteja inteiramente recuperado, mas caso o alvo tenha sofrido ferimentos, o Narrador pode lhe entregar duas informações: A quantidade de Dano que o Alvo sofreu, e um número numa escala de 0 a 5 para representar o quão apto o inimigo ainda está para combater.<hr/><i>Exemplo: Malbur é um Adepto de Kanus que está combatendo uma Serpente. A Serpente parece ter sofrido algum dano de combate, e Malbur quer avaliar a Vitalidade dela. Ao utilizar Avaliar Ferimentos, Malbur descobre que a criatura perdeu 170 P.V, e que está em 2 na Escala de Aptidão. Malbur está no nível 4, mas essa avaliação talvez seja suficiente para que ele saiba se deverá enfrentar ou não a Serpente.</i></p>",
+  "tags": ["grimo", "kanus"]
+}

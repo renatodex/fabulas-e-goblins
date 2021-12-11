@@ -1,5 +1,5 @@
 {
-  "name": "Spell",
+  "name": "Banhar Arma",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "Spell",
-  "description": "<p></p>",
-  "tags": ["grimo", "hunter"]
+  "icon": "GiPocketBow",
+  "element": "nature",
+  "caption": "Seu conhecimento como Caçador lhe permite utilizar óleos para banhar suas armas contra seus inimigos.",
+  "description": "<p>Banhar Equipamento é uma ação que precisa ser feita fora de combate, e requer concentração de pelo menos 1 hora.<br/>Para Banhar seu Equipamento, você precisará de um Frasco de Óleo e um Equipamento.<br/>No caso de Armas com Lâminas, a própria Lâmina é banhada. No caso do Arco as Flechas podem ser banhadas com o Óleo.<br/>A eficiência do Óleo tem aderência mágica, e por isso possui validade de 1 dia, após isso, o processo deverá ser realizado novamente com um novo frasco.<br/>O processo pode lhe fornecer os mais diversos benefícios, mas cada Óleo descreverá seus próprios efeitos.<br/>Geralmente, os Óleos de Lâmina fornecem acréscimo de Dano contra determinados tipos de monstros, mas podem conter benefícios de Ataque e outras vantagens não descritas aqui. <br/>Armaduras e outras peças também podem ser banhadas, fornecendo desde Bônus de Defesa contra determinados ataques como também vantagens no combate estratégico, como maior movimentação ou possibilidade de realizar ações especiais.<br/>Banhar Equipamento consome pontos de mana porque a Magia do Grimo cria um revestimento mágico aderente que possibilita a adesão do Óleo no Item por mais tempo.<br/>O Frasco de Óleo também pode ser usado sem nenhum treinamento, e até por outras classes, mas sem o conhecimento necessário, o Óleo possui duração de apenas 3 ataques.</p>",
+  "tags": ["grimo", "kanus"]
 }

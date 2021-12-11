@@ -1,5 +1,5 @@
 {
-  "name": "Mirar e Atirar",
+  "name": "Mirar no Ponto Fraco",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "Mira em um ponto efetivo do alvo para proferir o melhor dano",
-  "description": "<p></p>",
-  "tags": ["grimo", "hunter"]
+  "icon": "GiPocketBow",
+  "element": "nature",
+  "caption": "Se concentra mirando em um ponto efetivo do alvo para proferir o melhor dano possível",
+  "description": "<p>Você gasta uma ação de ataque para mirar em um único inimigo. Não requer testes para ser bem sucedida.<br/><br/>Sempre que você Mirar no Ponto Fraco, seu próximo ataque causará um adicional de 1d10 de dano.<br/>Pode ser acumulada quantas vezes for necessário.</p>",
+  "tags": ["grimo", "kanus"]
 }
