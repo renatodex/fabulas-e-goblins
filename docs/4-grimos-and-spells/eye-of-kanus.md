@@ -11,13 +11,12 @@ import arrow_rain from './../../data/spells-kanus/tier1/arrow_rain.json'
 import scan_wounds from './../../data/spells-kanus/tier1/scan_wounds.json'
 import coat_blade from './../../data/spells-kanus/tier1/coat_blade.json'
 import concentrate_attack from './../../data/spells-kanus/tier1/concentrate_attack.json'
-import detect_treasure from './../../data/spells-kanus/tier1/detect_treasure.json'
+import bioma_expert from './../../data/spells-kanus/tier1/bioma_expert.json'
 import disengage from './../../data/spells-kanus/tier1/disengage.json'
-import improvise from './../../data/spells-kanus/tier1/improvise.json'
-import leather_proficiency from './../../data/spells-kanus/tier1/leather_proficiency.json'
-import magic_trap from './../../data/spells-kanus/tier1/magic_trap.json'
-import prepare_attack_insect from './../../data/spells-kanus/tier1/prepare_attack_insect.json'
+import orekais_feet from './../../data/spells-kanus/tier1/orekais_feet.json'
 import trap_enemy from './../../data/spells-kanus/tier1/trap_enemy.json'
+import leather_proficiency from './../../data/spells-kanus/tier1/leather_proficiency.json'
+import prepare_attack_insect from './../../data/spells-kanus/tier1/prepare_attack_insect.json'
 
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
 
@@ -176,15 +175,14 @@ Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial 
 <SpellFromJson expanded={false} spellData={concentrate_attack} />
 <SpellFromJson expanded={false} spellData={arrow_rain} />
 <SpellFromJson expanded={false} spellData={aim_week_point} />
+<SpellFromJson expanded={false} spellData={trap_enemy} />
 <SpellFromJson expanded={false} spellData={scan_wounds} />
 <SpellFromJson expanded={false} spellData={coat_blade} />
-<SpellFromJson expanded={false} spellData={detect_treasure} />
+<SpellFromJson expanded={false} spellData={bioma_expert} />
+<SpellFromJson expanded={false} spellData={orekais_feet} />
 <SpellFromJson expanded={false} spellData={disengage} />
-<SpellFromJson expanded={false} spellData={improvise} />
 <SpellFromJson expanded={false} spellData={leather_proficiency} />
-<SpellFromJson expanded={false} spellData={magic_trap} />
 <SpellFromJson expanded={false} spellData={prepare_attack_insect} />
-<SpellFromJson expanded={false} spellData={trap_enemy} />
 
 **- Conhecer Terreno**
 
