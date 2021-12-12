@@ -1,15 +1,15 @@
 {
   "name": "Banhar Arma",
-  "magic_cost": null,
-  "duration_time": null,
-  "attack_logic": null,
+  "magic_cost": "5 P.M",
+  "duration_time": "1 dia",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
   "icon": "GiPocketBow",
-  "element": "nature",
+  "element": "",
   "caption": "Seu conhecimento como Caçador lhe permite utilizar óleos para banhar suas armas contra seus inimigos.",
-  "description": "<p>Banhar Equipamento é uma ação que precisa ser feita fora de combate, e requer concentração de pelo menos 1 hora.<br/>Para Banhar seu Equipamento, você precisará de um Frasco de Óleo e um Equipamento.<br/>No caso de Armas com Lâminas, a própria Lâmina é banhada. No caso do Arco as Flechas podem ser banhadas com o Óleo.<br/>A eficiência do Óleo tem aderência mágica, e por isso possui validade de 1 dia, após isso, o processo deverá ser realizado novamente com um novo frasco.<br/>O processo pode lhe fornecer os mais diversos benefícios, mas cada Óleo descreverá seus próprios efeitos.<br/>Geralmente, os Óleos de Lâmina fornecem acréscimo de Dano contra determinados tipos de monstros, mas podem conter benefícios de Ataque e outras vantagens não descritas aqui. <br/>Armaduras e outras peças também podem ser banhadas, fornecendo desde Bônus de Defesa contra determinados ataques como também vantagens no combate estratégico, como maior movimentação ou possibilidade de realizar ações especiais.<br/>Banhar Equipamento consome pontos de mana porque a Magia do Grimo cria um revestimento mágico aderente que possibilita a adesão do Óleo no Item por mais tempo.<br/>O Frasco de Óleo também pode ser usado sem nenhum treinamento, e até por outras classes, mas sem o conhecimento necessário, o Óleo possui duração de apenas 3 ataques.</p>",
+  "description": "<p>Banhar Equipamento é uma ação que precisa ser feita <b>fora de combate</b>, e <b>requer concentração</b> de pelo menos <b>1 hora</b>.<br/>Para Banhar seu Equipamento, você precisará de um <b>Frasco de Óleo de Criatura</b> e um <b>Equipamento Ofensivo</b>.<br/><br/>No caso de <b>Armas com Lâminas</b>, a própria Lâmina é banhada. No caso do <b>Arco</b>, as Flechas podem ser banhadas com o Óleo.<br/>A eficiência do Óleo tem <b>aderência mágica</b>, e por isso possui validade de <b>1 dia</b>, após isso, o processo deverá ser realizado novamente com um novo frasco.<br/><br/>O processo pode lhe fornecer os mais diversos benefícios, mas <b>cada tipo de Óleo descreverá seus próprios efeitos</b>.<br/>Geralmente, os <b>Óleos de Lâmina</b> fornecem <b>acréscimo de Dano</b> contra determinados tipos de monstros, mas podem conter <b>benefícios de Ataque</b> e outras vantagens não descritas aqui.<br/>Os <b>Óleos de Criatura</b> são <b>comuns</b> e <u>podem ser comprados em qualquer cidade</u>, e até mesmo em pequenos vilarejos por preços acessíveis.<br/><br/>Você também pode utilizar este poder para <b>banhar sua Armaduras</b>, recebendo um <b>Bônus mínimo de +2 de Defesa</b> contra ataques de um tipo específico de criatura, especificado pelo Óleo.<br/><br/>Banhar Equipamento consome pontos de mana porque a <b>Magia do Grimo</b> cria um revestimento mágico aderente que possibilita a <b>adesão do Óleo no Item</b> por muito mais tempo.<br/><br/>Tecnicamente, o Frasco de Óleo também poderia ser usado sem nenhum treinamento, mas sem este treinamento, o Óleo possui apenas duração de 2 ataques.<hr/><i>Para comprar Óleos de Criatura, basta solicitar ao Narrador: \"Quero comprar Óleo para caçar Dragões\". Ele guiará você até o vendedor e lhe mostrará os Óleos disponíveis.</i></p>",
   "tags": ["grimo", "kanus"]
 }

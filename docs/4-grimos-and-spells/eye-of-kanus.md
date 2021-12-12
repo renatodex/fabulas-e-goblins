@@ -6,7 +6,7 @@ slug: /4-grimos-and-spells/eye-of-kanus
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
-import aim_shot from './../../data/spells-kanus/tier1/aim_shot.json'
+import aim_week_point from './../../data/spells-kanus/tier1/aim_week_point.json'
 import arrow_rain from './../../data/spells-kanus/tier1/arrow_rain.json'
 import scan_wounds from './../../data/spells-kanus/tier1/scan_wounds.json'
 import coat_blade from './../../data/spells-kanus/tier1/coat_blade.json'
@@ -173,11 +173,11 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial seleciona duas dessas habilidades para compor sua build.
 
-<SpellFromJson expanded={false} spellData={aim_shot} />
+<SpellFromJson expanded={false} spellData={concentrate_attack} />
 <SpellFromJson expanded={false} spellData={arrow_rain} />
+<SpellFromJson expanded={false} spellData={aim_week_point} />
 <SpellFromJson expanded={false} spellData={scan_wounds} />
 <SpellFromJson expanded={false} spellData={coat_blade} />
-<SpellFromJson expanded={false} spellData={concentrate_attack} />
 <SpellFromJson expanded={false} spellData={detect_treasure} />
 <SpellFromJson expanded={false} spellData={disengage} />
 <SpellFromJson expanded={false} spellData={improvise} />
@@ -195,6 +195,10 @@ Você dificilmente se perde, seja no mundo selvagem ou até mesmo em labirintos 
 Você é um profundo conhecedor de um Bioma escolhido por você. Neste Bioma, você é capaz de detectar a presença de certo tipo de vegetação, animais, e até mesmo dicas que sugiram formações naturais como cavernas, templos subterrâneos e outras estruturas que indiquem a concentração de vida inteligente.
 
 Essa habilidade pode ser aprendida diversas vezes para múltiplos Biomas.
+
+**- Produzir Óleos**
+
+Você sabe preparar seus próprios Óleos de Criatura.
 
 **- Preparar Remédio**
 
