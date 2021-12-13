@@ -12,11 +12,15 @@ import scan_wounds from './../../data/spells-kanus/tier1/scan_wounds.json'
 import coat_blade from './../../data/spells-kanus/tier1/coat_blade.json'
 import concentrate_attack from './../../data/spells-kanus/tier1/concentrate_attack.json'
 import bioma_expert from './../../data/spells-kanus/tier1/bioma_expert.json'
-import disengage from './../../data/spells-kanus/tier1/disengage.json'
+import mark_of_animal_companion from './../../data/spells-kanus/tier1/mark_of_animal_companion.json'
 import orekais_feet from './../../data/spells-kanus/tier1/orekais_feet.json'
 import trap_enemy from './../../data/spells-kanus/tier1/trap_enemy.json'
-import leather_proficiency from './../../data/spells-kanus/tier1/leather_proficiency.json'
+import hunters_favor from './../../data/spells-kanus/tier1/hunters_favor.json'
 import prepare_attack_insect from './../../data/spells-kanus/tier1/prepare_attack_insect.json'
+
+import animal_comando from './../../data/spells-kanus/tier2/animal_comando.json'
+import identify_weak_point from './../../data/spells-kanus/tier2/identify_weak_point.json'
+import map_location from './../../data/spells-kanus/tier2/map_location.json'
 
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
 
@@ -180,8 +184,8 @@ Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial 
 <SpellFromJson expanded={false} spellData={coat_blade} />
 <SpellFromJson expanded={false} spellData={bioma_expert} />
 <SpellFromJson expanded={false} spellData={orekais_feet} />
-<SpellFromJson expanded={false} spellData={disengage} />
-<SpellFromJson expanded={false} spellData={leather_proficiency} />
+<SpellFromJson expanded={false} spellData={mark_of_animal_companion} />
+<SpellFromJson expanded={false} spellData={hunters_favor} />
 <SpellFromJson expanded={false} spellData={prepare_attack_insect} />
 
 **- Conhecer Terreno**
@@ -326,13 +330,21 @@ Se você for Goblin, essa habilidade também revelará `Pontos de Curiosidade`.
 Com a ajuda do seu Grimo, você pode enfeitiçar um Nagu selvagem para entregar uma carta ou mensagem escrita por você a algum lugar da sua mente. O feitiço é feito de forma muito trivial gravando magicamente num punhado de Pólem de Flor a sua localização desejada.
 O Pólem comanda o Nagu para que considere a entrega de sua mensagem como sua prioridade de vida.
 
-
-
-
-
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
+
+<SpellFromJson expanded={false} spellData={animal_comando} />
+<SpellFromJson expanded={false} spellData={identify_weak_point} />
+<SpellFromJson expanded={false} spellData={map_location} />
+<SpellFromJson expanded={false} spellData={trap_enemy} />
+<SpellFromJson expanded={false} spellData={scan_wounds} />
+<SpellFromJson expanded={false} spellData={coat_blade} />
+<SpellFromJson expanded={false} spellData={bioma_expert} />
+<SpellFromJson expanded={false} spellData={orekais_feet} />
+<SpellFromJson expanded={false} spellData={mark_of_animal_companion} />
+<SpellFromJson expanded={false} spellData={hunters_favor} />
+<SpellFromJson expanded={false} spellData={prepare_attack_insect} />
 
 ### Habilidades - Tier 3
 
