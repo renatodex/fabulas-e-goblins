@@ -195,6 +195,29 @@ Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial 
 <SpellFromJson expanded={false} spellData={hunters_favor} />
 <SpellFromJson expanded={false} spellData={prepare_attack_insect} />
 
+### Habilidades - Tier 2
+
+Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
+
+<SpellFromJson expanded={false} spellData={animal_comando} />
+<SpellFromJson expanded={false} spellData={identify_weak_point} />
+<SpellFromJson expanded={false} spellData={map_location} />
+<SpellFromJson expanded={false} spellData={explosive_trap} />
+<SpellFromJson expanded={false} spellData={animal_rush} />
+<SpellFromJson expanded={false} spellData={arrow_of_impact} />
+<SpellFromJson expanded={false} spellData={staunch_wounds} />
+<SpellFromJson expanded={false} spellData={weather_barrier} />
+<SpellFromJson expanded={false} spellData={guild_influence} />
+<SpellFromJson expanded={false} spellData={sniper} />
+
+### Habilidades - Tier 3
+
+Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
+
+### Habilidades - Tier 4
+
+Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
 **- Conhecer Terreno**
 
 Você dificilmente se perde, seja no mundo selvagem ou até mesmo em labirintos densos. Você consegue memorizar lugares identicos identificando naturalmente pequenas diferenças que para outros passaria desapercebida.
@@ -336,26 +359,3 @@ Se você for Goblin, essa habilidade também revelará `Pontos de Curiosidade`.
 
 Com a ajuda do seu Grimo, você pode enfeitiçar um Nagu selvagem para entregar uma carta ou mensagem escrita por você a algum lugar da sua mente. O feitiço é feito de forma muito trivial gravando magicamente num punhado de Pólem de Flor a sua localização desejada.
 O Pólem comanda o Nagu para que considere a entrega de sua mensagem como sua prioridade de vida.
-
-### Habilidades - Tier 2
-
-Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
-
-<SpellFromJson expanded={false} spellData={animal_comando} />
-<SpellFromJson expanded={false} spellData={identify_weak_point} />
-<SpellFromJson expanded={false} spellData={map_location} />
-<SpellFromJson expanded={false} spellData={explosive_trap} />
-<SpellFromJson expanded={false} spellData={animal_rush} />
-<SpellFromJson expanded={false} spellData={arrow_of_impact} />
-<SpellFromJson expanded={false} spellData={staunch_wounds} />
-<SpellFromJson expanded={false} spellData={weather_barrier} />
-<SpellFromJson expanded={false} spellData={guild_influence} />
-<SpellFromJson expanded={false} spellData={sniper} />
-
-### Habilidades - Tier 3
-
-Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
-
-### Habilidades - Tier 4
-
-Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
