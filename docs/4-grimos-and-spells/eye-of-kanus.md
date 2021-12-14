@@ -21,6 +21,10 @@ import prepare_attack_insect from './../../data/spells-kanus/tier1/prepare_attac
 import animal_comando from './../../data/spells-kanus/tier2/animal_comando.json'
 import identify_weak_point from './../../data/spells-kanus/tier2/identify_weak_point.json'
 import map_location from './../../data/spells-kanus/tier2/map_location.json'
+import explosive_trap from './../../data/spells-kanus/tier2/explosive_trap.json'
+import animal_rush from './../../data/spells-kanus/tier2/animal_rush.json'
+import arrow_of_impact from './../../data/spells-kanus/tier2/arrow_of_impact.json'
+import staunch_wounds from './../../data/spells-kanus/tier2/staunch_wounds.json'
 
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
 
@@ -337,10 +341,10 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={animal_comando} />
 <SpellFromJson expanded={false} spellData={identify_weak_point} />
 <SpellFromJson expanded={false} spellData={map_location} />
-<SpellFromJson expanded={false} spellData={trap_enemy} />
-<SpellFromJson expanded={false} spellData={scan_wounds} />
-<SpellFromJson expanded={false} spellData={coat_blade} />
-<SpellFromJson expanded={false} spellData={bioma_expert} />
+<SpellFromJson expanded={false} spellData={explosive_trap} />
+<SpellFromJson expanded={false} spellData={animal_rush} />
+<SpellFromJson expanded={false} spellData={arrow_of_impact} />
+<SpellFromJson expanded={false} spellData={staunch_wounds} />
 <SpellFromJson expanded={false} spellData={orekais_feet} />
 <SpellFromJson expanded={false} spellData={mark_of_animal_companion} />
 <SpellFromJson expanded={false} spellData={hunters_favor} />

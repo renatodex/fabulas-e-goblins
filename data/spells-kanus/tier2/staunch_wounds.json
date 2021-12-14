@@ -1,0 +1,15 @@
+{
+  "name": "Estancar Veneno",
+  "magic_cost": "3 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativo",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "Sí mesmo",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Seu Grimo amplia sua vitalidade, sendo capaz até de resistir a certos venenos.",
+  "description": "<p>Qualquer veneno físico ou picada que lhe fizer perder Pontos de Vida por turno é suspendido por 3 turnos.</p>",
+  "tags": ["grimo", "kanus"]
+}

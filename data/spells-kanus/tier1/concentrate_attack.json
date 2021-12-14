@@ -10,6 +10,6 @@
   "icon": "GiPocketBow",
   "element": "",
   "caption": "Você extrai o conhecimento de seu Grimo para analisar o alvo pacientemente e entender suas fraquezas, para só assim desferir um poderoso ataque.",
-  "description": "<p>O Ataque Concentrado pode tanto ser disparado corpo a corpo como à distância.<br/>Para acertar, você deve rolar um teste contra a <b>Defesa do alvo</b>.<br/>Causa <code>Dano da Arma + TIER*1d10+6</code> de Dano.</p>",
+  "description": "<p>O Ataque Concentrado pode tanto ser disparado corpo a corpo como à distância.<br/>Para acertar, você deve rolar um teste contra a <b>Defesa do alvo</b>.<br/>Causa <code>Dano da Arma + TIER*1d6+6</code> de Dano.</p>",
   "tags": ["grimo", "kanus"]
 }
