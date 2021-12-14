@@ -3,7 +3,7 @@
   "magic_cost": "6 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
-  "action_type": "Reação",
+  "action_type": "Ativa",
   "cast_distance": "30x30",
   "range_amount": "1",
   "range_type": "Ponto",

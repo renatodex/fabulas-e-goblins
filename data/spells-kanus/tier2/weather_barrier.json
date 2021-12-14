@@ -1,0 +1,15 @@
+{
+  "name": "Barreira Climática",
+  "magic_cost": "5 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "",
+  "range_amount": "1",
+  "range_type": "Círculo",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Cria uma barreira mágica capazz de anular os efeitos de Climas extremos.",
+  "description": "<p>Cria uma <b>barreira mágica</b> em torno de sí mesmo que anula as <b>condições extremas</b> do Clima em um <b>diametro de 1 quadrado</b>. Todos os indivíduos que estiverem dentro da área da barreira não sofrerão efeitos negativos causados por eventos Climáticos como Tempestades de Areia, Chuvas Torrenciais, Ciclones e etc.<br/><br/>Isso inclui penalidades de movimentação e metabolismo (sede/fome) mas <b>não exclui</b> qualquer penalidade sensorial como por exemplo <b>visão (provocada por Névoas).</b> e <b>audição (provocada por Tempestades dee Areia)</b><br/><br/>O efeito da Barreira dura por até 1 hora.</p>",
+  "tags": ["grimo", "kanus"]
+}

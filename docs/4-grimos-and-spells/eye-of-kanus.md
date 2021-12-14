@@ -25,6 +25,9 @@ import explosive_trap from './../../data/spells-kanus/tier2/explosive_trap.json'
 import animal_rush from './../../data/spells-kanus/tier2/animal_rush.json'
 import arrow_of_impact from './../../data/spells-kanus/tier2/arrow_of_impact.json'
 import staunch_wounds from './../../data/spells-kanus/tier2/staunch_wounds.json'
+import weather_barrier from './../../data/spells-kanus/tier2/weather_barrier.json'
+import guild_influence from './../../data/spells-kanus/tier2/guild_influence.json'
+import sniper from './../../data/spells-kanus/tier2/sniper.json'
 
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
 
@@ -345,10 +348,9 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={animal_rush} />
 <SpellFromJson expanded={false} spellData={arrow_of_impact} />
 <SpellFromJson expanded={false} spellData={staunch_wounds} />
-<SpellFromJson expanded={false} spellData={orekais_feet} />
-<SpellFromJson expanded={false} spellData={mark_of_animal_companion} />
-<SpellFromJson expanded={false} spellData={hunters_favor} />
-<SpellFromJson expanded={false} spellData={prepare_attack_insect} />
+<SpellFromJson expanded={false} spellData={weather_barrier} />
+<SpellFromJson expanded={false} spellData={guild_influence} />
+<SpellFromJson expanded={false} spellData={sniper} />
 
 ### Habilidades - Tier 3
 
