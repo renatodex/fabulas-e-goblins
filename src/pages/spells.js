@@ -1,11 +1,17 @@
 import URLSearchParams from '@ungap/url-search-params'
-import React from 'react'
+import React from "react";
 import Spells from '../../data/spells'
 import { SpellFromJson } from './../../src/components/skill_block/index'
 import styles from './spells.module.scss'
 
 export default () => {
-  const queryParams = new URLSearchParams(window.location.search)
+  let windowValue = null
+
+  if (typeof window !== "undefined") {
+    windowValue = window
+  }
+
+  const queryParams = new URLSearchParams(windowValue)
 
   const filteredSpells = (spells, queryFilter) => {
 
