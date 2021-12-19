@@ -1,6 +1,7 @@
 import React from 'react'
 import Spells from '../../data/spells'
 import { SpellFromJson } from './../../src/components/skill_block/index'
+import styles from './spells.module.scss'
 
 export default () => {
   const queryParams = new URLSearchParams(window.location.search)
@@ -19,9 +20,9 @@ export default () => {
   }
 
   return (
-    <main>
+    <main className={styles.compendium}>
       <h1>Compendium de Poderes</h1>
-      <div>
+      <div className={styles.spells}>
         {filteredSpells(Spells, queryParams.get('spells')).map((spell) => (
           <SpellFromJson key={spell.name} expanded={queryParams.get("opened") || false} spellData={spell} />
         ))}
