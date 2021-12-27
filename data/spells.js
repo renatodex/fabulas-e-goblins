@@ -1,4 +1,3 @@
-// const imports = require.context('./../../data/spells-allura/', true, /\.json$/);
 const files = require.context('./', true, /\.json$/);
 
 const cache = {};
