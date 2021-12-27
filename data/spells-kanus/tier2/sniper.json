@@ -9,7 +9,7 @@
   "range_type": "Sí mesmo",
   "icon": "GiPocketBow",
   "element": "",
-  "caption": "Seu Grimo amplia sua mira e percepção, podendo atingir um inimigo a dezenas de metros de distância.",
-  "description": "<p>Durante 1 encontro no mesmo dia você passa a poder realizar ataques à distância Longa (além do alcance das Armas) sem sofrer qualquer penalidade.<br/>A Instância dura apenas 1 encontro, e se encerra logo em seguida. Se usada fora de combate, dura até o próximo encontro ou descanso.<br/><br/>Para todos os efeitos, durante o período da Instância, ataques Longos são considerados como ataques normais.</p>",
+  "caption": "Envolve sua arma em uma Aura Mágica de precisão e força, impulsionando seus projéteis com magia e atingindo inimigos à dezenas de metros de distância.",
+  "description": "<p>Durante <b>1 encontro</b> no mesmo dia você receberá um Bônus de +10 de distância para realizar <b>ataques com armas de projéteis</b> (como Arcos, Pistolas e etc) <b>sem sofrer qualquer penalidade</b>.<br/>A Instância dura <b>apenas 1 encontro</b>, e se encerra logo em seguida. Se usada <b>fora de combate</b>, dura até o <b>início do próximo encontro ou descanso</b>.<br/><br/>O Bônus vale apenas para ataques normais sem o uso de habilidades ativas <b>(bônus passivos se aplicam normalmente)</b>, e os projéteis disparados por sua arma neste período receberão um impulsionamento de ordem mágica, fazendo com que seus ataques normais sejam <b>considerados como ataques mágicos</b>.</p>",
   "tags": ["grimo", "kanus"]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Evolução Animal",
+  "magic_cost": "",
+  "duration_time": "",
+  "attack_logic": "",
+  "action_type": "Passiva",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Fornece uma Aura de poder ao seu Companheiro Animal, fortalecendo seus ataques.",
+  "description": "<p>Um Bônus permanente é aplicado ao seu companheiro animal. Escolha um dos 3 Bônus a seguir:<ul><li>Uma <b>Áura de Crescimento</b> atinge o seu animal, aumentando seu <b>Tamanho em 1</b> e fazendo com que seus Ataques do seu Animal causam 2d10 de dano adicionais.</li><li>Uma <b>Aura Venenosa</b> fortalece seu Animal, fazendo com que todos Ataques causem <b>Envenenamento 12/TIER*4</b>.</li><li>Uma estranha <b>Aura Fantasmagórica</b> recobre permanentemente seu Animal, permitindo que ele se mova através de Translocação. Todos os alvos adjacentes à Translocação recebem <b>1d12 de Dano</b>.</li></ul></p>",
+  "tags": ["grimo", "kanus"]
+}

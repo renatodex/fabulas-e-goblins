@@ -29,7 +29,16 @@ import weather_barrier from './../../data/spells-kanus/tier2/weather_barrier.jso
 import guild_influence from './../../data/spells-kanus/tier2/guild_influence.json'
 import sniper from './../../data/spells-kanus/tier2/sniper.json'
 
+import animal_evolution from './../../data/spells-kanus/tier3/animal_evolution.json'
+import intensify_weakpoint from './../../data/spells-kanus/tier3/intensify_weakpoint.json'
+import bolt_blow from './../../data/spells-kanus/tier3/bolt_blow.json'
+import draquenin_ritual from './../../data/spells-kanus/tier3/draquenin_ritual.json'
+import wind_walk from './../../data/spells-kanus/tier3/wind_walk.json'
+import improve_explosive_trap from './../../data/spells-kanus/tier3/improve_explosive_trap.json'
+import deep_wounds from './../../data/spells-kanus/tier3/deep_wounds.json'
+
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
+
 
 ![kanus.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C12a3c9f2-dd51-4991-b051-baece5bd86e1.jpg)
 
@@ -214,54 +223,17 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
+<SpellFromJson expanded={false} spellData={animal_evolution} />
+<SpellFromJson expanded={false} spellData={intensify_weakpoint} />
+<SpellFromJson expanded={false} spellData={bolt_blow} />
+<SpellFromJson expanded={false} spellData={draquenin_ritual} />
+<SpellFromJson expanded={false} spellData={wind_walk} />
+<SpellFromJson expanded={false} spellData={improve_explosive_trap} />
+<SpellFromJson expanded={false} spellData={deep_wounds} />
+
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
-
-**- Conhecer Terreno**
-
-Você dificilmente se perde, seja no mundo selvagem ou até mesmo em labirintos densos. Você consegue memorizar lugares identicos identificando naturalmente pequenas diferenças que para outros passaria desapercebida.
-
-**- Conhecer Bioma**
-
-Você é um profundo conhecedor de um Bioma escolhido por você. Neste Bioma, você é capaz de detectar a presença de certo tipo de vegetação, animais, e até mesmo dicas que sugiram formações naturais como cavernas, templos subterrâneos e outras estruturas que indiquem a concentração de vida inteligente.
-
-Essa habilidade pode ser aprendida diversas vezes para múltiplos Biomas.
-
-**- Produzir Óleos**
-
-Você sabe preparar seus próprios Óleos de Criatura.
-
-**- Preparar Remédio**
-
-Você possui profundo conhecimento dos arredores, e pode utilizar a vegetação do local para criar remédios que curam pontos de vida e removem condições negativas.
-
-**- Nativo**
-
-Você já esteve em muitos lugares, e pode entender e falar a lingua uma lingua adicional que permite aumentar os testes sociais com aquela cultura em até +4.
-
-**- Chá de Draquenin**
-
-A maioria dos indivíduos desprovidos que tenta passar pela Comunhão com o Draquenin acaba nunca mais retornando à luz, mas você não é uma dessas pessoas.
-Você adquiriu os raros conhecimentos para preparar o Chá de Draquenin, e se guiar cautelosamente em sua viagem de conhecimento, enquanto experimenta uma incrível imersão no vasto conhecimento.
-
-De qualquer forma, quando estiver sob o efeito de Draquenin, faça um teste de Resiliência. Falhas críticas causam sequelas permanentes. (Aplique um Trauma baseado em uma experiência recente que o Personagem vivenciou)
-
-**- Olhos da Mente**
-
-O seu Grimo e seu treinamento como Adepto de Kanus lhe permitem amplificar seus sentidos mesmo quando está em descanso, sendo capaz de visualizar claramente os arredores num diâmetro de 8 metros durante um descanso prolongado.
-
-**- Folego Extra**
-
-Você pode gastar 5 P.M para andar um Quadrado extra. Repita essa operação quantas vezes quiser durante o seu turno. Este poder não conta como uma ação.
-
-**- Atirador de Elite**
-
-Você pode realizar ataques à distância Longa sem sofrer qualquer penalidade.
-
-**- Entender a Presa**
-
-Sempre que você enfrentar uma Criatura pela segunda vez, você receberá um Bônus de +1 em todos os ataques contra ela.
 
 **- Instância do Camaleão**
 
@@ -273,87 +245,6 @@ Também é exigido um teste de Sobrevivência para que ele possa lhe localizar n
 A Instância é dissolvida quando você ataca um inimigo. O Ataque realizado na Instância Camaleão é considerado como um ataque surpresa, e concede +2 de Ataque.
 
 Você pode utilizar a Instância do Camaleão e atacar no mesmo turno, recebendo normalmente os bônus de ataque.
-
-**- Andar do Orekai**
-
-Você possui os pés leves, e pode facilmente se mover para andares superiores sem realizar testes de Acrobacia. Subir numa árvore durante o combate para você é como realizar uma ação de movimento. Para cada elemento elevado que você se mover, deverá gastar 2 quadrados de movimentação.
-
-**- Avaliar Ferimentos**
-
-Permite que você consiga avaliar a Vitalidade da Vítima, dentro ou fora de Batalha.
-
-**- Cegar**
-
-Arremessa uma pequena bolsa com Pólem de Flor que cega todos inimigos numa área de 2x2.
-
-**- Anular o Clima**
-
-Cria uma barreira que anula as condições extremas do Clima em um diametro de 3 quadrados.
-
-**- Estancar Ferimento**
-
-Qualquer ferimento físico ou picada que lhe fizer perder Pontos de Vida por turno é anulado por 3 turnos.
-
-**- Estomago de Ferro**
-
-Sobreviver tem suas vantagens. Você não sofre penalidades por consumir comida estragada.
-
-**- Aparar Projétil**
-
-Sua agilidade lhe permite aparar projéteis em sua direção 1 vez por encontro.
-
-**- Amigo Animal**
-
-Pode fazer domesticar um animal de sua escolha. Não estaca com outros poderes que domesticam animais, mas as vantagens são somadas.
-
-**- Ler a Natureza**
-
-Você estuda os sinais da natureza a sua volta para descobrir dicas que te levam a entender acontecimentos na área atual.
-
-**- Dívida do Caçador**
-
-Pode cobrar o favor de um Caçador da sua Guilda.
-
-**- Influência da Guilda**
-
-Nos Vilarejos e Cidades, você pode utilizar o representante local da sua Guilda para obter informações sobre o local, bem como personalidades importantes, eventos recentes e oportunidades de riqueza.
-
-**- Ferida Profunda**
-
-Seu próximo ataque causa uma ferida profunda no Alvo. As Feridas estacam até 5x e aumentam seus próximos danos em 1d6. Ferida é um Efeito Negativo incurável durante o combate, mas inimigos especialistas podem realizar ações para estacá-la.
-
-**- Tenda Rústica**
-
-Ao realizar um descanso prolongado, você pode armar uma Tenda Rústica que comporta até 3 indivíduos. Todos eles fazem podem descansar nas áreas selvagens e de masmorra sem receber penalidades.
-
-**- Especialista em Venenos**
-
-Pode reconhecer venenos e estancá-los por 1 dia em um alvo. Precisa ser feito fora de combate, e exige 1 hora de preparação.
-
-**- Identificar Ponto Fraco**
-
-Pode realizar essa ação para entender o ponto fraco de um único inimigo. Se bem sucedida, essa ação confere bônus de 1d6 em ataques futuros.
-
-**- Conhecimento de Ferraria**
-
-Você recebe o conhecimento e a habilidade de consertar itens não complexos.
-
-**- Trejeitos do Nativo**
-
-Quando estiver visitando um novo vilarejo, você analiza a população local com a malandragem necessariamente para soar como um cidadão local, ou que talvez viveu ali na região por muito tempo.
-
-**- Favor do Caçador**
-
-Em uma área populoza, você pode encontrar um Caçador para te ajudar com uma Tarefa. Pedir a ajuda de um Caçador o deixará na Dívida.
-
-**- Enviar Sinal**
-
-Você usa o seu Grimo para gerar um sinal mágico no céu que apenas pode ser visto por Caçadores.
-
-**- Mapear Local**
-
-Você emite um pequeno som em uma região silenciosa que se propaga de forma mágica se espalhando pelas áreas internas que você ainda não pode ver. Ao prestar atenção na direção do seu som, você consegue ter uma idéia rústica da estrutura do local. (O Narrador pode desenhar uma versão simplificada do mapa para você).
-Se você for Goblin, essa habilidade também revelará `Pontos de Curiosidade`.
 
 **- Nagu-Correio**
 
