@@ -31,14 +31,15 @@ import sniper from './../../data/spells-kanus/tier2/sniper.json'
 
 import animal_evolution from './../../data/spells-kanus/tier3/animal_evolution.json'
 import intensify_weakpoint from './../../data/spells-kanus/tier3/intensify_weakpoint.json'
-import bolt_blow from './../../data/spells-kanus/tier3/bolt_blow.json'
 import draquenin_ritual from './../../data/spells-kanus/tier3/draquenin_ritual.json'
 import wind_walk from './../../data/spells-kanus/tier3/wind_walk.json'
 import improve_explosive_trap from './../../data/spells-kanus/tier3/improve_explosive_trap.json'
 import deep_wounds from './../../data/spells-kanus/tier3/deep_wounds.json'
+import bolt_blow from './../../data/spells-kanus/tier3/bolt_blow.json'
+import posthumous_explosion from './../../data/spells-kanus/tier3/posthumous_explosion.json'
+import worm_hole from './../../data/spells-kanus/tier3/worm_hole.json'
 
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
-
 
 ![kanus.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C12a3c9f2-dd51-4991-b051-baece5bd86e1.jpg)
 
@@ -225,11 +226,13 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 <SpellFromJson expanded={false} spellData={animal_evolution} />
 <SpellFromJson expanded={false} spellData={intensify_weakpoint} />
-<SpellFromJson expanded={false} spellData={bolt_blow} />
 <SpellFromJson expanded={false} spellData={draquenin_ritual} />
 <SpellFromJson expanded={false} spellData={wind_walk} />
 <SpellFromJson expanded={false} spellData={improve_explosive_trap} />
 <SpellFromJson expanded={false} spellData={deep_wounds} />
+<SpellFromJson expanded={false} spellData={bolt_blow} />
+<SpellFromJson expanded={false} spellData={posthumous_explosion} />
+<SpellFromJson expanded={false} spellData={worm_hole} />
 
 ### Habilidades - Tier 4
 

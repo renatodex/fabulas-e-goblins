@@ -41,13 +41,13 @@ module.exports = {
         '3-species/specie-luminins'
       ],
       '4. Escolhendo seu Grimo': [
-        '4-grimos-and-spells/alluras-orb',
-        '4-grimos-and-spells/ark-of-ravna',
-        '4-grimos-and-spells/darians-totem',
-        '4-grimos-and-spells/eye-of-kanus',
-        '4-grimos-and-spells/flask-of-valari',
         '4-grimos-and-spells/giurads-crest',
         '4-grimos-and-spells/lunns-jewel',
+        '4-grimos-and-spells/alluras-orb',
+        '4-grimos-and-spells/eye-of-kanus',
+        '4-grimos-and-spells/ark-of-ravna',
+        '4-grimos-and-spells/darians-totem',
+        '4-grimos-and-spells/flask-of-valari',
         '4-grimos-and-spells/magni-machine',
         '4-grimos-and-spells/rune-of-ixin'
       ],

@@ -54,6 +54,7 @@ import meteors from './../../data/spells-allura/tier4/meteors.json'
 import quadro_blast from './../../data/spells-allura/tier4/quadro_blast.json'
 import torment_master from './../../data/spells-allura/tier4/torment_master.json'
 
+![allura2.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd7d742c5-4dd6-4890-9cf0-4ad23bc2a2a1.png)
 
 A **Orbe de Allura** é um Grimo elemental, que ao ser vinculado, pode adquirir qualquer um dos 12 Aspectos Elementais do mundo.
 

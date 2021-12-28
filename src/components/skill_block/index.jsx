@@ -46,7 +46,7 @@ export function Icon ({ name, icon, mode = 'light' }) {
     )
 }
 
-export function SpellFromJson ({ spellData, expanded = true }) {
+export function SpellFromJson ({ spellData, expanded = true, onClick = () => {} }) {
     return (
         <Spell
             name={spellData.name}
@@ -60,6 +60,7 @@ export function SpellFromJson ({ spellData, expanded = true }) {
             icon={spellData.icon}
             element={spellData.element}
             expanded={expanded}
+            onClick={onClick}
         >
           <Fragment>
             <Caption>
@@ -93,6 +94,7 @@ export function Spell ({
     children,
     icon,
     expanded,
+    onClick,
     element = 'default',
 }) {
   const [expandToggle, setExpandToggle] = useState(expanded)
@@ -131,7 +133,7 @@ export function Spell ({
   }[element]
 
   return (
-    <div className={`${styles['spell-block']} ${styles[`spell-block--${element || 'default'}`]}`}>
+    <div onClick={onClick} className={`${styles['spell-block']} ${styles[`spell-block--${element || 'default'}`]}`}>
         <div
           className={styles['spell-block__header']}
           onClick={e => { setExpandToggle(!expandToggle) }}
