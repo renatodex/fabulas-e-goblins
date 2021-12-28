@@ -45,6 +45,11 @@ import double_attack from './../../data/spells-kanus/tier4/double_attack.json'
 import arrow_storm from './../../data/spells-kanus/tier4/arrow_storm.json'
 import avatar_companion from './../../data/spells-kanus/tier4/avatar_companion.json'
 import animal_sync from './../../data/spells-kanus/tier4/animal_sync.json'
+import kanus_mark from './../../data/spells-kanus/tier4/kanus_mark.json'
+import throw_explosive_trap from './../../data/spells-kanus/tier4/throw_explosive_trap.json'
+import master_hunter from './../../data/spells-kanus/tier4/master_hunter.json'
+import arrow_explosion from './../../data/spells-kanus/tier4/arrow_explosion.json'
+import judgment_arrow from './../../data/spells-kanus/tier4/judgment_arrow.json'
 
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
 
@@ -251,3 +256,8 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={arrow_storm} />
 <SpellFromJson expanded={false} spellData={avatar_companion} />
 <SpellFromJson expanded={false} spellData={animal_sync} />
+<SpellFromJson expanded={false} spellData={kanus_mark} />
+<SpellFromJson expanded={false} spellData={throw_explosive_trap} />
+<SpellFromJson expanded={false} spellData={master_hunter} />
+<SpellFromJson expanded={false} spellData={arrow_explosion} />
+<SpellFromJson expanded={false} spellData={judgment_arrow} />

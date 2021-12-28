@@ -1,0 +1,15 @@
+{
+  "name": "Mestre Caçador",
+  "magic_cost": "",
+  "duration_time": "",
+  "attack_logic": "",
+  "action_type": "Passiva",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Uma poderosa Aura de seu Grimo intensifica seus ataques contra criaturas selvagens.",
+  "description": "<p>Qualquer ataque realizado contra Criaturas Selvagens concede um adicional de +50 de Dano.</p>",
+  "tags": ["grimo", "kanus"]
+}
