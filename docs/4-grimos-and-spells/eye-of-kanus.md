@@ -38,6 +38,7 @@ import deep_wounds from './../../data/spells-kanus/tier3/deep_wounds.json'
 import bolt_blow from './../../data/spells-kanus/tier3/bolt_blow.json'
 import posthumous_explosion from './../../data/spells-kanus/tier3/posthumous_explosion.json'
 import worm_hole from './../../data/spells-kanus/tier3/worm_hole.json'
+import tracker_mark from './../../data/spells-kanus/tier3/tracker_mark.json'
 
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
 
@@ -233,6 +234,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={bolt_blow} />
 <SpellFromJson expanded={false} spellData={posthumous_explosion} />
 <SpellFromJson expanded={false} spellData={worm_hole} />
+<SpellFromJson expanded={false} spellData={tracker_mark} />
 
 ### Habilidades - Tier 4
 

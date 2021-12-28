@@ -1,0 +1,15 @@
+{
+  "name": "Marca do Rastreador",
+  "magic_cost": "4 P.M",
+  "duration_time": "30 dias",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "Alcance da Arma",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Sua flecha crava uma Marca de Rastreio em seu inimigo, fazendo com que você sempre saiba de sua localização.",
+  "description": "<p>Para cravar a Marca, você deverá acertar um Ataque normal no inimigo. O ataque pode ser feito com qualquer arma, mas precisa ter atingido o inimigo fisicamente para que a Marca entre em ação. A Marca precisa ser anunciada antes do Ataque, e funciona como uma <b>Ação Livre</b> que consome 4 P.M.<br/><br/>A Marca é considerada como uma Maldição inofensiva e silenciosa, podendo ser detectada por usuários mágicos experientes.<br/>Dissolver a Marca requer um teste do feitiço de <b>Remover Maldição</b> com <b>dificuldade 18</b>.<br/><br/><b>A Marca se dissolve naturalmente em 30 dias.</b><br/>O Adepto que conjurar a Marca sentirá a localização do Alvo de forma sutil, como uma bússula instintiva que lhe aponta na direção correta.</p>",
+  "tags": ["grimo", "kanus"]
+}
