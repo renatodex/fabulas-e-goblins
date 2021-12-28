@@ -40,6 +40,12 @@ import posthumous_explosion from './../../data/spells-kanus/tier3/posthumous_exp
 import worm_hole from './../../data/spells-kanus/tier3/worm_hole.json'
 import tracker_mark from './../../data/spells-kanus/tier3/tracker_mark.json'
 
+import hunters_hunger from './../../data/spells-kanus/tier4/hunters_hunger.json'
+import double_attack from './../../data/spells-kanus/tier4/double_attack.json'
+import arrow_storm from './../../data/spells-kanus/tier4/arrow_storm.json'
+import avatar_companion from './../../data/spells-kanus/tier4/avatar_companion.json'
+import animal_sync from './../../data/spells-kanus/tier4/animal_sync.json'
+
 import letal_shot from './../../data/spells-kanus/ultimates/letal_shot.json'
 
 ![kanus.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C12a3c9f2-dd51-4991-b051-baece5bd86e1.jpg)
@@ -240,18 +246,8 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
-**- Instância do Camaleão**
-
-Você pode utilizar metade da sua ação de movimento para se mover de forma praticamente invisível em biomas selvagens, ocultando-se de forma sutil nos elementos.
-Caso um inimigo esteja engajado com você, ele perde o engajamento sem poder realizar ataques de oportunidade.
-
-Também é exigido um teste de Sobrevivência para que ele possa lhe localizar novamente. (pelo menos enquanto a Instância Camaleão estiver ativada).
-
-A Instância é dissolvida quando você ataca um inimigo. O Ataque realizado na Instância Camaleão é considerado como um ataque surpresa, e concede +2 de Ataque.
-
-Você pode utilizar a Instância do Camaleão e atacar no mesmo turno, recebendo normalmente os bônus de ataque.
-
-**- Nagu-Correio**
-
-Com a ajuda do seu Grimo, você pode enfeitiçar um Nagu selvagem para entregar uma carta ou mensagem escrita por você a algum lugar da sua mente. O feitiço é feito de forma muito trivial gravando magicamente num punhado de Pólem de Flor a sua localização desejada.
-O Pólem comanda o Nagu para que considere a entrega de sua mensagem como sua prioridade de vida.
+<SpellFromJson expanded={false} spellData={hunters_hunger} />
+<SpellFromJson expanded={false} spellData={double_attack} />
+<SpellFromJson expanded={false} spellData={arrow_storm} />
+<SpellFromJson expanded={false} spellData={avatar_companion} />
+<SpellFromJson expanded={false} spellData={animal_sync} />

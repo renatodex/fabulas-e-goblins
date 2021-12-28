@@ -1,0 +1,15 @@
+{
+  "name": "Sintonia Animal",
+  "magic_cost": "",
+  "duration_time": "",
+  "attack_logic": "",
+  "action_type": "Passiva",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Você masteriza a conexão com seu animal, permitindo que suas ações sejam cordenadas.",
+  "description": "<p>Permite ao Adepto controlar as ações de seu Companheiro Animal como quiser, sem a necessidades de comandos verbais.</p>",
+  "tags": ["grimo", "kanus"]
+}

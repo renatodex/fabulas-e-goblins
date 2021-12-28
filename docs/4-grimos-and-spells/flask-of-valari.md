@@ -86,3 +86,14 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
+**- Instância do Camaleão**
+
+Você pode utilizar metade da sua ação de movimento para se mover de forma praticamente invisível em biomas selvagens, ocultando-se de forma sutil nos elementos.
+Caso um inimigo esteja engajado com você, ele perde o engajamento sem poder realizar ataques de oportunidade.
+
+Também é exigido um teste de Sobrevivência para que ele possa lhe localizar novamente. (pelo menos enquanto a Instância Camaleão estiver ativada).
+
+A Instância é dissolvida quando você ataca um inimigo. O Ataque realizado na Instância Camaleão é considerado como um ataque surpresa, e concede +2 de Ataque.
+
+Você pode utilizar a Instância do Camaleão e atacar no mesmo turno, recebendo normalmente os bônus de ataque.
