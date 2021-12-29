@@ -4,48 +4,46 @@ title: Pontos de Ataque
 slug: /2-sheet-creation/attack-points
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-ataque-01.png" width="800"/>
+![Pontos de Ataque](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-ataque-01.png)
 
-A melhor defesa é o ataque, certo? Ou é o que dizem por ai.<br/>
-No Fábulas & Goblins, cada jogador possui um Valor de Ataque e um Modificador de Ataque, que é usado tanto para ataques físicos Corpo a Corpo (ex: Espadas), quanto a Distância (ex Arco).
+A **melhor defesa** é o **ataque**, certo? *Ou pelo menos é o que dizem por ai*.<br/>
+No *Fábulas & Goblins*, **cada jogador** possui especificado em sua Ficha um valor de **Pontos de Ataque**, que é utilizado tanto para **ataques físicos** Corpo a Corpo *(ex: Espadas)*, quanto **ataques à distância** *(ex Arco e Flecha)*.
 
-O modificador de ataque é usado sempre que você declara uma ação de ataque físico a um inimigo, e ele será sempre somado ao resultado do dado para decidir seu sucesso.
+Os **Pontos de Ataque** são usados sempre que você **declara uma ação de ataque físico** a um inimigo, e ele será sempre **somado ao resultado do dado de ataque (D20)** para decidir seu sucesso.
 
-Quando dizemos Ataque Físico, nos referimos a qualquer ataque feito com Armas ou Punho sem Utilizar magias.<br/>
-Isso porquê no Fábulas & Goblins, ataques mágicos podem ter sua própria fórmula de ataque, que varia entre Ataques Elementais, Ataques de Reação, entre outros.
-Se quiser saber mais como Atacar durante o combate, temos um Capítulo específico para isso, na sessão [Regras de Jogo: Atacando durante o Combate](/docs/7-game-rules/attacking-during-combat).
+Quando dizemos **Ataque Físico**, nos referimos a qualquer ataque feito com **Armas ou Punho** sem utilizar magias.
 
-## Formula de Ataque
+Isso porquê no *Fábulas & Goblins*, **ataques mágicos** podem ter sua própria fórmula de ataque, que varia entre **Ataques Elementais**, **Ataques de Reação**, entre outros.
 
-Esta seção se preocupa apenas em te ensinar como preencher o seu valor de Ataque.
+Se quiser saber mais como **Atacar durante o combate**, temos um Capítulo específico para isso, na sessão [Regras de Jogo: Atacando durante o Combate](/docs/7-game-rules/attacking-during-combat).
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-ataque-02.png" width="300"/>
+## Calculando seus Pontos de Ataque
 
-A formula para calcular os Pontos de Ataque é:
+Ao criar um personagem, você deverá calcular os seus *Pontos de Ataque* através da seguinte fórmula:
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-ataque-03.png" width="600"/>
+![Formula-PA-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cad1905d1-e718-4caa-a828-dc77462ed928.jpg)
 
-## Modificador de Atributo da Arma
+### Atributo da Arma
 
-Esse Atributo é descrito na própria arma.<br/>
-Machados e Espadas por exemplo costumam ter a Força como seu principal Atributo, enquanto Arcos e Facas de Arremesso costumam ter Agilidade como atributo.
-A arma que você utilizar definirá como você deverá calcular seu ataque.
+Esse Atributo é **descrito na própria arma**.<br/>
+**Machados e Espadas** por exemplo costumam ter a **Força** ou **Resiliência** como seu principal Atributo, enquanto **Arcos e Facas de Arremesso** costumam ter **Agilidade** ou **Sobrevivência** como atributo.
 
-Portanto lembre-se, sempre que trocar de arma, lembre-se de verificar se existe a necessidade de revisar seu ataque.
+Logo, a arma que você utilizar definirá como você deverá calcular seu ataque.<br/>
+Portanto lembre-se, **sempre que trocar de arma**, deve verificar se existe a necessidade de **revisar seu ataque**.
 
-## Ataque da Arma
+### Ataque da Arma
 
-Esse atributo geralmente está no próprio nome da arma: Ex: Machado Rúnico +3.
+Esse atributo geralmente está especificado no próprio nome da arma: Ex: **Machado Rúnico +3**.
+
+No quadro abaixo mostramos um exemplo dos **Pontos de Ataque** sendo utilizados em um Ataque com uma **Orbe Rúnica**:
 
 :::note Dica
-
-Mirana é uma Arcanista com 9 de Inteligência (logo, seu M.Inteligencia é +1)<br/>
+Mirana é uma **Adepta de Allura** com **+2 de Inteligência**.<br/>
 
 Mirana está equipando uma **Orbe Rúnica +2 (Bonus de Ataque)**. O Atributo da Orbe Rúnica é **Inteligência**, portanto, para calcular seu ataque com a Orbe Mirana deverá fazer a seguinte conta:
 
-P.A = 9 + 1 (M.Inteligencia) + 2 (Ataque da Arma) = 13
-Sabendo que seu Ataque 'com a Orbe Rúnica é 13, Mirana pode finalmente calcular seu modificador de Ataque:
+<code>P.A = 2 (Inteligência) + 2 (Ataque da Arma) = +4</code>
 
-**M.Atk = 13 / 3 - 2 = +2**
+<br/><br/>Portanto, ao atacar um inimigo com <b>16 Pontos de Defesa</b>, Mirana deverá rolar um D20 e <b>somar +4</b> ao seu resultado. Neste caso, ela <b>apenas acertará</b> o inimigo se <b>tirar pelo menos 12 no Dado</b> (pois <code>12 + 4 >= 16</code>)
 
 :::

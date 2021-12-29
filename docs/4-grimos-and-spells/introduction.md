@@ -4,7 +4,7 @@ title: Introdução aos Grimos
 slug: /4-grimos-and-spells/introduction
 ---
 
-![grimos.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7420c50d-6f2f-4634-94d6-8cc9dce92b70.png)
+![grimos-mesa2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C71a4558e-2a88-4451-a90f-a13874de2ab1.jpg)
 
 No mundo do *Fábulas & Goblins*, o infame Evento conhecido como **O Blecaute** tornou as criaturas senscientes **magicamente estéreis**, sem qualquer possibilidade de manipular Magia e conjurar feitiços de forma abundante como era comum nos tempos antigos.
 

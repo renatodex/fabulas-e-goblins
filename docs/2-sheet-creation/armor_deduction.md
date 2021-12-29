@@ -4,12 +4,13 @@ title: Dedução de Armadura
 slug: /2-sheet-creation/armor-deduction
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/deducao-da-armadura-01.png" width="800"/>
+![Dedução de Armadura](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/deducao-da-armadura-01.png)
 
-Armaduras são essenciais para extender sua sobrevivência em masmorras e outros locais perigosos. Cada classe possui uma peculiaridade quando o quesito é armaduras.<br/>
-Isso porque o tipo da armadura que você veste está diretamente relacionado com a Força do seu personagem, afinal de contas, cotas de Malha podem ser extremamente pesadas e desconfortáveis para alguém que passou a vida inteira acostumado a usar um simples Vestido ornamentado.
+Armaduras são essenciais para **extender sua sobrevivência** em masmorras e outros locais perigosos. No *Fábulas & Goblins*, qualquer personagem pode usar **qualquer tipo de Armadura**, contanto que possua a Força necessária.
 
-Alem disso, como falamos antes, quanto mais pesada sua armadura, mais difícil é de se locomover, certo? Isso porque Armaduras mais pesadas exigem mais Força para serem equipadas, e essa Força naturalmente faz com que o personagem gaste mais energia física para se locomover.
+Isso porque Armaduras mais pesadas **fornecem mais proteção**, mas ao mesmo tempo geram uma **penalidade de Movimento**, além de possuirem **requisitos de Força** para serem utilizadas. Afinal de contas, **cotas de Malha** podem ser extremamente **pesadas e desconfortáveis** para alguém que passou a **vida inteira** acostumado a usar um simples **Vestido ornamentado**.
+
+Alem disso, como falamos antes, quanto mais **pesada sua armadura**, mais **difícil** é de se **locomover**, certo? Isso porque Armaduras mais pesadas exigem mais Força para serem equipadas, e essa Força naturalmente faz com que o personagem gaste mais energia física para se locomover.
 
 Cada Armadura do jogo pode ser categorizada em 4 diferentes Classes de Armaduras.
 
@@ -27,7 +28,7 @@ Cada Armadura do jogo pode ser categorizada em 4 diferentes Classes de Armaduras
       </th>
     </tr>
     </thead>
-  
+
   <tbody>
   <tr>
     <td>
@@ -75,8 +76,8 @@ Cada Armadura do jogo pode ser categorizada em 4 diferentes Classes de Armaduras
     </tr>
     </tbody>
   </table>
-  
-  
+
+
 Se quiser saber mais sobre Armaduras, temos algumas seções interessantes:
 
 Para saber sobre a Classificação dos tipos de Armadura, consulte a Seção [Tipos de Armadura](/docs/10-appendix/types-of-armor).<br/>

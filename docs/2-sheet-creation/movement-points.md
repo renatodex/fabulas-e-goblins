@@ -4,19 +4,17 @@ title: Pontos de Movimento
 slug: /2-sheet-creation/movement-points
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-movimento-01.png" width="800"/>
+![Pontos de Movimento](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-movimento-01.png)
 
-Movimento é a sua capacidade de se locomover durante um combate no Fábulas & Goblins, ele basicamente indica sua capacidade de percorrer uma distância num curto espaço de tempo.
+Movimento é a sua **capacidade de se locomover** durante um **combate**. No jogo do *Fábulas & Goblins*, cada **Ponto de Movimento** equivale a **1 quadrado de distância** (**ou 2.5m**)
 
-Ter pontos em movimento significa que você conseguirá se locomover e se posicionar pelo campo de batalha mais facilmente do que os outros jogadores, e dependendo da sua estratégia, pode ser uma ótima idéia investir neste atributo.
+Ter pontos em movimento significa que você conseguirá se **locomover e se posicionar** pelo campo de batalha **mais facilmente** do que os outros jogadores, e **dependendo da sua estratégia**, pode ser uma **ótima idéia** investir neste atributo.
 
-O movimento é representado por este símbolo na ficha de personagem:
+## Calculando seus Pontos de Movimento
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-movimento-02.png" width="80"/>
+Ao criar seu personagem, você deverá calcular seus **Pontos de Movimento** utilizando a seguinte fórmula:
 
-**A formula para definí-lo é:**
-
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-movimento-03.png" width="600"/>
+![Formula-Modificador-Movimento.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4d57265e-00a1-47f8-9cdd-262fef474d6b.png)
 
 Como você pode perceber, a **Dedução de Armadura** é um fator negativo para o cálculo de movimento, o que significa que quanto mais pesada sua armadura, mais dificuldade você terá de se mover no combate.
 

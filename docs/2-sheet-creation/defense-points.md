@@ -3,50 +3,51 @@ id: defense-points
 title: Pontos de Defesa
 slug: /2-sheet-creation/defense-points
 ---
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-defesa-01.png" width="800"/>
+![Pontos de Defesa](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-defesa-01.png)
 
-A defesa representa o quanto você esta preparado para absorver golpes de inimigos (e as vezes aliados). <br/>
-Esse atributo é principalmente afetado por bônus de habilidades e equipamentos também.
+A Defesa representa o quanto você esta preparado para **absorver ou desviar** de ataques inimigos *(ou quem sabe de aliados)*.<br/>
+Habilidades e equipamentos também podem influenciar nos seus **Pontos de Defesa (P.D)**
 
-Assim como os Pontos de Vida e Magia, os pontos de Defesa aumentam conforme seu personagem progride no jogo.
+Assim como os **Pontos de Vida** e **Magia**, os **Pontos de Defesa** também aumentam conforme seu personagem progride no jogo.
 
-**A formula para calcular os Pontos de Defesa é:**
+## Calculando seus Pontos de Defesa
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-defesa-02.png" width="600"/>
+Ao criar o seu personagem, você deve calcular seus **Pontos de Defesa Física** *(P.D ou P.D.F)* com a seguinte fórmula:
 
-A idéia é que você tenha uma Defesa porque vamos usar uma Fórmula para calcular o seu MODIFICADOR DE DEFESA.
+![Formula-PD-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C213e52ab-0dd6-4c66-a326-41309384de62.jpg)
 
-Exemplo: Se um Personagem tem 5 de Agilidade, e veste uma Armadura +1, a Defesa dele vai ser:
-0 (Modificador de Agilidade) + 1 (ARMOR) = 1
+Os Pontos de Defesa **entram em jogo** sempre que seu personagem for **atacado fisicamente**. Nesses momentos, você deverá deverá rolar um D20 e **Somar seus Pontos de Defesa**.
 
-Ou seja, sempre que esse personagem for atacado fisicamente, ele deverá rolar um D20 e Somar seu Modificador de Defesa, que nesse caso é 1.
+O Valor final deve ser superior à **Potencia do Ataque recebido**. Logo, se você possui **+2 de Defesa** e está sofrendo um **Ataque de Potência 18**, deve tirar **pelo menos 16** no Dado para superar ou desviar do ataque.
 
-E conforme a evolução, como isso fica?<br/>
-Conforme a evolução, os personagens vão sim poder aumentar esse número de algumas maneiras.
+Mas não se preocupe, pois conforme a evolução do seu personagem, este valor também poderá ser aumentado.<br/>
 Vamos falar um pouco sobre isso.
 
 ## Aumentando seus pontos de Defesa
 
 No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 
-- Adquirindo pontos de Agilidade nos [Níveis Especiais](/docs/7-game-rules/special-levels).
-- Treinando Agilidade nas [Árvores de habilidades](/docs/5-roles/roles-introduction).
-- Treinando Pontos de Defesa nas [Árvores de habilidades](/docs/5-roles/roles-introduction).
-- Adquirindo [Armaduras melhores](/docs/10-appendix/types-of-armor) (ou até escudo e outros acessórios de defesa).
+- Adquirindo pontos de **Agilidade ou Resiliência** nos [Níveis Especiais](/docs/7-game-rules/special-levels).
+- Treinando Poderes no Grimo que **aumentam Defesa** ([Introdução aos Grimos](/docs/4-grimos-and-spells/introduction)).
+- Adquirindo [Equipamentos melhores](/docs/10-appendix/types-of-armor) *(ou até escudo e outros acessórios de defesa)*.
 
-:::info Importante
-Uma coisa importante para se ter em mente, é que no Fábulas & Goblins, o jogador é ativo durante o tempo inteiro da batalha. Isso quer dizer que, além de fazer as rolagens para seus Ataques, o Próprio jogador também realiza as rolagens para se Defender contra ataques inimigos.
-Cada inimigo tem na sua ficha seu próprio de Ataque fixo, e é através desse valor que o Narrador saberá se o Ataque do inimigo teve sucesso ou não.
-Como os inimigos não fazem rolagem de dado (exceto em alguns casos especiais), os valores de Ataque e Defesa dos inimigos são fixos.
+:::tip Importante
+Uma coisa importante para se ter em mente, é que no *Fábulas & Goblins*, o jogador é **ativo** durante o **tempo inteiro da batalha**.
+
+Isso quer dizer que, além de fazer as **rolagens para seus Ataques**, o *Próprio jogador* também realiza as **rolagens para se Defender** contra ataques inimigos.
+
+Cada inimigo **controlado pelo Narrador** possui na sua ficha um valor fixo de **Potência de Ataque** para *cada poder* que ele possui, e é através desse valor que o Narrador saberá se o **Ataque do inimigo** teve **sucesso** ou não.
+
+Como os inimigos **não fazem rolagem de dado** (exceto em alguns casos especiais), os **valores de Ataque e Defesa** dos inimigos **são fixos**.
 :::
 
 :::note Exemplo
-Ramón é um Aventureiro, e possui 14 pontos de Defesa.<br/>
-Ramón será alvo do ataque de um Fougrat Guerreiro, cujo ataque é 16.<br/>
-Nosso Aventureiro então deve rolar um D20 para determinar se ele conseguirá absorver o ataque do Fougrat.<br/>
-O resultado da rolagem é 10. Este resultado é somado ao Modificador de Defesa de Ramón, que é +2, conferindo um total de 12.<br/>
-O resultado de 12 ainda é inferior ao ataque do Fougrat Guerreiro, que é 16. <br/>
+**Ramón é um Adepto de Giurad**, e possui Pontos de Defesa = +3.<br/>
+Ramón será alvo do ataque de um **Fougrat Guerreiro**, cujo **ataque é 16**.<br/>
+Nosso Aventureiro então **deve rolar um D20** para determinar se ele conseguirá **absorver** o ataque do Fougrat.<br/>
+O resultado da **rolagem é 10**. Este resultado é somado aos **Pontos de Defesa** de Ramón, que é **+3**, conferindo um total de **13 pontos**.<br/>
+O resultado de **13 ainda é inferior** ao ataque do Fougrat Guerreiro, **que é 16**. <br/>
 
-Portanto, o ataque do Fougrat é bem sucedido e acerta Ramón.
-Uma forma fácil de pensar nessa conta, é que o Ataque do monstro sempre ditará qual número final o Jogador precisa tirar no dado, somando-se os modificadores.
+Portanto, o **ataque do Fougrat é bem sucedido** e acerta Ramón.
+Uma **forma fácil** de pensar nessa conta, é que o **Ataque do monstro** sempre ditará **qual número final o Jogador precisa tirar no dado**, somando-se os modificadores.
 :::

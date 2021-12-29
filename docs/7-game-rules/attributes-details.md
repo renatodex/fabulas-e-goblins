@@ -64,8 +64,8 @@ No jogo, o Atributo Agilidade fornece algumas mecânicas que podem ajudar muito 
 
 ### Determinando Iniciativa
 
-A Iniciativa diz qual personagem ou criatura jogará primeiro durante os combates. Classes baseadas no Atributo Agilidade costumam sempre tomar a dianteira na ordem de iniciativa, devido aos seus ótimos bônus. Além disso, alguns personagens até ganham melhorias no Dano causado dependendo a posição na fila de combate.
-Já o Bônus da sua iniciativa, será sempre o seu próprio Modificador dos Pontos de Agilidade, como explicado na Seção [Calculando Modificadores](/docs/2-sheet-creation/calculating-modifiers)
+A Iniciativa diz qual personagem ou criatura jogará primeiro durante os combates. Classes baseadas no **Atributo Agilidade** costumam sempre tomar a dianteira na ordem de iniciativa, devido aos seus ótimos bônus. Além disso, alguns personagens **até ganham melhorias no Dano causado** dependendo a posição na fila de combate.
+Já o **Bônus da sua iniciativa**, será sempre o seu próprio **Modificador dos Pontos de Agilidade**.
 
 ### Determinando Pontos de Movimento
 

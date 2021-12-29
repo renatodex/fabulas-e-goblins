@@ -10,6 +10,6 @@
   "icon": "GiMetalScales",
   "element": null,
   "caption": "Você possui uma Armadura de sobreposição com placas de Metal que lhe conferem resistência extra contra ataques.",
-  "description": "<p>A Armadura de sobreposição pode ser instalada sob vestes de tecido e couro, ou pode ser integrada a armaduras de metal. Você recebe Defesa + 2</p>",
+  "description": "<p>A Armadura de sobreposição pode ser instalada sob vestes de tecido e couro, ou pode ser integrada a armaduras de metal. Você recebe <b>Defesa +1</b>.</p>",
   "tags": ["cultural"]
 }

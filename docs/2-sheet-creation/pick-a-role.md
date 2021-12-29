@@ -5,13 +5,14 @@ slug: /2-sheet-creation/pick-a-role
 modified: 2021-03-02T02:00:57-03:00
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/escolha-classe.png"/>
+![Escolha de Papéis](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/escolha-classe.png)
+
 No Fábulas & Goblins, qualquer um pode ser o que quiser.
-Quer ser um Bárbaro que usa Magia? Pode! Um Mago especializado no ataque corpo a corpo? Sim! Porquê não?
+Quer ser um **Bárbaro que usa Magia**? Pode! Um **Mago especializado no ataque corpo a corpo**? Sim! Porquê não?
 
 Uma das grandes diferenças do Fábulas e outros sistemas de RPG é que: **Aqui, os personagens não escolhem uma classe.**
 
-Em Sistemas de RPG tradicionais, as Classes ditam vários aspectos do personagem, tais como:
+Em Sistemas de RPG tradicionais, as Classes **ditam vários aspectos** do personagem, tais como:
 
 - Rótulos de Interpretação (Bárbaros são brutos, Bardos são carismáticos, e por ai vai)
 - Curva de evolução (As Classes geralmente possuem uma base de Pontos de Vida que ganham por nível)
@@ -23,7 +24,7 @@ Por isso, no Fábulas, logo no começo tomamos a decisão de remover o conceito 
 
 :::note Classes no mundo
 Apesar de você não escolher uma classe, esses rótulos de Classe existem normalmente no mundo das Terras Místicas, pois existem academias específicas que treinam Sacerdotes, Cavaleiros, Arcanistas, Fortunos e todo os tipos de rótulos de classe que você pode imaginar.
-A única diferença é que essas "Classes" se restringem ao mundo de jogo, e passam a não representar mais uma "Escolha" técnica na sua ficha. 
+A única diferença é que essas "Classes" se restringem ao mundo de jogo, e passam a não representar mais uma "Escolha" técnica na sua ficha.
 :::
 
 ## O que são os Papeis?
@@ -41,7 +42,7 @@ A diferença entre Classe e Papel pode não parecer relevante, mas o que muda no
 Isso porquê, no nosso sistema, quem define as habilidades e características mecânicas não é uma Classe, mas algo que chamamos de **Grimos**.
 Os Grimos são artefatos que possuem poder mágico armazenado, e todo RPG do Fábulas se norteia em volta deles.
 
-Mas os Grimos servem apenas para possibilitar o seu personagem de ter acesso a uma certa quantidade de poderes mágicos, e eles não ditam nenhum outro aspecto da progressão do seu personagem, como os Pontos de Vida que você ganha por nível, ou suas proficiências.
+Mas os Grimos servem apenas para possibilitar o seu personagem de ter acesso a uma **certa quantidade de poderes mágicos**, e eles não ditam nenhum outro aspecto da progressão do seu personagem, como os **Pontos de Vida** que você ganha por nível.
 
 ## Então como funciona na prática?
 
