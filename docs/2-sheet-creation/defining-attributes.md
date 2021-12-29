@@ -4,38 +4,14 @@ title: Definindo Atributos
 slug: /2-sheet-creation/defining-attributes
 ---
 
-Os Atributos definem suas capacidades no jogo, e para criar o seu personagem, você precisará distribuir 54 pontos entre 9 atributos disponíveis.
-Os atributos são:
+Os atributos definem características **físicas**, **sociais** e **mentais** de seu Personagem.<br/>
+No jogo, diversas situações exigirão certas características, como **fugir de um inimigo**, **desvendar um enigma** ou até mesmo **atacar um dragão**.<br/>
 
-- Força
-- Agilidade
-- Resiliência
-- Intelecto
-- Elo Mágico
-- Espírito
-- Influência
-- Sobrevivência
-- Destino
+Quando você define os atributos do seu personagem, também está dando a ele **traços únicos de personalidade** que mostram as coisas que ele **prioriza na vida**.
 
-No site da Tenda do Goblin, temos uma página específica para gerar Atributos de Personagem.
-https://www.tendadogoblin.com.br/gerador-de-atributos
+Personagens com muita **Sobrevivência** demonstram pessoas que aprenderam a se virar sozinhas. Enquanto personagens com muito **Influência** demonstram personalidades marcantes que podem levantar os olhos de qualquer observador desatento.
 
-Com o gerador, você consegue obter uma lista equilibrada de atributos, que na grande maioria das vezes vai somar um total de 30 pontos. (com uma chance rara de se obter mais do que isso, e uma chance rara de se obter menos do que isso!)
-
-Agora, se você não quiser depender do gerador, e quiser você distribuir seus pontos, a regra é a seguinte:
-
-**Então suas escolhas são:**
-
-  1. Criar seu personagem através do nosso app de <a href="https://ficha.fabulasegoblins.com.br">Criação de Personagem</a>
-  2. Usar o gerador e ter Atributos equilibrados. (nosso gerador está temporariamente indisponível)<br/>
-
-# B.1. O que fazem os atributos?
-
-Os atributos são usados para muitas coisas dentro do jogo, desde concepção do personagem até mesmo testes de rolagem durante o jogo.<br/>
-Quando você define os atributos do seu personagem, também está dando para ele traços de personalidade que mostram as coisas que ele prioriza na vida dele.
-
-Personagens com muita força demonstram pessoas que priorizam a força física. Personagens com muito Carisma demonstram personalidades marcantes que podem levantar os olhos de qualquer observador desatento.<br/>
-Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difícil tarefa, listamos aqui um descritivo de cada um dos atributos e como eles influenciam no jogo.
+**Cabe a você** decidir como será o seu personagem, mas para te ajudar nessa **difícil tarefa**, listamos aqui um **descritivo de cada um dos atributos** e como eles influenciam no jogo.
 
 <table>
   <thead>
@@ -55,7 +31,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Força
       </td>
       <td>
-        Representa a sua Força, e é usado para definir seus Pontos de Vida e sua capacidade de carregamento de itens.
+        Representa a sua Força, e é usado para definir seus <b>Pontos de Vida</b> e sua <b>capacidade de carregamento de itens</b>.
       </td>
     </tr>
     <tr>
@@ -63,7 +39,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Agilidade
       </td>
       <td>
-        Define sua agilidade e melhora sua movimentação. Também é usada para definir sua habilidade com armas de projéteis.
+        Define sua <b>agilidade</b> e melhora sua <b>movimentação</b>. Também é usada para definir sua <b>habilidade com armas de projéteis</b>.
       </td>
     </tr>
     <tr>
@@ -71,7 +47,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Resiliência
       </td>
       <td>
-        Define sua resistência a atributos negativos e Traumas.
+        Define sua <b>resistência a atributos negativos</b> e <b>Traumas</b>.
       </td>
     </tr>
     <tr>
@@ -79,7 +55,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Intelecto
       </td>
       <td>
-        Define seu Grau de Erudição e permite destravar vínculos adicionais com Grimos.
+        Define seu <b>Grau de Erudição</b> e permite <b>destravar vínculos adicionais</b> com Grimos.
       </td>
     </tr>
     <tr>
@@ -87,7 +63,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Elo Mágico
       </td>
       <td>
-        Representa o "quão mágico" você é. Usado para definir seus Pontos de Magia.
+        Representa o <b>"quão mágico"</b> você é para o mundo. Usado para definir seus <b>Pontos de Magia</b>.
       </td>
     </tr>
     <tr>
@@ -95,7 +71,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Espírito
       </td>
       <td>
-        Representa sua Mediunidade, Define sua Defesa Mágica geral, e pode ser usado para realizar ações impressionantes e que quebram os limites do mundo material.
+        Representa sua <b>Mediunidade</b>, Define sua <b>Defesa Mágica</b> geral, e é usado para definir sua <b>habilidade com armas espirituais</b> .
       </td>
     </tr>
     <tr>
@@ -103,7 +79,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Influência
       </td>
       <td>
-        Define sua eloquência e poder de influência. Melhora os preços em Mercadores, e também é usado para Diplomacia e Manipulação.
+        Define sua <b>eloquência</b> e <b>poder de influência</b> sobre as pessoas. <b>Melhora os preços</b> em Mercadores, e também é usado para <b>Diplomacia e Manipulação</b>.
       </td>
     </tr>
     <tr>
@@ -111,7 +87,7 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Sobrevivência
       </td>
       <td>
-        Define sua capacidade de sobreviver em situações difíceis. Permite realizar várias ações que causaria penalidade para outros Personagens. Pode criar itens improvisados.
+        Define sua <b>capacidade de sobreviver</b> em situações difíceis. Define sua capacidade de se <b>adaptar à condições climáticas</b>, <b>encontrar coisas</b> e <b>improvisar</b>.
       </td>
     </tr>
     <tr>
@@ -119,12 +95,30 @@ Cabe a você decidir como será o seu personagem, mas para te ajudar nessa difí
         Destino
       </td>
       <td>
-        Define o quão Destinado você é, usado em <a href="/docs/7-game-rules/skill-checks">Testes Neutros</a>, e permite uma série de Ações de Evocação que podem mudar o rumo do jogo.
+        Define o quão <b>Destinado</b> você é, usado em <a href="/docs/7-game-rules/skill-checks">Testes Neutros</a>, e permite uma série de Ações de Evocação que podem mudar o rumo do jogo.
       </td>
     </tr>
   </tbody>
 </table>
 
-Atributos podem sim aumentar durante o jogo, mas isso não acontece com frequência, e portanto você deve pensar bem na hora de distribuí-los na criação do seu personagem!
+# B.1. Calculando Atributos
 
-Se quiser saber mais sobre os Atributos, e cada uma das Ações que eles destravam, consulte a Seção [Explicação dos Atributos](/docs/7-game-rules/attributes-details)
+Quando criar seu personagem, você terá a seguinte lista de modificadores que deverá distribuir livremente pelos Atributos:
+
+- 2x Modificador **(+2)**
+- 2x Modificadores **(+1)**
+- 3x Modificadores **(+0)**
+- 2x Modificadores **(-1)**
+
+Você poderá distribuir os modificadores à vontade pelos seus atributos.
+Veja um exemplo abaixo de uma distribuição:
+
+![ModAttributos.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9c2a0eb1-0b16-4e8f-b108-f50a0b6c68bc.png)
+
+**Vamos ver o que podemos dizer desse nosso amigo acima:**
+
+- Ele é bem forte, mais do que a média das pessoas!
+- Não é muito inteligente, talvez nunca teve acesso a um estudo de qualidade?
+- É razoavelmente rápido, mas não é um corredor de maratona.
+- Interações sociais não são o seu forte, ele é péssimo para conversar com pessoas!
+- Definitivamente não é um sobrevivente, não saberia se localizar na floresta, e muito menos improvisar!
