@@ -1,18 +1,18 @@
 ---
 id: defense-points
-title: Pontos de Defesa
+title: Pontos de Defesa Física
 slug: /2-sheet-creation/defense-points
 ---
 ![Pontos de Defesa](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-defesa-01.png)
 
 A Defesa representa o quanto você esta preparado para **absorver ou desviar** de ataques inimigos *(ou quem sabe de aliados)*.<br/>
-Habilidades e equipamentos também podem influenciar nos seus **Pontos de Defesa (P.D)**
+Habilidades e equipamentos também podem influenciar nos seus **Pontos de Defesa (D.F)**
 
 Assim como os **Pontos de Vida** e **Magia**, os **Pontos de Defesa** também aumentam conforme seu personagem progride no jogo.
 
-## Calculando seus Pontos de Defesa
+## Calculando seus Pontos de Defesa Física
 
-Ao criar o seu personagem, você deve calcular seus **Pontos de Defesa Física** *(P.D ou P.D.F)* com a seguinte fórmula:
+Ao criar o seu personagem, você deve calcular seus **Pontos de Defesa Física** *(D.F)* com a seguinte fórmula:
 
 ![Formula-PD-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C213e52ab-0dd6-4c66-a326-41309384de62.jpg)
 

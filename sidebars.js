@@ -20,13 +20,11 @@ module.exports = {
         '2-sheet-creation/hp-points',
         '2-sheet-creation/mp-points',
         '2-sheet-creation/defense-points',
+        '2-sheet-creation/magic-defense',
         '2-sheet-creation/attack-points',
         '2-sheet-creation/initial-items',
         '2-sheet-creation/grimos-and-magic',
-        '2-sheet-creation/acquiring-flaws',
-        '2-sheet-creation/add-flaws-in-the-game',
         '2-sheet-creation/defining-your-origins',
-        '2-sheet-creation/deck-of-archetypes'
       ],
       '3. Escolhendo sua Espécie': [
         '3-species/species-introduction',

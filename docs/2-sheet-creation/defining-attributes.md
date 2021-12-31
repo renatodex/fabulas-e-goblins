@@ -105,8 +105,8 @@ Personagens com muita **Sobrevivência** demonstram pessoas que aprenderam a se 
 
 Quando criar seu personagem, você terá a seguinte lista de modificadores que deverá distribuir livremente pelos Atributos:
 
-- 2x Modificador **(+2)**
-- 2x Modificadores **(+1)**
+- 1x Modificador **(+2)**
+- 3x Modificadores **(+1)**
 - 3x Modificadores **(+0)**
 - 2x Modificadores **(-1)**
 

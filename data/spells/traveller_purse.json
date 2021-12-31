@@ -10,6 +10,6 @@
   "icon": "GiSwapBag",
   "element": null,
   "caption": "Um viajante que se preze deve ter um local seguro para guardar seus lucros.",
-  "description": "<p>Você pode começar o jogo com uma Bolsa de Moedas para 1000 moedas. A bolsa começa vazia.</p>",
+  "description": "<p>Você pode começar o jogo com uma Bolsa de Moedas para 1.000 moedas ao invés da Bolsa padrão para 200 moedas. A bolsa começa vazia.</p>",
   "tags": ["cultural"]
 }

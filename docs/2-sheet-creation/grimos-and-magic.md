@@ -4,28 +4,33 @@ title: Grimos e o sistema de Magia
 slug: /2-sheet-creation/grimos-and-magic
 ---
 
-No Fábulas & Goblins, a magia sempre foi presente. Sua presença era abundante, e os estudiosos muitas vezes a descreviam como uma única entidade livre, correndo pelos infinitos e vastos corredores que se entrelaçam constantemente e de forma imperceptível com a realidade.
+![grimos-mesa2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C71a4558e-2a88-4451-a90f-a13874de2ab1.jpg)
 
-Quando o [Blecaute](/docs/9-the-world/the-blackout) veio, ele mudou tudo isso. Essa mesma magia, abundante, livre e acessível, de uma hora pra outra se tornou ausente, silenciosa, distante, e mesmo se pudesse produzir algum som, ninguém poderia ouvi-lo.
+No *Fábulas & Goblins*, a **magia era acessível** a todos no passado. Sua presença era **abundante**, e os estudiosos muitas vezes a descreviam como uma única entidade livre, correndo pelos infinitos e vastos corredores que se entrelaçam constantemente e de forma imperceptível com a realidade.
 
-Com o tempo, as diversas civilizações do mundo entenderam que a nova realidade vinha pra ficar, e que se adaptar era a única saída. Mesmo assim, eles precisavam de uma solução, uma Muleta, que pudesse substituir a abundância da Magia natural.
+Quando o [Blecaute](/docs/9-the-world/the-blackout) veio, **ele mudou tudo isso**. Essa mesma magia, **abundante**, **livre e acessível**, de uma hora pra outra se tornou **ausente**, **silenciosa**, **distante**, e mesmo se pudesse produzir algum som, ninguém poderia ouvi-la.
 
-Os [Grimos](/docs/8-the-magic/grimos), criados pelo [Mestre-Elo Jelev Arioniz](/docs/8-the-magic/grimo-popularization), já existiam muito antes do Blecaute, mas seu uso era restrito, devido a seu custo e tempo de preparação.
+Com o tempo, as diversas civilizações do mundo entenderam que a **nova realidade** vinha pra ficar, e que se **adaptar era a única saída**. Mesmo assim, eles **precisavam de uma solução**, uma **Muleta**, que pudesse **substituir a abundância da Magia natural**.
 
-Esses dispositívos armazenam a Magia aprendida por um usuário que dominava a magia natural no passado. Através do processo de conexão com o Grimo, um usuário pode aprender os seus segredos, e utilizar as tecnicas armazenadas nele sem a necessidade de acessar a magia natural do mundo.
+Os [Grimos](/docs/8-the-magic/grimos), criados pelo [Mestre-Elo Jelev Arioniz](/docs/8-the-magic/grimo-popularization), **já existiam** muito antes do **Blecaute**, mas seu uso era restrito, **devido a seu custo e tempo de preparação**.
+
+Esses dispositívos **armazenam a Magia aprendida por um usuário que dominava a magia natural no passado**. Através do processo de **conexão** com o Grimo, um usuário pode aprender os seus segredos, e utilizar as **tecnicas armazenadas nele** sem a necessidade de **acessar a magia natural** do mundo.
 
 ## Consideracões sobre Grimos
 
-No Fábulas e Goblins, os Grimos são uma entidade viva, sensciente, e muitas vezes armazenam um Eco da personalidade de seu criador original. Com o tempo, as Civilizações aprenderam a "clonar" Grimos criados no passado, tornando sua popularização palpável.
+No *Fábulas e Goblins*, os Grimos são uma entidade viva, sensciente, e muitas vezes armazenam um **Eco da personalidade de seu criador original**. Com o tempo, as Civilizações **aprenderam a replicar Grimos criados no passado**, popularizando seu uso entre as massas.
 
-No Jogo, Grimos possuem seu próprio sistema de nível, e evoluem conforme a evolução do portador.
+No Jogo, **Grimos** possuem seu **próprio sistema de Nível**, e evoluem **conforme a evolução do portador**.
 
-Quando estiver criando seu personagem, você deverá escolher entre um dos 6 Grimos iniciais da sua classe. Para efeito de Jogo, Grimos são considerados como Itens, e caso você não esteja usando, ocuparão um espaço no seu Inventário.
+Quando estiver criando seu personagem, você deverá **escolher entre um dos vários Grimos iniciais**. Para efeito de Jogo, **Grimos** são considerados como **Itens**, e caso você não esteja usando, **ocuparão 1 espaço no seu Inventário**.
 
-No geral, o Grimo segue a mesma lógica de Progressão do Personagem, o que significa que se você passar 1 Nível, o Grimo também passará 1 Nível.
+No geral, o Grimo **segue a mesma lógica de Progressão do Personagem**, o que significa que **se você passar 1 Nível**, o Grimo **também passará 1 Nível**.
 
-A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilidade de qualquer Tier que você já destravou anteriormente. Algumas habilidades de Tiers superiores exigem que habilidades de Tiers inferiores sejam desbloqueadas primeiro.
+Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 níveis de progressão** do Grimo. Cada Tier confere **habilidades disruptivas** que podem mudar **completamente** a **performance** do seu personagem no campo de batalha.
 
+**A cada 2 níveis de evolução do Grimo**, você poderá **aprender uma nova habilidade de qualquer Tier que você já destravou anteriormente**.
+
+A **única excessão** é o **Nível 10**, que é considerado um **Nível especial**, onde você, **além de destravar alguns benefícios**, passa a poder **utilizar Magias de Tier 3**.
 
 <table>
   <thead>
@@ -38,7 +43,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       </th>
     </tr>
     </thead>
-  
+
   <tbody>
   <tr>
     <td>
@@ -77,7 +82,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       5 (cinco)
       </td>
     <td>
-      +1 Habilidade Tier 1
+      +1 Habilidade Tier 1 ou 2
       </td>
     </tr>
   <tr>
@@ -117,7 +122,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       10 (dez)
       </td>
     <td>
-      -
+      +1 Habilidade Tier 1, 2 ou 3
       </td>
     </tr>
   <tr>
@@ -125,7 +130,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       11 (onze)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 3
+      -
       </td>
     </tr>
   <tr>
@@ -133,7 +138,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       12 (doze)
       </td>
     <td>
-      -
+      +1 Habilidade Tier 1, 2 ou 3
       </td>
     </tr>
   <tr>
@@ -141,7 +146,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       13 (treze)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 3
+      -
       </td>
     </tr>
   <tr>
@@ -149,7 +154,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       14 (catorze)
       </td>
     <td>
-      -
+      +1 Habilidade Tier 1, 2 ou 3
       </td>
     </tr>
   <tr>
@@ -157,7 +162,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       15 (quinze)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 3
+      -
       </td>
     </tr>
   <tr>
@@ -165,7 +170,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       16 (dezesseis)
       </td>
     <td>
-      -
+      +1 Habilidade Tier 1, 2 ou 4
       </td>
     </tr>
   <tr>
@@ -173,7 +178,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       17 (dezessete)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2, 3 ou 4
+      -
       </td>
     </tr>
    <tr>
@@ -181,7 +186,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       18 (dezoito)
       </td>
     <td>
-      -
+      +1 Habilidade Tier 1, 2 ou 4
       </td>
     </tr>
    <tr>
@@ -189,7 +194,7 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       19 (dezenove)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2, 3 ou 4
+      -
       </td>
     </tr>
    <tr>
@@ -197,22 +202,20 @@ A cada 2 níveis de evolução do Grimo, você poderá aprender uma nova habilid
       20 (vinte)
       </td>
     <td>
-      -
+      +1 Habilidade Tier 1, 2 ou 4
       </td>
     </tr>
     </tbody>
   </table>
-  
-Caso possua mais de um Grimo, cada um deles segue sua própria lógica de evolução, sendo que Grimos adquiridos depois tendem a demorar para alcançar o mesmo nível de progressão do primeiro Grimo adquirido. 
 
-Algumas habilidades de Grimos também podem exigir certos requisitos especiais, como interação com locais sagrados, ou exigir experiência de combate com determinados tipos de Criaturas.
+Caso possua **mais de um Grimo**, cada um deles **segue sua própria lógica de evolução**, sendo que **Grimos adquiridos depois** tendem a demorar para alcançar o mesmo nível de progressão do primeiro Grimo adquirido.
 
-Grimos também são divididos em 4 Tiers, que avançam a cada 5 níveis de progressão do Grimo.
+**Algumas habilidades de Grimos** também podem exigir **certos requisitos especiais**, como **interação com locais sagrados**, ou exigir **experiência de combate** com determinados tipos de Criaturas.
 
 ## Escolhendo seu Grimo Inicial
 
-Para efeito de Criação de Ficha, você deverá escolher um dos Grimos listados na sessão de Grimos e Habilidades, e então você deverá:
+Para efeito de Criação de Ficha, você deverá escolher um dos Grimos listados na sessão de **Grimos e Habilidades**.
 
-- Escolher 2 (duas) habilidades do bloco "Habilidades de Tier 1".
+Cada Grimo especifica quais poderes e em qual quantidade você deverá selecionar paraa criar seu personagem.
 
 Anote as habilidades escolhidas na sua ficha e prossiga para a próxima etapa.
