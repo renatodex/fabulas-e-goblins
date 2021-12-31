@@ -1,0 +1,15 @@
+{
+  "name": "Forma Elemental",
+  "magic_cost": "12 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": "0",
+  "range_type": "Sí mesmo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Cada átomo de seu corpo se converte em pura essência elemental, tornando-se um só com seu elemento.",
+  "description": "<p>Você converte sua matéria, transformando-se em um Elemental.<br/>Enquanto estiver na forma elemental, você receberá os benefícios elementais simultâneos dos poderes <b>Manta Elemental</b> e <b>Escudo Elemental</b>, além de um adicional de  +5 de Defesa, e imunidade de dano de ataques do seu próprio elemento.<br/>Durante a duração do poder, ataques físicos inimigos recebem penalidade de -4 de Ataque em você.<br/>Além disso, a Forma Elemental pode ser assustadora, e <b>Inimigos selvagens precisam fazer um teste de Resiliência para conseguirem te atacar</b>. <br/>O Efeito da Forma Elemental <b>dura 3 turnos</b>.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

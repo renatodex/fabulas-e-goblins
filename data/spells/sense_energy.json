@@ -1,0 +1,15 @@
+{
+  "name": "Sentir Energia",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiEmbrassedEnergy",
+  "element": null,
+  "caption": "Sua conexão espiritual pode permiti-lo sentir uma presença espiritual relevante em uma localidade.",
+  "description": "<p>Como uma ação, você pode sincronizar seu espírito para detectar uma presença espiritual no mesmo local que você. A presença pode estar em objetos, animais, indivíduos, ou até mesmo no ar. A dificuldade do teste é definida pelo Narrador.</p>",
+  "tags": ["cultural"]
+}

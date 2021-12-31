@@ -1,0 +1,15 @@
+{
+  "name": "Divinismo",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "2",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Sua elevação Divina e o Vínculo com seu Grimo lhe permite entender e medir a fé das pessoas a sua volta.",
+  "description": "<p>O Divinismo é uma ação especial que o Sacerdote pode realizar para medir a intensidade da Fé das pessoas. A inclinação da Fé (para o bem ou para o mal) é uma escala de 0 a 5 para ambos os lados, e pode ser sentida ao se realizar um teste bem sucedido de Espírito.<br/>Se o Narrador desejar, você pode precisar rolar <b>um teste contra o nível do atributo Espírito do alvo</b>. Quando o alvo não possuir o atributo Espírito definido, a dificuldade deve ser avaliada pelo Narrador.<br/>O teste é uma ação invisível e imperceptível para o Alvo, que apenas pode sentir ou bloquear Divinismo caso possua algum tipo de proteção mágica.<br/>Caso bem sucedido, Divinismo pode destravar relances ou visões que ajudem o Sacerdote a entender o nível e a inclinação da Fé do Alvo.</p>",
+  "tags": ["grimo", "lunn"]
+}

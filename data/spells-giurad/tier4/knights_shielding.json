@@ -1,0 +1,15 @@
+{
+  "name": "Blindagem do Cavaleiro",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Passiva",
+  "cast_distance": 0,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiCrestedHelmet",
+  "element": null,
+  "caption": "O Treinamento dos Cavaleiros mais experiêntes podem otimizar enormemente o potencial de proteção de Armaduras.",
+  "description": "<p>Ao utilizar armaduras pesadas, qualquer ataque corpo a corpo causa -5d12 em você.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

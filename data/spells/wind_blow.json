@@ -1,0 +1,15 @@
+{
+    "name": "Rajada de Vento",
+    "magic_cost": null,
+    "duration_time": 1,
+    "attack_logic": "Físico",
+    "action_type": "Ativa",
+    "cast_distance": 4,
+    "range_amount": 1,
+    "range_type": "Alvo",
+    "icon": "GiWindyStripes",
+    "element": "wind",
+    "caption": "Razalans podem gerar boas rajadas de vento com suas asas, o que não é necessariamente potente o suficiente para ser considerado como um ataque, ou até causar dano, mas com uma pequena chance pode derrubar um inimigo desprevinido, podendo até ser usado como forma de intimidação.",
+    "description": "Desfere uma rajada de vento com as Asas que causa <b>1D10+3 de Dano</b>. O ataque é feito contra a defesa física do inimigo utilizando seu modificador de Força, e possui Derrubar 10. (não funciona com alvos Grandes ou superior)",
+    "tags": ["racial"]
+}

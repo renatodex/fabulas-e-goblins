@@ -1,0 +1,15 @@
+{
+  "name": "Improvisar Objeto",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiCrafting",
+  "element": null,
+  "caption": "A criatividade pode resolver o mais impossível dos problemas.",
+  "description": "<p>Se você acreditar que tem acesso aos materiais para criar um determinado item, pode solicitar ao mestre um teste de Destino/Sobrevivência de Improvisar Objeto, com dificuldade definida por ele. Caso caso passe no teste, o objeto é criado com sucesso.</p>",
+  "tags": ["cultural"]
+}

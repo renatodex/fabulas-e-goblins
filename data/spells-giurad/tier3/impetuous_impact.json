@@ -1,0 +1,15 @@
+{
+  "name": "Impacto Impetuoso",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiMineExplosion",
+  "element": null,
+  "caption": "Você canaliza uma poderosa energia do seu Grimo, que flui pela sua espada para desferir um poderoso ataque corpo a corpo, cujo impacto arremessa violentamente o inimigo.",
+  "description": "<p>O ataque causa Dano da Arma + 3d10+8 de dano, além de arremessar o inimigo 4 quadrados de sua posição.<br/>Caso o arremesso seja interrompido/bloqueado por algum objeto, cada quadrado não atravessado causa 1D6 de dano adicional.<br/>Objetos frágeis como caixas, barris e móveis quebram instantaneamente com o impacto do poder. Já objetos metálicos ou outros mais pesados sofrem 1D6 de danos estruturais, além do dano causado no próprio alvo.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

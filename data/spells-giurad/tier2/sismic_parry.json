@@ -1,0 +1,15 @@
+{
+  "name": "Aparo Sísmico",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": null,
+  "range_type": "Sí mesmo",
+  "icon": "GiSwordClash",
+  "element": null,
+  "caption": "Aquele que dominar o Selo da Cavalaria. dominará também a libertação de seu povo através da proteção ofensiva.",
+  "description": "<p>Conjura o Selo da Cavalaria na sua arma ou escudo. Como reação, você poderá Aparar o próximo ataque contra você. (físico ou mágico). O Aparo gera uma explosão sísmica a partir da sua arma ou escudo que causa 3D6 + 6 em todos inimigos adjacentes.</p>",
+  "tags": ["grimo", "knight"]
+}

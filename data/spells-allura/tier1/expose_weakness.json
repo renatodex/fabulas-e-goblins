@@ -1,0 +1,15 @@
+{
+  "name": "Expor Fraqueza",
+  "magic_cost": "1 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_amount": "",
+  "range_type": "Alvo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Seu poder é capaz de dobrar o Elo de seus inimigos, abrindo brechas para que seus ataques explorem as fraquezas deles.",
+  "description": "<p>Emite uma aura consistente em um inimigo que dura 3 turnos e aumenta em <b>1d10</b> o dano mágico elemental causado por feitiços do seu elemento.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

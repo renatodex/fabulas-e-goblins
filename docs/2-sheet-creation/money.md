@@ -4,7 +4,7 @@ title: Moedas
 slug: /2-sheet-creation/game-money
 ---
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/moedas.png"/>
+![Moedas](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/moedas.png)
 
 As moedas são sua forma de comprar e vender itens no jogo. <br/>
 Algumas ocasiões e conquistas vão te fazer aumentar sua riqueza no jogo, e outras vão agir no caminho contrário. <br/>

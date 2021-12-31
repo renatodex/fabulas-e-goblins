@@ -1,0 +1,15 @@
+{
+  "name": "Absorção Elemental",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Seu elemento está em sintonia suprema com seu corpo, absorvendo incrivelmente ataques elementais dessa natureza.",
+  "description": "<p>Ataques sofridos por ataques com o seu elemento recebem <b>redução fixa de 40 de dano.</b></p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

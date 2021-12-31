@@ -1,0 +1,15 @@
+{
+  "name": "Instância do Atirador",
+  "magic_cost": "7 P.M",
+  "duration_time": "",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "Sí mesmo",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Envolve sua arma em uma Aura Mágica de precisão e força, impulsionando seus projéteis com magia e atingindo inimigos à dezenas de metros de distância.",
+  "description": "<p>Durante <b>1 encontro</b> no mesmo dia você receberá um Bônus de +10 de distância para realizar <b>ataques com armas de projéteis</b> (como Arcos, Pistolas e etc) <b>sem sofrer qualquer penalidade</b>.<br/>A Instância dura <b>apenas 1 encontro</b>, e se encerra logo em seguida. Se usada <b>fora de combate</b>, dura até o <b>início do próximo encontro ou descanso</b>.<br/><br/>O Bônus vale apenas para ataques normais sem o uso de habilidades ativas <b>(bônus passivos se aplicam normalmente)</b>, e os projéteis disparados por sua arma neste período receberão um impulsionamento de ordem mágica, fazendo com que seus ataques normais sejam <b>considerados como ataques mágicos</b>.</p>",
+  "tags": ["grimo", "kanus"]
+}

@@ -4,65 +4,130 @@ title: Definindo sua Cultura
 slug: /2-sheet-creation/define-your-culture
 ---
 
-A Cultura define quem você é e o que andou fazendo na vida antes de se tornar um Aventureiro das Terras Místicas.
+A Cultura define qual a região inicial que o seu personagem foi criado, ou que passou um tempo considerável de sua vida antes de se tornar um Aventureiro das Terras Místicas.
+No jogo, possuir uma Cultura diferente significa ter valores distintos e únicos, características sociais e narrativas que vão dar a profundidade que você precisa para criar um personagem bem elaborado.
 
-No Fábulas & Goblins, a Cultura é usada para lhe ajudar a criar o Background do seu personagem no futuro, e também para justificar as características que lhe tornam diferente dos outros.
+## Recomendação de Uso
 
-Em outros sistemas, esses atributos são majoritariamente definidos pelas Classes, mas aqui, é a Cultura que te define.
+Nossa recomendação é que as Culturas sejam utilizadas **apenas depois que a História de Origem do Personagem (Background) já foi definida pelo Jogador e aceita pelo Narrador**.
+Isso porquê, muitas vezes, as Histórias de Origem dos personagens podem acabar sendo sub-priorizadas, pois elas exigem que o Jogador "faça o dever de casa", e gaste um tempo fora da sessão de jogo para responder perguntas como:
 
-Vamos começar?
+- "Onde meu personagem nasceu?"
+- "Quais foram seus traumas?"
+- "Ele possui inimigos?"
 
-Para construcão de sua Ficha você deve escolher uma Cultura e uma Subcultura.<br/>
-As Subculturas são iguais as Culturas, **exceto que você apenas recebe metade do Bônus, arredondado para cima**.
+(Consulte a sessão [Definindo suas Origens](/docs/2-sheet-creation/defining-your-origins), se quiser entender melhor o passo a passo para elaborar a sua Origem)
 
-É possível escolher a mesma Cultura como Subcultura. Nesse caso você terá +3 de Bônus naquele atributo.
+Restringir os Bônus de Cultura apenas para personagens com História definida incentiva os jogadores a criá-la o mais rápido possível, afinal, **você não vai querer deixar de receber um belo bônus na ficha apenas por não ter escrito a história de seu personagem!**.
 
-Lembrando que essas escolhas precisam estar justificadas na sua historia!
+## Utilizando a Cultura
 
-## Cultura Guerreira
+Mas o que a Cultura muda no jogo?
+Bom, as Culturas influenciam em vários aspectos do seu personagem, vamos falar sobre 4 aspectos importantes aqui:
 
-Desde criança você se interessou pelo combate. A sempre lhe agradou, independente das suas escolhas na vida. Você pode ter se tornado um Aventureiro formidável, ou talvez você seja um Arcanista com muita flexibilidade e energia. 
+- Traços Sociais
+- Vestimentas
+- Crenças
+- Bônus & Proficiências
 
-Seja lá qual for seu futuro, a Cultura Guerreira lhe fornece um bonus inicial de +2 em força.
+Abaixo, oferecemos diversas opções de cultura que podem servir de sugestão para seu personagem.<br/>
+Escolha a que mais se identifica com seu personagem!
 
-## Cultura da Sobrevivência
+:::info
+Para todos os efeitos, qualquer Cultura adicional que for lançada para um Suplementos de jogo do Fábulas & Goblins também poderá ser usada na criação do seu personagem, mesmo que você não possua o suplemento. (a menos que o seu Narrador diga o contrário!)
 
-Você nunca foi muito forte, mas sempre foi muito rápido. Talvez sua infância lhe obrigou a estar sempre em movimento, ou você precisou se virar sozinho no mundo, sem ninguém pra te defender. Agilidade +2
+As Culturas são definições atreladas a Povos e Regiões, e por isso, novas Culturas serão reveladas conforme o Lore do Fábulas se expande, permitindo ao seu personagem aumentar ainda mais seu leque inicial de escolhas.
+:::
 
-## Cultura Popular
+## Vamos começar?
 
-Você sempre foi muito sociavel, pelo menos é o que as pessoas acham. Você sente prazer na comunicação desde criança e sente que todos possuem uma espécie de cofre que precisa ser aberto. Você acredita que você possui a chave para abrir esses cofres.<br/>
-Talvez você tenha sido um humorista, ou um político local, ou até mesmo tenha vidido entre meios muito sociáveis.
+Para construcão de sua Ficha você deve escolher uma única Cultura da lista.
+As Culturas disponíveis são:
 
-Seja como for, essa Cultura lhe garante Carisma + 2.
+<table>
+    <thead>
+        <tr>
+            <th>Cultura</th>
+            <th>Traços Sociais</th>
+            <th>Vestimentas Comuns</th>
+            <th>Crenças Conhecidas</th>
+            <th>Bônus</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Filhos do Orvalho</td>
+            <td>Colheita, Tradição, Sabedoria</td>
+            <td>Trajes Arbóreos, Túnicas e Proteções Artesanais de madeira ou algodão</td>
+            <td>Lunn, Gumera, Musgom</td>
+            <td>Sobrevivência +1, Agilidade +1, Intelecto +1, P.M +2</td>
+        </tr>
+         <tr>
+            <td>Filhos do Deserto</td>
+            <td>Resiliência, Força, Sobrevivência</td>
+            <td>Túnicas Leves, Trajes acolchoados, e Fibra de Cacto</td>
+            <td>Moltron, Valamir, Valeon</td>
+            <td>Resiliência +1, Sobrevivência +1, Força +1, P.V +4</td>
+        </tr>
+        <tr>
+            <td>Filhos da Nau</td>
+            <td>Exploração, Adaptação, Disciplina</td>
+            <td>Trajes Leves e Quentes, Tecidos a base de Algodão e Couro especiais para baixas temperaturas</td>
+            <td>Ehphyros, Valis, Estiros</td>
+            <td>Agilidade +1, Influência +1, Resiliência +1, Iniciativa +2</td>
+        </tr>
+         <tr>
+            <td>Filhos das Núvens</td>
+            <td>Estudo, Conhecimento, Inovação</td>
+            <td>Túnicas chamativas com Algodão Oxidado, Trajes de Frio com muitas camadas</td>
+            <td>Zaravos, Ysanar, Qabalis</td>
+            <td>Intelecto +1, Elo Mágico +1, Resiliência +1, P.M +3</td>
+        </tr>
+       <tr>
+            <td>Filhos das Ilhas</td>
+            <td>Espiritismo, Misticismo, Conexão</td>
+            <td>Trajes tribais, Mantos rúnicos e muitos adereços</td>
+            <td>Ogoron, Herodus, Dinímia</td>
+            <td>Espírito +1, Elo Mágico +1, P.M +4</td>
+        </tr>
+       <tr>
+            <td>Filhos do Subterrâneo</td>
+            <td>Proteção, Forja, União</td>
+            <td>Trajes metálicos e de couro com muitas camadas</td>
+            <td>Herodus, Xenosh, Icaron</td>
+            <td>P.V +5, Pontos de Defesa +1, Pontos de Ataque +1</td>
+        </tr>
+        <tr>
+            <td>Filhos da Tempestade</td>
+            <td>Doutrina, Religião, Ordem</td>
+            <td>Túnicas elegantes, capuzes e adereços religiosos</td>
+            <td>Quaemanir, Dzeranir, Ysanar</td>
+            <td>Destino +1, Influência +1, Espírito +1</td>
+        </tr>
+        <tr>
+            <td>Filhos do Povo Livre</td>
+            <td>Agricultura, Comércio, Fronteiras</td>
+            <td>Trajes típico de viajantes, com muitas aberturas e bolsos</td>
+            <td>Somonir, Joromur, Aypheria</td>
+            <td>Influência +1, Agilidade +1, Inventário +4, Pontos de Ataque +1</td>
+        </tr>
+        <tr>
+            <td>Filhos de Eregor</td>
+            <td>Ceticismo, Tecnologia, Forja</td>
+            <td>Roupas ornamentadas, túnicas banhadas em ouro e pequenas jóias como adereços</td>
+            <td>Moltron, Razandibu e Beremord</td>
+            <td>Força +1, Influência + 1, Resiliência +1</td>
+        </tr>
+        <tr>
+            <td>Filhos de Timéria</td>
+            <td>Mistério, Equilíbrio, Respeito</td>
+            <td>Couro aquático, Exo-Esqueletos, Túnicas de Lã de Algas</td>
+            <td>Koroma, Lazan, Gaeria</td>
+            <td>Elo Mágico +1, Espírito +1, Força +1</td>
+        </tr>
+    </tbody>
+</table>
 
-## Cultura Erudita
+Ah, e se você quiser uma versão mais detalhada das culturas, temos um Capítulo inteiro pra falar sobre isso, o Capítulo [Escolhendo sua Cultura](/docs/6-cultures/cultures-introduction)
 
-Você sempre foi estudioso. Ou é o que dizem. Talvez você tenha nascido numa família influente, ou talvez seja apenas um pobre bastardo com acesso a uma boa biblioteca.
-
-Seja como for, seus estudos lhe garantem Inteligência +2.
-
-## Cultura Nobre
-
-As pessoas nunca duvidaram que você tinha futuro. Seja ele qualquer for, você desde pequeno estava destinado a uma espécie de plano.<br/>
-Talvez você nunca mereceu, e talvez nunca desejou, mas esse fato sempre esteve orbitando em volta de sua vida. Talvez você tenha conhecido pessoas influentes, ou apenas viva no meio delas.
-
-Seja como for, sua grandeza lhe confere Destino + 2.
-
-## Cultura do Resiliente
-
-A vida lhe obrigou a ser forte. Talvez você tenha aturado muitas perdas, ou talvez precisou se amadurecer muito antes dos outros. De alguma forma, o mundo foi cruel com você e você foi obrigado a crescer.
-
-Seja como for, sua grandeza lhe confere PV + 5.
-
-## Cultura Mágica
-
-Você sempre foi diferente, enquanto outros lutavam para ter sua conexão com a magia de volta, a Magia sempre pareceu de alguma forma te escolher. 
-
-Você possui um vínculo aprimorado com a magia e recebe PM + 2.
-
-## Cultura Abastada
-
-Você nunca teve nenhuma vocação específica, nunca foi um bom combatente, ou um Erudita respeitoso. Sua única vantagem foi ter vivido uma vida extremamente confortável com muita riqueza.
-
-Você começa o jogo com 300 Temirs adicionais.
+Mas, se quiser uma versão detalhada das Culturas, é só seguir pra próxima página!

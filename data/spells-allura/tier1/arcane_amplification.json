@@ -1,0 +1,15 @@
+{
+  "name": "Amplificação Arcana",
+  "magic_cost": "1 P.M",
+  "duration_time": "1",
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": null,
+  "range_type": "Sí mesmo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Você concentra seu Elo Mágico durante alguns segundos para potencializar ainda mais seu poder mágico.",
+  "description": "<p>Consome uma ação e coloca o em <b>\"Modo Concentração\"</b>. Enquanto estiver concentrado, você não poderá se mover, atacar ou fazer qualquer interação a não ser falar. No próximo turno, qualquer ataque realizado terá o dano Dobrado caso acerte o inimigo. O ataque também recebe um bônus de  <b>2d6</b> de dano. Como o ataque exige concentração, o personagem não pode ser atacado, caso seja, a Amplificação Arcana é cancelada</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

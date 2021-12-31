@@ -1,0 +1,15 @@
+{
+  "name": "Conversão Espiritual",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiLotusFlower",
+  "element": null,
+  "caption": "Seu espirito é resiliente e pode resistir aos traumas mais atrozes.",
+  "description": "<p>Receba +4 de Bônus ao resistir a Traumas de Nocaute.</p>",
+  "tags": ["cultural"]
+}

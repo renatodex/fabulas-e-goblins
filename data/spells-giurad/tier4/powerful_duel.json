@@ -1,0 +1,15 @@
+{
+  "name": "Duelo Poderoso",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiSabersChoc",
+  "element": null,
+  "caption": "O Verdadeiro Cavaleiro leva o Duelo até as últimas consequências.",
+  "description": "<p>O Efeito de Duelos agora dura até o fim do encontro.<br/>Vencer um inimigo após o Duelo concede uma Carga de Duelo que lhe garante 1D12 extra de dano ate o fim do combate.<br/>Com este poder, a habilidade Duelo pode ser usada gastando-se 0 (Zero) Pontos de Magia, mas ainda só pode ser utilizada 1 vez por turno.<br/>Limitação: Acumula até no máximo 10 cargas.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

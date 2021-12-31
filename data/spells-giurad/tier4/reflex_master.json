@@ -1,0 +1,15 @@
+{
+  "name": "Mestre dos Reflexos",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Passiva",
+  "cast_distance": 0,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiCatch",
+  "element": null,
+  "caption": "Os olhos treinados são a prova da composição de um verdadeiro Cavaleiro, para aqueles com olhos desprovidos, pode até parecer mágica, pois não importa de onde o ataque virá, um bom Cavaleiro sempre o aparará.",
+  "description": "<p>Você desenvolveu reflexos incríveis, e pode se mover para dentro e para fora da área de oportunidade livremente sem receber dano.<br/>Com esta habilidade, você automaticamente Apara qualquer ataque de oportunidade realizado a você.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

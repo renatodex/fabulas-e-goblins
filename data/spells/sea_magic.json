@@ -1,0 +1,15 @@
+{
+  "name": "Conjurador do Mar",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiFireSpellCast",
+  "element": null,
+  "caption": "Você tem experiência com a densidade do Mar, e pode conjurar magias normalmente.",
+  "description": "<p>Conjurar Magias Ativas em Timéria não possuem custo adicional de P.M.</p>",
+  "tags": ["cultural"]
+}

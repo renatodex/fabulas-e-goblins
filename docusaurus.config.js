@@ -18,7 +18,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Livro - v1.5',
+          label: 'Livro (Pré-Alpha 2.0.0)',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},

@@ -1,0 +1,15 @@
+{
+  "name": "Manipular Elemento 2",
+  "magic_cost": "2 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "",
+  "description": "<p>Expande o poder <b>Manipular Elemento</b>, permitindo ao conjurador <b>Manipular até 4 Quadrados</b> do Elemento dominado. Caso utilizado como arma (requer 2 turnos), o Manipular Elemento possui o mesmo dano de <b>Rajada de Aprendiz 2</b>.<br/>No caso de ataque, se o elemento causar dano a um alvo ou objeto, ele será <u>\"consumido\"</u>, não podendo ser utilizado novamente.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

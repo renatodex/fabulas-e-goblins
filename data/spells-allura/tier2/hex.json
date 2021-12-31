@@ -1,0 +1,15 @@
+{
+  "name": "Enfeitiçar",
+  "magic_cost": "4 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_amount": null,
+  "range_type": "Alvo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Você conjura a corrupção de seu elemento em um inimigo, aplicando um terrível efeito negativo.",
+  "description": "<p>Faça um teste para aplicar o <b>Efeito Elemental +2</b> em um único inimigo. O inimigo recebe o efeito como uma Maldição, e apenas pode se livrar dela a partir de seu próximo turno.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

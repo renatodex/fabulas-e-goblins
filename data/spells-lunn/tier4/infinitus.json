@@ -1,0 +1,15 @@
+{
+  "name": "Prisão Divina",
+  "magic_cost": "25 P.M",
+  "duration_time": "1 hr ~ X",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "O Grimo potencializa ao máximo o alcance da sua Fé, permitindo aprisionar um inimigo em um Templo Divino extra planar.",
+  "description": "<p>Role <b>1D100</b> para aprisionar um inimigo na <b>Prisão Divina</b>.<br/><br/>O poder precisa de <b>2 turnos</b> para ser canalizado, consome <b>todos os P.M do Sacerdote</b> e só pode ser usado <b>uma única vez por dia</b>.<br/><br/>Se utilizada em sua forma mais básica, <b>a canalização</b> do poder <b>dura 2 turnos</b>, porém, se utilizada em sua forma mais avançada, pelo levar de <b>5 a 10 turnos</b> para canalizar.<br/><br/>Relatos das escritas antigas afirmam que até mesmo <b>Criaturas Lendárias</b> poderiam ser aprisionadas com a Prisão Divina.<br/>E não só apenas criaturas Lendárias, mas as escritas antigas descrevem sacerdotes <b>aprisonando Ecos Etéros</b> e <b>até mesmo Deuses!</b><br/><br/>Nestes casos específicos, <b>quando o Sacerdote precisa aprisionar alvos extremamente poderosos</b>, acredita-se que uma canalização extendida (5~10 turnos) seria necessária, além da consumação de um <b>reagente emocional do alvo</b>.<br/>O reagente precisa ser um objeto que seja de extrema importância para o alvo, o qual ele fará de tudo para recuperar.<br/><br/>A prisão <b>dura 1 hora</b> na sua forma comum, mas o Mestre Sacerdote pode <b>extender o tempo</b> do aprisionamento por <b>1 ano</b> caso consuma uma <b>Gota de Fé</b> e <code>-2d12+10 P.V</code> de forma permanente.<br/>O sacríficio de P.V funciona como uma espécie de <b>Maldição permanente</b>, que é aplicada <b>após todos os bônus do Sacerdote</b>, e <b>não pode ser dissipada ou recuperada</b> de forma alguma, mesmo que mágica, exceto pela intervenção dos <u>Magos Astrais</u>.</p>",
+  "tags": ["grimo", "lunn"]
+}

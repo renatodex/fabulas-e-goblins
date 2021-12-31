@@ -1,0 +1,15 @@
+{
+  "name": "Aurelium",
+  "magic_cost": "16 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Reação",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "As poderosas palavras de Fé permitem que um aliado possa recuperar sua coragem momentânea para acertar seus inimigos de forma precisa.",
+  "description": "<p>Como uma <b>ação de reação</b>, você conjura uma Benção em um único Aliado que o permite <b>Re-rolar um resultado</b> mal sucedido no dado.</p>",
+  "tags": ["grimo", "lunn"]
+}

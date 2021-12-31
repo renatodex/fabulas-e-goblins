@@ -1,0 +1,15 @@
+{
+  "name": "Lanceiro",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiSpearHook",
+  "element": null,
+  "caption": "O conhecimento de Lanças do antigo portador deste Grimo lhe concede um ligeiro bônus de combate utilizando Armas de Haste.",
+  "description": "<p>A Habilidade fornece lhe concede um Bônus de Combate de +1 quando você estiver utilizando Armas de Haste.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

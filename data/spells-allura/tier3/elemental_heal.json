@@ -1,0 +1,15 @@
+{
+  "name": "Cura Elemental",
+  "magic_cost": "8 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": null,
+  "range_type": "Si mesmo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "O seu Grimo está alinhado em perfeita sincronia, podendo utilizar o seu elemento até mesmo para curar suas feridas.",
+  "description": "<p>Você pode utilizar a natureza do seu próprio elemento como fonte de recuperação.<br/>No processo, a fonte elemental é consumida, e você é curado em <b>2d8+15</b>.<br/>A fonte elemental <b>precisa ser natural</b>, e não pode ter sida manipulada nem causada pelo efeito do seu Grimo ou de outro conjurador.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

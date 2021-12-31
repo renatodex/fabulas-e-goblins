@@ -1,0 +1,15 @@
+{
+  "name": "Benção Mágica",
+  "magic_cost": "",
+  "duration_time": null,
+  "attack_logic": "",
+  "action_type": "Passiva",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "",
+  "icon": "GiPiercingSword",
+  "element": null,
+  "caption": "A Benção estreita os seus traços com o Grimo, destravando conhecimentos que otimizam sua conexão com a Magia.",
+  "description": "<p>Fornece <b><code>TIER*7</code></b> Pontos adicionais de <b>Pontos de Magia</b>.</p>",
+  "tags": ["grimo", "lunn"]
+}

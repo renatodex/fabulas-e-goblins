@@ -1,0 +1,15 @@
+{
+    "name": "Movimentação Submersa",
+    "magic_cost": null,
+    "duration_time": null,
+    "attack_logic": null,
+    "action_type": "Passiva",
+    "cast_distance": null,
+    "range_amount": null,
+    "range_type": null,
+    "icon": "GiSwimfins",
+    "element": null,
+    "caption": "Enquanto outras Espécies podem sentir uma pequena dificuldade para se locomover no mundo submerso, Valdari são habitantes natos deste mundo, se movendo normalmente como se estivessem andando sobre a terra.",
+    "description": "Outras espécies recebem -1 de penalidade ao se locomover dentro da água. Valdari ignoram essa penalidade, podendo se locomover normalmente.",
+    "tags": ["racial"]
+}

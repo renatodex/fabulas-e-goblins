@@ -1,0 +1,79 @@
+---
+id: roles-adventurer
+title: Carregador
+slug: /5-roles/roles-adventurer
+---
+
+Se você é daqueles que não se importa em correr riscos se o objetivo for causar o maior dano, o Papel Carregador é pra você!
+Como o próprio nome diz, o Papel do Carregador possui este nome porque esses personagens geralmente "Carregam" o time em direção a vitória.
+
+Personagens carregadores costumam tomar as posições de ataque corpo a corpo ou de curto alcance, oferecer o melhor de seus poderes para proteger o grupo e causar muito dano.
+As categorias de armas que possuem Força e Resiliência como seus atributos costumam causar mais dano e ter dados melhores que outras armas.
+
+Por outro lado, essas armas geralmente possuem efeitos mágicos menos intensos, e quase sempre focados no Papel do Carregador.
+
+Carregadores não costumam ter um vínculo forte com a Magia, mas podem opcionalmente desenvolver este vínculo através dos Grimos.
+
+## Você deve escolher este Papel se...
+- Prefere estar sempre na linha de frente do combate
+- Não se importa muito correr risco para causar um bom dano.
+- Não quer se especializar tanto na conjuração de Magias.
+- Prefere Armas afiadas ou que sejam potentes e pesadas.
+
+## Características Iniciais
+
+Ao escolher esse Papel, você terá uma boa base de Pontos de Vida, e isso lhe possibilitará estar sempre próximo aos inimigos, correndo apenas um risco moderado.
+
+<table>
+  <thead>
+      <tr>
+      <th>Atributo</th>
+      <th>Valor</th>
+    </tr>
+
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Pontos de Vida</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Pontos de Magia</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Ataque Físico</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>Defesa Física</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Ataque Magico</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Defesa Magica</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Movimento</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Proficiência Armas</td>
+      <td>Força ou Resiliência</td>
+    </tr>
+    <tr>
+      <td>Pontos de Vida por Nível</td>
+      <td>+4/+4/+8/+8</td>
+    </tr>
+    <tr>
+      <td>Pontos de Magia por Nível</td>
+      <td>+2/+4/+4/+6</td>
+    </tr>
+  </tbody>
+</table>
+

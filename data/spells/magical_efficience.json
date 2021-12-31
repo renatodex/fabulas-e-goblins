@@ -1,0 +1,15 @@
+{
+  "name": "Eficiencia Mágica",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiMagicPalm",
+  "element": null,
+  "caption": "O Grimo é um apenas uma muleta, pois só aquele que se dedica aos estudos mágicos pode utilizar a magia de forma correta.",
+  "description": "<p>Todas as habilidades custam -1 P.M</p>",
+  "tags": ["cultural"]
+}

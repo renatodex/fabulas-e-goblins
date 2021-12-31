@@ -1,0 +1,15 @@
+{
+  "name": "Força Aprimorada",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiFist",
+  "element": null,
+  "caption": "Um bom soldado é aquele que consegue resistir ao peso de sua própria espada. A Força Aprimorada lhe concede bônus adicionais de força.",
+  "description": "<p>Você recebe um bônus passivo de +5 em seu atributo Força. (Devido ao cálculo de P.V, essa habilidade também lhe fornece um bônus de 5 P.V adicionais.)</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

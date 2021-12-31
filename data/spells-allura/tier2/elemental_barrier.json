@@ -1,0 +1,15 @@
+{
+  "name": "Barreira Elemental",
+  "magic_cost": "6 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_amount": "1x6",
+  "range_type": "Linha",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Conjura uma poderosa Barreira elemental para bloquear seus inimigos.",
+  "description": "<p>Cria uma Barreira de até 6 Quadrados continuos. Qualquer um que atravessar a barreira receberá <code>TIER*(d10+6)</code> de dano e precisará passar em um teste de <b>Resiliência +3</b>, caso falhe, será empurrado de volta da Barreira e perderá sua ação de movimento.<br/>Os Elementos sólidos como Gelo, Matéria e Natureza geram barreiras transponíveis com Espinhos móveis e Passagens espreitas que causam dano. <i>(Aliados são afetados normalmente a menos que você possua <b>Fogo Amigo<b/>)</i></p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Toque de Cura 2",
+  "magic_cost": "7 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Aprimoramento",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Você aprimora sua técnica de Cura, extraindo ainda mais de sua Fé para regenerar seus aliados",
+  "description": "<p>Aprimora o poder <b>Toque de Cura</b>, atualizando a fórmula de Cura para <code>3D10+8</code></p>",
+  "tags": ["grimo", "lunn"]
+}

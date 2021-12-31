@@ -1,0 +1,15 @@
+{
+  "name": "Audição de Goblin",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": 14,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiElfEar",
+  "element": null,
+  "caption": "Suas enormes orelhas conseguem perceber até mesmo pequenas variações sonoras no ar, vibrando em reação ao som em sinal de alerta.",
+  "description": "Como uma ação de percepção, você pode sentir pequenos cuídos ou barulhos no ar, que seriam imperceptíveis para outros Indivíduos.<br/><p´>Essa habilidade é praticamente sensorial para os Goblins, de forma similar à Geolocalização dos Armadons.</p><p>Contudo, por não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes sonoras podem facilmente confundir a precisão dos sentidos de um Goblin.</p>",
+  "tags": ["racial"]
+}

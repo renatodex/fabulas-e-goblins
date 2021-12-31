@@ -1,0 +1,15 @@
+{
+  "name": "Resistência ao Frio",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiCurlyWing",
+  "element": null,
+  "caption": "Calderianos nunca sentem frio, ou pelo menos é isso que dizem, até pegarem um resfriado..",
+  "description": "<p>Seu personagem está normalmente adaptado para resistir ao Frio, conseguindo resistir muito bem a baixas temperaturas sem muitos prejuízos.</p><p><i>Receba +3 de Resistência ao Frio.</i></p><p>Para saber mais sobre as regras de Temperatura consulte a Seção Efeitos de Terreno.</p>",
+  "tags": ["racial"]
+}

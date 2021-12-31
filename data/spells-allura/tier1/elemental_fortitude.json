@@ -1,0 +1,15 @@
+{
+  "name": "Fortitude Elemental",
+  "magic_cost": "0 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Seu Elo Mágico é forte, e seu elemento oferece a proteção necessária para resistir aos males da sua própria natureza.",
+  "description": "<p>Qualquer dano sofrido utilizando o elemento do Dominador é reduzido em <b>2d6+5</b>.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

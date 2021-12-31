@@ -1,0 +1,15 @@
+{
+  "name": "Ataque Espiral",
+  "magic_cost": "9 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Área",
+  "icon": "GiDividedSpiral",
+  "element": null,
+  "caption": "Seu Grimo se enche de magia enquanto você rodopia sua arma no seu próprio eixo para causar um grande dano nos inimigos. A magia mantém sua estabilidade e lhe permite rodopiar com sua arma por vários segundos.  ",
+  "description": "<p>Ataca todos inimigos num raio de 1 quadrado.<br/>Você deve realizar um teste de ataque contra cada um dos inimigos no raio do poder.<br/>Cada ataque bem sucedido causa Dano da Arma + 4D10 + 4 de dano.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

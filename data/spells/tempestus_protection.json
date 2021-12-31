@@ -1,0 +1,15 @@
+{
+  "name": "Tempestus Protectio",
+  "magic_cost": "TLv*3 P.M",
+  "duration_time": 1,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 4,
+  "range_amount": 1,
+  "range_type": "Alvo",
+  "icon": "GiExtraLucid",
+  "element": "holy",
+  "caption": "Utiliza o Implemento do Tempesto para criar um Selo de proteção em um irmão convertido ou em si mesmo.",
+  "description": "Não requer testes, mas só pode ser usado em Filhos da Tempestade. Concede uma redução de (TLv*10) pontos de dano próximo turno.",
+  "tags": ["racial"]
+}

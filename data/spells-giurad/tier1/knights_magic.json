@@ -1,0 +1,15 @@
+{
+  "name": "Magia do Cavaleiro",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiMagicPalm",
+  "element": null,
+  "caption": "Você prática sua interação mágica para ganhar um folego extra com seu Grimo.",
+  "description": "<p>Essa habilidade fornece 6 P.M extra permanentes.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

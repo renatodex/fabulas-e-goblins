@@ -1,0 +1,15 @@
+{
+  "name": "Inferno",
+  "magic_cost": "13 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": "12x12",
+  "range_type": "Área",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Transforma o terreno em uma área nebulosa consumida por sua natureza elemental.",
+  "description": "<p>Terraforma uma área de <b>12x12</b> com as propriedades do seu elemento.<br/>Tanto o terreno quanto o próprio ar são envoltos em uma sutil nevoa elemental que <b>limita a visibilidade de todos inimigos a 1 quadrado</b>.<br/>O Terreno e o ar são tomados pelas propriedades de seu elemento, causando <b>Efeito +6</b> em todos inimigos que persistirem na área a cada turno.<br/>O efeito <b>dura por 3 Turnos</b> mas pode ser interrompido a qualquer momento pelo conjurador.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

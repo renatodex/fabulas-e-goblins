@@ -1,0 +1,15 @@
+{
+  "name": "Fome do Caçador",
+  "magic_cost": "",
+  "duration_time": "",
+  "attack_logic": "",
+  "action_type": "Passiva",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Inimigos abatidos lhe fornecem Pontos de Vida temporários.",
+  "description": "<p>Sempre que um inimigo for abatido por um ataque seu, você receberá 1d12 de P.V Temporário, até um Máximo de 50 P.V.</p>",
+  "tags": ["grimo", "kanus"]
+}

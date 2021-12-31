@@ -1,0 +1,15 @@
+{
+  "name": "Fogo Amigo",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Sua afinidade elemental agora permite controlar seus poderes ofensivos de forma que não prejudiquem seus aliados.",
+  "description": "<p>Habilidades ofensivas conjuradas pelo seu Grimo <b>não afetam mais seus aliados no campo de batalha</b>.<br/>Dessa forma, uma Barreira de Fogo pode ser atravessada, e sua Manipulação do Fogo pode permitir que aliados atravessem corredores flamejantes atravez da Ação <b>Manipular Elemento</b>. <i>(Poderes como <b>Rajada de Aprendiz</b> apesar de não causar dano nos aliados, ainda não podem atravessá-los)</i></p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

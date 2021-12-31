@@ -1,0 +1,15 @@
+{
+  "name": "Conhecimento da Mata (Sobrevivência/Destino)",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiHerbsBundle",
+  "element": null,
+  "caption": "Sua experiência de anos de vida na floresta já lhe permitem identificar ervas comuns para preparo de alimentos.",
+  "description": "<p>Você conhece alguns tipos de plantas, ervas e frutas, e pode identificar alimentos seguros para serem consumidos numa ocasião de emergência, assim como certas ervas.</p><p>Ao utilizar essa habilidade, o Narrador pode exigir um teste de Sobrevivência.</p><p>Caso você esteja procurando por uma determinada erva, pode solicitar ao Narrador um teste de Destino.</p>",
+  "tags": ["cultural"]
+}

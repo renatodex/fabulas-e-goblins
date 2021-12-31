@@ -1,0 +1,15 @@
+{
+  "name": "Ritual do Draquenin",
+  "magic_cost": "5 P.M",
+  "duration_time": "8h",
+  "attack_logic": "Ritual",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": "1",
+  "range_type": "Sí mesmo",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "O Grimo lhe fornece o conhecimento para conjurar o Ritual do Draquenin, uma comunhão poderosa que permite ao Adepto buscar respostas e enxergar o futuro.",
+  "description": "<p>O <b>Ritual do Draquenin</b> permite ao Adepto entrar em um estado de transe para obter respostas, iluminações ou até mesmo visualizar o futuro.<br/><br/>Para iniciar o Ritual, você precisará de três <b>ramos de Draquenin</b>, além de <b>velas cítricas</b> e um <b>local calmo e silencioso</b> pelo qual possa <b>meditar durante 8 horas ininterruptas. Antes do Ritual começar, o Adepto deverá limpar seus pensamentos, e mentalizar a resposta que deseja buscar </b>.<br/><br/>Quando a Meditação começar, a <b>Aura Mágica</b> das Flores de Draquenin <b>testarão a resiliência do Adepto por 3 vezes</b>, e ele deverá passar num <b>teste de Resiliência</b> de <b>dificuldade mínima 12</b>, mas que poderá ser ajustada pelo Narrador a depender da <b>Resposta que deseja obter</b>.<br/><br/><b>Falhas críticas neste teste causam sequelas permanentes. (Aplique um Trauma baseado em uma experiência recente que o Personagem vivenciou)</b><br/><br/>Caso o Ritual seja repetido em um intervalo inferior a 1 mês, adicione +5 na dificuldade do Teste de Resiliência para cada tentativa adicional.</p>",
+  "tags": ["grimo", "kanus"]
+}

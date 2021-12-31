@@ -1,0 +1,15 @@
+{
+  "name": "Sacrifício de Fé",
+  "magic_cost": "1 P.M",
+  "duration_time": null,
+  "attack_logic": "",
+  "action_type": "Passiva",
+  "cast_distance": 0,
+  "range_amount": "0",
+  "range_type": "",
+  "icon": "GiPiercingSword",
+  "element": null,
+  "caption": "Lunn acredita que é apenas deixando de lado as próprias necessidades que o Sacerdote pode atingir o estado Áureo da Fé.",
+  "description": "<p>Essa benção passiva aprimora todas as suas formas de Cura em <code>1d12</code>, mas em compensação remove <code>6 P.V</code> do Sacerdote de forma permanente.</p>",
+  "tags": ["grimo", "lunn"]
+}

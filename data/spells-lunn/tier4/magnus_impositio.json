@@ -1,0 +1,15 @@
+{
+  "name": "Magnus Impositio",
+  "magic_cost": "3d12+10 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 7,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Você ora a Lunn para restaurar a Conexão Mágica de um alvo.",
+  "description": "<p>Magnus Impositio cura em <code>3d12+10</code> os P.M de um alvo. <b>O custo de Magia deste poder é o mesmo custo da Cura</b>.<br/>Portanto, o teste do Custo precisa ser realizado após a utilização do Poder ser anunciada ao Narrador. Caso o resultado do teste de Custo supere os Pontos de Magia do próprio sacerdote, o poder falha e o Sacerdote perde sua ação.<br/><br/><i>Por mais que a mecânica deste poder se pareça com uma \"transferência\" de P.M, este poder não é considerado como uma transferência.</i></p>",
+  "tags": ["grimo", "lunn"]
+}

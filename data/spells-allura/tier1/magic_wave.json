@@ -1,0 +1,15 @@
+{
+  "name": "Onda de Magia",
+  "magic_cost": "3 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": "",
+  "range_type": "Centro",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Uma forte onda sônica que afasta os inimigos próximos enquanto causa dano.",
+  "description": "<p>Emite uma onda de Energia elemental que se origina da sua posição e atinge todos inimigos adjacentes causando 1d10+5, afastando-os por 2 quadrados. <i>(Também atinge aliados a menos que possua habilidade <b>Fogo Amigo</b></i>).</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

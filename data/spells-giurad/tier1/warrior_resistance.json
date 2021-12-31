@@ -1,0 +1,15 @@
+{
+  "name": "Resistência do Cavaleiro",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiBattleTank",
+  "element": null,
+  "caption": "O Grimo lhe fornece passivamente um suspiro de vitalidade extra que você precisava para derrotar seus inimigos.",
+  "description": "<p>Sua experiência em combate aumenta sua resiliência, fornecendo 5 P.V extras.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

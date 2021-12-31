@@ -3,21 +3,24 @@ id: hp-points
 title: Pontos de Vida
 slug: /2-sheet-creation/hp-points
 ---
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-vida-01.png" width="600"/>
+![Pontos de Vida](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-vida-01.png)
 
-Pontos de vida representam o quão vivo você está. <br/>
-Todos os personagem começam o jogo com uma determinada quantidade de pontos de vida, e conforme vão evoluindo, esses pontos também vão aumentando.
+Pontos de Vida definem o **quão vivo** você está.<br/>
+Todos os personagem começam o jogo com uma **determinada quantidade** de pontos de vida, e **conforme vão evoluindo**, esses pontos **também aumentam**.
 
-Receber dano em batalha reduz os seus pontos de vida, enquanto descansar, e tomar poções de cura aumenta os seus pontos. <br/>
-Além disso, existem poderes que podem até aumentar temporariamente os seus pontos de vida!
+**Receber dano em batalha** reduz os seus pontos de vida, enquanto descansar, e **tomar poções de cura** recuperam os seus pontos perdidos.<br/>
+Além disso, existem poderes que podem até **aumentar temporariamente** os seus pontos de vida!
 
-A formula dos Pontos de vida é:
+## Calculando seus Pontos de Vida
 
-<img src="https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/pontos-de-vida-02.jpg" width="600"/>
+Na criação do seu personagem, os atributos **Força** e **Resiliência** influenciam diretamente na quantidade de **Pontos de Vida (P.V)** que você possui.
+A formula para calcular esse valor é a seguinte:
 
-Aqui os Bônus Extras só se aplica se algum item, habilidade ou poder disser explicitamente que você ganha pontos de vida ao usá-lo.
+![Formula-PV.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccfae4972-ac5b-4b0d-ab59-2f12c3c5ed49.jpg)
 
-Se os seus pontos de vida chegarem a 0 (Zero), ou menos de 0, você é Derrotado, caindo inconsciente no combate. <br/>
+Além dessa fórmula, Bônus adicionais podem também ser aplicados por outros itens e habilidade.
+
+Se os seus **Pontos de Vida** (P.V) **chegarem a 0 (Zero)**, ou menos de 0, **você é Derrotado**, **caindo inconsciente** no combate. <br/>
 Para saber mais sobre o que acontece com o seu personagem quando ele chega nesse estado, consulte a Seção: [Cheguei a 0 de vida, e agora?](/docs/7-game-rules/what-happens-when-0-hp).
 
 :::note Dica

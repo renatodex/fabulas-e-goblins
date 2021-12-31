@@ -1,0 +1,15 @@
+{
+  "name": "Bolsa do Viajante",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Inicial",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiSchoolBag",
+  "element": null,
+  "caption": "Um verdadeiro Aventureiro deve estar preparado para tudo!",
+  "description": "<p>Você pode começar o jogo com uma Bolsa do Povo Livre (+4 Slots)</p>",
+  "tags": ["cultural"]
+}

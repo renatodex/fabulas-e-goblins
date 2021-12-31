@@ -1,0 +1,15 @@
+{
+  "name": "Feridas Profundas",
+  "magic_cost": "6 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "Alcance da Arma",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Carrega um ataque poderoso, ferindo profundamente um inimigo.",
+  "description": "<p>Seu próximo ataque causa uma <b>Ferida Profunda</b> no Alvo. As <b>Feridas Profundas</b> estacam até 5x e aumentam seus próximos danos em 1d6 para cada Ferida. Ferida é um Efeito Negativo incurável durante o combate, mas inimigos especialistas podem realizar ações para estacá-la.<br/><br/>Este poder pode ser usado sem consumir uma <b>Ação de Ataque</b>.</p>",
+  "tags": ["grimo", "kanus"]
+}

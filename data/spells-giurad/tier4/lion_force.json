@@ -1,0 +1,15 @@
+{
+  "name": "Força do Leão",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Passiva",
+  "cast_distance": 0,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiLion",
+  "element": null,
+  "caption": "No campo de batalha você possui a força de um leão, derrubando inimigo após inimigo numa fúria épica.",
+  "description": "<p>Seus ataques agora possuem a propriedade Derrubar 20</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

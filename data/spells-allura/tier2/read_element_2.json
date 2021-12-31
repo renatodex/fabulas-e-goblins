@@ -1,0 +1,15 @@
+{
+  "name": "Ler Elemento 2",
+  "magic_cost": "2 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "Expande o seu poder de leitura elemental, conseguindo acessar relances do passado de uma concentração mágica orgânica.",
+  "description": "<p>Expande o poder <b>Ler Elemento</b> para o nível 2.<br/>Agora é possível Ler <b>criaturas constituídas pelo elemento escolhido</b>, permitindo ao seu conjurador visualizar relances do passado do alvo contra sua vontade.<br/>Se utilizada numa criatura/npc/inimigo, a Ação gera o Efeito <u>\"Exaustão 1\"</u>.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}

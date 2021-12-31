@@ -1,0 +1,15 @@
+{
+  "name": "Impositio Dogmas",
+  "magic_cost": "18 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Caption",
+  "description": "<p><b>Como uma ação de Reação</b> que pode ser usada a qualquer momento, o Sacerdote pode realizar uma <b>ação adicional imediata</b>, mesmo que esteja fora do seu turno.<br/><br/>Com esta ação, o Sacerdote pode curar um aliado <b>como reação a um acerto que seria fatal</b>. (apenas aliados).<br/>Neste caso, <b>o Aliado não é abatido</b>, ao invés disso, ele tem seus <b>P.Vs zerados</b>, e logo em seguida recebe a Cura do Sacerdote.<br/><br/><b>Só pode ser usado uma vez por encontro.</b></p>",
+  "tags": ["grimo", "lunn"]
+}

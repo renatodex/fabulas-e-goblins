@@ -1,0 +1,15 @@
+{
+  "name": "Ataque Duplo",
+  "magic_cost": "",
+  "duration_time": "",
+  "attack_logic": "",
+  "action_type": "Passiva",
+  "cast_distance": "",
+  "range_amount": "",
+  "range_type": "",
+  "icon": "GiPocketBow",
+  "element": "",
+  "caption": "Uma Aura de Celeridade do Grimo aprimora seus sentidos, permitindo realizar dois ataques rápidos.",
+  "description": "<p>Permite ao Adepto passivamente realizar 2 Ataques normais, ao invés de 1 só.</p>",
+  "tags": ["grimo", "kanus"]
+}

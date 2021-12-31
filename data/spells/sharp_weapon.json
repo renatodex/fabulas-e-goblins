@@ -1,0 +1,15 @@
+{
+  "name": "Arma Afiada",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passive",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiBowieKnife",
+  "element": null,
+  "caption": "Sua força e preparação lhe permitem causar mais dano físico.",
+  "description": "<p>Adicione 1D6 de Dano sempre que utilizar um ataque corpo a corpo ou a distância com sua Arma (não acumula com Habilidades de Grimo).</b></p>",
+  "tags": ["racial"]
+}

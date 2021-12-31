@@ -1,0 +1,15 @@
+{
+  "name": "Exorcizar Maldição",
+  "magic_cost": "8 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágica",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Você conjura a mais pura benção de Lunn com a ajuda de seu Grimo, e posiciona sua mão em um alvo para remover qualquer tipo de maldição que ele possui.",
+  "description": "<p>Exorcizar Maldição pode ser usado para <b>remover um efeito negativo do alvo do tipo Maldição</b>, ou pode ser usado para <b>expurgar uma maldição em um objeto ou lugar</b>. <br/>Para suceder, você deverá passar num teste contra a <b>defesa Mágica da Maldição</b>. (consultar Narrador).<br/>Se o alvo for a própria maldição, ou um inimigo do tipo Maldição, o ataque também feito contra a defesa Mágica dele.<br/>No caso de ataque direto a uma maldição, Exorcizar Maldição causa estupendos <code>5D10+(TIER*12)</code> de dano.<br/><b>Criaturas Decrépitas como Zumbis e Mortos Vivos não necessariamente contam como Maldição.</b><br/><i>É importante ressaltar que a <b>Reanimação de criaturas por Necromancia</b> não é considerada nas regras como uma <b>Maldição</b>, mesmo que aldeões vivendo nas Terras Místicas acreditem que Esqueletos e Zumbis sejam <b>\"criaturas amaldiçoadas\"</b></i>.<br/><br/><b>Sacerdotes com mais de 1 Ação Profana podem exorcizar bençãos.</b></p>",
+  "tags": ["grimo", "lunn"]
+}

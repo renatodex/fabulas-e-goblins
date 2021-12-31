@@ -1,0 +1,15 @@
+{
+  "name": "Especialização do Escudeiro II",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": 0,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiBlackKnightHelm",
+  "element": null,
+  "caption": "O conhecimento de Armas brancas do antigo portador deste Grimo expande ainda mais os seus horizontes, lhe permitindo acessar partes do conhecimento que estavam ocultas.",
+  "description": "<p>Você aprimora ainda mais sua habilidade como Cavaleiro, recebendo um Bônus de +1 em ataques. Este bonus se soma ao bônus da Especialização do Escudeiro.</p>",
+  "tags": ["grimo", "knight"]
+}

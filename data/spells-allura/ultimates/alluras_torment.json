@@ -1,0 +1,15 @@
+{
+  "name": "Tormenta de Allura",
+  "magic_cost": "8 P.M",
+  "duration_time": "5",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 7,
+  "range_amount": "10x10",
+  "range_type": "Área",
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "A sobrecarga do seu Grimo permite conjurar o imenso poder da Tormenta de Allura, um frenesi elemental que engole o campo de batalha em uma tempestade de Raios elementais por diversos segundos, causando um dano gigantesco.",
+  "description": "<p>Conjura uma tempestade violenta do seu <b>Elemento</b> e aplica <b>Efeito +4</b> em todos os inimigos.<br/>A tempestade ocupa uma área de <b>10x10 quadrados</b>, e causa <code>TIER*(D12+8)</code> de dano em todos inimigos que permanecerem na área até o final do turno.<br/>A tempestade dura <b>5 turnos</b>. Em Aliados o Dano é reduzido: <code>TIER*(1D4+3).</p>",
+  "tags": ["grimo", "orbe-de-allura", "ultimate", "special"]
+}

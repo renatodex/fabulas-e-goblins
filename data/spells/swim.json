@@ -1,0 +1,15 @@
+{
+    "name": "Nadar",
+    "magic_cost": null,
+    "duration_time": null,
+    "attack_logic": null,
+    "action_type": "Ativa",
+    "cast_distance": null,
+    "range_amount": null,
+    "range_type": null,
+    "icon": "GiBubbles",
+    "element": null,
+    "caption": "Devido as suas características evolutivas, os Valdari foram adaptados para se locomover rapidamente no ambiente submerso, sendo capazes de se movimentar de forma muito mais veloz.",
+    "description": "Valdari gastar duas ações (Movimento e Ataque) para realizar a Ação Nadar.<br />Quando estiverem utilizando essa ação, além de poder realizar duas ações de movimento, receberão um bônus de +3 de movimento.",
+    "tags": ["racial"]
+}

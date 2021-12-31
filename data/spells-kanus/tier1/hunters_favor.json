@@ -1,0 +1,15 @@
+{
+  "name": "Favor do Caçador",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiPocketBow",
+  "element": null,
+  "caption": "Você evoca os seus votos da Guilda para pedir ajuda a um colega.",
+  "description": "<p>Você recebe 3x <b>Tokens de Dívida</b> que pode utilizar para pedir favores a outros <b>Adepto de Kanus</b>.<br/><br/>Ao pedir a ajuda de um colega de Guilda, você deverá entregar a ele um <b>Token de Dívida</b>.<br/>A negociação dos Tokens são monitoradas pela <b>Guilda de Kanus</b>, e os favores pedidos poderão ser cobrados de volta no futuro por este ou até mesmo por outros Adeptos da Guilda.<br/><br/>Os <b>Adeptos de Kanus</b> possuem liberdade para rejeitarem pedidos impossíveis como derrubar Reinados ou transferirem riqueza absurdas para outros Adeptos.<br/><br/>Caberá ao Narrador avaliar as possibilidades locais.</p>",
+  "tags": ["grimo", "kanus"]
+}

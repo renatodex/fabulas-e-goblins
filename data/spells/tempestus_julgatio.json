@@ -1,0 +1,15 @@
+{
+  "name": "Tempestus Julgatio",
+  "magic_cost": "TLv*3 P.M",
+  "duration_time": 1,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 4,
+  "range_amount": 1,
+  "range_type": "Alvo",
+  "icon": "GiBoltSpellCast",
+  "element": "eletric",
+  "caption": "Utiliza o Implemento do Tempesto para conjurar um Raio de Julgamento em um Inimigo impuro.",
+  "description": "Não requer testes, mas não terá efeito ao ser usada em Filhos da Tempestade ou indivíduos Puros. Causa (TLv*D12 + 1*TLv) de Dano Elétrico",
+  "tags": ["racial"]
+}

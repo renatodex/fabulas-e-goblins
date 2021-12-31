@@ -1,0 +1,15 @@
+{
+  "name": "Barganhar",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiPayMoney",
+  "element": null,
+  "caption": "Não é apenas carisma que faz um bom negócio.",
+  "description": "<p>Ao interagir com um mercador de qualquer tipo, você pode, uma vez por dia e por mercador, solicitar uma ação de Barganha. Para ser bem sucedido, você terá de passar num teste de Influência, com dificuldade definida pelo Narrador. Ao ser bem sucedido, receba uma redução de aproximadamente 30% no preço de venda ou compra de um único produto. (a combinar com o Narrador). Cada vez que essa habilidade for usada novamente em um mesmo mercador dentro de um período de 3 meses de jogo, a eficácia do Desconto será decaída em 10%, cumulativamente.</p>",
+  "tags": ["cultural"]
+}

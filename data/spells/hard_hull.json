@@ -1,0 +1,15 @@
+{
+  "name": "Casco Duro",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiOpeningShell",
+  "element": null,
+  "caption": "Seu rígido casco permite que os Armadons possuam resistência adicional ao serem atacados pelas costas.",
+  "description": "Receba +1 de Defesa para qualquer ataque físico realizado contra a carapaça dorsal dos Armadons.",
+  "tags": ["racial"]
+}

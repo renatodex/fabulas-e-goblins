@@ -1,0 +1,15 @@
+{
+  "name": "Andar do Orekai",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiPocketBow",
+  "element": null,
+  "caption": "O Grimo de Kanus aumenta os suas capacidaddes físicas, lhe dando uma força adicional para escalar grandes alturas naturalmente.",
+  "description": "<p>Você é afetado por uma Aura passiva que lhe permite se mover para andares superiores e realizar manobras de escalada sem realizar testes de Acrobacia.<br/><br/><b>Subir numa árvore</b> durante o combate para você é como <b>realizar uma ação de movimento</b>. Para cada elemento elevado que você se mover, deverá gastar <b>2 quadrados de movimentação</b>.</p>",
+  "tags": ["grimo", "kanus"]
+}

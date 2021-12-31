@@ -1,0 +1,15 @@
+{
+    "name": "Respiração Anfibia",
+    "magic_cost": null,
+    "duration_time": null,
+    "attack_logic": null,
+    "action_type": "Passiva",
+    "cast_distance": null,
+    "range_amount": null,
+    "range_type": null,
+    "icon": "GiHelicoprion",
+    "element": null,
+    "caption": "Não existe tempo ruim para um bom Valdari. Seja no mundo submerso ou em terra firme, esses anfíbios podem respirar normalmente, sem precisar de quaisquer equipamentos ou sofrer qualquer penalidade.",
+    "description": "Essa habilidade permite aos Valdari respirar normalmente em qualquer Bioma aquático ou terrestre sem sofrer penalidades.<br />Não precisa ser acionada, nem exige concentração, e acontece automaticamente, de forma natural.",
+    "tags": ["racial"]
+}

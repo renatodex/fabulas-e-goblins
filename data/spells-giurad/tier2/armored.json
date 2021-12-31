@@ -1,0 +1,15 @@
+{
+  "name": "Armadurado II",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiArmoredPants",
+  "element": null,
+  "caption": "Nem todos podem se acostumar com Armaduras pesadas, mas a experiência de seu Grimo lhe traz a força e o conhecimento necessario para utilizar Armaduras Pesadas.",
+  "description": "<p>Essa Habilidade concede uma redução de 1 Ponto na Penalidade de movimento quando utilizando Armaduras que prejudicam a movimentacão.<br/>Esse bônus soma-se ao bônus da habilidade Armadurado.</p>",
+  "tags": ["ultimate", "grimo", "knight"]
+}

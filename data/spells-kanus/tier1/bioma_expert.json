@@ -1,0 +1,15 @@
+{
+  "name": "Conhecer Bioma",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiPocketBow",
+  "element": null,
+  "caption": "Seu Grimo possui uma estranha sinergia com um Bioma específico, e você parece ser passivamente afetado por uma aura de conhecimento que amplia os seus sentidos.",
+  "description": "<p><b>Quando aprender esse poder, você deverá escolher um Bioma. (ex: Florestas, Montanhas, Cavernas, Desertos, etc)</b><br/><br/>Por algum motivo, seu Grimo parece se sentir muito confortável em [BIOMA], e <b>você receberá +2</b> sempre que realizar <b>quaisquer ações</b> nele. Enquanto estiver no Bioma, você é capaz de detectar a presença de <b>certos tipo de vegetação</b>, animais, e até mesmo <b>dicas</b> que sugiram <b>formações naturais</b> como cavernas, <b>templos subterrâneos</b> e outras estruturas que indiquem a concentração de vida inteligente.<br/><br/>Essa habilidade <b>pode ser aprendida diversas vezes para múltiplos Biomas</b>.<hr>Consulte a seção Biomas para entender quais tipos de Biomas você pode escolher para este poder.</p>",
+  "tags": ["grimo", "kanus"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Detectar Elemento",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": "100m",
+  "range_type": null,
+  "icon": "GiDigHole",
+  "element": null,
+  "caption": "A chama do seu elemento cintila numa frequencia específica, e você pode detectá-lo a vários metros de distância.",
+  "description": "<p>A qualquer momento você pode realizar um teste de <b>Elo Mágico</b> para sentir a presença do seu elemento a até <b>100 metros</b> de distância. A dificuldade do teste é definida pelo Narrador, e a qualidade do seu resultado pode te dar orientações instintivas de como chegar até essa fonte do seu elemento. A percepção do elemento pode ser vista como um Sétimo sentido, comparada frequente ao olfato ou audição.</p>",
+  "tags": ["grimo", "orbe-de-allura"]
+}
