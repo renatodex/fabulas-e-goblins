@@ -70,8 +70,9 @@ Seja como for, diferente dos espaços na Superfície os espaços internos das Gr
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 - P.V +5
-- Mod. Defesa +1
-- Resiliência +2
+- Pontos de Defesa +1
+- Pontos de Ataque +1
+- Resiliência +1
 
 ## Habilidades
 

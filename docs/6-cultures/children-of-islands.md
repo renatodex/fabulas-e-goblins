@@ -65,8 +65,8 @@ A ligação espiritual é um dos aspectos mais importantes da Cultura das Ilhas,
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Espírito +3
-- Elo Mágico +2
+- Espírito +1
+- Elo Mágico +1
 - Sobrevivência +1
 - P.M +4
 

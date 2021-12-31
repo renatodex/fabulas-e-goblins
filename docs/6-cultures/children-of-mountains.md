@@ -94,9 +94,9 @@ Talvez esse tenha até sido o motivo de você ter se ausentado da sua cidade, ou
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Força +4
-- Influência +2
-- Resiliência +2
+- Força +1
+- Influência +1
+- Resiliência +1
 
 ## Habilidades
 

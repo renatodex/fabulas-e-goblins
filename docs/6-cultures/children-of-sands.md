@@ -51,8 +51,8 @@ Existem várias formas de explorar um Indivíduo nascido na Cultura dos Povos de
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Resiliência +2
-- Sobrevivência +2
+- Resiliência +1
+- Sobrevivência +1
 - Força +1
 - P.V +4
 

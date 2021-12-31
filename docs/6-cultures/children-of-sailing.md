@@ -15,14 +15,14 @@ Sempre com muitas histórias pra contar, os Filhos da Nau, também chamados de C
 
 Além das cidades portuárias, existem diversos **Reinos-Balsa** flutuantes, como **Ark'deria** e **Qae'dramar**, estabelecidos em pleno alto mar, com objetivo de fornecer abrigo e suporte a grande quantidade de embarcações que navegam pelo Mar de Calderia.
 
-Essas incríveis maravilhas da engenharia impressionam qualquer visitante, e são cada vez mais um incomodo aos reinos Terrestres, pois estão imunes a quaisquer jurisprudências territoriais de continentes como Galantia. 
+Essas incríveis maravilhas da engenharia impressionam qualquer visitante, e são cada vez mais um incomodo aos reinos Terrestres, pois estão imunes a quaisquer jurisprudências territoriais de continentes como Galantia.
 
 ## Crenças
 
 Os Filhos da Nau são conhecidos como exímios exploradores, pela sua incrível habilidade de passar dias em alto-mar, sobrevivendo com uma alimentação precária. Aqueles que se acostumaram com esse estilo de vida, também se tornaram indivíduos altamente adaptáveis à condições adversas, e é isso que faz dos Calderianos um Povo tão forte.
 
 De fato, a origem desse estilo de vida remete a Eras atrás, quando o mundo teria finalmente desenvolvido o interesse e a tecnologia necessaria para sustentar vida em Alto-mar por um período prolongado.
-Essa era, também conhecida como Era da Navegação, foi o desabrochar dos Calderianos, suas grandes embarcações e seus reinos flutuantes. 
+Essa era, também conhecida como Era da Navegação, foi o desabrochar dos Calderianos, suas grandes embarcações e seus reinos flutuantes.
 Foi também uma época de incríveis descobertas, e a Era mais importante para o mapeamento Geográfico das Terras Místicas.
 
 Por estarem sempre em contato com outras terras, as crenças dos Calderianos com o passar do tempo se mesclaram com Divindades de Diversas regiões, sendo 3 delas mais comuns entre seu povo: Ehpyros, Valis e Estiros.
@@ -32,7 +32,7 @@ Os Adoradores de Ehphyros contam que seu Deus é tido para os Calderianos como o
 Já Valis, é uma Lenda e uma divindade Calderiana, que conta a história sobre um Metalóide escravizado que teria libertado um Jinn aprisonado em um antigo templo, recebendo como agradecimento as **Correntes Mágicas de El'gamar**. A Lenda conta que as Correntes Mágicas teriam sido usadas para trazer a liberdade para o Povo nativo do Oriente.
 
 Por último, temos Estiros como uma Divindade do Panteão Avérnico, sendo ele o primeiro Filho da Deusa Ludélia com o Deus Valeon, considerado como o Primogênito do Deus Supremo, Tronus.
-Estiros, visto constantemente como o Deus da Liberdade, da Independência e da Igualdade, deixou Zahadia, a morada dos Deuses, para viajar pelo reino das criaturas inferiores e aprender mais sobre o mundo. Dizem as lendas que os poderes permitiam manipular o ar, o clima e a temperatura, para criar e descriar tempestades ao seu bel prazer. 
+Estiros, visto constantemente como o Deus da Liberdade, da Independência e da Igualdade, deixou Zahadia, a morada dos Deuses, para viajar pelo reino das criaturas inferiores e aprender mais sobre o mundo. Dizem as lendas que os poderes permitiam manipular o ar, o clima e a temperatura, para criar e descriar tempestades ao seu bel prazer.
 
 ## Tradições
 
@@ -42,13 +42,13 @@ Passar tanto tempo no mar pode deixar qualquer um maluco, mas os Calderianos sab
 
 Um dos eventos mais populares da cultura Calderiana é o famoso Festival **Siriguni**, nomeado em homenagem ao Pirata Razalan **Garmari Siriguni**, onde jogadores do mundo todo se reunem no Reino-Balsa de **Qae'dramar** para disputar grandes quantias de [Temirs](/docs/2-sheet-creation/game-money) e premios incríveis!
 
-Socialmente, os Filhos da Nau são criados de forma um pouco mais livre, onde laços familiares nem sempre são tão fortes como as famílias tradicionais de **Nuvenar**. 
+Socialmente, os Filhos da Nau são criados de forma um pouco mais livre, onde laços familiares nem sempre são tão fortes como as famílias tradicionais de **Nuvenar**.
 
-Entretanto, essa liberdade não é de graça, pois os grandes Corsários e Capitães Calderianos frequentemente governam os mares e seus territórios pluviais com punho forte, e os jovens precisam frequentemente se adaptar a essa realidade e respeitar suas regras, aprendendo a ter disciplina pela força do punho. 
+Entretanto, essa liberdade não é de graça, pois os grandes Corsários e Capitães Calderianos frequentemente governam os mares e seus territórios pluviais com punho forte, e os jovens precisam frequentemente se adaptar a essa realidade e respeitar suas regras, aprendendo a ter disciplina pela força do punho.
 
 ## Seus Trajes
 
-Devido a temperatura dos Oceanos, os Calderianos possuem uma vestimenta equilibrada, que precisa ser leve, e ao mesmo tempo proteger seus corpos das baixas temperaturas. 
+Devido a temperatura dos Oceanos, os Calderianos possuem uma vestimenta equilibrada, que precisa ser leve, e ao mesmo tempo proteger seus corpos das baixas temperaturas.
 
 Roupas compridas, casacos e túnicas confeccionadas com Penas de Plumus e couro de Cromodon são idéias para os marinheiros de Calderia, pois são tramas leves, finas e ao mesmo tempo fechadas para fornecer uma ótima proteção de climas frios.
 
@@ -61,8 +61,8 @@ Além disso, se adaptar as regras de um Capitão ou Corsário pode ser complicad
 
 Um personagem nascido na cultura dos Filhos da Nau pode ser um incentivador da disciplina dos mares, ou um invidíduo em desacordo parcial ou completo com essas tradições.
 
-Historicamente, você pode ter nascido numa cidade portuária, velejando com frequência, ou pode até ter sido criado em pleno alto-mar. Também é muito comum indivíduos nascidos e criados em embarcações privadas, assim como em um dos grandes Reinos-Balsa de Caldera, como **Ark'Deria** e **Qae'Dramar**. 
-Mas esses são apenas Reinos-Balsa muito conhecidos, pois existem diversos outros reinos flutuantes menores espalhados pelo extenso mar de Caldera. 
+Historicamente, você pode ter nascido numa cidade portuária, velejando com frequência, ou pode até ter sido criado em pleno alto-mar. Também é muito comum indivíduos nascidos e criados em embarcações privadas, assim como em um dos grandes Reinos-Balsa de Caldera, como **Ark'Deria** e **Qae'Dramar**.
+Mas esses são apenas Reinos-Balsa muito conhecidos, pois existem diversos outros reinos flutuantes menores espalhados pelo extenso mar de Caldera.
 
 Alguns transformam Ilhas em quarteis generais, e criam verdadeiros Reinos Além-Mar, isolados dos grandes continentes. Nascer nesses reinos também significaria estar isolado do mundo, e não estar acostumado com os hábitos dos Povos do Continente.
 
@@ -70,10 +70,10 @@ Alguns transformam Ilhas em quarteis generais, e criam verdadeiros Reinos Além-
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Agilidade +2
-- Influência +2
-- Resiliência +2
-- Iniciativa +2
+- Agilidade +1
+- Influência +1
+- Resiliência +1
+- Iniciativa +1
 
 ## Habilidades
 

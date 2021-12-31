@@ -59,15 +59,11 @@ Todos os Tempestos querem ser justos, mas muitos utilizam o manto da Religião p
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Destino +3
-- Influência +3
-- Espírito +3
+- Destino +1
+- Influência +1
+- Espírito +1
 
 ## Habilidades
-
-- Implemento deProteção: Conjura uma Mágica de proteção em um Tempesto que fornece +2 de Proteção
-- Oração do Tempesto: Conjura um Raio Artificial em um inimigo impuro. Causa (Lv*1)*D12 de Dano Elétrico
-- Trajes de Luxo
 
 <SpellFromJson spellData={LuxuryClothes} />
 <SpellFromJson spellData={TempestusProtection} />

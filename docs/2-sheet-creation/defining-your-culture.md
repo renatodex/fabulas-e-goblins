@@ -60,70 +60,70 @@ As Culturas disponíveis são:
             <td>Colheita, Tradição, Sabedoria</td>
             <td>Trajes Arbóreos, Túnicas e Proteções Artesanais de madeira ou algodão</td>
             <td>Lunn, Gumera, Musgom</td>
-            <td>Sobrevivência +3, Agilidade +2, Intelecto +2, P.M +2</td>
+            <td>Sobrevivência +1, Agilidade +1, Intelecto +1, P.M +2</td>
         </tr>
          <tr>
             <td>Filhos do Deserto</td>
             <td>Resiliência, Força, Sobrevivência</td>
             <td>Túnicas Leves, Trajes acolchoados, e Fibra de Cacto</td>
             <td>Moltron, Valamir, Valeon</td>
-            <td>Resiliência +2, Sobrevivência +2, Força +1, P.V +4</td>
+            <td>Resiliência +1, Sobrevivência +1, Força +1, P.V +4</td>
         </tr>
         <tr>
             <td>Filhos da Nau</td>
             <td>Exploração, Adaptação, Disciplina</td>
             <td>Trajes Leves e Quentes, Tecidos a base de Algodão e Couro especiais para baixas temperaturas</td>
             <td>Ehphyros, Valis, Estiros</td>
-            <td>Agilidade +2, Influência +2, Resiliência +2, Iniciativa +2</td>
+            <td>Agilidade +1, Influência +1, Resiliência +1, Iniciativa +2</td>
         </tr>
          <tr>
             <td>Filhos das Núvens</td>
             <td>Estudo, Conhecimento, Inovação</td>
             <td>Túnicas chamativas com Algodão Oxidado, Trajes de Frio com muitas camadas</td>
             <td>Zaravos, Ysanar, Qabalis</td>
-            <td>Intelecto +3, Elo Mágico +2, Resiliência +1, P.M +3</td>
+            <td>Intelecto +1, Elo Mágico +1, Resiliência +1, P.M +3</td>
         </tr>
        <tr>
             <td>Filhos das Ilhas</td>
             <td>Espiritismo, Misticismo, Conexão</td>
             <td>Trajes tribais, Mantos rúnicos e muitos adereços</td>
             <td>Ogoron, Herodus, Dinímia</td>
-            <td>Espírito +3, Elo Mágico +2, P.M +4</td>
+            <td>Espírito +1, Elo Mágico +1, P.M +4</td>
         </tr>
        <tr>
             <td>Filhos do Subterrâneo</td>
             <td>Proteção, Forja, União</td>
             <td>Trajes metálicos e de couro com muitas camadas</td>
             <td>Herodus, Xenosh, Icaron</td>
-            <td>P.V +5, Mod. Defesa +1, Resiliência +2</td>
+            <td>P.V +5, Pontos de Defesa +1, Pontos de Ataque +1</td>
         </tr>
         <tr>
             <td>Filhos da Tempestade</td>
             <td>Doutrina, Religião, Ordem</td>
             <td>Túnicas elegantes, capuzes e adereços religiosos</td>
             <td>Quaemanir, Dzeranir, Ysanar</td>
-            <td>Destino +3, Influência +3, Espírito +3</td>
+            <td>Destino +1, Influência +1, Espírito +1</td>
         </tr>
         <tr>
             <td>Filhos do Povo Livre</td>
             <td>Agricultura, Comércio, Fronteiras</td>
             <td>Trajes típico de viajantes, com muitas aberturas e bolsos</td>
             <td>Somonir, Joromur, Aypheria</td>
-            <td>Influência +4, Agilidade +1, Inventário +2, Mod. Ataque +1</td>
+            <td>Influência +1, Agilidade +1, Inventário +4, Pontos de Ataque +1</td>
         </tr>
         <tr>
             <td>Filhos de Eregor</td>
             <td>Ceticismo, Tecnologia, Forja</td>
             <td>Roupas ornamentadas, túnicas banhadas em ouro e pequenas jóias como adereços</td>
             <td>Moltron, Razandibu e Beremord</td>
-            <td>Força +4, Influência + 2, Resiliência +2</td>
+            <td>Força +1, Influência + 1, Resiliência +1</td>
         </tr>
         <tr>
             <td>Filhos de Timéria</td>
             <td>Mistério, Equilíbrio, Respeito</td>
             <td>Couro aquático, Exo-Esqueletos, Túnicas de Lã de Algas</td>
             <td>Koroma, Lazan, Gaeria</td>
-            <td>Elo Mágico +4, Espírito +3, Força +2</td>
+            <td>Elo Mágico +1, Espírito +1, Força +1</td>
         </tr>
     </tbody>
 </table>

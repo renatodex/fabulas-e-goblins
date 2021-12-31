@@ -53,9 +53,9 @@ Talvez você tenha descoberto coisas sobre seu passado, que te fizeram questiona
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Influência +4
+- Influência +1
 - Agilidade +1
-- Mod. Ataque +1
+- Pontos de Ataque +1
 
 ## Habilidades
 

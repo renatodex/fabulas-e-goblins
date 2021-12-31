@@ -77,9 +77,9 @@ Como `Timeriano`, você é visto sem grandes preconceitos pelos `Terranos`, mas 
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Elo Mágico +4
-- Espírito +3
-- Força +2
+- Elo Mágico +1
+- Espírito +1
+- Força +1
 
 ## Habilidades
 

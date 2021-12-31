@@ -72,8 +72,8 @@ Algumas vezes os estudiosos e eruditos precisam realizar viajens longas para out
 
 Ao escolher essa cultura, você receberá os seguintes Bônus:
 
-- Intelecto +3
-- Elo Mágico +2
+- Intelecto +1
+- Elo Mágico +1
 - Resiliência +1
 - P.M +3
 

@@ -51,9 +51,9 @@ Talvez um personagem alinhado pode também, por forças externas que ele não co
 
 Ao escolher a cultura Filho da Floresta, seu personagem receberá os seguintes Bônus:
 
-- Sobrevivência +3
-- Agilidade +2
-- Intelecto +2
+- Sobrevivência +1
+- Agilidade +1
+- Intelecto +1
 - P.M +2
 
 ## Habilidades
