@@ -73,7 +73,8 @@ module.exports = {
         '6-cultures/children-of-mountains',
         '6-cultures/children-of-depths',
       ],
-      '7. Regras e Mecânicas': [
+      '7. Regras do Jogo': [
+        '7-game-rules/rules-introduction',
         '7-game-rules/types-of-combat-actions',
         '7-game-rules/initiative-and-turns',
         '7-game-rules/magic-attack-and-defense',
