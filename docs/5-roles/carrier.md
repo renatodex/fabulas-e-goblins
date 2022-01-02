@@ -36,31 +36,15 @@ Ao escolher esse Papel, você terá uma boa base de Pontos de Vida, e isso lhe p
   <tbody>
     <tr>
       <td>Pontos de Vida</td>
-      <td>10</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>Pontos de Magia</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Ataque Físico</td>
       <td>12</td>
     </tr>
     <tr>
-      <td>Defesa Física</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>Ataque Magico</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Defesa Magica</td>
-      <td>10</td>
-    </tr>
-    <tr>
       <td>Movimento</td>
-      <td>4</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Proficiência Armas</td>
@@ -73,6 +57,10 @@ Ao escolher esse Papel, você terá uma boa base de Pontos de Vida, e isso lhe p
     <tr>
       <td>Pontos de Magia por Nível</td>
       <td>+2/+4/+4/+6</td>
+    </tr>
+    <tr>
+      <td>Bônus de Ataque Corpo-a-Corpo</td>
+      <td>+1</td>
     </tr>
   </tbody>
 </table>

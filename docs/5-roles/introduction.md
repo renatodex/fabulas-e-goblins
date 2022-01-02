@@ -55,62 +55,26 @@ Para ajudá-lo em sua decisão, preparamos uma tabela abaixo comparando os atrib
   <tbody>
     <tr>
       <td>Pontos de Vida</td>
-      <td>10</td>
-      <td>8</td>
-      <td>10</td>
-      <td>8</td>
       <td>14</td>
-      <td>10</td>
+      <td>12</td>
+      <td>14</td>
+      <td>12</td>
+      <td>18</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>Pontos de Magia</td>
-      <td>8</td>
-      <td>10</td>
-      <td>8</td>
+      <td>12</td>
       <td>14</td>
-      <td>8</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>Ataque Físico</td>
       <td>12</td>
-      <td>8</td>
+      <td>18</td>
       <td>12</td>
-      <td>8</td>
-      <td>9</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>Defesa Física</td>
-      <td>10</td>
-      <td>10</td>
-      <td>10</td>
-      <td>8</td>
-      <td>12</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Ataque Magico</td>
-      <td>8</td>
-      <td>12</td>
-      <td>9</td>
-      <td>8</td>
-      <td>8</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>Defesa Magica</td>
-      <td>10</td>
-      <td>10</td>
-      <td>9</td>
-      <td>12</td>
-      <td>7</td>
-      <td>9</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>Movimento</td>
+      <td>5</td>
       <td>4</td>
-      <td>3</td>
       <td>5</td>
       <td>3</td>
       <td>4</td>
@@ -133,6 +97,15 @@ Para ajudá-lo em sua decisão, preparamos uma tabela abaixo comparando os atrib
       <td>5/5/10/10</td>
       <td>2/4/4/6</td>
       <td>3/3/6/6</td>
+    </tr>
+    <tr>
+      <td>Bônus</td>
+      <td>Ataque Corpo-a-Corpo +1</td>
+      <td>Ataque Mágico +1</td>
+      <td>Ataque à Distância +1</td>
+      <td>Defesa Mágica +1</td>
+      <td>Defesa Física +1</td>
+      <td>Iniciativa +2</td>
     </tr>
 
   </tbody>

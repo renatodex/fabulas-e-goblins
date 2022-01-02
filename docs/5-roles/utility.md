@@ -27,27 +27,11 @@ Os Utilitários são como Canivetes Suíços, oferecendo grande flexibilidade de
   <tbody>
     <tr>
       <td>Pontos de Vida</td>
-      <td>9</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>Pontos de Magia</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Ataque Físico</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Defesa Física</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Ataque Magico</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Defesa Magica</td>
-      <td>9</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>Movimento</td>
@@ -64,6 +48,10 @@ Os Utilitários são como Canivetes Suíços, oferecendo grande flexibilidade de
     <tr>
       <td>Pontos de Magia por Nível</td>
       <td>+3/+3/+6/+6</td>
+    </tr>
+     <tr>
+      <td>Bônus de Iniciativa</td>
+      <td>+2</td>
     </tr>
   </tbody>
 </table>

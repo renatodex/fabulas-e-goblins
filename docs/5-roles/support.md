@@ -29,27 +29,11 @@ Devido a utilização de muitas habilidades à distância, esses personagens nã
   <tbody>
     <tr>
       <td>Pontos de Vida</td>
-      <td>8</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>Pontos de Magia</td>
-      <td>14</td>
-    </tr>
-    <tr>
-      <td>Ataque Físico</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Defesa Física</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Ataque Magico</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Defesa Magica</td>
-      <td>12</td>
+      <td>18</td>
     </tr>
     <tr>
       <td>Movimento</td>
@@ -66,6 +50,10 @@ Devido a utilização de muitas habilidades à distância, esses personagens nã
     <tr>
       <td>Pontos de Magia por Nível e Tier</td>
       <td>+5/+5/+10/+10</td>
+    </tr>
+    <tr>
+      <td>Bônus de Defesa Mágica</td>
+      <td>+1</td>
     </tr>
   </tbody>
 </table>
