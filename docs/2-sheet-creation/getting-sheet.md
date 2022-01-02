@@ -32,8 +32,8 @@ Assim que você tiver a ficha em mãos, podemos começar o preenchimento!
 :::note Download da Ficha
 Aqui no site, disponibilizamos o Download da Ficha em ambos tanto no formato original, quanto no formato Editável:
 
-- [Baixar Ficha Normal](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/ficha/Ficha-v0.1.7.pdf)
-- [Baixar Ficha Editável](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/ficha/Ficha-v0.1.7-Editavel.pdf)
+- [Baixar Ficha Impressão (14mb)](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C35ce473e-b89e-480b-bc3c-c4899e547c4f.pdf)
+- [Baixar Ficha Editável (7mb)](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C800f18b3-e784-437f-831f-a033cdb84907.pdf)
 :::
 
 :::danger Atenção!

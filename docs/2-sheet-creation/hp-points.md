@@ -16,7 +16,7 @@ Além disso, existem poderes que podem até **aumentar temporariamente** os seus
 Na criação do seu personagem, os atributos **Força** e **Resiliência** influenciam diretamente na quantidade de **Pontos de Vida (P.V)** que você possui.
 A formula para calcular esse valor é a seguinte:
 
-![Formula-PV.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccfae4972-ac5b-4b0d-ab59-2f12c3c5ed49.jpg)
+![Formula-PV.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Caea7b068-b9cd-4621-915b-a6cc6848776c.jpg)
 
 Além dessa fórmula, Bônus adicionais podem também ser aplicados por outros itens e habilidade.
 

@@ -29,27 +29,11 @@ Costumam se adaptar mais com armas leves que permitem uma boa movimentação no 
   <tbody>
     <tr>
       <td>Pontos de Vida</td>
-      <td>10</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>Pontos de Magia</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Ataque Físico</td>
       <td>12</td>
-    </tr>
-    <tr>
-      <td>Defesa Física</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>Ataque Magico</td>
-      <td>9</td>
-    </tr>
-    <tr>
-      <td>Defesa Magica</td>
-      <td>9</td>
     </tr>
     <tr>
       <td>Movimento</td>
@@ -66,6 +50,10 @@ Costumam se adaptar mais com armas leves que permitem uma boa movimentação no 
     <tr>
       <td>Pontos de Magia por Nível</td>
       <td>+3/+3/+6/+6</td>
+    </tr>
+    <tr>
+      <td>Bônus de Ataque à Distância</td>
+      <td>+1</td>
     </tr>
   </tbody>
 </table>

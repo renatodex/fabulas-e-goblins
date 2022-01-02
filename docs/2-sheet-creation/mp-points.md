@@ -27,6 +27,6 @@ Esses pontos se baseiam na sua proximidade com a Magia como ser vivo, e são dep
 
 A cada Nível que o seu Personagem avança, ele também recebe **Pontos de Magia** adicionais, dependendo do seu **Papel de Jogo**. Mas por enquanto, tudo que você precisa se preocupar é com esta formula abaixo, que lhe ajudará a calcular seus pontos iniciais:
 
-![Formula-PM-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C54409ab2-8e5d-40d7-9052-71816f24778d.jpg)
+![Formula-PM-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cee71f55f-a7d4-470c-8319-b6fa24980018.jpg)
 
 Lembre-se que items e outras habilidades também podem aumentar seus **Pontos de Magia**, portanto, esteja sempre atento aos bônus que seus itens lhe fornecem.

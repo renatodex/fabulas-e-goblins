@@ -25,6 +25,7 @@ module.exports = {
         '2-sheet-creation/initial-items',
         '2-sheet-creation/grimos-and-magic',
         '2-sheet-creation/defining-your-origins',
+        '2-sheet-creation/defining-initiative'
       ],
       '3. Escolhendo sua Espécie': [
         '3-species/species-introduction',
