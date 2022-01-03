@@ -1,5 +1,6 @@
-async function myCustomPlugin(context, options) {
+const { getSpells } = require('../data/spells-cjs')
 
+function myCustomPlugin(context, options) {
   return {
     name: 'my-custom-plugin',
     async loadContent() {
@@ -8,16 +9,19 @@ async function myCustomPlugin(context, options) {
     async contentLoaded({content, actions}) {
       const { createData, addRoute } = actions;
 
-      const testData = await createData('mydata.json', JSON.stringify({ a:1, b:2 }));
+      getSpells(async function(spells) {
+        console.log(spells)
+        const testData = await createData('spells.json', JSON.stringify({ a:1, b:2 }));
 
-      addRoute({
-        path: '/my-custom-plugin',
-        component: '@site/src/components/test',
-        exact: true,
-        modules: {
-          testData: testData
-        }
-      });
+        addRoute({
+          path: '/api/spells',
+          component: '@site/src/components/test',
+          exact: true,
+          modules: {
+            testData: testData
+          }
+        });
+      })
     },
   };
 };
