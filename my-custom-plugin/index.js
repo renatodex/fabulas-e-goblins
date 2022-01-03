@@ -9,7 +9,7 @@ function myCustomPlugin(context, options) {
     async contentLoaded({content, actions}) {
       const { createData, addRoute } = actions;
 
-      getSpells(async function(spells) {
+      getSpells().then(async function(spells) {
         console.log(spells)
         const testData = await createData('spells.json', JSON.stringify({ a:1, b:2 }));
 

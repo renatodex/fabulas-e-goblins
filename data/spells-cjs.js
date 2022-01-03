@@ -10,9 +10,9 @@ async function getFiles(dir) {
   return Array.prototype.concat(...files);
 }
 
-async function getSpells() {
+function getSpells() {
   return new Promise((resolve, reject) => {
-    getFiles('.').then((files) => {
+    getFiles("../data").then((files) => {
       let spells = files
         .filter((path) => !path.includes('spells.js'))
         .map((file) => require(file))
