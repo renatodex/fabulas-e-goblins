@@ -12,7 +12,7 @@ async function getFiles(dir) {
 
 function getSpells() {
   return new Promise((resolve, reject) => {
-    getFiles("../data").then((files) => {
+    getFiles("data/").then((files) => {
       let spells = files
         .filter((path) => !path.includes('spells.js'))
         .map((file) => require(file))
