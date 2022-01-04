@@ -21,3 +21,5 @@ yarn-error.log*
 
 # Temp Image Upload Folder (used with VSCode)
 /temp
+
+/static/spells.json
