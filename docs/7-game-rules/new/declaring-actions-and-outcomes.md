@@ -36,7 +36,7 @@ Dessa vez seu personagem deu **sorte** pois a **consequência** dessa **ação**
 
 Muitos tipos de ação são consideradas **Ações Livres**, sem qualquer exigência que você precise cumprir para realizar.
 
-Entretanto, algumas ações mais complexas podem gerar uma **rolagem de dados**, pois o **Narrador** precias ter certeza que o seu **personagem está preparado** para realizar aquela **ação** de **forma eficiente**.
+Entretanto, algumas ações mais complexas podem gerar uma **rolagem de dados**, pois o **Narrador** precisa ter certeza que o seu **personagem está preparado** para realizar aquela **ação** de **forma eficiente**.
 
 **No exemplo que mencionamos acima**, um dos Personagens desejou **inspecionar** o lindo Quadro na parede.
 Havia sim um **segredo** no quadro, mas o Narrador não estava disposto a entregá-lo **tão facilmente**. Então ele pede que o personagem realize um **Teste de Intelecto**, pois ele quer ter certeza que o Personagem tem o **contexto necessário** para entender o segredo do Quadro.
