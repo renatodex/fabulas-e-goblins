@@ -74,7 +74,15 @@ module.exports = {
         '6-cultures/children-of-mountains',
         '6-cultures/children-of-depths',
       ],
-      '7. Regras do Jogo': [
+      '7. Sistema 2d20': [
+        'X-system-2d20/system-introduction',
+        'X-system-2d20/critical-outcomes',
+        'X-system-2d20/epic-outcomes',
+        'X-system-2d20/matching-outcomes',
+        'X-system-2d20/nulled-outcomes',
+        'X-system-2d20/advantage-rolls',
+      ],
+      '8. Regras do Jogo': [
         '7-game-rules/rules-introduction',
         '7-game-rules/new/declaring-actions-and-outcomes',
       ],
