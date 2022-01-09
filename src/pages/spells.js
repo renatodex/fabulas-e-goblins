@@ -19,7 +19,7 @@ export default () => {
   const queryParams = new URLSearchParams(windowValue.location.search)
 
   const redirectToBuild = () => {
-    window.location.href = window.location.pathname + window.location.search + "&skills=" + selectedSpells.map(e => e.id).join(',')
+    windowValue.location.href = windowValue.location.pathname + windowValue.location.search + "&skills=" + selectedSpells.map(e => e.id).join(',')
   }
 
   const filteredSpells = (spells, queryFilter) => {
