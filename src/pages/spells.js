@@ -14,6 +14,10 @@ export default () => {
     windowValue = window
   }
 
+  if (typeof window == "undefined") {
+    return <h1>Carregando..</h1>
+  }
+
   console.log(Spells)
 
   const queryParams = new URLSearchParams(windowValue.location.search)
