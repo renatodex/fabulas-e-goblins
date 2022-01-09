@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Suas características anatômicas permitem que se escondam facilmente em vegetações minerais, se fundindo a paisagem.",
   "description": "<p>Em Florestas de Cristais ou qualquer Ambiente mineral, você pode fazer uma ação para se camuflar entre os minérios, recebendo +3 de Camuflagem nesses ambientes.</p><p>Ações de ataque furtivo também podem se beneficiar dessa Camuflagem.</p>",
-  "tags": ["racial"]
+  "tags": ["racial", "luminin"]
 }

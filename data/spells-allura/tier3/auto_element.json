@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Sua afinidade elemental permite conjurar uma manta elemental que pode ferir inimigos que tentem se aproximar.",
   "description": "<p>Você conjura uma manta elemental em torno do próprio corpo, causando 2d12+12 de dano elemental em qualquer inimigo que realizar um ataque Corpo-a-Corpo bem sucedido. A forma consome <b>3 P.M por turno</b> e pode ser desligada a qualquer momento a um <b>custo adicional de 1 P.M</b>.<br/>Se o personagem chegar a <b>0 P.M</b> enquanto a Aura está ativa, ela será interrompida abruptamente, e o Personagem <b>sofrerá um efeito de Auto-Combustão elemental</b>, causando a sí mesmo <code>TIER*(1D12+12)</code> de dano.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

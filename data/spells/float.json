@@ -11,5 +11,5 @@
     "element": null,
     "caption": "Por possuir asas naturais, essas criaturas são capazes de flutuar por poucos segundos no ar, algo que seria equivalente ao folego que um Goblin possui para respirar debaixo d' água.",
     "description": "Se usado fora de combate, permite que você flutue por alguns centimetros do chão. Se usado em combate, Flutuar pode ser usado como uma Ação de Ataque ou movimento, com duraçao de 2 turnos. A Ação não consome Pontos de Magia e pode ser repetida quantas vezes for necessário. (não cumulativo)",
-    "tags": ["racial"]
+    "tags": ["racial", "luminin", "razalan"]
 }

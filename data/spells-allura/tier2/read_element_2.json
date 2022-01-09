@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Expande o seu poder de leitura elemental, conseguindo acessar relances do passado de uma concentração mágica orgânica.",
   "description": "<p>Expande o poder <b>Ler Elemento</b> para o nível 2.<br/>Agora é possível Ler <b>criaturas constituídas pelo elemento escolhido</b>, permitindo ao seu conjurador visualizar relances do passado do alvo contra sua vontade.<br/>Se utilizada numa criatura/npc/inimigo, a Ação gera o Efeito <u>\"Exaustão 1\"</u>.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

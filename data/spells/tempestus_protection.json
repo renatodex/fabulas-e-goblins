@@ -11,5 +11,5 @@
   "element": "holy",
   "caption": "Utiliza o Implemento do Tempesto para criar um Selo de proteção em um irmão convertido ou em si mesmo.",
   "description": "Não requer testes, mas só pode ser usado em Filhos da Tempestade. Concede uma redução de (TLv*10) pontos de dano próximo turno.",
-  "tags": ["racial"]
+  "tags": ["racial", "children-of-storms"]
 }

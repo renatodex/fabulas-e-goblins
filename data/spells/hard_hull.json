@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Seu rígido casco permite que os Armadons possuam resistência adicional ao serem atacados pelas costas.",
   "description": "Receba +1 de Defesa para qualquer ataque físico realizado contra a carapaça dorsal dos Armadons.",
-  "tags": ["racial"]
+  "tags": ["racial", "armadon"]
 }

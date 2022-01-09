@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Os Armadons herdaram dos Cungulins, seus primos selvagens, a habilidade exímia de cavar buracos na terra rapidamente, não necessitando de qualquer ferramenta ou auxílio.",
   "description": "<p>Pode ser usado como uma ação a qualquer momento durante o combate para cavar um túnel abaixo da terra. (caso a terra seja diretamente acessível). Cada ação cava 1 quadrado de Túnel.</p><p>A Ação pode ser utilizada normalmente fora do combate para cavar túneis. Exige concentração e tempo.</p><p>Não consome P.M ou P.V para ser utilizada.</p>",
-  "tags": ["racial"]
+  "tags": ["racial", "armadon"]
 }

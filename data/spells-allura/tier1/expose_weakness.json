@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Seu poder é capaz de dobrar o Elo de seus inimigos, abrindo brechas para que seus ataques explorem as fraquezas deles.",
   "description": "<p>Emite uma aura consistente em um inimigo que dura 3 turnos e aumenta em <b>1d10</b> o dano mágico elemental causado por feitiços do seu elemento.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

@@ -11,5 +11,5 @@
   "element": null,
   "caption": "A provocação é a arte do combate estratégico, um inimigo distraído é um inimigo vulnerável.",
   "description": "<p>Provoca seu inimigo. No próximo turno dele, se ele realizar um ataque, você terá de ser um dos alvos. Inimigos inteligentes podem ignorar sua Provocação, mas recebem -2 de Ataque ao atacar outros alvos durante o efeito de Duelar. O efeito dura apenas até o final do próximo turno do alvo.</p><p>Duelo não consome uma ação para ser usada, mas só pode ser usada 1 única vez no turno.</p>",
-  "tags": ["ultimate", "grimo", "knight"]
+  "tags": ["grimo", "giurad"]
 }

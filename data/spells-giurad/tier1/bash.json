@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Você extrai a força do Grimo do Cavaleiro para desferir uma poderosa pancada no alvo. Um pequeno flash de luz amarelada parece emanar da sua arma quando o alvo é atingido.",
   "description": "<p>A Pancada é um <b>ataque corpo a corpo</b> que causa <code>Dano da Arma + TIER*1D12+5</code> e precisa ser desferido próximo ao inimigo. O ataque é canalizado pelo Grimo, mas é realizado com sua arma.<br/>Para acertar, você deve rolar um teste contra a Defesa do alvo.<br/>Como é um ataque mágico, não existe chance de Desgaste caso você obtenha uma falha crítica.</p>",
-  "tags": ["ultimate", "grimo", "knight"]
+  "tags": ["grimo", "giurad"]
 }

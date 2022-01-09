@@ -11,7 +11,7 @@ import Climb from './../../data/spells/climb.json'
 
 ![metaloides.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cac8fe27f-88cb-41e9-96b4-8225a379df93.png)
 
-*Ainda quando era pequeno, os mais velhos contavam-lhe histórias sobre terríveis criaturas da floresta de cogumelos. Seus corpos alongados mediam cerca de 1,90cm, possuindo bolsões espalhados cujo estranho líquido metálico esverdeado circulava como sangue. Seus rostos podiam assustar até a mais corajosa das crianças, e diziam que qualquer um que olhasse no fundo de seus quatro olhos negros estaria perdido para sempre.*  
+*Ainda quando era pequeno, os mais velhos contavam-lhe histórias sobre terríveis criaturas da floresta de cogumelos. Seus corpos alongados mediam cerca de 1,90cm, possuindo bolsões espalhados cujo estranho líquido metálico esverdeado circulava como sangue. Seus rostos podiam assustar até a mais corajosa das crianças, e diziam que qualquer um que olhasse no fundo de seus quatro olhos negros estaria perdido para sempre.*
 
 ## Descrição Geral
 
@@ -25,7 +25,7 @@ Seus reinos estão localizados nas densas Florestas de Cogumelo, um bioma hostil
 
 ## Anatomia
 
-Os Metalóides tem uma altura média de 1,90m, possuindo traços bestiais em sua anatomia. Seus rostos possuem 4 olhos negros, e protuberâncias no topo da cabeça em forma de trança que são frequentemente ornamentadas por seu povo. 
+Os Metalóides tem uma altura média de 1,90m, possuindo traços bestiais em sua anatomia. Seus rostos possuem 4 olhos negros, e protuberâncias no topo da cabeça em forma de trança que são frequentemente ornamentadas por seu povo.
 
 Seus membros são articulados como os de animais selvagens, e suas mãos e pés possuem apenas 4 dedos. Espalhados pelo corpo, existem bolsões esverdeados que contém uma espécie de líquido metálico, que é também responsável por batizar a espécie como Metalóides.
 
@@ -33,7 +33,7 @@ Sua pele, ao contrário do que o nome sugere, não é composta por metal, mas si
 
 Reprodutivamente, os Metalóides nascem através de um Ovo de Plasma Metálico, constituído pelo mesmo material que corre em seus bolsões.
 
-Os bolsões são transparentes, mas possuem uma película flexível que contém resistencia similar à sua própria pele. 
+Os bolsões são transparentes, mas possuem uma película flexível que contém resistencia similar à sua própria pele.
 
 ## Como são vistos
 
@@ -41,9 +41,9 @@ Apesar de seu passado conflituoso, os Metalóides se adaptaram muito bem aos efe
 
 De fato, os Reinos Metalóides são muito conhecidos tradicionalmente por possuirem Ferreiros e Mestre-Elos extremamente respeitados.
 
-A prática da Forja e Criação está no berço mais tradicional da Cultura Metalóide, pois os seus Antepassados deixaram diversos rastros na história sobre a criatividade com a qual seu povo enfrentou as dificuldades para se estabelecer em Biomas tão hostis como a Floresta de Cogumelos. 
+A prática da Forja e Criação está no berço mais tradicional da Cultura Metalóide, pois os seus Antepassados deixaram diversos rastros na história sobre a criatividade com a qual seu povo enfrentou as dificuldades para se estabelecer em Biomas tão hostis como a Floresta de Cogumelos.
 
-E embora sua origem seja um mistério, os Antigos acreditam que foi a capacidade de adaptação, de criação e de sobrevivência dos Metalóides que permitiu que seu povo prosperasse e crescesse.   
+E embora sua origem seja um mistério, os Antigos acreditam que foi a capacidade de adaptação, de criação e de sobrevivência dos Metalóides que permitiu que seu povo prosperasse e crescesse.
 
 ## Onde vivem?
 

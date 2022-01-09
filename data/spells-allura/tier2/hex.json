@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Você conjura a corrupção de seu elemento em um inimigo, aplicando um terrível efeito negativo.",
   "description": "<p>Faça um teste para aplicar o <b>Efeito Elemental +2</b> em um único inimigo. O inimigo recebe o efeito como uma Maldição, e apenas pode se livrar dela a partir de seu próximo turno.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

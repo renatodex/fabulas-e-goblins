@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Sua experiência com explosões elementais lhe permite extrair ainda mais poder de seu Grimo, conjurando explosões mais poderosas.",
   "description": "<p>Expande a Explosão Prelementar para o nível 2, aumentando o Dano para <code>(TIER)*(1d8+7)</code>.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

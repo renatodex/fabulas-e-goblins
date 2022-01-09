@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Conjura um poderoso Domo de proteção que protege o conjurador de ataques inimigos.",
   "description": "<p>Conjura uma proteção elemental consistente em volta de sí.<br/>A Proteção possui <b>5d12+30 de P.V</b>, sendo que cada ataque bem sucedido contra ela abate seus P.V ao invés dos P.Vs do conjurador.<br/>Ataques recebidos seu próprio elemento <b>curam a barreira</b> ao invés de causar dano.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

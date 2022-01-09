@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Um Cavaleiro verdadeiramente honrado jamais será esquecido.",
   "description": "<p>Ativa a aura de Instância da Honra até o final do combate.<br/>Após chegar a 0 Pontos de Vida ou menos, o Personagem tem um respiro de honra e ainda resiste durante 3 turnos antes de cair.<br/>Esse poder é fatal e irreversível, e só pode ser utilizado como uma Reação para o momento onde o personagem chega a 0 P.V.<br/>Normalmente personagens no Fábulas & Goblins não morrem permanentemente após chegar a 0 P.V, porém, com a Instância da Honra, o personagem supera os próprios limites da resiliência, e por isso, durante o período da Instância de Honra, ele será invulnerável, resistindo a qualquer quantidade de dano que possa ser aplicada a ele, e poderá agir normalmente, sendo também invulnerável a qualquer tipo de penalidade.<br/>O dano é calculado e recebido normalmente, mas o Cavaleiro só será nocauteado se chegar a um limiar de -1000 de dano.<br/>Ao final dos 3 turnos, o Personagem finalmente cairá sem forças, e em seus momentos finais, terá direito a um último curto discurso, quando finalmente será nocauteado para sempre.</p>",
-  "tags": ["ultimate", "grimo", "knight"]
+  "tags": ["grimo", "giurad"]
 }

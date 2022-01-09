@@ -11,5 +11,5 @@
     "element": null,
     "caption": "Razalans podem utilizar suas asas para evitar quedas perigosas, planando no ar suavemente até tocarem no chão.",
     "description": "A Ação pode ser utilizada no ar, mas exige que o Razalan esteja consciente e focado para usar. Não consome uma ação maior como se movimentar ou atacar, e pode ser utilizada em qualquer momento, até mesmo como uma reação.",
-    "tags": ["racial"]
+    "tags": ["racial", "razalan"]
 }
