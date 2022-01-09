@@ -11,5 +11,5 @@
   "element": "nature",
   "caption": "Seu conhecimento da Mata lhe permite confecionar poções feitas de Ervas naturais.",
   "description": "<p>A habilidade pode ser utilizada uma vez por dia e só pode ser utilizada em Mata densa com Biodiversidade. A Poção é obtida através de um teste de Sobrevivência com Dificuldade 15.<br/>A qualidade da Poção é definida pelo seu Tier de Grimo mais alto.<br/><br/>Tier 1: Cura 1d12+5 P.V<br/>Tier 2: Cura 2d12+10 P.V<br/>Tier 3: Cura 3d12+20 P.V.<br/>Tier 4: Cura 4d12+30 P.V</p><p>Essas poções são feitas de forma improvisada e sem padronização, e não podem ser vendidas no mercado como poções normais. (Valor 1)<br/><b>Cada sucesso decisivo permite 1 Tier de Cura de P.M.</b></p>",
-  "tags": ["racial"]
+  "tags": ["racial", "children-of-dew"]
 }

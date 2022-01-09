@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Canalizar o poder do Grimo é uma tarefa trivial para o dominador, que agora pode rapidamente conjurar duas Rajadas simultâneas.",
   "description": "<p>Aprimora a <b>Rajada de Aprendiz</b>, que agora pode ser usada duas vezes em uma única ação. Cada um dos disparos precisa de um teste de ataque individual. O Custo de Mana é <b>deduzido individualmente para cada uma das Rajadas</b>.<br/>As Rajadas também podem ser direcionadas a inimigos diferentes.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

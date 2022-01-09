@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Amaldiçoa seus inimigos com a corrupção mágica do seu elemento.",
   "description": "<p>Conjura uma grande bolha elemental corrupta em uma <b>área de 3x3</b>, a bolha explode abruptamente causando <b>2d8+18</b> a todos inimigos e aliados na área, além de aplicar <b>Efeito +3</b>. <i>(não atinge aliados caso o conjurador possua <b>Fogo Amigo</b>)</i></p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

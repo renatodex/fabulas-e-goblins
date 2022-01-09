@@ -68,5 +68,7 @@ Talvez a única Religião ainda forte em muitas regiões seja A **Igreja de Lunn
 ## Habilidades Especiais
 
 <SpellFromJson spellData={ExtraAttributes} />
+
 <SpellFromJson spellData={GoblinAudition} />
+
 <SpellFromJson spellData={LuckyArmor} />

@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Conjura um poderoso Meteoro elemental que atinge uma grande área do campo de batalha.",
   "description": "<p>Dano em área 4x4 Catastrófico: <code>TIER*4d12+40</code></p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

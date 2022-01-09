@@ -46,7 +46,7 @@ export function Icon ({ name, icon, mode = 'light' }) {
     )
 }
 
-export function SpellFromJson ({ spellData, expanded = true, onClick = () => {} }) {
+export function SpellFromJson ({ spellData, selected, expanded = true, onClick = () => {} }) {
     return (
         <Spell
             name={spellData.name}
@@ -60,7 +60,8 @@ export function SpellFromJson ({ spellData, expanded = true, onClick = () => {} 
             icon={spellData.icon}
             element={spellData.element}
             expanded={expanded}
-            onClick={onClick}
+            selected={selected}
+            onClick={e => onClick(spellData, e)}
         >
           <Fragment>
             <Caption>
@@ -94,10 +95,13 @@ export function Spell ({
     children,
     icon,
     expanded,
+    selected,
     onClick,
     element = 'default',
 }) {
   const [expandToggle, setExpandToggle] = useState(expanded)
+  const [selectedToggle, setSelectedToggle] = useState(selected)
+
   const props = useSpring({
     config: { duration: 180 },
     to: {
@@ -132,8 +136,16 @@ export function Spell ({
       'water': 'Água',
   }[element]
 
+  const backgroundColor = () => {
+      if (selected) {
+        return styles['spell-block--selected']
+      } else {
+        return styles[`spell-block--${element || 'default'}`]
+      }
+  }
+
   return (
-    <div onClick={onClick} className={`${styles['spell-block']} ${styles[`spell-block--${element || 'default'}`]}`}>
+    <div onClick={onClick} className={`${styles['spell-block']} ${backgroundColor()}`}>
         <div
           className={styles['spell-block__header']}
           onClick={e => { setExpandToggle(!expandToggle) }}

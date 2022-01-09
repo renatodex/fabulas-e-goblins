@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Sua intimidade com seu elemento permite manipulá-lo de várias maneiras.",
   "description": "<p>Pode criar e manipular uma pequena quantidade do Elemento escolhido em uma área que caiba na <b>palma de sua mão</b> por apenas <b>1 P.M</b>. O Elemento tem suas propriedades aplicadas normalmente e se mantem ativo até que o Personagem decida desfazer. A Conjuração pode assumir qualquer forma que o dominador queira, desde objetos inanimados até formas orgânicas. Pode ser usado para Manipulação e Blefe. Caso seja usado para causar dano, causa <b>1d6+3</b> de dano.</p><p>O Local onde o Elemento será manipulado precisa estar visível ao manipulador.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

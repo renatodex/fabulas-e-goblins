@@ -11,5 +11,5 @@
   "element": "water",
   "caption": "Conjura uma Aura Invisível de Proteção que permite a um Terrano se adaptar ao mundo Submerso.",
   "description": "<p>Para ser realizado, exige um teste de Elo Mágico com Dificuldade 15. Caso tenha sucesso, o alvo pode Respirar e Andar no ambiente submerso por tempo indeterminado sem grandes problemas. Caso falhe, os P.M são consumidos normalmente. A Magia apenas pode ser desfeita remotamente com um Feitiço de Dissipação poderoso. Pode ser dissipada pelo Alvo a qualquer momento.</p>",
-  "tags": ["cultural"]
+  "tags": ["cultural", "children-of-depths"]
 }

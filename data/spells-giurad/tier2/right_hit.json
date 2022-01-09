@@ -11,5 +11,5 @@
   "element": null,
   "caption": "A Experiência lhe mostrou que um golpe bem dado pode ser decisivo para uma vitória assertiva.",
   "description": "<p>Seus ataques causam 1D8 adicional de dano quando o resultado do D20 de ataque for superior a 15. <br/>Esse dano é automaticamente maximizado (ou seja, aplicará 8 de dano), no caso de um Sucesso Crítico (tirar 20 no dado), mas ele não é aplicado de forma dobrada, como o dano da arma.</p>",
-  "tags": ["grimo", "knight"]
+  "tags": ["grimo", "giurad"]
 }

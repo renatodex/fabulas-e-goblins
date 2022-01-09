@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Os Goblins são tão populosos, que estatisticamente, é muito mais fácil você encontrar uma Armadura para Goblin numa Masmorra.",
   "description": "Receba +3 para testar a compatibilidade de uma Armadura ou Item corporal encontrado numa masmorra.",
-  "tags": ["racial"]
+  "tags": ["racial", "goblin"]
 }

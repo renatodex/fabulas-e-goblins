@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Canaliza a instabilidade mágica do seu Grimo para evocar uma grande explosão elemental em uma área.",
   "description": "<p>Emite uma explosão em uma área específica de 2x2 quadrados e causa <code>(TIER)*(1d6+5)</code> a todos inimigos.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

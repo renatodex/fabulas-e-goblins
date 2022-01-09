@@ -11,5 +11,5 @@
     "element": null,
     "caption": "Enquanto outras Espécies podem sentir uma pequena dificuldade para se locomover no mundo submerso, Valdari são habitantes natos deste mundo, se movendo normalmente como se estivessem andando sobre a terra.",
     "description": "Outras espécies recebem -1 de penalidade ao se locomover dentro da água. Valdari ignoram essa penalidade, podendo se locomover normalmente.",
-    "tags": ["racial"]
+    "tags": ["racial", "valdari"]
 }

@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Seus corpos cascudos podem perceber pequenos abalos na terra, sendo capazes até mesmo de se orientar geograficamente.",
   "description": "<p>Como uma ação de percepção, você pode sentir qualquer abalo na Terra.<br/>Essa habilidade é praticamente sensorial para os Armadons, de forma similar à audição dos Goblins.</p><p>Contudo, por não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes múltiplas de movimentações sísmicas poderiam facilmente confundir o precisão dos sentidos de um Armadon.</p>",
-  "tags": ["racial"]
+  "tags": ["racial", "armadon"]
 }

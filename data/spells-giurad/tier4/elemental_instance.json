@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Com o treinamento certo, o Espírito pode se blindar a um Elemento.",
   "description": "<p>Ativa a aura de Instância Elemental ate o final do combate.<br/>Fornece 90% de redução de dano elemental (arredondado para cima) de um elemento a sua escolha.<br/>A Escolha precisa ser feita no momento em que o poder é escolhido no Grimo.<br/>Não é possível alterar o elemento posteriormente.</p>",
-  "tags": ["ultimate", "grimo", "knight"]
+  "tags": ["grimo", "giurad"]
 }

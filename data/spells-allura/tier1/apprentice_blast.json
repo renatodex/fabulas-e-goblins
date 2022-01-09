@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Dispara uma rajada de energia elemental em um único inimigo.",
   "description": "<p>O projétil mágico se transloca desde o Grimo do conjurador até o alvo. O ataque deve ser feito contra a defesa mágica do inimigo. Causa <b>2d6+6</b> de dano.</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }

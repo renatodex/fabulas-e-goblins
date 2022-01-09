@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Uma forte onda sônica que afasta os inimigos próximos enquanto causa dano.",
   "description": "<p>Emite uma onda de Energia elemental que se origina da sua posição e atinge todos inimigos adjacentes causando 1d10+5, afastando-os por 2 quadrados. <i>(Também atinge aliados a menos que possua habilidade <b>Fogo Amigo</b></i>).</p>",
-  "tags": ["grimo", "orbe-de-allura"]
+  "tags": ["grimo", "allura"]
 }
