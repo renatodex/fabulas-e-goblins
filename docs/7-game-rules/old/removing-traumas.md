@@ -1,7 +1,7 @@
 ---
 id: removing-traumas
 title: Removendo Traumas
-slug: /7-game-rules/removing-traumas
+slug: /7-game-rules/old/removing-traumas
 ---
 
 É possível remover Traumas, mas é um procedimento muito difícil, feito apenas por Sacerdotes.

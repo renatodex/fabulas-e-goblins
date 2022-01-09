@@ -1,7 +1,7 @@
 ---
 id: attributes-details
 title: Explicação dos Atributos
-slug: /7-game-rules/attributes-details
+slug: /7-game-rules/old/attributes-details
 ---
 
 Atributos são uma parte importante da criação do seu personagem no Fábulas & Goblins.
@@ -44,7 +44,7 @@ Os Personagens fortes aumentam esse limite, destravando Slots adicionais a cada 
 ### Requisito para Equipamentos
 
 Alguns itens, como Armas e Armaduras, podem possuir requisitos de força para serem usados. Armaduras Metálicas, por exemplo, podem exigir uma boa quantidade de Força para serem equipadas, por gerarem restrição de movimento devido ao peso.
-No Capítulo sobre [Armaduras Metálicas](/docs/7-game-rules/metallic-armors-in-game), explicamos um pouco mais sobre como funcionam esses tipos de Armaduras. Mas provavelmente você não precisará se importar com isso agora, pois esse tipo de Item geralmente só fica disponível para os jogadores em níveis superiores.
+No Capítulo sobre [Armaduras Metálicas](/docs/7-game-rules/old/metallic-armors-in-game), explicamos um pouco mais sobre como funcionam esses tipos de Armaduras. Mas provavelmente você não precisará se importar com isso agora, pois esse tipo de Item geralmente só fica disponível para os jogadores em níveis superiores.
 
 ### Determinando seus Pontos de Vida
 
@@ -97,14 +97,14 @@ Cada vez que seu personagem **chega a 0 Pontos de Vida num combate**, ao invés 
 
 Os Traumas são efeitos permanentes que se acumulam no jogo e que podem tornar a experiência de jogar com o seu personagem muito complexa, a longo prazo.<br/>
 Investir em Resiliência lhe fornece resistência interna para combater esses traumas, e permitem que você se recupere plenamente de situações de Nocaute sem grandes efeitos colaterais.
-Para mais informações sobre o Nocaute consulte a seção: [Cheguei a 0 Pontos de Vida, e agora?](/docs/7-game-rules/what-happens-when-0-hp).
+Para mais informações sobre o Nocaute consulte a seção: [Cheguei a 0 Pontos de Vida, e agora?](/docs/7-game-rules/old/what-happens-when-0-hp).
 
 ### Resistência contra Condições Negativas
 
 Toda vez que o seu personagem recebe um Efeito Negativo, ele precisa passar num teste de Resiliência para resistir. Efeitos Negativos afetam o seu personagem de forma significativa nos combates. Estamos falando de Envenamento, Congelamento, Paralisia, e vários outros efeitos que podem prejudicar seu ataque, dano/cura ou movimentação no jogo.
 
 Treinar Resiliência significa que você agora conseguirá resistir a esses efeitos de forma mais eficaz.
-Falamos mais sobre o funcionamento dos efeitos negativos na seção [Efeitos Negativos em Combate](/docs/7-game-rules/negative-effects-in-combat).
+Falamos mais sobre o funcionamento dos efeitos negativos na seção [Efeitos Negativos em Combate](/docs/7-game-rules/old/negative-effects-in-combat).
 
 ### Resistindo a Doenças e Maldições
 
@@ -113,7 +113,7 @@ Esses efeitos afetam milhares de aventureiro todos os dias, geralmente como resu
 
 De qualquer forma, para ser afetado por qualquer um desses efeitos, você precisará fazer um teste de Resiliência contra a intensidade do efeito que está ameaçando seu personagem.
 Treinar Resiliência significa que você ficará mais preparado para resistir esses efeitos, e garantir uma vida saudável e livre dessas intempéries.
-O Capítulo [Maldições e Doenças](/docs/7-game-rules/curses-and-diseases) aborda de forma mais detalhada como essas situações se resolvem dentro do jogo, e o que fazer para evitá-las.
+O Capítulo [Maldições e Doenças](/docs/7-game-rules/old/curses-and-diseases) aborda de forma mais detalhada como essas situações se resolvem dentro do jogo, e o que fazer para evitá-las.
 
 # Elo Mágico
 
@@ -180,13 +180,13 @@ Para efeito de balanço do jogo, a menos que permitido pelos Narradores, **Perso
 ### Experiência Adicional
 
 Personagens Eruditos serão imensamente beneficiados por tarefas que envolvem aprendizado. Quando estiverem lutando contra criaturas ou mesmo desvendando complexas tramas políticas, personagens Eruditos sempre serão beneficiados com 1 Ponto de Experiência extra por Sessão.
-Se quiser entender melhor como funciona o Sistema de Progressão de Níveis, consulte a Seção [Evoluindo de Nível no Jogo](/docs/7-game-rules/leveling-up-in-game)
+Se quiser entender melhor como funciona o Sistema de Progressão de Níveis, consulte a Seção [Evoluindo de Nível no Jogo](/docs/7-game-rules/old/leveling-up-in-game)
 
 ### Conhecimento sobre o Mundo
 
 Personagens Eruditos sempre irão possuir grande conhecimento sobre o mundo, possivelmente sabendo sobre Lendas, Fábulas e histórias de Guerras ou Civilizações passadas.
 Alguns testes de Erudição no jogo podem fornecer aos jogadores informações extremamente sobre inimigos, suas fraquezas e seus passados.
-Esses conhecimentos, para efeito de Mecânica, são conhecidos como Perícias. Para saber como utilizar essas Perícias, consulte a Seção [Testes de Perícia](/docs/7-game-rules/skill-checks).
+Esses conhecimentos, para efeito de Mecânica, são conhecidos como Perícias. Para saber como utilizar essas Perícias, consulte a Seção [Testes de Perícia](/docs/7-game-rules/old/skill-checks).
 
 # Espírito
 
@@ -203,7 +203,7 @@ Na prática, o Espírito concede as seguintes mecânicas no jogo:
 
 - Usado para definir sua Defesa geral contra Ataques Mágicos
 - Usado como modificador em procedimentos mágicos para remover Traumas.
-- Especialistas em Espírito podem tentar reencarnar seu personagem caso sofram uma [Morte Permanente](/docs/7-game-rules/what-happens-when-0-hp)
+- Especialistas em Espírito podem tentar reencarnar seu personagem caso sofram uma [Morte Permanente](/docs/7-game-rules/old/what-happens-when-0-hp)
 
 ### Defesa contra Ataques Mágicos
 
@@ -220,12 +220,12 @@ Esses procedimentos são feitos em diversas Igrejas nas Terras Místicas, por Sa
 
 Esses procedimentos possuem dificuldades muito altas, devido a dificuldade que os Sacerdotes sofrem para se comunicar com a sua forma Etérea durante o processo.<br/>
 Personagens treinados em Espírito possuem muito mais chance de serem bem sucedidos nesses procedimentos.
-Para mais informações sobre essa Mecânica, consulte a Seção [Removendo Traumas](/docs/7-game-rules/removing-traumas)
+Para mais informações sobre essa Mecânica, consulte a Seção [Removendo Traumas](/docs/7-game-rules/old/removing-traumas)
 
 ### Re-encarnação
 
 Personagens Especialistas em Espírito tem direito a uma ação especial conhecida como **Segunda Chance**.
-Nessa mecânica, Personagens que possuem Espírito como seu atributo mais alto, possuem a chance de fazer um teste adicional, caso sofram uma [Morte Permanente](/docs/7-game-rules/what-happens-when-0-hp).
+Nessa mecânica, Personagens que possuem Espírito como seu atributo mais alto, possuem a chance de fazer um teste adicional, caso sofram uma [Morte Permanente](/docs/7-game-rules/old/what-happens-when-0-hp).
 
 Nesse Procedimento, suas formas Etéreas possuem uma oportunidade de Encarnar em um segundo corpo, transferindo boas parte das suas habilidades e conhecimentos, e removendo quaisquer Traumas que tivessem anteriormente. Esse procedimento é complexo, pode levar semanas e ainda não é entendido pelos pesquisadores atuais.
 
@@ -338,7 +338,7 @@ Lembre-se também, que alguns preços simplesmente não podem ser baixados.
 Quando uma batalha com seres senscientes for iminente, você pode Evocar a ação Diplomacia de Batalhas, que tem como objetivo evitar que o conflito aconteça, sugerindo uma alternativa viável de ambos os lados.
 A ação, é deve ser acompanhada de um teste de Diplomacia (Perícia baseada em Influência), cuja dificuldade é definida pelo Narrador e pode variar entre "Fácil" e "Épica".
 
-Para mais informações sobre Perícias e Dificuldades, consulte a Seção [Testes de Perícia](/docs/7-game-rules/skill-checks).
+Para mais informações sobre Perícias e Dificuldades, consulte a Seção [Testes de Perícia](/docs/7-game-rules/old/skill-checks).
 Apenas personagens Especialistas ou Sub-Especialistas em Destino podem Evocar a Diplomacia de Batalha.
 Evocar é uma ação livre Especial que só pode ser usada uma vez por sessão e uma vez por dia, estando sempre a cargo do Narrador.
 

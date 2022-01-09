@@ -1,6 +1,6 @@
 ---
 id: grimos-introduction
-title: Introdução aos Grimos
+title: Escolhendo seu Grimo
 slug: /4-grimos-and-spells/introduction
 ---
 

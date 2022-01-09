@@ -1,7 +1,7 @@
 ---
 id: skill-checks
 title: Testes de Perícia
-slug: /7-game-rules/skill-checks
+slug: /7-game-rules/old/skill-checks
 ---
 
 Esta página está em construção e encontra-se indisponível.

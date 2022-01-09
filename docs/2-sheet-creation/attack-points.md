@@ -15,7 +15,7 @@ Quando dizemos **Ataque Físico**, nos referimos a qualquer ataque feito com **A
 
 Isso porquê no *Fábulas & Goblins*, **ataques mágicos** podem ter sua própria fórmula de ataque, que varia entre **Ataques Elementais**, **Ataques de Reação**, entre outros.
 
-Se quiser saber mais como **Atacar durante o combate**, temos um Capítulo específico para isso, na sessão [Regras de Jogo: Atacando durante o Combate](/docs/7-game-rules/attacking-during-combat).
+Se quiser saber mais como **Atacar durante o combate**, temos um Capítulo específico para isso, na sessão [Regras de Jogo: Atacando durante o Combate](/docs/7-game-rules/old/attacking-during-combat).
 
 ## Calculando seus Pontos de Ataque
 

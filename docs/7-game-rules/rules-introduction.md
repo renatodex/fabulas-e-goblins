@@ -1,6 +1,6 @@
 ---
 id: rules-introduction
-title: Introdução ao Sistema 2D20
+title: Introdução
 slug: /7-game-rules/rules-introduction
 ---
 

@@ -27,7 +27,7 @@ module.exports = {
         '2-sheet-creation/defining-your-origins',
         '2-sheet-creation/defining-initiative'
       ],
-      '3. Escolhendo sua Espécie': [
+      '3. Espécies Jogáveis': [
         '3-species/species-introduction',
         '3-species/specie-goblins',
         '3-species/specie-armadons',
@@ -36,7 +36,7 @@ module.exports = {
         '3-species/specie-valdaris',
         '3-species/specie-luminins'
       ],
-      '4. Escolhendo seu Grimo': [
+      '4. Grimos': [
         '4-grimos-and-spells/grimos-introduction',
         '4-grimos-and-spells/giurads-crest',
         '4-grimos-and-spells/lunns-jewel',
@@ -52,7 +52,7 @@ module.exports = {
           ]
         }
       ],
-      '5. Escolhendo um Papel de Jogo': [
+      '5. Papéis de Jogo': [
         '5-roles/roles-introduction',
         '5-roles/roles-adventurer',
         '5-roles/roles-tank',
@@ -61,7 +61,7 @@ module.exports = {
         '5-roles/roles-priest',
         '5-roles/roles-fortuner'
       ],
-      '6. Escolhendo sua Cultura': [
+      '6. Culturas': [
         '6-cultures/cultures-introduction',
         '6-cultures/children-of-dew',
         '6-cultures/children-of-sands',
@@ -84,7 +84,7 @@ module.exports = {
       ],
       '8. Regras do Jogo': [
         '7-game-rules/rules-introduction',
-        '7-game-rules/new/declaring-actions-and-outcomes',
+        '7-game-rules/declaring-actions-and-outcomes',
       ],
       '8. A Magia': [
         '8-the-magic/magic-in-the-world',

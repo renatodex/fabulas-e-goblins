@@ -1,6 +1,6 @@
 ---
 id: species-introduction
-title: As Espécies do Fábulas & Goblins
+title: Escolhendo sua espécie
 slug: /3-species/species-introduction
 ---
 

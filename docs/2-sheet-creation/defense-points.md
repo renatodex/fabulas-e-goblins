@@ -27,7 +27,7 @@ Vamos falar um pouco sobre isso.
 
 No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 
-- Adquirindo pontos de **Agilidade ou Resiliência** nos [Níveis Especiais](/docs/7-game-rules/special-levels).
+- Adquirindo pontos de **Agilidade ou Resiliência** nos [Níveis Especiais](/docs/7-game-rules/old/special-levels).
 - Treinando Poderes no Grimo que **aumentam Defesa** ([Introdução aos Grimos](/docs/4-grimos-and-spells/introduction)).
 - Adquirindo [Equipamentos melhores](/docs/10-appendix/types-of-armor) *(ou até escudo e outros acessórios de defesa)*.
 
