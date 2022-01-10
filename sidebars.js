@@ -86,6 +86,7 @@ module.exports = {
         '7-game-rules/rules-introduction',
         '7-game-rules/scenes',
         '7-game-rules/declaring-actions-and-outcomes',
+        '7-game-rules/game-etiquette'
       ],
       '8. A Magia': [
         '8-the-magic/magic-in-the-world',
