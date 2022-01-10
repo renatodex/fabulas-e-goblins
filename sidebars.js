@@ -84,6 +84,7 @@ module.exports = {
       ],
       '8. Regras do Jogo': [
         '7-game-rules/rules-introduction',
+        '7-game-rules/scenes',
         '7-game-rules/declaring-actions-and-outcomes',
       ],
       '8. A Magia': [
