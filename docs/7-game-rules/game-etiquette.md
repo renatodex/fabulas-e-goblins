@@ -6,19 +6,19 @@ slug: /7-game-rules/game-etiquette
 
 ![Sessão Zero](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C69ef785b-3a8e-4c02-8848-2fc87050db40.jpg)
 
-Diferente de muitos outros jogos, o **RPG de Mesa** é um **jogo colaborativo**, não existe perdedor nem vencedor, e todos apenas ganham quando saem com **histórias incríveis** pra contar.
+Diferente de muitos outros jogos, o **RPG de Mesa** é um **jogo narrativo de colaboração**. Esse tipo de jogo envolve uma interação social constante entre os jogadores, e é por isso que precisamos falar de Etiqueta.
 
-Como existem pessoas com muitas culturas e histórias diferentes, a **Sessão Zero** tem o objetivo de colocar todo mundo **na mesma página**, e alinhar qual será o Tom, Gênero, e abordar **assuntos** que podem deixar **outros jogadores desconfortáveis**.
+Por ser um jogo social, ele exige que pessoas interajam para jogar, e como existem pessoas com muitas **culturas e histórias** diferentes, é importante que todos estejam **na mesma página**, e entrem em um consenso sobre qual será o Tom, Gênero, e quais **assuntos** poderão ser abordados durante o desenrolar da história. O importante é garantir que todos os  **jogadores estejam confortáveis**, e se sintam em um ambiente seguro para se divertir.
 
-Por isso, elaboramos algumas regras de **etiqueta social** que todo **Jogador e Narrador** pode usufruir dentro da mesa:
+Por isso, vamos falar de algumas regras de **etiqueta social** que serão úteis para aplicar ao seu jogo. O legal é que essas regras se aplicam a qualquer sistema de RPG que você queira jogar, não apenas o **Fábulas & Goblins**!
 
 ## Defina os limites
 
-Antes que qualquer jogo de RPG possa começar, sempre recomendamos a **Narradores e Jogadores** que realizem algo conhecido como **Sessão Zero**. Nesta sessão, o objetivo não é abrir o livro e sair jogando, mas entrar em alguns acordos com os jogadores, para que certos temas não sejam adicionados à mesa.
+Antes que qualquer jogo de RPG possa começar, sempre recomendamos a **Narradores e Jogadores** que realizem algo conhecido como **Sessão Zero**. Nesta sessão, o objetivo **não é abrir o livro e sair jogando**, mas **entrar em alguns acordos** com os jogadores, para que **certos temas** não sejam **adicionados à mesa**.
 
-Essa regra é ainda mais importante quando você está jogando com Crianças e Adolescentes, pois alguns assuntos podem não ser recomendados para uma Mesa saudável de RPG.
+Essa regra é **ainda mais importante** quando você está jogando com **Crianças e Adolescentes**, pois alguns assuntos **podem não ser recomendados** para uma Mesa saudável de RPG.
 
-Na **Sessão Zero**, você pode fazer algumas perguntas como:
+Na **Sessão Zero**, você poderá fazer algumas perguntas como:
 
 1. Qual será o **Tom** do Jogo? Será *Violento*, *Misterioso*, repleto de *Disputas Sociais* ou será muito focado em *Combate*?
 2. Como será o humor da Aventura? Será mais séria, com um tom mais formal e denso, ou a idéia é fazer algo mais descontraído e com mais humor?
@@ -29,7 +29,7 @@ Também é interessante fornecer uma **explicação superficial** do **Teor da A
 
 ## Seja Respeitoso
 
-O objetivo do jogo é que todo mundo possa se divertir, mas algumas atitudes podem atrapalhar os jogadores da mesa.
+O objetivo do jogo é que todo mundo possa se divertir, mas algumas atitudes podem atrapalhar os jogadores da mesa. Então vamos abordar algumas boas práticas de um Jogo de RPG
 
 ### Não diga aos outros o que fazer
 

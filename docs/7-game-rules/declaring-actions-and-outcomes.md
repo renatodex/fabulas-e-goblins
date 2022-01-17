@@ -26,7 +26,7 @@ Mas como tudo na vida, nem sempre as coisas são como parecem, e muitas vezes, s
 
 ## 2. Consequências da Ação
 
-Talvez a estátua do **Javali** seja uma armadilha, e logo após a sua ação, o Narrador pode dizer:
+Talvez haja uma consequência por mexer na estátua do **Javali**, e logo após a sua ação, o Narrador diga:
 
 > Quando você levanta tira a estátua de sua posição, um estralo sutil é ouvido, como se algo tivesse desencaixado de algum lugar. No lugar da estatueta, você vê o desenho de um Pino que parece se encaixar perfeitamente na estátua. Imediatamente, a sala começa a tremer, quando uma das paredes finalmente revela uma **passagem secreta**!
 
@@ -41,4 +41,4 @@ Entretanto, algumas ações mais complexas podem gerar uma **rolagem de dados**,
 **No exemplo que mencionamos acima**, um dos Personagens desejou **inspecionar** o lindo Quadro na parede.
 Havia sim um **segredo** no quadro, mas o Narrador não estava disposto a entregá-lo **tão facilmente**. Então ele pede que o personagem realize um **Teste de Intelecto**, pois ele quer ter certeza que o Personagem tem o **contexto necessário** para entender o segredo do Quadro.
 
-O personagem então precisará realizar uma Rolagem de 2D20, de acordo com as regras que você já viu na sessão de [Introdução sobre o Sistema 2d20](/docs/X-system-2d20/system-introduction).
+O personagem então precisará realizar uma Rolagem de 2d20, de acordo com as regras do [Sistema 2d20](/docs/X-system-2d20/system-introduction).
