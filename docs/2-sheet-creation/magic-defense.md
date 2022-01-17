@@ -30,7 +30,7 @@ No jogo, existem várias formas de aumentar sua **Defesa Mágica**.
 
 - Adquirindo pontos de **Elo Mágico ou Espírito** nos [Níveis Especiais](/docs/7-game-rules/old/special-levels).
 - Treinando Poderes no Grimo que **aumentam Defesa Mágica** ([Introdução aos Grimos](/docs/4-grimos-and-spells/introduction)).
-- Adquirindo [Equipamentos melhores](/docs/10-appendix/types-of-armor) *(a exemplo de implementos e outros itens mágicos)*.
+- Adquirindo [Equipamentos melhores](/docs/14-appendix/types-of-armor) *(a exemplo de implementos e outros itens mágicos)*.
 
 :::tip Importante
 Uma coisa importante para se ter em mente, é que no *Fábulas & Goblins*, o jogador é **ativo** durante o **tempo inteiro da batalha**.

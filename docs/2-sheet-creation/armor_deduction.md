@@ -80,5 +80,5 @@ Cada Armadura do jogo pode ser categorizada em 4 diferentes Classes de Armaduras
 
 Se quiser saber mais sobre Armaduras, temos algumas seções interessantes:
 
-Para saber sobre a Classificação dos tipos de Armadura, consulte a Seção [Tipos de Armadura](/docs/10-appendix/types-of-armor).<br/>
+Para saber sobre a Classificação dos tipos de Armadura, consulte a Seção [Tipos de Armadura](/docs/14-appendix/types-of-armor).<br/>
 Para saber a relação das Armaduras Metálicas com o mundo, consulte a Seção [Armaduras Metálicas no Jogo](https://fabulasegoblins.com.br/docs/7-game-rules/old/metallic-armors-in-game).

@@ -41,4 +41,4 @@ Entretanto, algumas ações mais complexas podem gerar uma **rolagem de dados**,
 **No exemplo que mencionamos acima**, um dos Personagens desejou **inspecionar** o lindo Quadro na parede.
 Havia sim um **segredo** no quadro, mas o Narrador não estava disposto a entregá-lo **tão facilmente**. Então ele pede que o personagem realize um **Teste de Intelecto**, pois ele quer ter certeza que o Personagem tem o **contexto necessário** para entender o segredo do Quadro.
 
-O personagem então precisará realizar uma Rolagem de 2d20, de acordo com as regras do [Sistema 2d20](/docs/X-system-2d20/system-introduction).
+O personagem então precisará realizar uma Rolagem de 2d20, de acordo com as regras do [Sistema 2d20](/docs/9-system-2d20/system-introduction).
