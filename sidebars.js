@@ -78,8 +78,10 @@ module.exports = {
         '7-game-rules/rules-introduction',
         '7-game-rules/scenes',
         '7-game-rules/declaring-actions-and-outcomes',
-        '7-game-rules/game-etiquette',
+        '7-game-rules/skill-checks',
+        '7-game-rules/challenge-checks',
         '7-game-rules/short-and-long-rest',
+        '7-game-rules/game-etiquette',
       ],
       '8. Sistema 2d20': [
         '8-system-2d20/system-introduction',

@@ -11,7 +11,7 @@ Sempre que o **Narrador** anunciar uma jogava com **Vantagem ou Desvantagem**, o
 Nos **lançamentos com vantagem**, o resultado do D4 **será somado** ao resultado dos dois D20.<br/>
 Nos **lançamentos com desvantagem**, o resultado do D4 **será subtraído** ao resultado dos dois D20.
 
-O resultado do cálculo com o D4 **não poderá** gerar **Sucessos ou Falhas Críticas ou Épicas** mesmo se o resultado for **inferior a 1** ou **superior a 20**.
+O resultado do cálculo com o D4 **não poderá** gerar **Triunfos ou Desastres** mesmo se o resultado for **inferior a 1** ou **superior a 20**.
 
 :::note
 **Ivo** está realizando um teste para atacar um **Fougrat Guerreiro** com seu **Machado**. O personagem de **Ivo** possui **+4 de Ataque**, e o **Ataque do Machado é +1**
