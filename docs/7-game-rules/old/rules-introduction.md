@@ -1,7 +1,7 @@
 ---
-id: rules-introduction
+id: rules-introduction-old
 title: Introdução ao RPG de Mesa
-slug: /7-game-rules/rules-introduction
+slug: /7-game-rules/rules-introduction-old
 ---
 
 Se você **nunca jogou RPG antes**, pode estar se sentindo confuso com tantas escolhas e regras.<br/>

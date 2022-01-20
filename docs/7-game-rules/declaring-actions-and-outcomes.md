@@ -39,6 +39,8 @@ Muitos tipos de ação são consideradas **Ações Livres**, sem qualquer exigê
 Entretanto, algumas ações mais complexas podem gerar uma **rolagem de dados**, pois o **Narrador** precisa ter certeza que o seu **personagem está preparado** para realizar aquela **ação** de **forma eficiente**.
 
 **No exemplo que mencionamos acima**, um dos Personagens desejou **inspecionar** o lindo Quadro na parede.
-Havia sim um **segredo** no quadro, mas o Narrador não estava disposto a entregá-lo **tão facilmente**. Então ele pede que o personagem realize um **Teste de Intelecto**, pois ele quer ter certeza que o Personagem tem o **contexto necessário** para entender o segredo do Quadro.
+Havia sim um **segredo** no quadro, mas o Narrador não estava disposto a entregá-lo **tão facilmente**. Então ele pede que o personagem realize um **Teste de Perícia** para testar o **Intelecto** do personagem, pois ele quer ter certeza que o Personagem tem a **habilidade necessária** para entender o segredo do Quadro.
 
-O personagem então precisará realizar uma Rolagem de 2d20, de acordo com as regras do [Sistema 2d20](/docs/9-system-2d20/system-introduction).
+Outro exemplo comum de Ação com Rolagem é o combate, onde se utilizam **Ações de Desafio**, que são ligeiramente diferente das **Ações de Perícia**. As sessões posteriores explicarão melhor sobre esses dois tipos distintos de Ações.
+
+Já a rolagem em sí é feita lançando-se dois (2) dados de vinte faces (d20), seguindo as regras do [Sistema 2d20](/docs/9-system-2d20/system-introduction).
