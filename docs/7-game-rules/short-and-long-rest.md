@@ -25,7 +25,7 @@ Descansar **sem preparação** é como durmir no **chão de pedras** de uma Cave
 
 **Tendas** e **Sacos de Durmir**, e **Roupas de Descanso** são alguns dos itens especiais que os aventureiros podem usar para turbinar seu descanso.
 
-Por padrão, esses itens anulam as **penalidades** de realizar um sono desconfortável, mas alguns itens podem conferir até conferir Bônus. Consulte o [Compendium de Itens](/database/itens) para mais informações.
+Por padrão, esses itens anulam as **penalidades** de realizar um sono desconfortável, mas alguns itens podem conferir até conferir Bônus. Consulte o [Compendium de Itens](/database/items) para mais informações.
 
 Enquanto a **Tenda** é um item que pode ser usado por mais de um jogador, o **Saco de Durmir** é um item individual. Esses itens possuem uma **quantidade de usos** que é geralmente **definida por um Dado (d4, d6, d8, d10)**.
 
