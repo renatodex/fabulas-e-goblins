@@ -1,7 +1,7 @@
 ---
 id: system-introduction
 title: Introdução ao Sistema
-slug: /9-system-2d20/system-introduction
+slug: /8-system-2d20/system-introduction
 ---
 
 O *Fábulas & Goblins* se baseia em um sistema próprio de jogo que vamos referenciar neste livro como **Sistema 2d20**.

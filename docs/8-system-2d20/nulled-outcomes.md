@@ -1,7 +1,7 @@
 ---
 id: nulled-outcomes
 title: Jogadas Anuladas
-slug: /9-system-2d20/nulled-outcomes
+slug: /8-system-2d20/nulled-outcomes
 ---
 
 ## 4. Jogadas anuladas

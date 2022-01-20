@@ -1,7 +1,7 @@
 ---
 id: matching-outcomes
 title: Tirando Números Iguais
-slug: /9-system-2d20/matching-outcomes
+slug: /8-system-2d20/matching-outcomes
 ---
 
 ![PairDice.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff2b0ab3-36f1-4c29-a454-7097f3199724.jpg)

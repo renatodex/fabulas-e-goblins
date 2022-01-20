@@ -1,7 +1,7 @@
 ---
 id: epic-outcomes
 title: Ações Épicas
-slug: /9-system-2d20/epic-outcomes
+slug: /8-system-2d20/epic-outcomes
 ---
 
 ## Tirando Trinfos e Desastres Épicos

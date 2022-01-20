@@ -1,7 +1,7 @@
 ---
 id: critical-outcomes
 title: Triunfos e Desastres
-slug: /9-system-2d20/critical-outcomes
+slug: /8-system-2d20/critical-outcomes
 ---
 
 ## Tirando Triunfos e Desastres

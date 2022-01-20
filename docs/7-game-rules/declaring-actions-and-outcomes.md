@@ -43,4 +43,4 @@ Havia sim um **segredo** no quadro, mas o Narrador não estava disposto a entreg
 
 Outro exemplo comum de Ação com Rolagem é o combate, onde se utilizam **Ações de Desafio**, que são ligeiramente diferente das **Ações de Perícia**. As sessões posteriores explicarão melhor sobre esses dois tipos distintos de Ações.
 
-Já a rolagem em sí é feita lançando-se dois (2) dados de vinte faces (d20), seguindo as regras do [Sistema 2d20](/docs/9-system-2d20/system-introduction).
+Já a rolagem em sí é feita lançando-se dois (2) dados de vinte faces (d20), seguindo as regras do [Sistema 2d20](/docs/8-system-2d20/system-introduction).
