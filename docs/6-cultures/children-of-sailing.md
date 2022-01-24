@@ -40,7 +40,7 @@ Passar tanto tempo no mar pode deixar qualquer um maluco, mas os Calderianos sab
 
 É muito provavel que jogos competitivos antigos como o tradicional jogo de Cartas **Galarik**, o jogo de Tokens **Manguni** e o clássico jogo de dados **Grimokai** tenham sua popularidade difundida graças aos Calderianos, que adoram organizar suas mesas de jogos, disputar premios e fazer competições em pleno alto-mar.
 
-Um dos eventos mais populares da cultura Calderiana é o famoso Festival **Siriguni**, nomeado em homenagem ao Pirata Razalan **Garmari Siriguni**, onde jogadores do mundo todo se reunem no Reino-Balsa de **Qae'dramar** para disputar grandes quantias de [Temirs](/docs/2-sheet-creation/game-money) e premios incríveis!
+Um dos eventos mais populares da cultura Calderiana é o famoso Festival **Siriguni**, nomeado em homenagem ao Pirata Razalan **Garmari Siriguni**, onde jogadores do mundo todo se reunem no Reino-Balsa de **Qae'dramar** para disputar grandes quantias de [Temirs](/docs/2-sheet-creation/money) e premios incríveis!
 
 Socialmente, os Filhos da Nau são criados de forma um pouco mais livre, onde laços familiares nem sempre são tão fortes como as famílias tradicionais de **Nuvenar**.
 

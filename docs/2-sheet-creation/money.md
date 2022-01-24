@@ -1,7 +1,7 @@
 ---
-id: game-money
+id: money
 title: Moedas
-slug: /2-sheet-creation/game-money
+slug: /2-sheet-creation/money
 ---
 
 ![Moedas](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/moedas.png)

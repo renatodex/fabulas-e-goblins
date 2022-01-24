@@ -11,7 +11,7 @@ module.exports = {
         '2-sheet-creation/getting-sheet',
         '2-sheet-creation/pick-a-name',
         '2-sheet-creation/pick-a-role',
-        '2-sheet-creation/game-money',
+        '2-sheet-creation/money',
         '2-sheet-creation/initial-level',
         '2-sheet-creation/define-your-culture',
         '2-sheet-creation/defining-attributes',
@@ -81,6 +81,7 @@ module.exports = {
         '7-game-rules/skill-checks',
         '7-game-rules/challenge-checks',
         '7-game-rules/short-and-long-rest',
+        '7-game-rules/merchants',
         '7-game-rules/game-etiquette',
       ],
       '8. Sistema 2d20': [
