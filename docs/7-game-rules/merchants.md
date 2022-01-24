@@ -2,6 +2,7 @@
 id: merchants
 title: Comércio & Mercadores
 slug: /7-game-rules/merchants
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cb805db32-47c6-4507-9a70-ee3d294a7286.jpg
 ---
 
 ![Mercadores](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cb805db32-47c6-4507-9a70-ee3d294a7286.jpg)
