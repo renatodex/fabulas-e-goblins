@@ -82,6 +82,7 @@ module.exports = {
         '7-game-rules/challenge-checks',
         '7-game-rules/short-and-long-rest',
         '7-game-rules/merchants',
+        '7-game-rules/blacksmiths',
         '7-game-rules/game-etiquette',
       ],
       '8. Sistema 2d20': [
