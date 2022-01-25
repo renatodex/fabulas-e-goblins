@@ -100,6 +100,10 @@ Entretanto, caso a soma dos números rolados ultrapasse a **Habilidade do Ferrei
 
 Importante ressaltar que neste tipo de teste especial rolado pelo Narrador, Triunfos não se aplicam, mas qualquer Desastre nos dados automaticamente resulta em um Fracasso, danificando a **durabilidade máxima** do Item.
 
+Independente da **Falha ou Sucesso** no refinamento, **todos os itens que passam pelo processo** recebem uma **Condição de Estresse** que **dura 3 dias de jogo**, e **aumenta em +1** o número de Dados que precisam ser rolados no processo de Refinamento.
+
+A condição existe para que o Item possa descansar e se recuperar do processo de refinamento, que pode ser traumático para o material.
+
 ## Criação de Itens
 
 Também é possível **criar itens com Ferreiros**, mas o preço de cada item **deverá ser especificado pelo Narrador**, pois depende muito dos **itens disponíveis na campanha** e da **economia do Cenário** que está sendo jogado.
