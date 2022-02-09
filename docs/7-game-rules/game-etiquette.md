@@ -2,9 +2,10 @@
 id: game-etiquette
 title: Regras de Etiqueta
 slug: /7-game-rules/game-etiquette
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C69ef785b-3a8e-4c02-8848-2fc87050db40.jpg
 ---
 
-![Sessão Zero](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C69ef785b-3a8e-4c02-8848-2fc87050db40.jpg)
+![Aprendendo a se comportar na Mesa de Jogo](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C69ef785b-3a8e-4c02-8848-2fc87050db40.jpg)
 
 Diferente de muitos outros jogos, o **RPG de Mesa** é um **jogo narrativo de colaboração**. Esse tipo de jogo envolve uma interação social constante entre os jogadores, e é por isso que precisamos falar de Etiqueta.
 

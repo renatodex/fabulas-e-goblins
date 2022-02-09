@@ -2,9 +2,10 @@
 id: short-and-long-rest
 title: Descansos
 slug: /7-game-rules/short-and-long-rest
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C368a55b4-e2f3-4492-87e2-7809846cb0e5.jpg
 ---
 
-![Quarto da Taverna](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C368a55b4-e2f3-4492-87e2-7809846cb0e5.jpg)
+![Como se preparar para o dia seguinte](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C368a55b4-e2f3-4492-87e2-7809846cb0e5.jpg)
 
 O Descanso é a forma mais fácil de recuperar seus Pontos de Vida e de Magia. Nada melhor que uma **boa noite de sono** para curar todo o cansaço e renovar sua conexão Mágica com o seu Grimo.
 

@@ -2,9 +2,10 @@
 id: skill-checks
 title: Ações de Perícia
 slug: /7-game-rules/skill-checks
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C927c13b1-80cd-418a-83f3-34aca47b708b.png
 ---
 
-![JumpCliff.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C927c13b1-80cd-418a-83f3-34aca47b708b.png)
+![Realizando testes no jogo](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C927c13b1-80cd-418a-83f3-34aca47b708b.png)
 
 Ações de Perícias são aquelas realizadas com a ajuda de seus Atributos.
 

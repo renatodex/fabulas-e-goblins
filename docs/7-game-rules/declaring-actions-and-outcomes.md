@@ -2,9 +2,10 @@
 id: declaring-actions-and-outcomes
 title: Realizando Ações
 slug: /7-game-rules/declaring-actions-and-outcomes
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C64402aa7-e5dc-4e62-bc7a-a744008659c4.jpg
 ---
 
-![actions.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C64402aa7-e5dc-4e62-bc7a-a744008659c4.jpg)
+![Aprendendo sobre os tipos de ações](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C64402aa7-e5dc-4e62-bc7a-a744008659c4.jpg)
 
 O RPG de Mesa é um jogo sobre sobre **ações** e **reações**. É sobre viver uma história na pele de um personagem fictício.
 

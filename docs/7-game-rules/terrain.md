@@ -2,6 +2,7 @@
 id: terrain
 title: Efeitos de Terreno
 slug: /7-game-rules/terrain
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1bddcde4-a727-4ffa-867f-2dde55e859a9.jpg
 ---
 
 ![Lidando com efeitos de Terreno](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1bddcde4-a727-4ffa-867f-2dde55e859a9.jpg)

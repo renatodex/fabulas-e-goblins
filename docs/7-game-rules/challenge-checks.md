@@ -2,9 +2,10 @@
 id: challenge-checks
 title: Ações de Desafio
 slug: /7-game-rules/challenge-checks
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6e7a6cf6-ff93-4d49-ab15-b5a3f523a173.jpg
 ---
 
-![ChallengeAction.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6e7a6cf6-ff93-4d49-ab15-b5a3f523a173.jpg)
+![Uma ação especial para situações específicas](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6e7a6cf6-ff93-4d49-ab15-b5a3f523a173.jpg)
 
 Ações de Desafio são geralmente realizadas em duas circunstâncias:
 

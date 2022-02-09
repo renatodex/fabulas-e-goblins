@@ -2,9 +2,10 @@
 id: scenes
 title: Cenas de Jogo
 slug: /7-game-rules/scenes
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C49a1608a-71af-4124-a8bb-f92b20c0ae0f.jpg
 ---
 
-![Cenas](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C49a1608a-71af-4124-a8bb-f92b20c0ae0f.jpg)
+![Explorando o mundo das Terras Místicas](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C49a1608a-71af-4124-a8bb-f92b20c0ae0f.jpg)
 
 Dentro de um Jogo de **RPG de Mesa**, você como jogador estará interpretando um personagem que passará por diversas localidades, desde **vilarejos**, **castelos fantasmas**, **florestas** e outros **lugares incríveis**.
 
