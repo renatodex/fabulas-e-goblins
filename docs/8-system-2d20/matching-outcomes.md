@@ -11,8 +11,8 @@ No **Sistema 2d20**, sempre que você tirar dois números iguais no Dado, o resu
 
 Mas existem **duas excessões**.
 
-1. Ao rolar **dois números iguais** em uma **lançamento com vantagem**, o resultado sempre será considerado como **sucesso comum**, mesmo que o número **seja abaixo** do valor necessário para o sucesso. (exceto no caso de **Falha Crítica** e **Sucesso Crítico**).
-2. Da mesma forma, rolar **dois números iguais** em um **lançamento com desvantagem** sempre resultará em um **falha comum**, mesmo que o número **seja acima** do valor necessário para o sucesso. (exceto no caso de **Falha Crítica** e **Sucesso Crítico**)
+1. Ao rolar **dois números iguais** em uma **lançamento com vantagem**, o resultado sempre será considerado como **sucesso comum**, mesmo que o número **seja abaixo** do valor necessário para o sucesso. (exceto no caso de **Desastre** e **Triunfo**).
+2. Da mesma forma, rolar **dois números iguais** em um **lançamento com desvantagem** sempre resultará em um **falha comum**, mesmo que o número **seja acima** do valor necessário para o sucesso. (exceto no caso de **Desastre** e **Triunfo**)
 
 :::note Exemplo de Lançamento com Desvantagem
 **Reno** é um **Caçador** que está tentando **acertar um alvo em uma janela** a **dezenas de metros** de distância.

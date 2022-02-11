@@ -9,11 +9,11 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccf9
 
 Ao rolar dados de 20 Faces, existem **dois números especiais** que são considerados como resultados críticos:
 
-No **Sistema 2d20**, Triunfos e Desastres são bastante comuns, e acontecem a uma chance de **aproximadamente 20%** por rolagem. (Sendo 10% de **Triunfos Críticos** e 10% de **Desastres**).
+No **Sistema 2d20**, Triunfos e Desastres são bastante comuns, e acontecem a uma chance de **aproximadamente 20%** por rolagem. (Sendo 10% de **Triunfos** e 10% de **Desastres**).
 
 Portanto, é importante **relevar a intensidade** desses resultados, para evitar que o jogo fique **muito apelativo**.
 
-### A Desastre
+### Desastres
 
 **Tirar 1 no Dado** indica que o resultado da sua ação não foi apenas uma falha comum, mas sim uma **falha desastrosa**.
 
@@ -32,7 +32,7 @@ A explosão toma conta de **diversos blocos da cidade**, e acaba criando um **bl
 Que droga **Alvin** você estragou tudo!
 :::
 
-### Triunfos Críticos
+### Triunfos
 
 **Tirar 20 no Dado** indica que o resultado da sua ação não foi apenas um sucesso, mas um **sucesso triunfante**.
 
