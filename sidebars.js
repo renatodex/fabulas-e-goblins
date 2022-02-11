@@ -11,7 +11,7 @@ module.exports = {
         '2-sheet-creation/getting-sheet',
         '2-sheet-creation/pick-a-name',
         '2-sheet-creation/pick-a-role',
-        '2-sheet-creation/game-money',
+        '2-sheet-creation/money',
         '2-sheet-creation/initial-level',
         '2-sheet-creation/define-your-culture',
         '2-sheet-creation/defining-attributes',
@@ -27,7 +27,7 @@ module.exports = {
         '2-sheet-creation/defining-your-origins',
         '2-sheet-creation/defining-initiative'
       ],
-      '3. Escolhendo sua Espécie': [
+      '3. Espécies Jogáveis': [
         '3-species/species-introduction',
         '3-species/specie-goblins',
         '3-species/specie-armadons',
@@ -36,7 +36,7 @@ module.exports = {
         '3-species/specie-valdaris',
         '3-species/specie-luminins'
       ],
-      '4. Escolhendo seu Grimo': [
+      '4. Grimos': [
         '4-grimos-and-spells/grimos-introduction',
         '4-grimos-and-spells/giurads-crest',
         '4-grimos-and-spells/lunns-jewel',
@@ -52,7 +52,7 @@ module.exports = {
           ]
         }
       ],
-      '5. Escolhendo um Papel de Jogo': [
+      '5. Papéis de Jogo': [
         '5-roles/roles-introduction',
         '5-roles/roles-adventurer',
         '5-roles/roles-tank',
@@ -61,7 +61,7 @@ module.exports = {
         '5-roles/roles-priest',
         '5-roles/roles-fortuner'
       ],
-      '6. Escolhendo sua Cultura': [
+      '6. Culturas': [
         '6-cultures/cultures-introduction',
         '6-cultures/children-of-dew',
         '6-cultures/children-of-sands',
@@ -76,63 +76,68 @@ module.exports = {
       ],
       '7. Regras do Jogo': [
         '7-game-rules/rules-introduction',
-        '7-game-rules/types-of-combat-actions',
-        '7-game-rules/initiative-and-turns',
-        '7-game-rules/magic-attack-and-defense',
-        '7-game-rules/attacking-during-combat',
-        '7-game-rules/receiving-damage-in-combat',
+        '7-game-rules/scenes',
+        '7-game-rules/declaring-actions-and-outcomes',
         '7-game-rules/skill-checks',
-        '7-game-rules/what-happens-when-0-hp',
-        '7-game-rules/leveling-up-in-game',
-        '7-game-rules/healing-hp-and-mp',
-        '7-game-rules/acquiring-new-proficiences',
-        '7-game-rules/metallic-armors-in-game',
-        '7-game-rules/multiclass',
-        '7-game-rules/using-a-battle-grid',
-        '7-game-rules/curses-and-diseases',
-        '7-game-rules/hatching-creature-eggs',
-        '7-game-rules/taming-creatures',
-        '7-game-rules/opportunity-attacks',
-        '7-game-rules/negative-effects-in-combat',
-        '7-game-rules/extreme-epic-and-tragic-actions',
-        '7-game-rules/special-levels',
-        '7-game-rules/evolving-classes',
-        '7-game-rules/terrain-effects'
+        '7-game-rules/challenge-checks',
+        '7-game-rules/short-and-long-rest',
+        '7-game-rules/merchants',
+        '7-game-rules/blacksmiths',
+        '7-game-rules/terrain',
+        '7-game-rules/evolving',
+        '7-game-rules/game-etiquette',
       ],
-      '8. A Magia': [
-        '8-the-magic/magic-in-the-world',
-        '8-the-magic/magic-potions',
-        '8-the-magic/radamagi-and-scrolls',
-        '8-the-magic/magic-items',
-        '8-the-magic/grimos',
-        '8-the-magic/nexus-master',
-        '8-the-magic/the-cycle-of-life',
-        '8-the-magic/zigonio-fragments',
-        '8-the-magic/zigonio-gems',
-        '8-the-magic/gem-cards',
-        '8-the-magic/grimo-popularization'
+      '8. Sistema 2d20': [
+        '8-system-2d20/system-introduction',
+        '8-system-2d20/critical-outcomes',
+        '8-system-2d20/epic-outcomes',
+        '8-system-2d20/matching-outcomes',
+        '8-system-2d20/nulled-outcomes',
+        '8-system-2d20/advantage-rolls',
       ],
-      '9. As Terras Místicas': [
-        '9-the-world/wheres-the-game-placed',
-        '9-the-world/the-blackout',
-        '9-the-world/the-emotions-and-the-blackout',
-        '9-the-world/the-society-and-the-blackout',
-        '9-the-world/the-economy-and-the-blackout',
-        '9-the-world/the-magic-and-the-blackout',
-        '9-the-world/the-magic-and-the-origin-of-the-world',
-        '9-the-world/the-auguries',
-        '9-the-world/the-continents',
-        '9-the-world/class-academies',
-        '9-the-world/the-protectorship-order',
-        '9-the-world/the-ecos',
-        '9-the-world/the-ages-of-the-world'
+      '9. Regras  de Combate': [
+        '9-combat-rules/combat-intro',
       ],
-      '10. Appêndice': [
-        '10-appendix/stereotypes',
-        '10-appendix/flaws',
-        '10-appendix/character-sheet',
-        '10-appendix/types-of-armor',
-        '10-appendix/modifier-rule'
+      '10. Itens e Equipamentos': [
+        '10-itens-and-equipments/itens-intro',
+      ],
+      '11. Narrador': [
+        '11-the-guide/guide-intro'
+      ],
+      '12. A Magia': [
+        '12-the-magic/magic-in-the-world',
+        '12-the-magic/magic-potions',
+        '12-the-magic/radamagi-and-scrolls',
+        '12-the-magic/magic-items',
+        '12-the-magic/grimos',
+        '12-the-magic/nexus-master',
+        '12-the-magic/the-cycle-of-life',
+        '12-the-magic/zigonio-fragments',
+        '12-the-magic/zigonio-gems',
+        '12-the-magic/gem-cards',
+        '12-the-magic/grimo-popularization'
+      ],
+      '13. As Terras Místicas': [
+        '13-the-world/wheres-the-game-placed',
+        '13-the-world/the-blackout',
+        '13-the-world/the-emotions-and-the-blackout',
+        '13-the-world/the-society-and-the-blackout',
+        '13-the-world/the-economy-and-the-blackout',
+        '13-the-world/the-magic-and-the-blackout',
+        '13-the-world/the-magic-and-the-origin-of-the-world',
+        '13-the-world/the-auguries',
+        '13-the-world/the-continents',
+        '13-the-world/class-academies',
+        '13-the-world/the-protectorship-order',
+        '13-the-world/the-ecos',
+        '13-the-world/the-ages-of-the-world'
+      ],
+      '14. Appêndice': [
+        '14-appendix/stereotypes',
+        '14-appendix/flaws',
+        '14-appendix/character-sheet',
+        '14-appendix/types-of-armor',
+        '14-appendix/modifier-rule'
       ]
     }
   ]

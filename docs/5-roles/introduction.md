@@ -1,6 +1,6 @@
 ---
 id: roles-introduction
-title: Papéis de Jogo
+title: Escolhendo um Papel
 slug: /5-roles/roles-introduction
 ---
 
