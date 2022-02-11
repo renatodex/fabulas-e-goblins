@@ -2,11 +2,10 @@
 id: epic-outcomes
 title: Ações Épicas
 slug: /8-system-2d20/epic-outcomes
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C081a3f36-e5fb-4e40-a832-8ef0011e5d77.jpg
 ---
 
-## Tirando Trinfos e Desastres Épicos
-
-![DiceEpic.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cedfe9313-7f7f-49d6-9291-ec05f211e9c3.jpg)
+![Lidando com Ações Épicas](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C081a3f36-e5fb-4e40-a832-8ef0011e5d77.jpg)
 
 No **Sistema 2d20**, um **Desastre Épico** e o **Triunfo Épico** ocorre quando um lançamento de 2d20 resulta em **dois Desastres** ou **dois Trinfos**
 

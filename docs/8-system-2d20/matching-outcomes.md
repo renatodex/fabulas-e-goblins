@@ -2,9 +2,10 @@
 id: matching-outcomes
 title: Tirando Números Iguais
 slug: /8-system-2d20/matching-outcomes
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff2b0ab3-36f1-4c29-a454-7097f3199724.jpg
 ---
 
-![PairDice.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff2b0ab3-36f1-4c29-a454-7097f3199724.jpg)
+![Uma falha neutra](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff2b0ab3-36f1-4c29-a454-7097f3199724.jpg)
 
 No **Sistema 2d20**, sempre que você tirar dois números iguais no Dado, o resultado será **sempre desconsiderado** e você deverá realizar um **novo lançamento de dados**.
 

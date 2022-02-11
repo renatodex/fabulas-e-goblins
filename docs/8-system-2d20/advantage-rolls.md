@@ -2,6 +2,7 @@
 id: advantage-rolls
 title: Vantagens e Desvantagens
 slug: /8-system-2d20/advantage-rolls
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C8af100de-e2d4-49d8-b249-a13f46deff0b.jpg
 ---
 
 ![Advantage.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C8af100de-e2d4-49d8-b249-a13f46deff0b.jpg)
