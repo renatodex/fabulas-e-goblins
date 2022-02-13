@@ -8,26 +8,24 @@ import styles from './styles.module.scss'
 
 const features = [
   {
-    title: 'Um mundo populado por Goblins',
-    imageUrl: 'img/feature1.png',
+    title: 'Um mundo de fantasia único',
+    imageUrl: 'img/feature1-2.png',
     description: (
       <div>
-        Em sistemas tradicionais, Goblins são vistos como monstros horrendos.
-        No F&G, não existem humanos, e os Goblins são conhecidos por serem
-        pioneiros da exploração.
+        Um mundo habitado por Goblins, Valdaris, Metalóides, Armadons e outras espécies
+        fantásticas criadas exclusivamente para o nosso RPG.
       </div>
     ),
     cta_text: 'Saiba mais',
     cta_link: '/docs',
   },
   {
-    title: 'Simples como deve ser',
+    title: 'Perfeito para iniciantes',
     imageUrl: 'img/feature2.png',
     description: (
       <div>
-        Um sistema simples e fácil de digerir, agradando tanto Iniciantes como
-        jogadores Avançados. Baseado em Sistemas OSR, é projetado para que a sua diversão
-        esteja sempre em primeiro lugar.
+        O nosso mundo fantástico também contém um sistema de jogo exclusivo, que é simples e fácil de digerir,
+        agradando tanto jogadores iniciantes como veteranos no mundo do RPG de Mesa.
       </div>
     ),
     cta_text: 'Ler o Livro',
