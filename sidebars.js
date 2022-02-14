@@ -98,7 +98,7 @@ module.exports = {
       '9. Regras  de Combate': [
         '9-combat-rules/combat-intro',
         '9-combat-rules/begining-of-combat',
-        '9-combat-rules/turns-and-rounds',
+        '9-combat-rules/player-turn',
         '9-combat-rules/moving',
         '9-combat-rules/attacking',
         '9-combat-rules/defending',
