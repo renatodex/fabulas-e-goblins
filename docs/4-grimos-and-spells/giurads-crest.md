@@ -142,8 +142,8 @@ Você pode escolher entre duas armas iniciais:
 
 | Imagem | Nome da Arma | Dano | Descrição | Durabilidade |
 | ------ | ------------ | ---- | --------- | ------------ |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | D10 + 3 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | D10 + 3 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | D12 + 3 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | D12 + 3 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
 
 ## Poderes do Grimo
 
