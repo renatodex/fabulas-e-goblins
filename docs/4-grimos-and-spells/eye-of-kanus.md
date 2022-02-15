@@ -193,6 +193,17 @@ E foi com o enfraquecimento das defesas cidades, que um grupo de indivíduos tre
 
 Foi apenas após diversas incursões bem sucedidas que `Duric` e seus aliados decidiram fundar a `Guilda de Kanus`, uma homenagem ao seu Tataravô, cujas estatuas e bustos estão sempre dispostas nas filiais da Guilda. Com o tempo, os Mestres-Elos replicaram o `Olho de Kanus` para os Adeptos da Guilda, e o conhecimento para utilizar o `Grimo` foi assim transferido para seus aprendizes, criando uma forte comunidade de Caçadores que quase 1 milênio depois ainda é responsável pela proteção de diversos Reinos nas Terras Místicas.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais: 
+
+| Imagem | Nome da Arma | Dano | Descrição | Durabilidade |
+| ------ | ---- | --------- | ------------ | ------------ |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C67068ed3-ae88-4391-b3dc-a3b8529399d0.PNG" width="80" /> | Arco do Iniciante + 0 | D8 + 3 | Arco inicial do Aventureiro*, bem simples e medianamente construído. Flechas normais são "infinitas". | 3 Cargas |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C06a7be0e-8191-4a21-92f7-8a2512083d9e.png" width="80" /> | Espada do Iniciante + 0 | D10 + 2 | Adaga inicial do Aventureiro, bem simples e suporta poucos cortes. | 3 Cargas |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
 ## Poderes do Grimo
 
 ### Especial

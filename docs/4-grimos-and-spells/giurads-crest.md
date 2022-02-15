@@ -136,6 +136,15 @@ O ritual, que teria acontecido anos antes do Blecaute, durou 48 dias, e transfer
 
 Uma das grandes virtudes que se destacam na criação do Grimo é sua criatividade e perseverança, possuindo o incrível talento de improvisar de forma inteligente, mesmo quando as circunstâncias parecem não ser favoráveis.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Dano | Descrição | Durabilidade |
+| ------ | ------------ | ---- | --------- | ------------ |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | D10 + 3 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | D10 + 3 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
+
 ## Poderes do Grimo
 
 ### Especial

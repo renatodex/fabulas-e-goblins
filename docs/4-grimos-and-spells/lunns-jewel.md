@@ -144,6 +144,17 @@ Sua missão é utilizar o poder e seu conhecimento para curar a ferida da escuri
 
 Após o Blecaute, muitos Terrores deixaram o manto da Escuridão para encobrir as Terras Místicas com o silêncio do Vazio, e por isso, sobram lugares no mundo onde a Fé e a Esperança devem ser restauradas a qualquer custo.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Dano | Descrição | Durabilidade |
+| ------ | ------------ | ---- | --------- | ------------ |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C28df9fc9-21e5-4a87-a8fb-afa90f6640e7.PNG" width="80" /> | Cajado do Iniciante + 0 | D6 + 3 | Cajado inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C203894a8-17e4-49b8-b22b-1de705ebb086.PNG" width="80" /> | Cruz do Iniciante + 0 | D8 + 4 | Cruz inicial do Aventureiro, ataque corpo-a-corpo, já vem benzida. | 3 Cargas |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
 ## Poderes do Grimo
 
 ### Especial
