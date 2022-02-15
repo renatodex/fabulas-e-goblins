@@ -22,6 +22,7 @@ module.exports = {
         '2-sheet-creation/defense-points',
         '2-sheet-creation/magic-defense',
         '2-sheet-creation/attack-points',
+        '2-sheet-creation/magic-attack-points',
         '2-sheet-creation/initial-items',
         '2-sheet-creation/grimos-and-magic',
         '2-sheet-creation/defining-your-origins',

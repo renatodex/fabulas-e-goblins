@@ -252,8 +252,6 @@ As descobertas de **Drako** no primeiro Século após o Blecaute teriam salvo se
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
-- Tormenta Elemental: Conjura uma tempestade violenta do *Elemento* escolhido e aplica *Efeito +4* em todos os inimigos. A tempestade ocupa uma área de 10x10 quadrados, e aplica dano TIER*D12+TIER*8 em todos inimigos que permanecerem na área até o final do turno. A tempestade dura 5 turnos. Em Aliados o Dano é reduzido: 1D4*TIER+3*TIER.
-
 <SpellFromJson expanded={false} spellData={alluras_torment} />
 
 ### Habilidades - Tier 1

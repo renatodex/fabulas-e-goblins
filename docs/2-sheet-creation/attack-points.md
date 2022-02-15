@@ -1,6 +1,6 @@
 ---
 id: attack-points
-title: Pontos de Ataque
+title: Pontos de Ataque Físico
 slug: /2-sheet-creation/attack-points
 ---
 
