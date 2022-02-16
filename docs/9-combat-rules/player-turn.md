@@ -10,7 +10,7 @@ Combate iniciado, Iniciativas calculadas, até os inimigos já jogaram, mas agor
 
 **O que vai fazer?**
 
-O **Turno do Jogador** é o seu **momento de brilhar**. Aqui, você poderá realizar 2 (duas) ações, sendo uma delas de **Movimento**, e outra de **Ataque**.
+O **Turno do Jogador** é o seu **momento de brilhar**. Aqui, você poderá realizar 2 (duas) ações, sendo as mais comuns delas a de **Movimento** e de **Ataque**.
 
 Mas existem muitos outros tipos de ações que você pode fazer, e nesta seção vamos falar sobre elas.
 
@@ -18,15 +18,15 @@ Mas existem muitos outros tipos de ações que você pode fazer, e nesta seção
 
 Um Turno de jogo leva em média **7 segundos**. Mas é lógico que esse tempo é uma estimativa, e que na prática talvez suas ações levem um pouco mais de tempo.
 
-No seu **Turno de Jogo**, você poderá realizar:
+Mas antes que você entenda que ações pode realizar, é importante dizer que as Ações neste jogo são categorizadas em 3 Tipos básicos:
 
 - *1x Ação Menor* (**Ex: Mover-se**)
 - *1x Ação Maior* (**Ex: Ataque**)
 - *Múltiplas Ações Livres* (**Ex: Falar com um Aliado**)
 
-É o que chamamos de **Tipo de Ação**. Na maioria das vezes, durante um combate, você vai realizar apenas **1x Ação de Movimento** e **1x Ação de Ataque** por Turno, porque elas são as *"Ações mais importantes do combate"*.
+Chamamos isso de **Tipo de Ação**. Uma **Ação de Movimento** é considerada como uma **Ação Menor**, já a **Ação de Ataque** é considerada como uma **Ação Maior**. 
 
-Mas muitas vezes você vai sentir que precisa realizar outros tipos de Ações, e é exatamente o que vamos explicar a seguir.
+Essas duas ações são consideradas como *"as mais comuns em um combate"*, mas muitas vezes você vai sentir que precisa realizar outros tipos de Ações, e é exatamente o que vamos explicar a seguir.
 
 ## Tipos de Ações
 
@@ -35,6 +35,8 @@ Um bom Combate não se resume apenas em **Correr e Bater**. Muitas vezes, você 
 Esse tipo de Ação é o que chamamos de **Ação Física**, e é considerada uma **Ação Maior**, assim como o **Ataque**. Mas além dela, existem diversas outras ações que você pode querer realizar no jogo:
 
 ## Ações Maiores
+
+Dificilmente você poderá realizar duas **Ações Maiores** num mesmo turno. Isso porquê essas ações geralmente são mais impactantes no combate, e por isso precisam ser mais controladas. Mesmo assim, alguns poderes especiais de Grimos podem alterar essas Regras, permitindo que Personagens realizem **Ações de Ataque extra**, por exemplo.
 
 | Ação           | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,8 +47,10 @@ Esse tipo de Ação é o que chamamos de **Ação Física**, e é considerada um
 
 ## Ações Menores
 
+Diferente das Ações Maiores, as **Ações Menores** são mais flexíveis, e permitem que você troque sua **Ação Maior** do seu turno por mais uma **Ação Menor**. Ou seja, ao invés de se **Mover** e **Atacar**, você pode usar a Ação **Mover** **duas vezes**, e isso equivale à ação **Correr**.
+
 | Ação           | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mover-se       | Essa atividade consiste em se movimentar pelo mapa usando seus pontos de movimento.Ex: Possuir 3 pontos de movimentos indica que você apenas poderá se mover 3 quadrados (horizontal ou vertical). Ações de movimento podem ser realizadas 1 ou 2 vezes no turno. (Mover-se 2 vezes sem atacar é considerado como “Correr”) O combate estratégico do Fábula de Goblins se baseia num grid quadrado, e você pode se movimentar na Horizontal ou na Vertical, mas nunca na Diagonal. |
+| Mover-se       | Essa atividade consiste em se movimentar pelo mapa usando seus pontos de movimento.Ex: Possuir 3 pontos de movimentos indica que você apenas poderá se mover 3 quadrados (horizontal ou vertical). Ações de movimento podem ser realizadas 1 ou 2 vezes no turno. (Mover-se 2 vezes sem atacar é considerado como “Correr”) O combate estratégico do Fábulas & Goblins se baseia num grid quadrado, e você pode se movimentar na Horizontal ou na Vertical, mas nunca na Diagonal. |
 | Correr         | É a mesma coisa que se Movimentar 2 vezes no turno. Quando você corre, você não pode atacar pois já usou as suas duas ações. (A menos que outro efeito lhe diga o contrário).                                                                                                                                                                                                                                                                                                      |
 | Levantar-se    | Geralmente usada quando seu personagem foi derrubado de alguma forma. Consome 1 ação.                                                                                                                                                                                                                                                                                                                                                                                              |
