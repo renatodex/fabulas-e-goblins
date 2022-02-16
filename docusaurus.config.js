@@ -1,3 +1,5 @@
+const version = require('./version.json');
+
 module.exports = {
   title: 'Fábulas & Goblins',
   tagline: 'Um sistema de RPG aberto, gratuíto e colaborativo.',
@@ -18,7 +20,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Livro (Pré-Alpha 2.1.0)',
+          label: `Livro (${version.phase} ${version.version})`,
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
