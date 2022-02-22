@@ -37,7 +37,7 @@ Lembrando que os *Bônus* e o *Ataque da Arma* devem ser somados ao **número ma
 
 ### 2. Determinando o Sucesso de um Ataque
 
-Todos os testes de Ataques são considerados [Ações de Desafio](/docs/7-game-rules/challenge-checks.md). É o Narrador que determina qual é a dificuldade do teste numa **Ação de Desafio**. Como já explicado no capítulo anterior, um Sucesso é obtido quando o resultado de um dos dois D20 é superior ao valor da **Dificuldade do Teste** (apenas conhecido pelo Narrador)
+Todos os testes de Ataques são considerados [Ações de Desafio](/docs/7-game-rules/challenge-checks). É o Narrador que determina qual é a dificuldade do teste numa **Ação de Desafio**. Como já explicado no capítulo anterior, um Sucesso é obtido quando o resultado de um dos dois D20 é superior ao valor da **Dificuldade do Teste** (apenas conhecido pelo Narrador)
 
 Mas caso você não ultrapasse esse resultado, ainda é possível obter uma **Ação Imperfeita**, que faz com que seu Dano seja aplicado normalmente, mas pode gerar algumas consequências. Na tabela abaixo listamos algumas consequências que o Narrador pode utilizar neste tipo de ocasião:
 
@@ -77,7 +77,7 @@ Secretamente, o Narrador utilizará este valor como a **Dificuldade do Teste** d
 
 **O resultado dos dois 2d20 são 9 e 10**. Ramón seleciona o maior valor (10), e soma a ele seu bônus de **+3 de Ataque**.
 
-Infelizmente, mesmo assim o **valor de 13** não é suficiente para obter um sucesso, já que a **Defesa do Fougrat é 15**, mas de acordo com as regras da [Ação de Desafio](/docs/7-game-rules/challenge-checks.md), essa pode ser considerada uma **jogada Imperfeita**.
+Infelizmente, mesmo assim o **valor de 13** não é suficiente para obter um sucesso, já que a **Defesa do Fougrat é 15**, mas de acordo com as regras da [Ação de Desafio](/docs/7-game-rules/challenge-checks), essa pode ser considerada uma **jogada Imperfeita**.
 
 O Narrador então **permite que Ramón acerte o Fougrat**, mas como consequência da **jogada imperfeita**, ele diz que **Ramón gira o machado para acertar o Fougrat**, mas acaba acidentalmente **acertando um aliado que estava próximo**, causando no aliado metade do Dano que ele causou na criatura.
 :::
@@ -120,7 +120,7 @@ Lembrando que os *Bônus* e o *Ataque da Arma* devem ser somados ao **número ma
 
 ### 2. Determinando o Sucesso da Defesa
 
-Todos os testes de Defesa são considerados [Ações de Desafio](/docs/7-game-rules/challenge-checks.md). É o Narrador que determina qual é a dificuldade do teste numa **Ação de Desafio**. Como já explicado no capítulo anterior, um Sucesso é obtido quando o resultado de um dos dois D20 é superior ao valor da **Dificuldade do Teste** (apenas conhecido pelo Narrador)
+Todos os testes de Defesa são considerados [Ações de Desafio](/docs/7-game-rules/challenge-checks). É o Narrador que determina qual é a dificuldade do teste numa **Ação de Desafio**. Como já explicado no capítulo anterior, um Sucesso é obtido quando o resultado de um dos dois D20 é superior ao valor da **Dificuldade do Teste** (apenas conhecido pelo Narrador)
 
 Mas caso você não ultrapasse esse resultado, ainda é possível obter uma **Ação Imperfeita**, que faz com que sua Defesa seja bem sucedida, mas com algumas consequências. Na tabela abaixo listamos algumas consequências que o Narrador pode utilizar neste tipo de ocasião:
 
@@ -157,7 +157,7 @@ Secretamente, o Narrador utilizará este valor como a **Dificuldade do Teste** d
 
 **O resultado dos dois 2d20 são 9 e 10**. Ramón seleciona o maior valor (10), e soma a ele seu bônus de **+3 de Defesa**.
 
-Infelizmente, mesmo assim o **valor de 13** não é suficiente para obter um sucesso, já que o **Ataque do Fougrat é 15**, mas de acordo com as regras da [Ação de Desafio](/docs/7-game-rules/challenge-checks.md), essa pode ser considerada uma **jogada Imperfeita**.
+Infelizmente, mesmo assim o **valor de 13** não é suficiente para obter um sucesso, já que o **Ataque do Fougrat é 15**, mas de acordo com as regras da [Ação de Desafio](/docs/7-game-rules/challenge-checks), essa pode ser considerada uma **jogada Imperfeita**.
 
 O Narrador então **permite que Ramón bloqueie o Ataque do Fougrat**, mas como consequência da **jogada imperfeita**, ele diz que **o potente Ataque do Fougrat fez com que uma peça da Armadura de Ramón se descolasse de seu corpo**, gerando uma penalidade permanente de **-1 de Defesa** até que a peça seja **recuperada e a armadura seja reparada**.
 :::
