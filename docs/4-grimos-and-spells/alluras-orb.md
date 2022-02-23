@@ -88,91 +88,20 @@ Quando você cria um Adepto de Allura, há algumas coisas que você precisa sabe
 Como mecânica de jogo, você poderá escolher qual será o Elemento da sua Orbe. A escolha elemental influenciará o Elemento das suas conjurações elementais, que podem variar entre intensidade, duração e formato.
 Abaixo listamos os 12 Elementos que existem no mundo das Terras Místicas:
 
-<table>
-  <thead>
-    <tr>
-      <th>Elemento</th>
-      <th>Descrição</th>
-      <th>Fraqueza</th>
-      <th>Efeito</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>Água</td>
-      <td>Controla o Líquido essêncial à vida, bem como Oceanos e Rios.</td>
-      <td>Eletricidade</td>
-      <td>Imprecisão</td>
-    </tr>
-    <tr>
-      <td>Ácido</td>
-      <td>Controla os elementos Tóxicos e Ácido com alto poder de corrosão.</td>
-      <td>Vento</td>
-      <td>Corrosão</td>
-    </tr>
-    <tr>
-      <td>Arcano</td>
-      <td>Controla a Mágia das Estrelas e a essência do Magiverso.</td>
-      <td>Caos</td>
-      <td>Silêncio</td>
-    </tr>
-    <tr>
-      <td>Caos</td>
-      <td>Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados.</td>
-      <td>Arcano</td>
-      <td>Controle</td>
-    </tr>
-    <tr>
-      <td>Eletricidade</td>
-      <td>Controla a estática e a eletricidade inerente na matéria do mundo.</td>
-      <td>Matéria</td>
-      <td>Paralizia</td>
-    </tr>
-    <tr>
-      <td>Fogo</td>
-      <td>Controla o calor primordial e destruidor do Fogo e da Lava.</td>
-      <td>Água</td>
-      <td>Queima</td>
-    </tr>
-    <tr>
-      <td>Gelo</td>
-      <td>Controla o frio implacável, o Gelo puro e matéria congelada.</td>
-      <td>Fogo</td>
-      <td>Lentidão</td>
-    </tr>
-    <tr>
-      <td>Luz</td>
-      <td>Controla a Magia da Luz e a essência do Divino.</td>
-      <td>Trevas</td>
-      <td>Expurgo</td>
-    </tr>
-    <tr>
-      <td>Matéria</td>
-      <td>Controla a própria Terra e seus Materiais.</td>
-      <td>Gelo</td>
-      <td>Contusão</td>
-    </tr>
-    <tr>
-      <td>Natureza</td>
-      <td>Controla a vida verde, a flora e suas raízes.</td>
-      <td>Ácido</td>
-      <td>Constrição</td>
-    </tr>
-    <tr>
-      <td>Trevas</td>
-      <td>Controla a Magia proibida das Trevas.</td>
-      <td>Luz</td>
-      <td>Medo</td>
-    </tr>
-    <tr>
-      <td>Vento</td>
-      <td>Controla o Ar, a força da densidade e as correntes.</td>
-      <td>Natureza</td>
-      <td>Empuxo</td>
-    </tr>
-  </tbody>
-</table>
+| Elemento     | Descrição                                                                      | Fraqueza     | Resistência | Efeito     |
+| ------------ | ------------------------------------------------------------------------------ | ------------ | ----------- | ---------- |
+| Água         | Controla o Líquido essêncial à vida, bem como Oceanos e Rios.                  | Trovão       | Fogo        | Imprecisão |
+| Ácido        | Controla os elementos Tóxicos e Ácidos com alto poder de corrosão.             | Vento        | Natureza    | Corrosão   |
+| Arcano       | Controla a Mágia das Estrelas e a essência do Magiverso.                       | Caos         | Caos        | Silêncio   |
+| Caos         | Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados. | Arcano       | Arcano      | Controle   |
+| Trovão       | Controla a estática e a eletricidade inerente na matéria do mundo.             | Matéria      | Água        | Paralizia  |
+| Fogo         | Controla o calor primordial e destruidor do Fogo e da Lava.                    | Água         | Gelo        | Queima     |
+| Gelo         | Controla o frio implacável, o Gelo puro e matéria congelada.                   | Fogo         | Matéria     | Lentidão   |
+| Luz          | Controla a Magia da Luz e a essência do Divino.                                | Trevas       | Trevas       | Expurgo    |
+| Matéria      | Controla a própria Terra e seus Materiais.                                     | Gelo         | Trovão      | Contusão   |
+| Natureza     | Controla a vida verde, a flora e suas raízes.                                  | Ácido        | Vento       | Constrição |
+| Trevas       | Controla a Magia proibida das Trevas.                                          | Luz          | Luz         | Medo       |
+| Vento        | Controla o Ar, a força da densidade e as correntes.                            | Natureza     | Ácido       | Empuxo     |
 
 ### 2. Fraqueza Elemental
 
