@@ -90,7 +90,7 @@ Apesar dos *Poderes Especiais* geralmente **possuirem um custo especificado**, v
 
 ![PoderEspecial.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C15969da8-9a02-48b7-9e05-9d56f9fbdef3.jpg)
 
-Os **Poderes Especiais** estão listados na página dos [Grimos](/docs/4-grimos-and-spells/introduction.md), e todos os Personagens escolhem **1 único Poder Especial** no início do jogo.
+Os **Poderes Especiais** estão listados na página dos [Grimos](/docs/4-grimos-and-spells/introduction), e todos os Personagens escolhem **1 único Poder Especial** no início do jogo.
 
 Diferente dos **poderes normais**, os poderes especiais **não podem ser aprendidos** ao longo de evolução do Personagem, a não ser através de um [Selo de Sobrecarga Grimal](/docs/7-game-rules/evolving).
 
