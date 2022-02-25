@@ -1,19 +1,23 @@
 ---
 id: understanding-magic-spells
-title: Entendendo as Fichas de Poder
+title: Fichas de Poder
 slug: /9-combat-rules/understanding-magic-spells
-image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C97132ead-7b95-40cb-ad24-8ac4af65d437.jpg
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cfc70b8b6-ebf2-4b57-8caf-a239c0e0b444.jpg
 ---
 
-![Como utilizar o mais poderoso dos recursos no combate](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C97132ead-7b95-40cb-ad24-8ac4af65d437.jpg)
+![Entendendo os Elementos, as Fraquezas, a Ficha de Poder, e mais](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cfc70b8b6-ebf2-4b57-8caf-a239c0e0b444.jpg)
 
-A Magia é um dos recursos mais poderosos das **Terras Místicas**. Devido ao advento do [Blecaute](/docs/13-the-world/the-blackout) o acesso à magia natural foi banido à todas as civilizações senscientes do mundo, e foi graças aos **Grimos** que os aventureiros puderam usufruir novamente dos conhecimentos mágicos ancestrais.
+Cada Poder dentro do jogo é representado por uma **Ficha de Poder**.
 
-No jogo, os Personagens podem utilizar o vínculo com seus Grimos para desferirem **poderosos ataques mágicos**, e por mais que este acesso seja limitado, ele se expande a medida que os Personagens evoluem.
+Assim como os **Personagens** e as **Criaturas** tem suas fichas no jogo, os **Poderes** também possuem sua própria Ficha. É lá que descrevemos suas propriedades, seus efeitos, fórmulas de Dano e outros aspectos cruciais.
 
-Diferente dos ataques comuns, os ataques mágicos estão frequentemente atrelados à **Elementos de Magia**, tais como **Fogo**, **Água**, **Materia** e outros. Ao todo, existem **12 elementos** conhecidos no mundo.
+E é impossível falar de **Poderes** sem falar de **Magia**, pois muitos desses **poderes** possuem **propriedades elementais** próprias.
 
-Nesta seção, vamos abordar diversos aspectos práticos da Magia, explicando os **elementos**, as **fichas de poder mágico**, e por  fim as regras de **Ataque e Defesa com Magia** durante o combate.
+A Magia é um dos recursos mais poderosos das **Terras Místicas**. E no jogo, é através dos **Grimos** que os Personagens são capazes de desferir **poderosos ataques mágicos**.
+
+Esses poderes mágicos frequentemente estão atrelados à **Elementos naturais**, como o **Fogo**, a **Água**, a **Materia** e outros. Ao todo, existem **12 elementos** conhecidos no mundo.
+
+Aqui nesta seção, vamos explicar em detalhes como ler uma **Ficha de Poder**, ao mesmo tempo que falamos sobre os **Elementos do mundo** e suas **Resistências e Fraquezas**.
 
 ## Os Elementos da Magia
 
