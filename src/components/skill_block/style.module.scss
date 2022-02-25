@@ -59,6 +59,8 @@
 
     &__col1 {
         display: flex;
+        margin-bottom: 15px;
+
         @media only screen and (min-width: 800px) {
            order: 3;
         }
@@ -72,6 +74,10 @@
                 margin: 0px 5px;
             }
         }
+    }
+
+    &__special {
+        background-color: #018f94;
     }
 
     &__iconright {

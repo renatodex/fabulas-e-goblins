@@ -100,6 +100,7 @@ module.exports = {
         '9-combat-rules/begining-of-combat',
         '9-combat-rules/player-turn',
         '9-combat-rules/moving',
+        '9-combat-rules/understanding-magic-spells',
         '9-combat-rules/physical-combat',
         '9-combat-rules/magical-combat',
         '9-combat-rules/death',

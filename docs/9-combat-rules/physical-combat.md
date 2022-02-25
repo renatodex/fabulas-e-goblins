@@ -84,11 +84,11 @@ O Narrador então **permite que Ramón acerte o Fougrat**, mas como consequênci
 
 ## Defendendo-se de um Ataque Físico
 
-A Defesa física é uma ação reativa. Você apenas se Defende quando inimigo te ataca.
+A Defesa física é uma ação reativa. Você apenas se Defende quando um inimigo te ataca.
 
 Defender é o ato de bloquear, absorver ou aparar um golpe inimigo direto.
 
-Mas no nosso sistema, os **inimigos não fazem rolagens**, e por isso, para se Defender, você também dependerá dos dados.
+Mas no nosso sistema, os **inimigos não fazem rolagens de ataque**, e por isso, para se Defender, você também dependerá dos dados.
 
 Enquanto no Ataque você rola dados para superar a *Defesa inimiga* utilizando seus **Pontos de Ataque**, na Defesa você rola dados para superar o *Ataque inimigo* utilizando os seus **Pontos de Defesa**. 
 
