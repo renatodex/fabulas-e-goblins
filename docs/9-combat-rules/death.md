@@ -2,6 +2,7 @@
 id: death
 title: Zerando os Pontos de Vida
 slug: /9-combat-rules/death
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdf34dec6-fc8f-4e46-a957-865a5c633632.jpg
 ---
 
 ![O que acontece ao perder um combate?](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdf34dec6-fc8f-4e46-a957-865a5c633632.jpg)
