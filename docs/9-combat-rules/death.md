@@ -105,6 +105,6 @@ O processo de **Curar um Trauma** não acontece de uma hora para outra, e exige 
 
 ## Traumas e o mundo real
 
-Jogadores são pessoas, e os Traumas também existem no mundo real. Logo, aplicar os Traumas de forma indelicada e ultrapassar os [limites de etiqueta do jogo](/docs/7-game-rules/game-etiquette.md) pode facilmente transformar seu RPG em um fiasco.
+Jogadores são pessoas, e os Traumas também existem no mundo real. Logo, aplicar os Traumas de forma indelicada e ultrapassar os [limites de etiqueta do jogo](/docs/7-game-rules/game-etiquette) pode facilmente transformar seu RPG em um fiasco.
 
 Por isso é muito importante entender **que essa experiência só será divertida se os jogadores alinharem os seus limites pessoais com o Narrador**. Muitas pessoas acham indelicado tratar temas sensíveis, 
