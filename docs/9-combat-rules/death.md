@@ -75,7 +75,7 @@ A tabela que segue não tem como objetivo **ditar uma regra específica** sobre 
 | Trauma de Ambiente | Aquele local onde você ficou inconsciente talvez tenha te deixado marcas profundas. Você pode receber penalidades por realizar ações nesse ambiente, até que consiga tratar o Trauma. |
 | Trauma Sensorial | No momento que você ficou inconsciente, um cheiro, uma textura ou talvez um som tenha ficado na sua mente. A presença desse elemento traumatizante pode te gerar penaalidades para interagir com ele no futuro. Pode ser o cheiro de um ácido, a textura da madeira ou até mesmo uma runa na parede. |
 | Trauma de Criatura | O combate com aquela besta lhe deixou marcas, e você não pode mais conter o terror de encarar esse tipo de criatura novamente. Pode receber penalidades, aplicar menos dano, ou ter que realizar testes adicionais. |
-| Traumas de Pessoas | Criaturas podem deixar marcas, mas as vezes a maldade está no coração de Goblins e Armadons. Talvez você tenha sido derrotado por Guardas Reais, e agora passe a ter um enorme temor por suas lanças e escudos pesados; Talvez um NPC específico tenha deixado lhe marcas profundas de pavor ou desgosto. Neste tipo de trauma, você pode sofrer penalidades para interagir com esse determinado tipo de pessoa. | 
+| Traumas de Pessoas | Criaturas podem deixar marcas, mas as vezes a maldade está no coração de Goblins e Armadons. Talvez você tenha sido derrotado por Guardas Reais, e agora passe a ter um enorme temor por suas lanças e escudos pesados; Talvez um NPC específico tenha deixado lhe marcas profundas de pavor ou desgosto. Neste tipo de trauma, você pode sofrer penalidades para interagir com esse determinado tipo de pessoa. |
 
 ## Meu personagem pode morrer?
 
@@ -91,12 +91,12 @@ Uma outra ocasião onde seu personagem pode **morrer de vez** é através dos **
 
 Algumas situações no jogo podem ser extremamente estressantes, ou exigir que os personagens cometam uma **grande injustiça por um bem maior**.
 
-Por isso, essas escolhas difíceis dos personagens na história **também podem gerar Traumas**, caso o Narrador julgue necessário. 
+Por isso, essas escolhas difíceis dos personagens na história **também podem gerar Traumas**, caso o Narrador julgue necessário.
 :::
 
 ## Recuperando-se de Traumas
 
-Cada Trauma adquirido é anotado na ficha do respectivo Personagem, e é um efeito permamente que não se dissolve até que seja curado. Não existe uma lógica ou regra de jogo para descrever mecânicamente a **cura de um Trauma**. 
+Cada Trauma adquirido é anotado na ficha do respectivo Personagem, e é um efeito permamente que não se dissolve até que seja curado. Não existe uma lógica ou regra de jogo para descrever mecânicamente a **cura de um Trauma**.
 
 Mas em alguns momentos, em alguns tipos de jogo, é possível que os Personagens tenham a oportunidade de se **separar por algum tempo**, seja para treinar **novas técnicas** de combate ou **resolver assuntos pessoais**.
 
@@ -108,4 +108,4 @@ O processo de **Curar um Trauma** não acontece de uma hora para outra, e exige 
 
 Jogadores são pessoas, e os Traumas também existem no mundo real. Logo, aplicar os Traumas de forma indelicada e ultrapassar os [limites de etiqueta do jogo](/docs/7-game-rules/game-etiquette) pode facilmente transformar seu RPG em um fiasco.
 
-Por isso é muito importante entender **que essa experiência só será divertida se os jogadores alinharem os seus limites pessoais com o Narrador**. Muitas pessoas acham indelicado tratar temas sensíveis, 
+Por isso é muito importante entender **que essa experiência só será divertida se os jogadores alinharem os seus limites pessoais com o Narrador**. Muitos jogadores podem achar indelicado tratar certos temas sensíveis na mesa de jogo, então apesar de ser **responsabilidade do Narrador** mediar esses limites e aplicar os Traumas de forma consciente e construtiva, os jogadores **também podem contribuir com idéias** para enriquecer a aplicação dessa mecânica durante o jogo.
