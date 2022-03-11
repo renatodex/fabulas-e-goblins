@@ -1,4 +1,4 @@
 {
-    "version": "2.3.{commit}",
+    "version": "3.0.{commit}",
     "phase": "alpha"
 }
