@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-plains
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import InitialMount from './../../data/spells/initial_mount.json'
-import TravellerPurse from './../../data/spells/traveller_purse.json'
-import TravellerBackpack from './../../data/spells/traveller_backpack.json'
+import InitialMount from './../../data/spells/spells/initial_mount.json'
+import TravellerPurse from './../../data/spells/spells/traveller_purse.json'
+import TravellerBackpack from './../../data/spells/spells/traveller_backpack.json'
 
 Imensos acampamentos itinerantes se extendem por kilômetros nas grandes Planícies Mediterrâneas das Terras Místicas. Esses reinos móveis foram originalmente fundados por Nativos que moravam nas Ilhas externas ao continente, que acabaram migrando para os Reinos Mediterrâneos, mas não conseguiram se adaptar na vida nas cidades. Acostumados com a liberdade e o contato à natureza, os Filhos das Planícies são primariamente compostos por Mercadores, Agricultores e Sentinelas.
 

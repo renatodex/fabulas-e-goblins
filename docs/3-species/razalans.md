@@ -5,9 +5,9 @@ slug: /3-species/specie-razalans
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import Float from './../../data/spells/float.json'
-import SoftFall from './../../data/spells/soft_fall.json'
-import WindBlow from './../../data/spells/wind_blow.json'
+import Float from './../../data/spells/spells/float.json'
+import SoftFall from './../../data/spells/spells/soft_fall.json'
+import WindBlow from './../../data/spells/spells/wind_blow.json'
 
 ![](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/especies-jogaveis/razalans/RazalansSpecie.jpg)
 

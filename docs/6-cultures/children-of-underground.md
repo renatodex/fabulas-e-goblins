@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-underground
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import ImproviseTool from './../../data/spells/improvise_tool.json'
-import MerchantBargain from './../../data/spells/merchant_bargain.json'
-import DarkVision from './../../data/spells/dark_vision.json'
+import ImproviseTool from './../../data/spells/spells/improvise_tool.json'
+import MerchantBargain from './../../data/spells/spells/merchant_bargain.json'
+import DarkVision from './../../data/spells/spells/dark_vision.json'
 
 Quando o Blecaute aconteceu, ele causou a invasão de hordas de criaturas em diversas civilizações e postos avançados do mundo.
 As criaturas queriam recuperar seus territórios, que eram seus de direito, e que haviam sido ocupados pelas Espécies senscientes do mundo muitos anos antes do evento.

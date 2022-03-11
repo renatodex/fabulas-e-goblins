@@ -6,7 +6,7 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C971
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import bash from './../../data/spells-giurad/tier1/bash.json'
+import bash from './../../data/spells/spells-giurad/tier1/bash.json'
 
 ![Como utilizar o mais poderoso dos recursos no combate](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C97132ead-7b95-40cb-ad24-8ac4af65d437.jpg)
 
@@ -38,12 +38,12 @@ Ao declarar o Ataque, o Personagem deverá selecionar os <a href="/docs/9-combat
 
 ![Ataque-Magico.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdd668aa7-f647-4de4-9f02-0339436de681.jpg)
 
-É importante dizer que a **Ficha de Poder** pode impor diferenças na forma como o ataque mágico será realizado. 
+É importante dizer que a **Ficha de Poder** pode impor diferenças na forma como o ataque mágico será realizado.
 
 :::note Utilizando Armas Elementais
 Se o ataque tiver **natureza mágica**, mas for realizado com uma Arma Física (ex: **Espada de Fogo**), então o dano é aplicado normalmente seguindo as [Regras do Combate Físico](/docs/9-combat-rules/physical-combat), mas **verifica-se as Resistências e Fraquezas mágicas** do Alvo para determinar se ele ele sofrerá o dobro ou metade do dano. Caso ele não tenha nem fraqueza nem resistência, aplica-se o dano normal.
 
-Apesar de cada elemento possuir seu **Efeitos elemental**, estes efeitos (Paralizia, Silêncio, etc) apenas se aplicam **se a Arma determinar explicitamente**. 
+Apesar de cada elemento possuir seu **Efeitos elemental**, estes efeitos (Paralizia, Silêncio, etc) apenas se aplicam **se a Arma determinar explicitamente**.
 :::
 
 :::note Poderes Mágicos Não-Elementais
@@ -138,9 +138,9 @@ Na maioria das vezes você vai **querer evitar** um ataque mágico inimigo bem s
 
 ### 1. Teste de Defesa Mágica
 
-O objetivo desta etapa é **determinar se você consegue ou não desviar/aparar/absorver** o *ataque mágico* de seu inimigo. 
+O objetivo desta etapa é **determinar se você consegue ou não desviar/aparar/absorver** o *ataque mágico* de seu inimigo.
 
-Falhar em um *teste de defesa mágica* é possível, o que significa que você **não conseguiu de Defender de forma eficiente**. 
+Falhar em um *teste de defesa mágica* é possível, o que significa que você **não conseguiu de Defender de forma eficiente**.
 
 Nessas ocasiões, podemos interpretar de várias maneiras: Talvez *o ataque do inimigo seja muito forte*, ou talvez a *técnica mágica* te pegou de surpresa, ou talvez você apenas estava mal posicionado e o *ataque te acertou em cheio*!
 

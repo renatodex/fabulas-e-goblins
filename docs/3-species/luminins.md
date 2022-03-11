@@ -5,9 +5,9 @@ slug: /3-species/specie-luminins
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import Float from './../../data/spells/float.json'
-import NaturalLight from './../../data/spells/natural_light.json'
-import MineralCamouflage from './../../data/spells/mineral_camouflage.json'
+import Float from './../../data/spells/spells/float.json'
+import NaturalLight from './../../data/spells/spells/natural_light.json'
+import MineralCamouflage from './../../data/spells/spells/mineral_camouflage.json'
 
 ![luminins.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf825ad17-1143-4824-8c2d-c448cac0df46.png)
 

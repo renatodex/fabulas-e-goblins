@@ -5,9 +5,9 @@ slug: /3-species/specie-goblins
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import ExtraAttributes from './../../data/spells/extra_attribute.json'
-import GoblinAudition from './../../data/spells/goblin_audition.json'
-import LuckyArmor from './../../data/spells/lucky_armor.json'
+import ExtraAttributes from './../../data/spells/spells/extra_attribute.json'
+import GoblinAudition from './../../data/spells/spells/goblin_audition.json'
+import LuckyArmor from './../../data/spells/spells/lucky_armor.json'
 
 ![goblins.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca1585ace-df77-4c02-8740-6788f993dc2f.png)
 

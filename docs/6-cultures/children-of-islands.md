@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-islands
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import SpiritualConversion from './../../data/spells/spiritual_conversion.json'
-import Meditation from './../../data/spells/meditation.json'
-import SenseEnergy from './../../data/spells/sense_energy.json'
+import SpiritualConversion from './../../data/spells/spells/spiritual_conversion.json'
+import Meditation from './../../data/spells/spells/meditation.json'
+import SenseEnergy from './../../data/spells/spells/sense_energy.json'
 
 Os Nativos, ou Filhos das Ilhas, são um grupo seleto de pessoas que habitam as Ilhas dos Arquipélagos Terrestres das Terras Místicas. Essas Ilhas são ambientes de terra virgem que são guardados e protegidos por tribos Nativas ancestrais.
 

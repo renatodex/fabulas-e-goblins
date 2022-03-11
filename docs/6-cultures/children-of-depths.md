@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-depths
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import FatigueImmunity from './../../data/spells/fatigue_immunity.json'
-import SeaMagic from './../../data/spells/sea_magic.json'
-import AquaShell from './../../data/spells/aqua_shell.json'
+import FatigueImmunity from './../../data/spells/spells/fatigue_immunity.json'
+import SeaMagic from './../../data/spells/spells/sea_magic.json'
+import AquaShell from './../../data/spells/spells/aqua_shell.json'
 
 Enquanto as Espécies da superfície batizaram o extenso mar das Terras Místicas como Caldera, para os povos dessa cultura, ele é muito mais que um mero impecílio de transporte.<br/>
 Batizado pelos antigos **Valdari** como o Mar de **Timeria**, ele representa todo o território dos oceanos submersos (não se engane, pois existem Oceanos suspensos!). Por esse motivo, é muito comum se referir ao Povo Submerso como Timerianos.

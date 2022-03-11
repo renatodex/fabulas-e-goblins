@@ -5,9 +5,9 @@ slug: /3-species/specie-metaloids
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import MagicalManipulation from './../../data/spells/magical_manipulation.json'
-import SenseMagic from './../../data/spells/sense_magic.json'
-import Climb from './../../data/spells/climb.json'
+import MagicalManipulation from './../../data/spells/spells/magical_manipulation.json'
+import SenseMagic from './../../data/spells/spells/sense_magic.json'
+import Climb from './../../data/spells/spells/climb.json'
 
 ![metaloides.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cac8fe27f-88cb-41e9-96b4-8225a379df93.png)
 

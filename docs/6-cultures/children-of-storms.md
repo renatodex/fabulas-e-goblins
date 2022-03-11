@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-storms
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import LuxuryClothes from './../../data/spells/luxury_clothes.json'
-import TempestusProtection from './../../data/spells/tempestus_protection.json'
-import TempestusJulgatio from './../../data/spells/tempestus_julgatio.json'
+import LuxuryClothes from './../../data/spells/spells/luxury_clothes.json'
+import TempestusProtection from './../../data/spells/spells/tempestus_protection.json'
+import TempestusJulgatio from './../../data/spells/spells/tempestus_julgatio.json'
 
 > A vida é como uma tempestade, e se você quiser vivê-la, precisa atravessá-la.
 

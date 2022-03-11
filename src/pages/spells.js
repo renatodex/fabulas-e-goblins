@@ -1,6 +1,6 @@
 import URLSearchParams from '@ungap/url-search-params'
 import React, { useState } from "react";
-import Spells from '../../data/spells'
+import Spells from '../../data/spells/spells'
 import { SpellFromJson } from './../../src/components/skill_block/index'
 import styles from './spells.module.scss'
 

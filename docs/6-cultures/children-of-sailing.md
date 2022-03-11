@@ -5,8 +5,8 @@ slug: /6-cultures/children-of-sailing
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import ColdResistance from './../../data/spells/cold_resistance.json'
-import Sail from './../../data/spells/sail.json'
+import ColdResistance from './../../data/spells/spells/cold_resistance.json'
+import Sail from './../../data/spells/spells/sail.json'
 
 Acostumados a passar meses velejando no extenso e inexplorado mar de Caldera, esses Aventureiros estão desacostumados com a comodidade da Terra.
 Reinos portuários como **Tol'Deran**, **Nuvenar** e **Celendor** são com certeza a única porção de terra que eles podem considerar como um "Porto Seguro", e até, talvez, chamar de lar.
