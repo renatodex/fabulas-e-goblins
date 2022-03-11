@@ -5,9 +5,9 @@ slug: /3-species/specie-valdaris
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import AmphibiousBreathing from './../../data/spells/amphibious_breathing.json'
-import Swim from './../../data/spells/swim.json'
-import MoveUnderwater from './../../data/spells/move_underwater.json'
+import AmphibiousBreathing from './../../data/spells/spells/amphibious_breathing.json'
+import Swim from './../../data/spells/spells/swim.json'
+import MoveUnderwater from './../../data/spells/spells/move_underwater.json'
 
 ![Valdaris.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf58c81f6-ca3c-4d7b-930e-31d6719a2624.png)
 

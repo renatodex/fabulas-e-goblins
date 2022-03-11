@@ -6,53 +6,53 @@ slug: /4-grimos-and-spells/alluras-orb
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
-import alluras_torment from './../../data/spells-allura/ultimates/alluras_torment.json'
+import alluras_torment from './../../data/spells/spells-allura/ultimates/alluras_torment.json'
 
-import apprentice_blast from './../../data/spells-allura/tier1/apprentice_blast.json'
-import arcane_amplification from './../../data/spells-allura/tier1/arcane_amplification.json'
-import create_element from './../../data/spells-allura/tier1/create_element.json'
-import detect_element from './../../data/spells-allura/tier1/detect_element.json'
-import elemental_fortitude from './../../data/spells-allura/tier1/elemental_fortitude.json'
-import expose_weakness from './../../data/spells-allura/tier1/expose_weakness.json'
-import mage_fist from './../../data/spells-allura/tier1/mage_fist.json'
-import magic_wave from './../../data/spells-allura/tier1/magic_wave.json'
-import manipulate_element from './../../data/spells-allura/tier1/manipulate_element.json'
-import minimize_weakness from './../../data/spells-allura/tier1/minimize_weakness.json'
-import prelemental_explosion from './../../data/spells-allura/tier1/prelemental_explosion.json'
-import read_element from './../../data/spells-allura/tier1/read_element.json'
+import apprentice_blast from './../../data/spells/spells-allura/tier1/apprentice_blast.json'
+import arcane_amplification from './../../data/spells/spells-allura/tier1/arcane_amplification.json'
+import create_element from './../../data/spells/spells-allura/tier1/create_element.json'
+import detect_element from './../../data/spells/spells-allura/tier1/detect_element.json'
+import elemental_fortitude from './../../data/spells/spells-allura/tier1/elemental_fortitude.json'
+import expose_weakness from './../../data/spells/spells-allura/tier1/expose_weakness.json'
+import mage_fist from './../../data/spells/spells-allura/tier1/mage_fist.json'
+import magic_wave from './../../data/spells/spells-allura/tier1/magic_wave.json'
+import manipulate_element from './../../data/spells/spells-allura/tier1/manipulate_element.json'
+import minimize_weakness from './../../data/spells/spells-allura/tier1/minimize_weakness.json'
+import prelemental_explosion from './../../data/spells/spells-allura/tier1/prelemental_explosion.json'
+import read_element from './../../data/spells/spells-allura/tier1/read_element.json'
 
-import apprentice_blast_2 from './../../data/spells-allura/tier2/apprentice_blast_2.json'
-import elemental_barrier from './../../data/spells-allura/tier2/elemental_barrier.json'
-import hex from './../../data/spells-allura/tier2/hex.json'
-import hide_in_element from './../../data/spells-allura/tier2/hide_in_element.json'
-import linear_beam from './../../data/spells-allura/tier2/linear_beam.json'
-import mage_fist_2 from './../../data/spells-allura/tier2/mage_fist_2.json'
-import magic_surge from './../../data/spells-allura/tier2/magic_surge.json'
-import manipulate_element_2 from './../../data/spells-allura/tier2/manipulate_element_2.json'
-import prelemental_explosion_2 from './../../data/spells-allura/tier2/prelemental_explosion_2.json'
-import read_element_2 from './../../data/spells-allura/tier2/read_element_2.json'
+import apprentice_blast_2 from './../../data/spells/spells-allura/tier2/apprentice_blast_2.json'
+import elemental_barrier from './../../data/spells/spells-allura/tier2/elemental_barrier.json'
+import hex from './../../data/spells/spells-allura/tier2/hex.json'
+import hide_in_element from './../../data/spells/spells-allura/tier2/hide_in_element.json'
+import linear_beam from './../../data/spells/spells-allura/tier2/linear_beam.json'
+import mage_fist_2 from './../../data/spells/spells-allura/tier2/mage_fist_2.json'
+import magic_surge from './../../data/spells/spells-allura/tier2/magic_surge.json'
+import manipulate_element_2 from './../../data/spells/spells-allura/tier2/manipulate_element_2.json'
+import prelemental_explosion_2 from './../../data/spells/spells-allura/tier2/prelemental_explosion_2.json'
+import read_element_2 from './../../data/spells/spells-allura/tier2/read_element_2.json'
 
-import auto_element from './../../data/spells-allura/tier3/auto_element.json'
-import double_blast from './../../data/spells-allura/tier3/double_blast.json'
-import elemental_curse from './../../data/spells-allura/tier3/elemental_curse.json'
-import elemental_heal from './../../data/spells-allura/tier3/elemental_heal.json'
-import elemental_shield from './../../data/spells-allura/tier3/elemental_shield.json'
-import friendly_fire from './../../data/spells-allura/tier3/friendly_fire.json'
-import mage_fist_3 from './../../data/spells-allura/tier3/mage_fist_3.json'
-import planar_meditation from './../../data/spells-allura/tier3/planar_meditation.json'
-import spiral from './../../data/spells-allura/tier3/spiral.json'
-import upgrade_skill from './../../data/spells-allura/tier3/upgrade_skill.json'
+import auto_element from './../../data/spells/spells-allura/tier3/auto_element.json'
+import double_blast from './../../data/spells/spells-allura/tier3/double_blast.json'
+import elemental_curse from './../../data/spells/spells-allura/tier3/elemental_curse.json'
+import elemental_heal from './../../data/spells/spells-allura/tier3/elemental_heal.json'
+import elemental_shield from './../../data/spells/spells-allura/tier3/elemental_shield.json'
+import friendly_fire from './../../data/spells/spells-allura/tier3/friendly_fire.json'
+import mage_fist_3 from './../../data/spells/spells-allura/tier3/mage_fist_3.json'
+import planar_meditation from './../../data/spells/spells-allura/tier3/planar_meditation.json'
+import spiral from './../../data/spells/spells-allura/tier3/spiral.json'
+import upgrade_skill from './../../data/spells/spells-allura/tier3/upgrade_skill.json'
 
-import cataclism from './../../data/spells-allura/tier4/cataclism.json'
-import double_fist from './../../data/spells-allura/tier4/double_fist.json'
-import elemental_absorv from './../../data/spells-allura/tier4/elemental_absorv.json'
-import elemental_fly from './../../data/spells-allura/tier4/elemental_fly.json'
-import elemental_shape from './../../data/spells-allura/tier4/elemental_shape.json'
-import inferno from './../../data/spells-allura/tier4/inferno.json'
-import linear_beam_2 from './../../data/spells-allura/tier4/linear_beam_2.json'
-import meteors from './../../data/spells-allura/tier4/meteors.json'
-import quadro_blast from './../../data/spells-allura/tier4/quadro_blast.json'
-import torment_master from './../../data/spells-allura/tier4/torment_master.json'
+import cataclism from './../../data/spells/spells-allura/tier4/cataclism.json'
+import double_fist from './../../data/spells/spells-allura/tier4/double_fist.json'
+import elemental_absorv from './../../data/spells/spells-allura/tier4/elemental_absorv.json'
+import elemental_fly from './../../data/spells/spells-allura/tier4/elemental_fly.json'
+import elemental_shape from './../../data/spells/spells-allura/tier4/elemental_shape.json'
+import inferno from './../../data/spells/spells-allura/tier4/inferno.json'
+import linear_beam_2 from './../../data/spells/spells-allura/tier4/linear_beam_2.json'
+import meteors from './../../data/spells/spells-allura/tier4/meteors.json'
+import quadro_blast from './../../data/spells/spells-allura/tier4/quadro_blast.json'
+import torment_master from './../../data/spells/spells-allura/tier4/torment_master.json'
 
 ![allura2.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd7d742c5-4dd6-4890-9cf0-4ad23bc2a2a1.png)
 
@@ -88,91 +88,20 @@ Quando você cria um Adepto de Allura, há algumas coisas que você precisa sabe
 Como mecânica de jogo, você poderá escolher qual será o Elemento da sua Orbe. A escolha elemental influenciará o Elemento das suas conjurações elementais, que podem variar entre intensidade, duração e formato.
 Abaixo listamos os 12 Elementos que existem no mundo das Terras Místicas:
 
-<table>
-  <thead>
-    <tr>
-      <th>Elemento</th>
-      <th>Descrição</th>
-      <th>Fraqueza</th>
-      <th>Efeito</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>Água</td>
-      <td>Controla o Líquido essêncial à vida, bem como Oceanos e Rios.</td>
-      <td>Eletricidade</td>
-      <td>Imprecisão</td>
-    </tr>
-    <tr>
-      <td>Ácido</td>
-      <td>Controla os elementos Tóxicos e Ácido com alto poder de corrosão.</td>
-      <td>Vento</td>
-      <td>Corrosão</td>
-    </tr>
-    <tr>
-      <td>Arcano</td>
-      <td>Controla a Mágia das Estrelas e a essência do Magiverso.</td>
-      <td>Caos</td>
-      <td>Silêncio</td>
-    </tr>
-    <tr>
-      <td>Caos</td>
-      <td>Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados.</td>
-      <td>Arcano</td>
-      <td>Controle</td>
-    </tr>
-    <tr>
-      <td>Eletricidade</td>
-      <td>Controla a estática e a eletricidade inerente na matéria do mundo.</td>
-      <td>Matéria</td>
-      <td>Paralizia</td>
-    </tr>
-    <tr>
-      <td>Fogo</td>
-      <td>Controla o calor primordial e destruidor do Fogo e da Lava.</td>
-      <td>Água</td>
-      <td>Queima</td>
-    </tr>
-    <tr>
-      <td>Gelo</td>
-      <td>Controla o frio implacável, o Gelo puro e matéria congelada.</td>
-      <td>Fogo</td>
-      <td>Lentidão</td>
-    </tr>
-    <tr>
-      <td>Luz</td>
-      <td>Controla a Magia da Luz e a essência do Divino.</td>
-      <td>Trevas</td>
-      <td>Expurgo</td>
-    </tr>
-    <tr>
-      <td>Matéria</td>
-      <td>Controla a própria Terra e seus Materiais.</td>
-      <td>Gelo</td>
-      <td>Contusão</td>
-    </tr>
-    <tr>
-      <td>Natureza</td>
-      <td>Controla a vida verde, a flora e suas raízes.</td>
-      <td>Ácido</td>
-      <td>Constrição</td>
-    </tr>
-    <tr>
-      <td>Trevas</td>
-      <td>Controla a Magia proibida das Trevas.</td>
-      <td>Luz</td>
-      <td>Medo</td>
-    </tr>
-    <tr>
-      <td>Vento</td>
-      <td>Controla o Ar, a força da densidade e as correntes.</td>
-      <td>Natureza</td>
-      <td>Empuxo</td>
-    </tr>
-  </tbody>
-</table>
+| Elemento     | Descrição                                                                      | Fraqueza     | Resistência | Efeito     |
+| ------------ | ------------------------------------------------------------------------------ | ------------ | ----------- | ---------- |
+| Água         | Controla o Líquido essêncial à vida, bem como Oceanos e Rios.                  | Trovão       | Fogo        | Imprecisão |
+| Ácido        | Controla os elementos Tóxicos e Ácidos com alto poder de corrosão.             | Vento        | Natureza    | Corroer    |
+| Arcano       | Controla a Mágia das Estrelas e a essência do Magiverso.                       | Caos         | Caos        | Silenciar  |
+| Caos         | Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados. | Arcano       | Arcano      | Controlar  |
+| Trovão       | Controla a estática e a eletricidade inerente na matéria do mundo.             | Matéria      | Água        | Paralizar  |
+| Fogo         | Controla o calor primordial e destruidor do Fogo e da Lava.                    | Água         | Gelo        | Queimar    |
+| Gelo         | Controla o frio implacável, o Gelo puro e matéria congelada.                   | Fogo         | Matéria     | Lentidão   |
+| Luz          | Controla a Magia da Luz e a essência do Divino.                                | Trevas       | Trevas      | Expurgo    |
+| Matéria      | Controla a própria Terra e seus Materiais.                                     | Gelo         | Trovão      | Atordoar   |
+| Natureza     | Controla a vida verde, a flora e suas raízes.                                  | Ácido        | Vento       | Constrição |
+| Trevas       | Controla a Magia proibida das Trevas.                                          | Luz          | Luz         | Terror     |
+| Vento        | Controla o Ar, a força da densidade e as correntes.                            | Natureza     | Ácido       | Empurrar   |
 
 ### 2. Fraqueza Elemental
 

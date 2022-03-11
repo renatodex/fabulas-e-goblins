@@ -1,4 +1,4 @@
-const { getSpells } = require('../data/spells-cjs')
+const { getSpells } = require('../data/spells/spells-cjs')
 const path = require('path');
 const { writeFile } = require('fs')
 

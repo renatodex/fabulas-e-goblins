@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-sands
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import SharpWeapon from './../../data/spells/sharp_weapon.json'
-import HeatResistance from './../../data/spells/heat_resistance.json'
-import FindWater from './../../data/spells/find_water.json'
+import SharpWeapon from './../../data/spells/spells/sharp_weapon.json'
+import HeatResistance from './../../data/spells/spells/heat_resistance.json'
+import FindWater from './../../data/spells/spells/find_water.json'
 
 A vida no Deserto, diferente da Floresta, é desafiadora. Os perígos estão sempre a espreita, e se perder numa núvem de areia pode significar o seu fim.
 

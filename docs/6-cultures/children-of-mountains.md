@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-mountains
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import MetalArmor from './../../data/spells/metal_armor.json'
-import MetalFeather from './../../data/spells/metal_feather.json'
-import MechanicKnowledge from './../../data/spells/mechanic_knowledge.json'
+import MetalArmor from './../../data/spells/spells/metal_armor.json'
+import MetalFeather from './../../data/spells/spells/metal_feather.json'
+import MechanicKnowledge from './../../data/spells/spells/mechanic_knowledge.json'
 
 > A Magia é o combustível da vitória.
 

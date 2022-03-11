@@ -10,6 +10,6 @@
   "icon": "GiDigHole",
   "element": null,
   "caption": "Você conjura a corrupção de seu elemento em um inimigo, aplicando um terrível efeito negativo.",
-  "description": "<p>Faça um teste para aplicar o <b>Efeito Elemental +2</b> em um único inimigo. O inimigo recebe o efeito como uma Maldição, e apenas pode se livrar dela a partir de seu próximo turno.</p>",
+  "description": "<p>Faça um teste para aplicar o <b>Efeito Elemental <a href=\"/docs/9-combat-rules/negative-effects\">(T=2,D=8,N=1,C=16,P=2,M=2)</a></b> em um único inimigo. O inimigo recebe o efeito como uma Maldição, e apenas pode se livrar dela a partir de seu próximo turno.</p>",
   "tags": ["grimo", "allura"]
 }

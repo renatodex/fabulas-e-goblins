@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-clouds
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import LuxuryCulture from './../../data/spells/luxury_culture.json'
-import LuxuryClothes from './../../data/spells/luxury_clothes.json'
-import MagicalEfficience from './../../data/spells/magical_efficience.json'
+import LuxuryCulture from './../../data/spells/spells/luxury_culture.json'
+import LuxuryClothes from './../../data/spells/spells/luxury_clothes.json'
+import MagicalEfficience from './../../data/spells/spells/magical_efficience.json'
 
 Tudo é diferente no mundo acima das Núvens. E nas Terras Místicas, não é só a vida selvagem que conseguiu se adaptar nas altas altitudes. Parar viver neste mundo, você não precisa necessariamente ter nascido como uma criatura alada, assim como os Razalans e os Luminins, pois qualquer um, até mesmo Goblins podem se aventurar nas alturas do continente flutuante Arcádia.
 

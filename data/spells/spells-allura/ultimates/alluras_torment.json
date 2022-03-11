@@ -10,6 +10,6 @@
   "icon": "GiDigHole",
   "element": null,
   "caption": "A sobrecarga do seu Grimo permite conjurar o imenso poder da Tormenta de Allura, um frenesi elemental que engole o campo de batalha em uma tempestade de Raios elementais por diversos segundos, causando um dano gigantesco.",
-  "description": "<p>Conjura uma tempestade violenta do seu <b>Elemento</b> e aplica <b>Efeito +4</b> em todos os inimigos.<br/>A tempestade ocupa uma área de <b>10x10 quadrados</b>, e causa <code>TIER*(D12+8)</code> de dano em todos inimigos que permanecerem na área até o final do turno.<br/>A tempestade dura <b>5 turnos</b>. Em Aliados o Dano é reduzido: <code>TIER*(1D4+3).</p>",
+  "description": "<p>Conjura uma tempestade violenta do seu <b>Elemento</b> e aplica <b>Efeito <a href=\"/docs/9-combat-rules/negative-effects\">(T=4,D=10,N=3,C=20,P=4,M=4)</a></b> em todos os inimigos.<br/>A tempestade ocupa uma área de <b>10x10 quadrados</b>, e causa <code>TIER*(D12+8)</code> de dano em todos inimigos que permanecerem na área até o final do turno.<br/>A tempestade dura <b>5 turnos</b>. Em Aliados o Dano é reduzido: <code>TIER*(1D4+3).</p>",
   "tags": ["grimo", "allura", "ultimate", "special"]
 }

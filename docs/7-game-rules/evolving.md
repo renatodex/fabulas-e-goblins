@@ -101,6 +101,7 @@ Aqui listamos alguns tipos de Selos comuns:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo Grimal | Permite ao personagem se vincular a um Grimo adicional |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo da Auto Ascensão | Permite ao personagem subir 1 Nível (os Pontos de Aventura são zerados) |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo da Ascensão Grimônica | Evolui o Grimo alvo em 1 Nível (os Pontos de Aventura do Grimo são zerados) |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo de Sobrecarga Grimal | Permite ao personagem aprender um segundo Poder Especial no Grimo |
 
 Esses são apenas alguns Selos conhecidos.
 

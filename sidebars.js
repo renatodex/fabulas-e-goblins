@@ -98,6 +98,15 @@ module.exports = {
       ],
       '9. Regras  de Combate': [
         '9-combat-rules/combat-intro',
+        '9-combat-rules/begining-of-combat',
+        '9-combat-rules/player-turn',
+        '9-combat-rules/moving',
+        '9-combat-rules/understanding-magic-spells',
+        '9-combat-rules/physical-combat',
+        '9-combat-rules/magical-combat',
+        '9-combat-rules/death',
+        '9-combat-rules/durability',
+        '9-combat-rules/negative-effects',
       ],
       '10. Itens e Equipamentos': [
         '10-itens-and-equipments/itens-intro',

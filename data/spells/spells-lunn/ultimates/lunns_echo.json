@@ -1,0 +1,15 @@
+{
+  "name": "Eco de Lunn",
+  "magic_cost": "6*TIER P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 0,
+  "range_amount": "1x7",
+  "range_type": "Linha",
+  "icon": "GiPiercingSword",
+  "element": "holy",
+  "caption": "Seu Grimo se sobrecarrega num forte clarão para enviar suas preces diretamente ao Deus Lunn, criando um Feixe divino de pura Luz que cura todos os aliados no caminho ao mesmo tempo que aflige seus inimigos com um potente ataque de Luz.",
+  "description": "<p>O Eco de Lunn é um poder instantâneo que conjura um <b>feixe poderoso numa linha reta até 7 quadrados de distância</b> à partir do conjurador.<br/>Todos aliados no caminho do Feixe serão <b>curados em <code>(TIER)*(2d8+12)</code></b> sem realizar nenhum teste. <br/>Todos os inimigos atingidos na linha <b>recebem <code>(TIER)*(3d8+6)</code> de dano Elemental de Luz</b> <i>(criaturas Caídas, Mortos-Vivos, Demônios e Maldições geralmente tem fraqueza à este elemento, recebendo o dobro de dano)</i>.<br/>Para acertar o ataque, você deverá testar contra a <b>Defesa Mágica</b> do alvo.</p>",
+  "tags": ["ultimate", "grimo", "lunn"]
+}

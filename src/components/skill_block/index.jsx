@@ -4,10 +4,10 @@ import { RiRulerLine } from 'react-icons/ri';
 import { HiOutlineClock } from 'react-icons/hi';
 import { useSpring, animated } from 'react-spring'
 
-export function TagLabel ({ icon, children, mode = 'light' }) {
+export function TagLabel ({ icon, children, mode = 'light', classNames }) {
     const themeClass = mode == 'light' ? 'taglabel--light' : 'taglabel--dark'
     return (
-        <div className={`${styles['taglabel']} ${styles[themeClass]}`}>
+        <div className={`${styles['taglabel']} ${styles[themeClass]} ${classNames}`}>
             <span className={styles['taglabel__icon']}>
                 {icon}
             </span>
@@ -59,6 +59,7 @@ export function SpellFromJson ({ spellData, selected, expanded = true, onClick =
             range_type={spellData.range_type}
             icon={spellData.icon}
             element={spellData.element}
+            tags={spellData.tags}
             expanded={expanded}
             selected={selected}
             onClick={e => onClick(spellData, e)}
@@ -97,6 +98,7 @@ export function Spell ({
     expanded,
     selected,
     onClick,
+    tags = [],
     element = 'default',
 }) {
   const [expandToggle, setExpandToggle] = useState(expanded)
@@ -120,6 +122,8 @@ export function Spell ({
   if (element == 'eletric' || element == 'acid' || element == 'chaos') {
     mode = 'dark'
   }
+
+  const isSpecial = tags.includes('special') || tags.includes('ultimate')
 
   const elementMap = {
       'fire': 'Fogo',
@@ -161,6 +165,11 @@ export function Spell ({
                         <TagLabel mode={mode}>{action_type}</TagLabel>
                     )}
                 </div>
+                {isSpecial && (
+                    <div className={`${styles['spell-block__iconright']}`}>
+                        <TagLabel mode={mode}>Especial</TagLabel>
+                    </div>
+                )}
             </div>
             <div className={styles['spell-block__col2']}>
                 <Icon mode={mode} icon={icon}></Icon>

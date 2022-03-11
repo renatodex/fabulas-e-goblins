@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-dew
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import Track from './../../data/spells/track.json'
-import WoodsSurvival from './../../data/spells/woods_survival.json'
-import CraftPotion from './../../data/spells/craft_potion.json'
+import Track from './../../data/spells/spells/track.json'
+import WoodsSurvival from './../../data/spells/spells/woods_survival.json'
+import CraftPotion from './../../data/spells/spells/craft_potion.json'
 
 Nascidos em pequenos vilarejos ou reinos situados no interior de matas densas, os Filhos da Floresta, a exemplo dos `Galanorianos`, estão acostumados com a presença da vida selvagem a sua porta.
 
