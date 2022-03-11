@@ -91,17 +91,17 @@ Abaixo listamos os 12 Elementos que existem no mundo das Terras Místicas:
 | Elemento     | Descrição                                                                      | Fraqueza     | Resistência | Efeito     |
 | ------------ | ------------------------------------------------------------------------------ | ------------ | ----------- | ---------- |
 | Água         | Controla o Líquido essêncial à vida, bem como Oceanos e Rios.                  | Trovão       | Fogo        | Imprecisão |
-| Ácido        | Controla os elementos Tóxicos e Ácidos com alto poder de corrosão.             | Vento        | Natureza    | Corrosão   |
-| Arcano       | Controla a Mágia das Estrelas e a essência do Magiverso.                       | Caos         | Caos        | Silêncio   |
-| Caos         | Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados. | Arcano       | Arcano      | Controle   |
-| Trovão       | Controla a estática e a eletricidade inerente na matéria do mundo.             | Matéria      | Água        | Paralizia  |
-| Fogo         | Controla o calor primordial e destruidor do Fogo e da Lava.                    | Água         | Gelo        | Queima     |
+| Ácido        | Controla os elementos Tóxicos e Ácidos com alto poder de corrosão.             | Vento        | Natureza    | Corroer    |
+| Arcano       | Controla a Mágia das Estrelas e a essência do Magiverso.                       | Caos         | Caos        | Silenciar  |
+| Caos         | Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados. | Arcano       | Arcano      | Controlar  |
+| Trovão       | Controla a estática e a eletricidade inerente na matéria do mundo.             | Matéria      | Água        | Paralizar  |
+| Fogo         | Controla o calor primordial e destruidor do Fogo e da Lava.                    | Água         | Gelo        | Queimar    |
 | Gelo         | Controla o frio implacável, o Gelo puro e matéria congelada.                   | Fogo         | Matéria     | Lentidão   |
-| Luz          | Controla a Magia da Luz e a essência do Divino.                                | Trevas       | Trevas       | Expurgo    |
-| Matéria      | Controla a própria Terra e seus Materiais.                                     | Gelo         | Trovão      | Contusão   |
+| Luz          | Controla a Magia da Luz e a essência do Divino.                                | Trevas       | Trevas      | Expurgo    |
+| Matéria      | Controla a própria Terra e seus Materiais.                                     | Gelo         | Trovão      | Atordoar   |
 | Natureza     | Controla a vida verde, a flora e suas raízes.                                  | Ácido        | Vento       | Constrição |
-| Trevas       | Controla a Magia proibida das Trevas.                                          | Luz          | Luz         | Medo       |
-| Vento        | Controla o Ar, a força da densidade e as correntes.                            | Natureza     | Ácido       | Empuxo     |
+| Trevas       | Controla a Magia proibida das Trevas.                                          | Luz          | Luz         | Terror     |
+| Vento        | Controla o Ar, a força da densidade e as correntes.                            | Natureza     | Ácido       | Empurrar   |
 
 ### 2. Fraqueza Elemental
 

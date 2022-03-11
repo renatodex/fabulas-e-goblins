@@ -34,17 +34,17 @@ Para entender a utilidade de cada elemento, preparamos uma tabela explicativa de
 | Elemento     | Descrição                                                                      | Fraqueza     | Resistência | Efeito     |
 | ------------ | ------------------------------------------------------------------------------ | ------------ | ----------- | ---------- |
 | Água         | Controla o Líquido essêncial à vida, bem como Oceanos e Rios.                  | Trovão       | Fogo        | Imprecisão |
-| Ácido        | Controla os elementos Tóxicos e Ácidos com alto poder de corrosão.             | Vento        | Natureza    | Corrosão   |
-| Arcano       | Controla a Mágia das Estrelas e a essência do Magiverso.                       | Caos         | Caos        | Silêncio   |
-| Caos         | Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados. | Arcano       | Arcano      | Controle   |
-| Trovão       | Controla a estática e a eletricidade inerente na matéria do mundo.             | Matéria      | Água        | Paralizia  |
-| Fogo         | Controla o calor primordial e destruidor do Fogo e da Lava.                    | Água         | Gelo        | Queima     |
+| Ácido        | Controla os elementos Tóxicos e Ácidos com alto poder de corrosão.             | Vento        | Natureza    | Corroer    |
+| Arcano       | Controla a Mágia das Estrelas e a essência do Magiverso.                       | Caos         | Caos        | Silenciar  |
+| Caos         | Controla a instabilidade da Magia Caótica, com efeitos intensos e inesperados. | Arcano       | Arcano      | Controlar  |
+| Trovão       | Controla a estática e a eletricidade inerente na matéria do mundo.             | Matéria      | Água        | Paralizar  |
+| Fogo         | Controla o calor primordial e destruidor do Fogo e da Lava.                    | Água         | Gelo        | Queimar    |
 | Gelo         | Controla o frio implacável, o Gelo puro e matéria congelada.                   | Fogo         | Matéria     | Lentidão   |
-| Luz          | Controla a Magia da Luz e a essência do Divino.                                | Trevas       | Trevas       | Expurgo    |
-| Matéria      | Controla a própria Terra e seus Materiais.                                     | Gelo         | Trovão      | Contusão   |
+| Luz          | Controla a Magia da Luz e a essência do Divino.                                | Trevas       | Trevas      | Expurgo    |
+| Matéria      | Controla a própria Terra e seus Materiais.                                     | Gelo         | Trovão      | Atordoar   |
 | Natureza     | Controla a vida verde, a flora e suas raízes.                                  | Ácido        | Vento       | Constrição |
-| Trevas       | Controla a Magia proibida das Trevas.                                          | Luz          | Luz         | Medo       |
-| Vento        | Controla o Ar, a força da densidade e as correntes.                            | Natureza     | Ácido       | Empuxo     |
+| Trevas       | Controla a Magia proibida das Trevas.                                          | Luz          | Luz         | Terror     |
+| Vento        | Controla o Ar, a força da densidade e as correntes.                            | Natureza     | Ácido       | Empurrar   |
 
 Na seção [Efeitos Negativos](/docs/9-combat-rules/negative-effects) vamos explicar melhor sobre os **Efeitos de Combate**, mas por hora, você só precisa saber como os elementos se relacionam com suas fraquezas no mundo.
 
@@ -63,7 +63,7 @@ Você encontrará diversos poderes listados em **Grimos** e **Itens Mágicos**, 
 
 Essa ficha é o que chamamos de **Ficha de Poder**.
 
-Lá, existem diversas informações importantes que você precisa entender para poder realizar seu **Ataque Mágico**, e por isso pegamos um poder aleatório como exemplo e fizemos uma **imagem ilustrativa** para explicar as informações que existem nele. 
+Lá, existem diversas informações importantes que você precisa entender para poder realizar seu **Ataque Mágico**, e por isso pegamos um poder aleatório como exemplo e fizemos uma **imagem ilustrativa** para explicar as informações que existem nele.
 
 No nosso exemplo, usaremos o poder **Ataque de Impacto** ([Grimo de Kanus](/docs/4-grimos-and-spells/eye-of-kanus)):
 
@@ -76,8 +76,8 @@ E mesmo com a explicação ilustrada, preparamos uma tabela descrevendo cada uma
 | Custo de Magia                | Descreve o Custo do poder, pode estar em **Pontos de Magia**, ou até mesmo em **Pontos de Vida**. A menos que algum poder ou item diga o contrário, habilidades que custam Vida ou Magia tem o custo mínimo de 1, independente da redução que você obter através de bônuss. |
 | Duração do Poder              | Estipula quantos turnos o poder se mantém ativo, alguns poderes duram vários turnos no campo de batalha, outros se desfazem instantâneamente. Não confundir Duração do Poder com **Tempo de Conjuração**. Este é apenas descrito na mecânica do poder. |
 | Tipo do Alcance               | Pode ser em Sí mesmo, em Área, Circular, em Linha, etc. Vamos fazer uma seção aqui descrevendo essas diferenças. |
-| Quantidade de Inimigos / Área | Descreve quantos inimigos serão afetados. Um poder **Linha 4** por exemplo indica que 4 inimigos podem ser afetados numa linha reta formando-se à partir do conjurador. | 
-| Elemento do Poder             | Indica o elemento do poder. Alguns poderes não possuem elementos, e são descritos na ficha com o fundo Cinza. Poderes elementais sempre possuem fundo colorido (de acordo com o elemento) | 
+| Quantidade de Inimigos / Área | Descreve quantos inimigos serão afetados. Um poder **Linha 4** por exemplo indica que 4 inimigos podem ser afetados numa linha reta formando-se à partir do conjurador. |
+| Elemento do Poder             | Indica o elemento do poder. Alguns poderes não possuem elementos, e são descritos na ficha com o fundo Cinza. Poderes elementais sempre possuem fundo colorido (de acordo com o elemento) |
 | Tipo do Poder                 | Indica o tipo do Poder, geralmente é **Físico** ou **Mágico**, mas alguns poderes podem possuir o tipo **Aprimoramento**, que descreve uma habilidade que "atualiza" uma habilidade existente. |
 | Tipo de Uso                   | Pode ser **Ativo** (gasta 1 turno para usar), **Passivo** (está sempre ativo), ou de **Reação** (ativa com alguma condição) |
 | Distância Máxima de Uso       | Essa é a distância que você pode conjurar o poder. Se o poder é **Área 2x2** e possui **Distância 4**, significa que se quiser, você pode calcular a área de dano até um máximo de quarto quadrados de distância. |
@@ -105,7 +105,7 @@ Existe uma grande variedade de Tipos de Área no jogo, então preparamos uma tab
 
 Na primeira coluna, um pequeno Grid 3x3 descreve como seria a Área de aplicação no **Grid de Combate**.
 
-- Os quadrados vermelhos simbolizam áreas onde inimigos serão potencialmente afetados. 
+- Os quadrados vermelhos simbolizam áreas onde inimigos serão potencialmente afetados.
 - Os quadrados pretos simbolizam a coordenada do conjurador.
 - Os quadrados roxos simbolizam inimigos.
 
