@@ -108,46 +108,43 @@ module.exports = {
         '9-combat-rules/durability',
         '9-combat-rules/negative-effects',
       ],
-      '10. Itens e Equipamentos': [
-        '10-itens-and-equipments/itens-intro',
+      '10. Narrador': [
+        '10-the-guide/guide-intro'
       ],
-      '11. Narrador': [
-        '11-the-guide/guide-intro'
+      '11. A Magia': [
+        '11-the-magic/magic-in-the-world',
+        '11-the-magic/magic-potions',
+        '11-the-magic/radamagi-and-scrolls',
+        '11-the-magic/magic-items',
+        '11-the-magic/grimos',
+        '11-the-magic/nexus-master',
+        '11-the-magic/the-cycle-of-life',
+        '11-the-magic/zigonio-fragments',
+        '11-the-magic/zigonio-gems',
+        '11-the-magic/gem-cards',
+        '11-the-magic/grimo-popularization'
       ],
-      '12. A Magia': [
-        '12-the-magic/magic-in-the-world',
-        '12-the-magic/magic-potions',
-        '12-the-magic/radamagi-and-scrolls',
-        '12-the-magic/magic-items',
-        '12-the-magic/grimos',
-        '12-the-magic/nexus-master',
-        '12-the-magic/the-cycle-of-life',
-        '12-the-magic/zigonio-fragments',
-        '12-the-magic/zigonio-gems',
-        '12-the-magic/gem-cards',
-        '12-the-magic/grimo-popularization'
+      '12. As Terras Místicas': [
+        '12-the-world/wheres-the-game-placed',
+        '12-the-world/the-blackout',
+        '12-the-world/the-emotions-and-the-blackout',
+        '12-the-world/the-society-and-the-blackout',
+        '12-the-world/the-economy-and-the-blackout',
+        '12-the-world/the-magic-and-the-blackout',
+        '12-the-world/the-magic-and-the-origin-of-the-world',
+        '12-the-world/the-auguries',
+        '12-the-world/the-continents',
+        '12-the-world/class-academies',
+        '12-the-world/the-protectorship-order',
+        '12-the-world/the-ecos',
+        '12-the-world/the-ages-of-the-world'
       ],
-      '13. As Terras Místicas': [
-        '13-the-world/wheres-the-game-placed',
-        '13-the-world/the-blackout',
-        '13-the-world/the-emotions-and-the-blackout',
-        '13-the-world/the-society-and-the-blackout',
-        '13-the-world/the-economy-and-the-blackout',
-        '13-the-world/the-magic-and-the-blackout',
-        '13-the-world/the-magic-and-the-origin-of-the-world',
-        '13-the-world/the-auguries',
-        '13-the-world/the-continents',
-        '13-the-world/class-academies',
-        '13-the-world/the-protectorship-order',
-        '13-the-world/the-ecos',
-        '13-the-world/the-ages-of-the-world'
-      ],
-      '14. Appêndice': [
-        '14-appendix/stereotypes',
-        '14-appendix/flaws',
-        '14-appendix/character-sheet',
-        '14-appendix/types-of-armor',
-        '14-appendix/modifier-rule'
+      '13. Appêndice': [
+        '13-appendix/stereotypes',
+        '13-appendix/flaws',
+        '13-appendix/character-sheet',
+        '13-appendix/types-of-armor',
+        '13-appendix/modifier-rule'
       ]
     }
   ]
