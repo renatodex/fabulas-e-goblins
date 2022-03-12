@@ -39,7 +39,7 @@ Uma vez com o **Valor de Iniciativa** em mãos, você rolará um único D20 para
 
 O resultado do dado será somado ao seu **valor de iniciativa**. Uma vez que todos os jogadores calcularem suas **iniciativas de combate**, a ordem final será determinada do maior resultado para o menor resultado.
 
-Os inimigos por sua vez **não possuem iniciativa**, e agem apenas reagindo as ações dos personagens (salvo algumas excessões). Na [Seção para Narradores](/docs/11-the-guide/guide-intro) damos algumas dicas sobre como o Narrador pode conduzir os inimigos durante o combate.
+Os inimigos por sua vez **não possuem iniciativa**, e agem apenas reagindo as ações dos personagens (salvo algumas excessões). Na [Seção para Narradores](/docs/10-the-guide/guide-intro) damos algumas dicas sobre como o Narrador pode conduzir os inimigos durante o combate.
 
 :::note
 Uma excessão à regra de iniciativa é que, no início do confronto, os **jogadores podem entrar num consenso** e decidir se querem que algum jogador **faça sua ação primeiro**. Chamamos isso de **Ordem do Grupo**.
