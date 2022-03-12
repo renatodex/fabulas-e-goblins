@@ -1,7 +1,7 @@
 ---
 id: corrupted-elements
 title: Elementos Corrompidos
-slug: /12-the-magic/corrupted-elements
+slug: /11-the-magic/corrupted-elements
 ---
 
 Esta página está em construção e encontra-se indisponível.

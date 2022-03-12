@@ -1,7 +1,7 @@
 ---
 id: magic-in-the-world
 title: A Magia no Mundo
-slug: /12-the-magic/magic-in-the-world
+slug: /11-the-magic/magic-in-the-world
 ---
 
 ![](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/a-magia/a-magia.png)
