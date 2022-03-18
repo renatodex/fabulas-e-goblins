@@ -109,7 +109,17 @@ module.exports = {
         '9-combat-rules/negative-effects',
       ],
       '10. Narrador': [
-        '10-the-guide/guide-intro'
+        '10-the-guide/guide-intro',
+        '10-the-guide/fundamentals',
+        '10-the-guide/structure-history',
+        '10-the-guide/create-the-world',
+        '10-the-guide/inhabit-the-world',
+        '10-the-guide/preparing-a-session',
+        '10-the-guide/preparing-combats',
+        '10-the-guide/get-in-the-mood',
+        '10-the-guide/tell-the-tale',
+        '10-the-guide/game-tips',
+        '10-the-guide/gm-toolbelt',
       ],
       '11. A Magia': [
         '11-the-magic/magic-in-the-world',
