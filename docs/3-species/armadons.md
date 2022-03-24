@@ -2,6 +2,7 @@
 id: specie-armadons
 title: Armadons
 slug: /3-species/specie-armadons
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9803005f-8a23-49b6-9f46-7d3773060351.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -9,7 +10,7 @@ import Dig from './../../data/spells/spells/dig.json'
 import Geolocalization from './../../data/spells/spells/geolocalization.json'
 import HardHull from './../../data/spells/spells/hard_hull.json'
 
-![armadons.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9803005f-8a23-49b6-9f46-7d3773060351.png)
+![Os habitantes originais do Deserto](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9803005f-8a23-49b6-9f46-7d3773060351.png)
 
 *Pequenos e ágeis, os Armadons são incríveis construtores, as maravilhas da engenharia que foram construídas em seus mundos ancestrais mostram a impressionante capacidade dos Armadons de sobreviver mesmo sob condições hostis.*
 

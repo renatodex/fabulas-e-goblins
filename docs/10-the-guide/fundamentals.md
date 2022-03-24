@@ -2,6 +2,7 @@
 id: fundamentals
 title: Fundamentos
 slug: /10-the-guide/fundamentals
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6a21fe96-a2ce-4e04-9910-67122e59bb67.jpg
 ---
 
 ![O conhecimento para se tornar o Narrador](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6a21fe96-a2ce-4e04-9910-67122e59bb67.jpg)

@@ -2,6 +2,7 @@
 id: specie-metaloids
 title: Metalóides
 slug: /3-species/specie-metaloids
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cac8fe27f-88cb-41e9-96b4-8225a379df93.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -9,7 +10,7 @@ import MagicalManipulation from './../../data/spells/spells/magical_manipulation
 import SenseMagic from './../../data/spells/spells/sense_magic.json'
 import Climb from './../../data/spells/spells/climb.json'
 
-![metaloides.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cac8fe27f-88cb-41e9-96b4-8225a379df93.png)
+![A Espécie mística criada pela magia](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cac8fe27f-88cb-41e9-96b4-8225a379df93.png)
 
 *Ainda quando era pequeno, os mais velhos contavam-lhe histórias sobre terríveis criaturas da floresta de cogumelos. Seus corpos alongados mediam cerca de 1,90cm, possuindo bolsões espalhados cujo estranho líquido metálico esverdeado circulava como sangue. Seus rostos podiam assustar até a mais corajosa das crianças, e diziam que qualquer um que olhasse no fundo de seus quatro olhos negros estaria perdido para sempre.*
 

@@ -2,6 +2,7 @@
 id: specie-valdaris
 title: Valdaris
 slug: /3-species/specie-valdaris
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf58c81f6-ca3c-4d7b-930e-31d6719a2624.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -9,7 +10,7 @@ import AmphibiousBreathing from './../../data/spells/spells/amphibious_breathing
 import Swim from './../../data/spells/spells/swim.json'
 import MoveUnderwater from './../../data/spells/spells/move_underwater.json'
 
-![Valdaris.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf58c81f6-ca3c-4d7b-930e-31d6719a2624.png)
+![Os habitantes originais de Timéria](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf58c81f6-ca3c-4d7b-930e-31d6719a2624.png)
 
 *O pobre pescador Goblin segurava calmamente sua vara, enquanto apreciava a vista do mar de Caldera. Nunca havia pescada ali, pensou, e provavelmente sua linha pegaria algo interessante. Horas depois, veio o primeiro tranco. Era forte, e ele pensou realmente que poderia ser um peixe grande. Mas daí veio o segundo tranco, e sua linha a cada segundo encurtava, até que um ser finalmente se ergueu de dentro do mar, com o anzol do pescador nas mãos. "Olha, você devia tomar cuidado com essas coisas, essa área é protegida, e se os Guardas Valdari te pegam, você com certeza vai passar bons bocados lá na nossa prisão. Toma cuidado, ok?*
 
