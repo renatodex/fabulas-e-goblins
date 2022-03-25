@@ -142,15 +142,55 @@ Aqui, podemos listar alguns tipos de Personagens que costumam ser utilizados em 
 
 | Tipo do Personagem | Descrição | Exemplos |
 | -------------------|-----------|----------|
-| O Conselheiro | Esse personagem possui grande conhecimento sobre o mundo, e pode auxiliar os Personagens a atingirem seus objetivos. | Mestre dos Magos |
+| O Conselheiro | Esse personagem possui grande conhecimento ou influência sobre o mundo, e pode auxiliar os Personagens a atingirem seus objetivos. | Mestre dos Magos, Mindinho (Game of Thrones) |
 | O Combatente | Alguns Personagens preferem oferecer uma ajuda mais direta, e auxiliar os Personagens no campo de batalha. Eles não são considerados Personagens principais, mas estão sempre ali para somar ao grupo. | James Rhoades (Marvel) |
 | O Mensageiro | O Mensageiro assume um papel mais passivo, se comunicando de forma esparsa com o grupo, e evitando revelar sua identidade. | Sylens (Horizon) |
-| O Influente | Pode ser um Rei, um Mercenário muito influente, um Sacerdote poderoso ou um Herói aposentado. | O Rei |
-| O Etéreo | | ?? |
-| O Mercador | | ?? |
-| O Selvagem | Pode ser um animal de estimação ou uma criatura selvagem que decidiu se filiiar ao grupo. | ?? |
-| O Mecanismo | Uma espécie de dispositivo que pode se comunicar de forma inteligente com o grupo. Possui suas próprias motivações pré-programadas. | ?? |
+| O Etéreo | Personagens que não possuem forma física direta, e que se materializam de formas misteriosas para guiar os personagens. | Corvo de 3 olhos (Game of Thrones), Josette (Dark Shadows), Zordon (Power Rangers) |
+| O Selvagem | Pode ser um animal de estimação ou uma criatura selvagem que decidiu se filiiar ao grupo. | Burro (Shrek), Pabu (Avatar), Olaf (Frozen) |
+| O Mecanismo | Uma Máquina, um Robô, ou algum tipo de Inteligência Artificial ou mecanismo que se comunica para ajudar os protagonistas. | Esperança da Luz (She-ra), Dr Light (Megaman) |
+| O Profeta | Ele tem visões sobre o futuro, e sabe que um grande mal se aproxima, mas tem dificuldade para organizar as informações e passar aos personagens. | Madame Rizzo (She-ra), Oráculo (Matrix), Hari Seldon (A Fundação)  |
 
 ## Desenvolva um Conflito
 
-Conflitos são extremamente importantes para estruturar uma boa história. A mistura de Personagens Chaves, Vilões e Eventos locais é capaz de criar histórias únicas que podem facilmente serem expandidas uma vez que essas camadas iniciais foram preenchidas.
+Conflitos **impedem** os Personagens dos Jogadores de **atingirem seus objetivos**. Eles são como **barreiras** que os heróis precisam **frequentemente superar** para continuar **avançando** na história.
+
+Alguns conflitos podem até ser **opcionais**, mas as **implicações** de seu desenrolar **podem afetar diretamente o rumo do jogo**, caso não sejam resolvidos a tempo.
+
+Você pode popular o seu mundo com diversos conflitos *políticos*, *religiosos* e *territoriais*. Ao fazer isso, seu mundo parecerá muito mais dinâmico, vibrante e com motivações que transformam o **certo e o errado** em uma linha tênue, passiva de interpretação.
+
+Num mundo como esse, os Personagens dos Jogadores **precisarão escolher os conflitos que mais lhe interessam**, e ao fazer essa escolha, eles gerarão diversas **ramificações na história** do jogo, que você poderá utilizar para **introduzir novos NPCs** ou até mesmo **mudar o alinhamento** de personagens existentes.
+
+:::note
+O grupo dos Jogadores acaba de encontrar um importante Ancião, que vive numa vila isolada da qual eles salvaram recentemente. Ele teria informações cruciais para a missão dos personagens, mas pede que antes o grupo leve uma carta à cidade de Galamtia com urgência, pois ele estaria convencido que uma invasão em larga escala infringiria o Reino em breve.
+
+Após dias de viagem, quando o grupo se dirigia ao Reino, os heróis são informados que uma Chuva de Meteoros havia caído próximo ao local da Vila que salvaram, e que os minerais contido nos detritos ocasionaria um novo conflito, que provavelmente destruiria a Vila e todos os seus habitantes, que o grupo deu tanto duro para salvar. Além disso, o Ancião estaria correndo perigo gravíssimo, e sua integridade é crucial para os personagens, já que ele possui informações sobre a importante missão.
+
+Do outro lado, o Reino de Galamtia também é a Terra Natal dos jogadores, ao qual eles juraram defender perante ao Rei. Sua recusa à participar da proteção da cidade levaria ao Exílio, e o Rei passaria a considerar os Personagens como traidores condenados a morte, devido a um contexto passado da Aventura.
+
+E ai? Será que os heróis vão preferir voltar à Vila, sem nem saber se o Ancião ainda estaria vivo?
+Ou será que correriam esse risco e voltariam ao Reino mesmo assim para cumprir suas obrigações?
+
+São essas escolhas que vão gerar marcas e conflitos permanentes no mundo dos Personagens.
+:::
+
+## Pense nos possíveis Desfechos
+
+Uma boa história possui começos, meios e finais.
+
+O desfecho de uma história sempre vai depender das ações dos personagens, e das escolhas que eles fizeram durante a jornada deles.
+
+Como Narrador, você pode começar pensando em possíveis desfechos que sua Campanha vai gerar.
+
+Imagine que o Desfecho final que você imaginou foi a queda de um **Rei corrompido**.
+
+Nesse desfecho, os Personagens **destronariam o Rei** e retornariam a paz e o equilíbrio ao mundo.
+
+Mas e se não for tão simples assim? Por exemplo:
+
+- Pode ser que os Personagens derrotem o Rei, e um dos Personagens traia o Grupo num golpe político, tornando-se o novo Rei.
+- Pode ser que os Personagens consigam destituir o Rei, mas uma outra figura ainda mais maléfica assumiria o Trono.
+- Pode ser que os Personagens chegassem a conclusão que o Rei está certo, e passassem a servi-lo fielmente!
+
+Esses são apenas exemplos de variações desse **desfecho final**, mas você já parou para pensar que **outros desfechos** a história poderia concretizar?
+
+Você não precisar tecer uma rede complexa de **200 Desfechos** possíveis para a sua história, mas pensar em **alguns desfechos alternativos** vai te ajudar a posicionar personagens chaves para possibilitar a execução deles, como por exemplo um **Braço direito com objetivo de se assumir o lugar do Rei e se tornar um Ditador**, ou um **reviravolta na história** que pudesse realmente **convencer os jogadores** que eles estavam **lutando pelo lado errado**!
