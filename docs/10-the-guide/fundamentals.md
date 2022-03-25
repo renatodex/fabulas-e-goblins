@@ -43,6 +43,20 @@ Para o **Jogador**, a preparação geralmente significa **pensar e criar seu per
 
 Como Narrador, você também pode ajudar os Jogadores neste processo de **criação de personagem**. Algumas vezes, a história que você quer contar pode restringir a escolha de personagens a um conjunto específico de opções. Nesse caso, cabe também ao **Narrador** passar aos jogadores quais são os **limites adicionais na criação de Personagens** que ele quer passar.
 
+## Ação e Reação
+
+Enquanto estiver no Papel de Narrador, tente **ouvir os Jogadores**. O objetivo deles é **usar a imaginação** para realizar ações que eles **jamais poderiam realizar** em um jogo digital, como leitores de um livro, ou espectadores de um filme.
+
+Como Narrador, você precisa estar preparado para improvisar quando essas situações ocorrerem, e é por isso que durante o jogo inteiro falamos de **Ação e Reação**.
+
+Um jogo de RPG de Mesa funciona basicamente através desse princípio. O Narrador descreverá uma Cena (Ação), e os Jogadores deverão interagir, usando sua criatividade para interagir com a Cena (Reação).
+
+Esse **ciclo de Ação e Reação** é muito fluido dentro de um RPG, mas pode ser prejudicado se o Narrador **constantemente limitar** as ações dos Personagens dos Jogadores.
+
+Então lembre-se, um bom Narrador é primeiramente um **bom ouvinte**, e um organizador **muito preparado** para lidar com situações alternativas.
+
+Na sessão de [Dicas](/docs/10-the-guide/game-tips), abordaremos diversas ferramentas que você Narrador pode utilizar para sempre se manter preparado em uma sessão de jogo, como por exemplo a criação de **Reserva de NPCs**, **Lista de Nomes**, e a **Reserva de Masmorras**.
+
 ## Os Blocos de uma História
 
 Contar uma história não é uma tarefa exatamente linear. Algumas **Campanhas de RPG** mais complexas podem **durar meses, ou até anos**!
