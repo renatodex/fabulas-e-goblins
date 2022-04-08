@@ -55,11 +55,35 @@ Essas Áreas costumam ser **grandes conglomerados de pessoas** que vivem em rela
 
 Muitas aventuras podem ocorrer em Reinos, movidos por **conflitos Políticos**, Guerras ou até disputas mais profundas. Caberá a você Narrador decidir quanto tempo você quer que seus jogadores passem dentro desses conglomerados.
 
-Ao criar Reinos, pode ser uma boa idéia especificar algumas **disputas locais**, **personalidades importantes**, e até entender se existem **aspectos econômicos** do local que estão **prejudicados** devido a **pressões externas** como por exemplo Guerras ou Doenças.
+Ao criar Reinos, pode ser uma boa idéia especificar algumas **disputas locais**, **personalidades importantes**, e até entender se existem **aspectos econômicos** do local que estão **prejudicados** devido a **pressões externas** como por exemplo Guerras ou Doenç
+## Criando Itens Mágicos
 
+![Exemplo de Item](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2be3b19b-cca2-4e08-9012-b31d7164eaaa.jpg)
 
+Itens são parte **essencial** de um mundo de RPG.
+Uma das grandes motivações dos jogadores de RPG é a de **encontrar itens preciosos**.
+Naturalmente, **distribuir** esses Itens Mágicos também se torna uma das suas responsabilidades como Narrador!
 
-## Criando Segredos
-## Criando Itens
+Nossa intenção ao criar este universo de jogo é te munir com todas aquelas **coisas básicas** que você precisa ter em mãos para **criar partidas rápidas**.
+
+Estamos falando de:
+- Poções
+- Armadilhas
+- Suprimentos do Aventureiro
+- etc
+
+Porém, nossa idéia não é descrever cada um dos **Itens Mágicos** que possam existir no mundo das **Terras Místicas**, porque as **possibilidades são infinitas** e nosso objetivo é justamente **abrir espaço** para que a sua interpretação possa criá-los.
+
+Por isso, aqui no livro disponibilizamos uma Ficha Editável para criação de Itens!
+Você pode fazer o download dela aqui:
+
+![FichaItem.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc11d96c1-09b7-4cf0-90f5-b629f2f50456.jpg)
+
+:::note Download da Ficha de Item
+[FichaItem-1.0.0-Editável.pdf](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca5b7e6a2-80b8-4d3e-8527-98f0dc5dd9bf.pdf)
+:::
 
 ## Criando Monstros
+
+
+![FichaMonstro.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C684ee161-cc8e-4254-b3f1-abc9618b3b54.jpg)
