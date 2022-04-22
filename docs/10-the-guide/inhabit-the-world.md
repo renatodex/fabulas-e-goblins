@@ -66,14 +66,44 @@ Fãs ávidos de Star Wars podem discordar da comparação hierárquica entre Thr
 
 ## Crie Figuras Importantes
 
-## Crie Intrigas e Política
+Assim como no mundo real, o seu mundo provavelmente possui diversas personalidades notáveis, que influenciam a opinião das pessoas. Estamos falando de Mestre-Elos, Músicos, Ferreiros, Artistas e Nobres influentes.
+
+Durante a criação da sua aventura, você também pode incluir algumas dessas personalidades, e amarrá-las com a sua história.
+
+Aqui, damos alguns exemplos de personalidades que você pode desenvolver para sua campanha.
+
+| Tipo | Descrição |
+|------|-----------|
+| O Mestre-Elo | Assim como os Ferreiros, esses artesões mágicos são capazes de forjar Grimos, um dos artefatos mais importantes do mundo. Alguns deles podem ter tido ancestrais que trabalharam em Grimos populares, como a família Dormund, que está por trás da criação do Grimo de Giurad. |
+| O Minoante | Os Minoantes são músicos que utilizam o som de pequenas criaturas mágicas inofensivas conhecidas como Minos. Quanto mais Minos simultâneos um Minoante pode controlar, mais respeitado ele é.|
+| O Mestre Ferreiro | Ferreiros comuns podem consertar diversos itens, até mesmo de viés mágico. Mas quando se tratam de Itens de Herança com centenas ou milhares de anos, apenas Ferreiros extremamente habilidosos estão a altura do serviço. Muitos são conhecidos e reverenciados por terem restaurado poderosos artefatos lendários ao longo da história do mundo. |
+| O Radamante | Radamantes são conhecidos por forjar pequenos artefatos de origem Razalan conhecidos como Radamagi. Um Radamagi nada mais é do que um pergaminho que acumula um imenso poder mágico de uso único. Eles são elaborados com um material especifico capaz de armazenar grande quantidade de magia Bruta. Apesar de poderosos, esses artefatos não substituiram os Grimos, porque exigiam elevadas altitudes para serem formados. Radamantes sempre foram respeitados por seu grande conhecimento e misticismo em volta dos pequenos artefatos. |
+| O Arce-Tempesto | O Tempestianismo é uma influente entidade religiosa comum em reinos como Nuvenar e Ak'Dumo. Os Arce-Tempestos estão no topo dessa hierarquia, e estão por trás da governança de diversos Reinos por conta de seu grande exército e poder. Seus mantos longos e escuros e sua enorme mitra cônica são traços marcantes na presença de um Arce-Tempesto. |
+| O Dualista | Poderosos conselheiros, os Dualistas são especialistas na arte da mente, e podem influenciar multidões com seus discursos transformadores e inspiradores. Conhecidos frequentemente por integrarem as cortes reais, cada Reino possui um brasão próprio para o papel de Dualista, e muitos frequentemente são conhecidos como porta-vozes de monarquias poderosas. |
+| O Augúrio | Augúrios são aqueles que possuiam um grau tão intenso de conexão mágica, que não foram afetados pelo Blecaute. Capazes de canalizar a magia de forma natural e sem Grimos, são consideradas como as figuras mais poderosas do mundo. Cada vez menores em seus números, esses indivíduos tentam se manter distantes da política dos Reinos e seus grilhões. |
+
+:::note
+Você vai perceber que muitas dessas figuras são relativas ao mundo do Fábulas & Goblins, não sendo necessariamente compatíveis com outros RPGs.
+
+Isso não significa que outros tipos de Personalidades como Cavaleiros, Reis e Nobres poderosos não possam ser incluídos nessa lista. Apenas não demos prioridade a eles porque achamos interessante mencionar elementos do próprio mundo das Terras Místicas para que você possa também integrá-los nas suas histórias.
+:::
 
 ## Crie Organizações e Grupos
 
+Assim como as figuras importantes, seitas malévolas, facções, doutrinas e outros grupos específicos podem te ajudar a contextualizar o rumo da sua história.
+
+Nosso objetivo não é te listar todas as possíveis coisas que você pode criar, mas te dar uma idéia de como elas podem ajudar a esculpir o caminho cerco da sua aventura.
+
+
+
+
+
 ## Crie um Jornal
 
-## Crie Eventos Globais
+### Crie Intrigas e Política
 
-## Crie Eventos Locais
+### Crie Eventos Globais
+
+### Crie Eventos Locais
 
 ## Relacione a história dos Jogadores
