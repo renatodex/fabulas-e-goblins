@@ -92,18 +92,61 @@ Isso não significa que outros tipos de Personalidades como Cavaleiros, Reis e N
 
 Assim como as figuras importantes, seitas malévolas, facções, doutrinas e outros grupos específicos podem te ajudar a contextualizar o rumo da sua história.
 
-Nosso objetivo não é te listar todas as possíveis coisas que você pode criar, mas te dar uma idéia de como elas podem ajudar a esculpir o caminho cerco da sua aventura.
+Nosso objetivo não é te listar todas as possíveis coisas que você pode criar, mas te dar uma idéia de como grupos existentes no mundo das Terras Místicas podem te ajudar a esculpir sua aventura.
 
+Abaixo retiramos alguns exemplos de grupos interessantes do próprio Enredo de mundo do Fábulas & Goblins para lhe ajudar nas suas histórias.
 
-
-
+| Nome | Descrição |
+|------|-----------|
+| O Rei dos Monstros | Uma figura bastante mencionada no Enredo do Fábulas. O Rei dos Monstros é representado por uma **figura oculta e misteriosa** que teria o poder de comandar **hordas de criaturas selvagens**. Seu poder ameaça a existência de grandes reinos, pois ataques massivos de hordas no passado já resultaram na cadência de Reinos prósperos. Devido aos frequentes ataques à civilização, o objetivo do Rei é frequentemente visto como a **extinção da civilização**. O Rei dos Monstros é simbolizado por olhos e pares de chifre formando uma face triangular. |
+| Adeptos de Musgom | Eles acreditam que a **corrupção de Musgom** é um mal necessário para o mundo, e que ela representa um processo de **renovação** para purificar os povos e trazer a **redenção suprema**. Esses indivíduos podem ter pactos diretamente com **Musgom** para garantir que as criaturas corrompidas se fortaleçam e dominem mais territórios. |
+| Os Capas Negras | Uma **seita de Cavaleiros** que despertou uma **versão sombria do Grimos de Giurad**. Seus mestres então passaram a ensinar adeptos da seita a corromperem também seus Grimos em prós de seu ideal Caótico. Os Capas Negras acreditam que aqueles que respeitam a doutrina original de Giurad não passam de peões sendo manipulados para um propósito muito mais obscuro e cruel, e acreditam que são capazes de destravar o potencial máximo do Brasão de Giurad para quebrar esse ciclo de doutrinação. |
+| A Irmandade do Tordo | Possuindo olhos em todos os lugares, a **Irmandade do Tordo** é uma poderosa **seita de Arcanistas misteriosos** cujo objetivo final é dominar o **Tomo do Blecaute**, um **livro lendário** que em tese daria ao seu portador **poder ilimitado**. |
+| A Gailun | Uma extensa corporação de transporte de especiarias, mas que possui um lado oculto. Por trás dos panos, Gailun é uma poderosa mafia de tráfego de artefatos que domina as estradas perigosas das Terras Místicas, saqueando Aventureiros e Templos antigos. Possuem agentes infiltrados em diversos reinos, e tem como único objetivo a expansão da sua influência e poder. Seu líder, o **Baguar Branco**, é uma figura misteriosa, que ao mesmo tempo é respeitada e temida nos locais onde a organização atua. A Gailun é representada por um estilingue pontiagudo e uma moeda. |
+| A Igreja do Vorme | Sacerdotes corrompidos que comungam em templos antigos cultuando o que eles chamam de "**O Grande Vorme**". Pouco se sabe sobre a entidade, mas dizem que ela seria capaz de criar uma ponte com um mundo além das Terras Místicas, trazendo com isso horrores inimagináveis, e dando início a uma nova era de colonização. Os **Adeptos do Vorme** se comunicam telepaticamente com a entidade, e acreditam que a vinda de seu Deus é iminente, e que venerá-lo é a única forma de prolongar sua existência no mundo que será tomado por seu Deus. |
 
 ## Crie um Jornal
 
-### Crie Intrigas e Política
+Todos os dias, **algo está acontecendo** no seu mundo. É interessante **criar um calendário** para entender em que dias **eventos locais** e **eventos globais** vão acontecer em seu mundo.
 
-### Crie Eventos Globais
+Pense em adicionar pequenos **tempos de parada** de **alguns dias** na Aventura, pois além de essa ser uma forma de avançar nesse calendário de Eventos, também **abre espaço** para que os Jogadores **possam procurar itens**, **conhecimentos** e **informações** para seus personagens.
 
-### Crie Eventos Locais
+E é nesse momento que se torna interessante a **idéia do jornal**.
+Um **Jornal** nada mais que um panfleto com algumas interessantes que estão acontecendo simultaneamente no local onde os Personagens estão.
 
-## Relacione a história dos Jogadores
+Os personagens podem recebê-los no mundo de jogo, ou mais legal ainda, você imprimí-los e entregar aos jogadores! (caso esteja jogando presencialmente)
+
+Você pode começar com algo pequeno, como 3 ou 4 notícias relevantes.
+Os Jornais podem servir de gancho de aventura, e também retratar a chegada de **Eventos Locais e Globais** que podem afetar os Personagens.
+
+Se tratando de **Eventos Locais**, você pode pensar pequenos acontecimentos que vão afetar o local onde os Personagens estão, como:
+- Festivais
+- Coroações
+- Inaugurações
+- Eventos climáticos locais
+- etc
+
+E se tratando de **Eventos Globais**, você pode pensar em grandes acontecimentos que vão afetar o mundo todo de alguma forma:
+- Negociação de Tratados diplomáticos
+- Guerras iminentes
+- Invasões
+- Grandes eventos climáticos
+- etc
+
+:::note Introduzindo os Personagens na história
+Cada Personagem jogando no seu mundo terá uma trajetória de vida própria, possuindo uma personalidade distinta formada por uma série de eventos do seu passado.
+
+Provavelmente cada um dos Personagens conhecem alguém que os ajudou na sua formação, seja um mestre, familiares, ou amigos antigos.
+
+Como Narrador, você pode introduzir esses personagens relacionados na sua campanha do jogo, de forma que os Jogadores sintam que as suas histórias estão atreladas com a história de outros personagens mundo, gerando uma interessante imersão de enredo.
+:::
+
+## Template do Jornal
+
+Criamos também um pequeno template de Jornal para que você possa preencher e entregar aos seus personagens:
+
+![FichaJornal-1.0.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2f76d644-b483-4982-bca1-60c4d16aa4c7.jpg)
+
+:::note Download do Jornal
+PDF Editável - [FichaJornal-1.0.0.pdf](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6f4e28f5-46e7-4946-a1ee-63ef2685fd7b.pdf) (160kb)
+:::
