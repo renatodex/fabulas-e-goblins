@@ -15,3 +15,15 @@ slug: /10-the-guide/preparing-combats
 ## Regras de Equilíbrio
 
 ## Expectativa de Dano
+
+
+-----
+
+
+### Gerenciando um combate
+
+### Inteligência dos Monstros
+
+### Batalhas Memoráveis
+
+### Balanceando Combates
