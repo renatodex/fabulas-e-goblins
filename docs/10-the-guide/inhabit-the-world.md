@@ -2,6 +2,7 @@
 id: inhabit-the-world
 title: Popule o mundo
 slug: /10-the-guide/inhabit-the-world
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cbd276ef7-6e58-4522-b380-3be5afbfe964.jpg
 ---
 
 ![Criando uma economia viva e pulsante](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cbd276ef7-6e58-4522-b380-3be5afbfe964.jpg)
