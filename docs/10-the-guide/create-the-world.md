@@ -201,3 +201,54 @@ Na seção [Preparando Combates](/docs/10-the-guide/preparing-combats) damos mui
 ## Exemplo de Inimigo
 
 ![FichaFougratLadino-2-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cde5b9439-0d30-4c66-b3ce-898ee43de492.jpg)
+
+## Tipos de Inimigos
+
+Todas as criaturas no mundo possuem um tipo, inclusive os Personagens.
+Achamos importante comentar os **tipos de inimigos**, pois utilizamos essas nomenclaturas quando estamos **criando criaturas** para o Bestiário do **Fábulas & Goblins**.
+
+Até agora, durante nosso processo de **criação de Bestiário**, conseguimos catalogar **18 tipos diferentes** de criaturas que você pode utilizar para **criar seus próprios Monstros**.
+
+| Nome                  | Descrição       |
+|-----------------------|-----------------|
+| Ave  | Possui penas ou asas. |
+| Besta | Possui garras, porte grande e geralmente é selvagem. |
+| Constructo | Constituídos de metal ou pedra. |
+| Cósmico | Constituído por poeira cósmica. |
+| Demônio | Criaturas geralmente corrompidas e maléficas. |
+| Dragonóide | Corpo escamoso e denso, e constituição mágica. |
+| Deus | Entidades indestrutíveis. |
+| Espectro | Constituídos de Plasma espiritual. |
+| Gosmento | Constituídos de Gosma, ou secreção gelatinosa. |
+| Humanóide | Qualquer indivíduo que se pareça com espécies jogáveis. |
+| Inseto  | Constituídos por exoesqueleto. |
+| Planta | Constituídos por plantas, raízes e elementos naturais. |
+| Peixe  | Constituídos por cartilagens e escamas. |
+| Vampírico | Criaturas de sangue que precisam de sangue para sobreviver. |
+| Reptóide | Criaturas anfíbias de pele fria. |
+| Terror  | Criaturas das sombras que se alimentam do medo. |
+| Vazio  | Criaturas que se alimentam da essência dos vivos. |
+| Madeiriço | Criaturas de madeira. |
+
+:::note O Tipo "Humanóide"
+Usamos o termo **"espécies civilizadas"** para definir qualquer criatura que tenha se desenvolvido a ponto de **criar uma civilização**. É o caso de **Goblins**, **Armadons**, e qualquer outra **espécie jogável** no mundo das **Terras Místicas**.
+
+Já que **não existem humanos** no universo do **Fábulas & Goblins**, usamos o tipo de criatura **"Humanóide"** para caracterizar criaturas que se assemelham as **espécies civilizadas** do mundo. (até pensamos em utilizar o Neologismo **"Civilizóide"**, mas achamos que ficaria estranho.)
+
+É porque no mundo real, **não existe** uma palavra que defina esse tipo de relação genérica, pois o **"ser humano"** é a única **espécie civilizada** do mundo, logo, na nossa lingua (Portuguesa), adotamos o termo **"humanóide"** para caracterizar criaturas que **"se assemelham a humanos"**.
+:::
+
+## FMP (Fantasia Medieval Padrão)
+
+Existem diversas criaturas nas **Terras Místicas** que foram sim criadas por nós, **Game Designers**, para popular um universo de jogo exclusivo e novo.
+
+Não é atoa que removemos **Humanos, Anões e até os Goblins** como se conhece em outros universos de Fantasia Medieval.
+
+Mas além das criaturas que compõem o **Bestiário** do **Fábulas & Goblins**, é comum que usemos diversas outras criaturas que **a milênios** já fazem parte do que chamamos de **Fantasia Medieval Padrão**.
+
+Estamos falando de **Esqueletos, Sereias, Trolls, Basiliscos, Quimeras**, e muitos outros..
+São criaturas presentes em **diversas Mitologias** ao redor do mundo, e é uma **tarefa desafiadora** criar uma boa história sem incluir pelo menos uma delas!
+
+É natural que você saiba que **jamais iremos incluir criaturas licensiadas** de outros **Sistemas de RPG** dentro do nosso mundo.
+
+Isso significa por exemplo que você nunca encontrará **Beholders** em nossas aventuras, porque esse inimigo é uma criação licensiada de um **conhecido Sistema de RPG** de uma **conhecida empresa** que não precisamos citar o nome aqui, mas que com certeza são uma grande inspiração para nós!
