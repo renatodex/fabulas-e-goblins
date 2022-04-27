@@ -15,7 +15,12 @@ function getSpells() {
     getFiles("data/spells").then((files) => {
       let spells = files
         .filter((path) => !path.includes('spells.js'))
-        .map((file) => require(file))
+        .map((file) => {
+          const fileData = require(file)
+          const parts = file.replace(/\\/g, "/").split(".").filter(part => part != "json")[0].split("/")
+          const fileName = parts[parts.length-1]
+          return { id: fileName, ...fileData }
+        })
 
       resolve(spells)
     }).catch(err => {

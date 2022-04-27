@@ -2,6 +2,14 @@ const { getSpells } = require('../../data/spells/spells-cjs')
 const path = require('path');
 const { writeFile } = require('fs')
 
+function generateFile({ filename, data }) {
+  const filenamePath = path.join(__dirname, filename)
+  writeFile(filenamePath, JSON.stringify(data), function (err) {
+    if (err) return console.log(err);
+    console.log(`Saved JSON: ${filenamePath}`);
+  })
+}
+
 function spellsToStatic(context, options) {
   return {
     name: 'spells-to-static',
@@ -12,12 +20,11 @@ function spellsToStatic(context, options) {
     async contentLoaded({content}) {
       const { spells } = content
 
-      const filePath = path.join(__dirname, '../../static/spells.json')
+      const enemySpells = spells.filter(spell => spell.tags?.includes("enemy"))
+      const nonEnemySpells = spells.filter(spell => !spell.tags?.includes("enemy"))
 
-      writeFile(filePath, JSON.stringify(spells), function (err) {
-        if (err) return console.log(err);
-        console.log('Saved spells to static');
-      })
+      generateFile({ filename: '../../static/enemy-spells.json', data: enemySpells})
+      generateFile({ filename: '../../static/spells.json', data: nonEnemySpells})
     },
   };
 };
