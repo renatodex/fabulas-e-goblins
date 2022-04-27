@@ -10,8 +10,9 @@
   "replication_pattern": ["magical"],
   "monster_size": "standard",
   "tameable": "false",
-  "tier_attributes": {
-    "1": {
+  "tier_attributes": [
+    {
+      "tier": 1,
       "hit_points": 23,
       "movement": 6,
       "attack": {
@@ -28,7 +29,8 @@
         }
       }
     },
-    "2": {
+    {
+      "tier": 2,
       "hit_points": 53,
       "movement": 6,
       "attack": {
@@ -45,7 +47,8 @@
         }
       }
     },
-    "3": {
+    {
+      "tier": 3,
       "hit_points": 83,
       "movement": 6,
       "attack": {
@@ -62,7 +65,8 @@
         }
       }
     },
-    "4": {
+    {
+      "tier": 4,
       "hit_points": 163,
       "movement": 6,
       "attack": {
@@ -79,6 +83,6 @@
         }
       }
     }
-  },
+  ],
   "tags": ["monster", "enemy"]
 }
