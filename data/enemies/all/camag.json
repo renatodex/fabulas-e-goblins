@@ -23,11 +23,12 @@
         "physical": 15,
         "magical": 14
       },
-      "spells": {
-        "scratch": {
+      "spells": [
+        {
+          "handle": "scratch",
           "formula": "1d6"
         }
-      }
+      ]
     },
     {
       "tier": 2,
@@ -41,11 +42,12 @@
         "physical": 18,
         "magical": 17
       },
-      "spells": {
-        "scratch": {
+      "spells": [
+        {
+          "handle": "scratch",
           "formula": "2d6+2"
         }
-      }
+      ]
     },
     {
       "tier": 3,
@@ -59,11 +61,12 @@
         "physical": 21,
         "magical": 20
       },
-      "spells": {
-        "scratch": {
+      "spells": [
+        {
+          "handle": "scratch",
           "formula": "3d8+4"
         }
-      }
+      ]
     },
     {
       "tier": 4,
@@ -77,11 +80,12 @@
         "physical": 24,
         "magical": 23
       },
-      "spells": {
-        "scratch": {
+      "spells": [
+        {
+          "handle": "scratch",
           "formula": "4d10+6"
         }
-      }
+      ]
     }
   ],
   "tags": ["monster", "enemy"]
