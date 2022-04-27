@@ -1,4 +1,4 @@
-const { getSpells } = require('../data/spells/spells-cjs')
+const { getSpells } = require('../../data/spells/spells-cjs')
 const path = require('path');
 const { writeFile } = require('fs')
 
@@ -12,7 +12,7 @@ function spellsToStatic(context, options) {
     async contentLoaded({content}) {
       const { spells } = content
 
-      const filePath = path.join(__dirname, '../static/spells.json')
+      const filePath = path.join(__dirname, '../../static/spells.json')
 
       writeFile(filePath, JSON.stringify(spells), function (err) {
         if (err) return console.log(err);

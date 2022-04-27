@@ -10,11 +10,11 @@ async function getFiles(dir) {
   return Array.prototype.concat(...files);
 }
 
-function getSpells() {
+function getEnemies() {
   return new Promise((resolve, reject) => {
-    getFiles("data/spells").then((files) => {
+    getFiles("data/enemies").then((files) => {
       let spells = files
-        .filter((path) => !path.includes('spells.js'))
+        .filter((path) => !path.includes('enemies.js') && !path.includes('enemies-cjs.js'))
         .map((file) => require(file))
 
       resolve(spells)
@@ -24,4 +24,4 @@ function getSpells() {
   })
 }
 
-module.exports = { getSpells }
+module.exports = { getEnemies }

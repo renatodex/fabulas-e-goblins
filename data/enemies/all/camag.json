@@ -1,0 +1,40 @@
+{
+  "name": "Camag",
+  "tier_attributes": {
+    "1": {
+      "hit_points": 23,
+      "movement": 6,
+      "attack": {
+        "physical": 15,
+        "magical": 14
+      },
+      "defense": {
+        "physical": 15,
+        "magical": 14
+      },
+      "spells": {
+        "scratch": {
+          "formula": "1d6"
+        }
+      }
+    },
+    "2": {
+      "hit_points": 43,
+      "movement": 6,
+      "attack": {
+        "physical": 18,
+        "magical": 17
+      },
+      "defense": {
+        "physical": 18,
+        "magical": 17
+      },
+      "spells": {
+        "scratch": {
+          "formula": "2d6"
+        }
+      }
+    }
+  },
+  "tags": ["monster", "enemy"]
+}

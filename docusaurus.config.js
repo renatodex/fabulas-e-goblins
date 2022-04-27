@@ -98,6 +98,7 @@ module.exports = {
   ],
   plugins: [
     'docusaurus-plugin-sass',
-    './spells-to-static'
+    './plugins/spells-to-static',
+    './plugins/enemies-to-static'
   ]
 };
