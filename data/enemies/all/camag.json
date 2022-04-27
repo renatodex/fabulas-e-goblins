@@ -29,7 +29,7 @@
       }
     },
     "2": {
-      "hit_points": 43,
+      "hit_points": 53,
       "movement": 6,
       "attack": {
         "physical": 18,
@@ -41,7 +41,41 @@
       },
       "spells": {
         "scratch": {
-          "formula": "2d6"
+          "formula": "2d6+2"
+        }
+      }
+    },
+    "3": {
+      "hit_points": 83,
+      "movement": 6,
+      "attack": {
+        "physical": 21,
+        "magical": 20
+      },
+      "defense": {
+        "physical": 21,
+        "magical": 20
+      },
+      "spells": {
+        "scratch": {
+          "formula": "3d8+4"
+        }
+      }
+    },
+    "4": {
+      "hit_points": 163,
+      "movement": 6,
+      "attack": {
+        "physical": 24,
+        "magical": 23
+      },
+      "defense": {
+        "physical": 24,
+        "magical": 23
+      },
+      "spells": {
+        "scratch": {
+          "formula": "4d10+6"
         }
       }
     }
