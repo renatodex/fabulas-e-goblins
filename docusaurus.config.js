@@ -27,8 +27,12 @@ module.exports = {
           label: `Livro (v${buildVersion}-${version.phase})`,
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {href: 'https://rolador.fabulasegoblins.com.br', label: 'Rolador de Dados', position: 'left'},
+        {
+          to: 'database/monsters/',
+          activeBasePath: 'database',
+          label: 'Bestiário',
+          position: 'left',
+        },
         {
           href: 'https://github.com/renatodex/fabulas-e-goblins',
           label: 'GitHub',
@@ -99,6 +103,7 @@ module.exports = {
   plugins: [
     'docusaurus-plugin-sass',
     './plugins/spells-to-static',
-    './plugins/enemies-to-static'
+    './plugins/enemies-to-static',
+    './plugins/tailwind',
   ]
 };
