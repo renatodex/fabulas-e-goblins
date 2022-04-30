@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import Layout from '@theme/Layout'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import '../../css/custom.css'
-import './monsters.module.scss'
 
 function EnemyCard({ enemy }) {
   return (
@@ -24,7 +23,6 @@ function Home() {
     const loadEnemies = async function () {
       const result = await fetch('/enemies.json')
       const resultJson = await result.json()
-      console.log(resultJson)
       setEnemies(resultJson)
     }
 
