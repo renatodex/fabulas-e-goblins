@@ -13,7 +13,7 @@
   "tier_attributes": [
     {
       "tier": 1,
-      "hit_points": 8,
+      "hit_points": 9,
       "movement": 8,
       "attack": {
         "physical": 17,
@@ -26,7 +26,8 @@
       "spells": [
         {
           "handle": "byte",
-          "formula": "1d4"
+          "formula": "1d4",
+          "attack": 19
         }
       ]
     },
