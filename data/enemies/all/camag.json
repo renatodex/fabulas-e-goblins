@@ -2,7 +2,7 @@
   "name": "Camag",
   "image": "https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccb49818c-7723-4005-9e95-7d8af448e2d9.png",
   "description": "<p>Os Camags são criações corruptas do avatar de Musgom, uma criatura terrível que infesta os bosques de Galamtia com suas criações nefastas.</p><p>Camags são criaturas forjadas com a Madeira Corrompida da floresta, e não possuem qualquer propósito de existência a não ser a dominação da floresta e a proteção de seu criador.</p>",
-  "monster_type": "woodling",
+  "monster_type": ["woodling"],
   "environments": ["forest", "swamp"],
   "morales": ["compromised", "agressive"],
   "mob_nature": ["pack"],

@@ -1,0 +1,92 @@
+{
+  "name": "Bogling",
+  "image": "https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cccf3922f-1179-4676-83f9-5c0cdaf473b6.png",
+  "description": "<p>Os Boglings são morcegos onívoros muito comuns em Montanhas, Florestas e Cavernas.</p><p>Com a sua capacidade de literalmente se adaptar a qualquer bioma, esses animais andam em hordas e podem facilmente desestabilizar regiões inteiras com seu comportamento corrosivo.</p><p>Boglings se comportam basicamente orientados a sua necessidade alimentícia, e podem comem qualquer tipo de alimento que encontrarem, incluindo pedras e troncos de árvore.</p><p>Não são animais muito fortes, mas devido ao seu comportamento coletivo, podem representar grande ameaça se forem enfrentados sem preparação.</p><p>Por serem animais corajosos, raramente vão se amedrontar com um inimigo que pareça ameaçador, e vão atacar até serem abatidos, ou abaterem seu inimigo.</p>No mundo real, poderiamos comparar os Boglings como Piranhas voadoras.</p>",
+  "monster_type": ["birdling", "plague"],
+  "environments": ["forest", "caves", "temples"],
+  "morales": ["savage", "hungry", "brave"],
+  "mob_nature": ["horde"],
+  "reproduction_pattern": ["procriator"],
+  "replication_pattern": ["oviparous"],
+  "monster_size": "standard",
+  "tameable": "true",
+  "tier_attributes": [
+    {
+      "tier": 1,
+      "hit_points": 8,
+      "movement": 8,
+      "attack": {
+        "physical": 17,
+        "magical": 8
+      },
+      "defense": {
+        "physical": 14,
+        "magical": 10
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "1d4"
+        }
+      ]
+    },
+    {
+      "tier": 2,
+      "hit_points": 15,
+      "movement": 8,
+      "attack": {
+        "physical": 20,
+        "magical": 12
+      },
+      "defense": {
+        "physical": 18,
+        "magical": 14
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "2d4"
+        }
+      ]
+    },
+    {
+      "tier": 3,
+      "hit_points": 26,
+      "movement": 8,
+      "attack": {
+        "physical": 24,
+        "magical": 16
+      },
+      "defense": {
+        "physical": 20,
+        "magical": 16
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "3d4"
+        }
+      ]
+    },
+    {
+      "tier": 4,
+      "hit_points": 52,
+      "movement": 8,
+      "attack": {
+        "physical": 29,
+        "magical": 23
+      },
+      "defense": {
+        "physical": 28,
+        "magical": 22
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "4d4"
+        }
+      ]
+    }
+  ],
+  "tags": ["monster", "enemy"]
+}
