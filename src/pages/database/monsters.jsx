@@ -362,7 +362,7 @@ function Home() {
       const result = await fetch('/enemies.json')
       const resultJson = await result.json()
       setEnemies(resultJson)
-      setEnemy(resultJson[0])
+      // setEnemy(resultJson[0])
     }
 
     loadEnemies()
