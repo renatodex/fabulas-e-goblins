@@ -18,7 +18,7 @@ import {
   AiOutlineCloseCircle
 } from 'react-icons/ai'
 import '../../css/custom.css'
-import { unstable_renderSubtreeIntoContainer } from 'react-dom'
+import  { Breakpoint, BreakpointProvider } from 'react-socks';
 
 const ReadMore = ({ className, children, max = 150 }) => {
   const textChildren = children;
@@ -45,7 +45,7 @@ const ReadMore = ({ className, children, max = 150 }) => {
       }
       <span
         onClick={toggleReadMore}
-        className="bg-aero-blue text-black rounded-xl px-2 ml-2 cursor-pointer hover:bg-black hover:text-white"
+        className="inline-block bg-aero-blue text-black rounded-xl px-2 ml-2 cursor-pointer hover:bg-black hover:text-white"
       >
         {isReadMore
           ? (
@@ -105,20 +105,20 @@ function TierSelection({ tier, onTierChange }) {
   const tierIcons = [<GiDinosaurRex />, <GiSpikedDragonHead />, <GiDoubleDragon />, <GiHydra />]
   return (
     <div>
-      <h2 className='text-3xl text-aero-blue font-bold font-serif'>
+      <h2 className='text-3xl text-aero-blue font-bold font-serif md:float-left md:mr-5'>
         Selecione a Classe de Desafio
       </h2>
-      <div className='mt-3 grid grid-cols-2 gap-2'>
-      {tierIcons.map((icon, n) => (
-        <ToggleButtonWithIcon
-          selected={tier == (n+1)}
-          onClickButton={e => onTierChange(n+1)}
-          icon={icon}
-          key={n}
-        >
-          Tier{n+1}
-        </ToggleButtonWithIcon>
-      ))}
+      <div className='mt-3 grid grid-cols-2 gap-2 md:grid-cols-4'>
+        {tierIcons.map((icon, n) => (
+          <ToggleButtonWithIcon
+            selected={tier == (n+1)}
+            onClickButton={e => onTierChange(n+1)}
+            icon={icon}
+            key={n}
+          >
+            Tier{n+1}
+          </ToggleButtonWithIcon>
+        ))}
       </div>
     </div>
   )
@@ -156,22 +156,26 @@ function EnemyCharacteristicsByTier({ tier, attributes }) {
         Características (Tier {tier})
       </h2>
 
-      <div className='mt-5'>
-        <AttributeBar color={'bg-pastel-green'} value={attributes.hit_points} icon={<GiGlassHeart/>}>
-          Pontos de Vida
-        </AttributeBar>
-      </div>
+      <div className='md:grid md:grid-cols-2 md:gap-10'>
+        <div>
+          <div className='mt-5'>
+            <AttributeBar color={'bg-pastel-green'} value={attributes.hit_points} icon={<GiGlassHeart/>}>
+              Pontos de Vida
+            </AttributeBar>
+          </div>
 
-      <div className='mt-5'>
-        <AttributeBar color={'bg-blizzard-blue'} value={attributes.movement} icon={<GiWingfoot/>}>
-          Movimento
-        </AttributeBar>
-      </div>
+          <div className='mt-5'>
+            <AttributeBar color={'bg-blizzard-blue'} value={attributes.movement} icon={<GiWingfoot/>}>
+              Movimento
+            </AttributeBar>
+          </div>
+        </div>
 
-      <div className='mt-5'>
-        <AttributeBar color={'bg-platinum'} icon={<GiMagnifyingGlass/>}>
-          Tipo: Madeiriço
-        </AttributeBar>
+        <div className='mt-5'>
+          <AttributeBar color={'bg-platinum'} icon={<GiMagnifyingGlass/>}>
+            Tipo: Madeiriço
+          </AttributeBar>
+        </div>
       </div>
     </Fragment>
   )
@@ -287,6 +291,144 @@ function EnemyDetails({ enemy, onClose }) {
 
   return (
     <div>
+      <Breakpoint medium up>
+        <EnemyDetailsDesktop
+          onClose={onClose}
+          enemy={enemy}
+          changeTier={changeTier}
+          enemySpellsMapped={enemySpellsMapped}
+          tierAttributes={tierAttributes}
+          tier={tier}
+        />
+      </Breakpoint>
+
+      <Breakpoint small down>
+        <EnemyDetailsMobile
+          onClose={onClose}
+          enemy={enemy}
+          changeTier={changeTier}
+          enemySpellsMapped={enemySpellsMapped}
+          tierAttributes={tierAttributes}
+          tier={tier}
+        />
+      </Breakpoint>
+    </div>
+  )
+}
+
+function EnemyDetailsTitle({
+  enemy,
+}) {
+  return (
+    <h2 className='text-3xl font-bold border-b-2 pb-3 font-serif'>
+      {enemy.name}
+    </h2>
+  )
+}
+
+function EnemyDetailsClose ({
+  onClose,
+}) {
+  return (
+    <button
+      className='absolute right-0 top-0 px-8 py-10 text-4xl md:text-black md:text-5xl'
+      onClick={e => onClose(e)}
+    >
+      <AiOutlineCloseCircle />
+    </button>
+  )
+}
+
+function EnemyDetailsDesktop ({
+  onClose,
+  enemy,
+  changeTier,
+  enemySpellsMapped,
+  tierAttributes,
+  tier
+}) {
+  return (
+    <div className='bg-gunmetal relative rounded-xl p-10 text-white font-serif'>
+      <div className='-top-28 absolute right-0'>
+        <EnemyDetailsClose onClose={onClose} />
+      </div>
+
+      <div className='border-b-2 pb-5'>
+        <TierSelection
+          enemy={enemy}
+          tier={tier}
+          onTierChange={tier => { changeTier(tier) }}
+        />
+      </div>
+
+      <div className='grid gap-10 mt-5' style={{ gridTemplateColumns: '1fr 1fr'}}>
+        <div>
+          <EnemyDetailsImage enemy={enemy} />
+        </div>
+        <div>
+          <EnemyDetailsTitle enemy={enemy} />
+
+          <EnemyDetailsDescription enemy={enemy} max={400} />
+
+          <div className='mt-10'>
+            <EnemyCharacteristicsByTier tier={tier} attributes={tierAttributes} />
+          </div>
+
+          <div className='mt-10 grid grid-cols-2 gap-10'>
+            <div>
+              <EnemyAttackByTier tier={tier} attributes={tierAttributes} />
+            </div>
+            <div>
+              <EnemyDefenseByTier tier={tier} attributes={tierAttributes} />
+            </div>
+          </div>
+
+          <div className='mt-10'>
+          <EnemySpellsByTier
+            tier={tier}
+            attributes={tierAttributes}
+            mappedSpells={enemySpellsMapped}
+          />
+        </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+function EnemyDetailsImage ({
+  enemy,
+}) {
+  return (
+    <div className='mt-7 bg-aero-blue p-4' style={{
+      borderRadius: '5em',
+    }}>
+      <img src={enemy.image} width={'100%'} />
+    </div>
+  )
+}
+
+function EnemyDetailsDescription ({
+  enemy,
+  max = 150,
+}) {
+  return (
+    <ReadMore max={max} className="mt-6 leading-relaxed">
+      {enemy.description}
+    </ReadMore>
+  )
+}
+
+function EnemyDetailsMobile ({
+  onClose,
+  enemy,
+  changeTier,
+  enemySpellsMapped,
+  tierAttributes,
+  tier
+}) {
+  return (
+    <Fragment>
       <div className='bg-gunmetal relative rounded-xl p-10 text-white font-serif'>
         <button
           className='absolute right-0 top-0 px-8 py-10 text-4xl'
@@ -298,15 +440,8 @@ function EnemyDetails({ enemy, onClose }) {
           {enemy.name}
         </h2>
 
-        <div className='mt-7 bg-aero-blue p-4' style={{
-          borderRadius: '5em',
-        }}>
-          <img src={enemy.image} width={'100%'} />
-        </div>
-
-        <ReadMore className="mt-6 leading-relaxed">
-          {enemy.description}
-        </ReadMore>
+        <EnemyDetailsImage enemy={enemy} />
+        <EnemyDetailsDescription enemy={enemy} />
 
         <div className='mt-7'>
           <TierSelection
@@ -347,7 +482,7 @@ function EnemyDetails({ enemy, onClose }) {
           }}
         >&lt; Voltar ao Bestiário</button>
       </div>
-    </div>
+    </Fragment>
   )
 }
 
@@ -362,7 +497,7 @@ function Home() {
       const result = await fetch('/enemies.json')
       const resultJson = await result.json()
       setEnemies(resultJson)
-      // setEnemy(resultJson[0])
+      setEnemy(resultJson[0])
     }
 
     loadEnemies()
@@ -371,27 +506,30 @@ function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Um Sistema de RPG onde Goblins dominam o mundo e humanos não existem.<head />">
-      <main className='tailwindpage'>
-        <div className="p-5 border-2 md:p-10">
-          <h1 className='text-5xl font-extrabold'>Bestiário</h1>
-          {enemy
-          ? (
-              <div className='mt-7'>
-                <EnemyDetails enemy={enemy} onClose={e => setEnemy(null)} />
-              </div>
-            )
-          : (
-              <div className='mt-7'>
-                <EnemyList
-                  enemies={enemies}
-                  onSelectEnemy={enemy => setEnemy(enemy)}
-                />
-              </div>
-            )
-          }
-        </div>
-      </main>
+      description="Um Sistema de RPG onde Goblins dominam o mundo e humanos não existem.<head />"
+    >
+      <BreakpointProvider>
+        <main className='tailwindpage'>
+          <div className="p-5 2xl:m-auto 2xl:w-[1536px]">
+            <h1 className='text-5xl font-extrabold'>Bestiário</h1>
+            {enemy
+            ? (
+                <div className='mt-7'>
+                  <EnemyDetails enemy={enemy} onClose={e => setEnemy(null)} />
+                </div>
+              )
+            : (
+                <div className='mt-7'>
+                  <EnemyList
+                    enemies={enemies}
+                    onSelectEnemy={enemy => setEnemy(enemy)}
+                  />
+                </div>
+              )
+            }
+          </div>
+        </main>
+      </BreakpointProvider>
     </Layout>
   )
 }
