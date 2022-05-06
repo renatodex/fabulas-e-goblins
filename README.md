@@ -2,16 +2,16 @@
 
 **[EN]**
 This project contains all the Digital documentation of Fabulas & Goblins book.
-This version was initially designed to be 100% digital, therefore, we focus on organizing the information in small blocks to make it easy to understand and digest. 
+This version was initially designed to be 100% digital, therefore, we focus on organizing the information in small blocks to make it easy to understand and digest.
 
 **[PT-BR]**
 Esse projeto contém toda documentação Digital do livro do Fábulas & Goblins.
-Essa versão foi pensada para ser exclusivamente uma versão digital, e portanto se preocupa em organizar as informações em seções menores para facilitar o entendimento. 
+Essa versão foi pensada para ser exclusivamente uma versão digital, e portanto se preocupa em organizar as informações em seções menores para facilitar o entendimento.
 
 ## Installation / Instalação
 
 ```console
-yarn install
+yarn
 ```
 
 ## Local Development / Desenvolvimento Local
@@ -21,7 +21,7 @@ yarn start
 ```
 
 **[EN]**
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 **[PT-BR]**
 Esse comando inicia um servidor de desenvolvimento e abre uma nova janela no browser. A maioria das mudanças são refletidas em tempo real sem precisar reiniciar os ervidor.
@@ -41,8 +41,16 @@ Esse comanndo gera uma versão estática do site na pasta `build` e pode ser ser
 
 ## Deployment
 
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
