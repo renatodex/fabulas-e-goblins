@@ -49,7 +49,7 @@ Na tabela a seguir, listamos algumas morais de combate.
 
 Diferente dos Personagens dos Jogadores, os Inimigos não possuem um valor de iniciativa. Ao invés disso, o turno deles acontece de forma reativa as ações dos Jogadores, de forma que os turnos serão na maioria das vezes intercalados (Turno do jogador, turno do inimigo..).
 
-Essa estratégia abre espaço para que os jogadores criem estratégias para gerenciar o combate, e consigam utilizar seus [Papéis de Combate](/docs/roles/introduction) de forma útil e criativa.
+Essa estratégia abre espaço para que os jogadores criem estratégias para gerenciar o combate, e consigam utilizar seus [Papéis de Combate](/docs/5-roles/roles-introduction) de forma útil e criativa.
 
 Para definir qual será o inimigo a agir depois de um jogador, você seguirá algumas regras que preparamos.
 As regras na tabela abaixo são muito simples, e devem ser aplicadas sempre de cima para baixo.
