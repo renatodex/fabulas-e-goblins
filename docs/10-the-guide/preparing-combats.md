@@ -15,7 +15,23 @@ Como Narrador, é de sua responsabilidade criar **confrontos equilibrados** que 
 
 Nesta seção vamos te ensinar a **criar combates à altura dos jogadores**, aplicando regras sólidas pelas quais você poderá criar **suas próprias fichas de inimigos**.
 
-## Morais de Combatente
+Para explicar como criar combates equilibrados, separamos essa Seção em 2 partes:
+- Conceitos: Aqui vamos explicar algumas características que os inimigos dentro do jogo possuem, e como você pode usar essas características no seu jogo.
+- Criando Combates: Aqui vamos para a prática, dando exemplos reais de grupos de jogadores e inimigos, e como preparar combates.
+
+## 1. Conceitos
+
+Antes de entrarmos na parte parte de criar combates equilibrados, existem diversos conceitos interessantes que utilizamoss nos Inimigos do nosso Bestiário.
+Entender esses conceitos é importante para criar combates interessantes e ao mesmo tempo desafiadores.
+
+São eles:
+
+- Morais de Combatente
+- Iniciativa dos Inimigos
+- Expectativa de Dano
+- Expectativa de Ataque/Defesa dos Personagens
+
+### Morais de Combatente
 
 Mesmo se dois inimigos possuíssem os mesmos atributos e poderes em sua ficha, eles ainda poderiam enfrentar os Jogadores de maneiras completamente distintas.
 Para descrever os "comportamentos" dos inimigos no combate, utilizamos o conceito de "Moral".
@@ -45,7 +61,7 @@ Na tabela a seguir, listamos algumas morais de combate.
 | Corajoso | Este inimigo não se afugenta do perigo, mesmo se perceber se está enfrentando um inimigo que parece muito superior a ele mesmo. |
 | Oportunista | Este inimigo não costuma atacar a tudo que vê, mas se perceber uma chance maior de vitória, ele com certeza aproveitará. |
 
-## Iniciativa dos Inimigos
+### Iniciativa dos Inimigos
 
 Diferente dos Personagens dos Jogadores, os Inimigos não possuem um valor de iniciativa. Ao invés disso, o turno deles acontece de forma reativa as ações dos Jogadores, de forma que os turnos serão na maioria das vezes intercalados (Turno do jogador, turno do inimigo..).
 
@@ -76,7 +92,7 @@ O primeiro turno de um combate sempre será iniciado pelos Jogadores, exceto se 
 
 Aqui, os jogadores rolarão sua iniciativa, e quem tirar o maior valor será o primeiro a agir.
 
-### Rodada 1 - Turno 1
+#### Rodada 1 - Turno 1
 
 ![CombateTurno1.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C36238790-4970-4b33-96e3-53abd7df1f87.jpg)
 
@@ -89,7 +105,7 @@ A prioridade é **sempre a mesma**:
 3. Inimigos que foram atacados
 4. Inimigos que podem atacar
 
-### Rodada 1 - Turno 2
+#### Rodada 1 - Turno 2
 
 ![CombateTurno2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1799fcdc-b9a7-4600-b82e-8a41a3529e7c.jpg)
 
@@ -98,7 +114,7 @@ No caso acima, o Camag atacado é um **inimigo Selvagem**, e decidiu reagir ao a
 Inimigos inteligentes podem avaliar a quantidade de dano e o perigo da situação para decidirem se vão agir em direção ao Personagem que o a tacou.
 
 
-### Rodada 1 - Turno 3
+#### Rodada 1 - Turno 3
 
 ![CombateTurno3.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1b05e0ff-d130-4893-b1b9-43c47dfdbc9a.jpg)
 
@@ -106,19 +122,19 @@ O próximo personagem será sempre aquele na ordem da iniciativa.
 
 Como aqui no nosso exemplo há apenas 2 Personagens, e um deles já agiu, agora será o turno do **Goblin B**.
 
-### Rodada 1 - Turno 4
+#### Rodada 1 - Turno 4
 
 ![CombateTurno4.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd572128c-d752-4ebd-8d62-8a9956e65792.jpg)
 
 Na figura acima, estamos assumindo que esses inimigos estão dispostos em um [Grid de Combate](/docs/9-combat-rules/moving), e um deles está fisicamente mais próximo dos Personagens.
 
-### Rodada 1 - Turno 5
+#### Rodada 1 - Turno 5
 
 ![CombateTurno5.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff4ad7b9-e51c-4a2e-9a60-e4ac0bc81e34.jpg)
 
 Ao final de uma rodada, todos os Inimigos e Personagens devem ter agido pelo menos uma vez.
 
-## Expectativa de Dano
+### Expectativa de Dano
 
 Uma das características de balanceamento mais importantes deste sistema é o que chamamos de **Expectativa de Dano**:
 
@@ -141,7 +157,7 @@ Dessa forma, você como Narrador pode **utilizar inimigos** que os Personagens d
 
 ![monsters-sheet.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1c9b525e-9dc0-433f-9aa4-8e5375c8cdb9.png)
 
-## Expectativa de Ataque/Defesa dos Personagens
+### Expectativa de Ataque/Defesa dos Personagens
 
 Assim como a **Expectativa de Dano** é importante para que o Narrador entenda como equilibrar combates, há também uma **Expectativa de Ataque e Defesa** no jogo.
 
@@ -164,10 +180,52 @@ Por exemplo, entregar uma **Espada +4** (Ataque Físico +4) a um **Personagem N�
 
 Logicamente, essa regra não é tão relevante caso você esteja criando seus próprios inimigos!
 
-## Regras de Equilíbrio
+## 2. Criando Combates
 
------
+Para criar um combate você precisa pré-selecionar um grupo de inimigos que vão enfrentar os Personagens dos Jogadores.
 
+Mas quais inimigos selecionar? E de quais Tiers?
+
+A resposta para essa pergunta é difícil, porque depende de muita coisa, como por exemplo:
+
+- Da quantidade de Personagens
+- Do perfil dos seus jogadores
+- Da campanha sendo jogada
+- Do contexto desse combate
+- Do terreno onde o combate se passa
+- Dos itens mágicos atualmente distribuidos para os jogadores
+- Do nível de desafio que você quer criar
+
+Esses certamente são alguns pontos para se considerar, mas com certeza existem mais!
+
+### Inimigos e Tiers
+
+Por definição, assumimos algumas regrinhas de balanceamento que podem te ajudar nessa tarefa. Elas não são precisas, mas certamente vão te dar algum norte.
+
+1. Cada Personagem de jogador é capaz de **vencer 1 inimigo do mesmo Tier que ele** com esforço moderado. (usando alguns poderes)
+2. Cada Personagem de jogador é capaz de **vencer 2 inimigos do mesmo Tier que ele** com um esforço alto. (usando muitos poderes)
+3. Cada Personagem de jogador é capaz de **vencer 1 inimigo de um Tier superior a ele** com muito esforço. (usando tudo o que tem).
+4. Dois Personagens são capazes de **vencer 1 inimigo de um Tier superior** com um esforço alto. (usando muitos poderes)
+
+:::info
+Logicamente essas comparações consideram apenas jogadores em papéis de dano, que seriam capazes de causar dano ativamente a inimigos. Alguns personagens contudo, possuem habilidades estratégicas, que focam muito mais em suporte do grupo do que dano, e isso sempre precisa ser considerado na hora de criar um combate para o grupo.
+:::
+
+### Exemplos de Combates
+
+Pensando nas regras que definimos anteriormente, as seguintes configurações de inimigos e jogadores seriam equilibradas:
+
+- **4 Jogadores Tier 1**  VS  **6 Inimigos Tier 1**
+- **4 Jogadores Tier 1** VS **2 Inimigos Tier 2**
+- **4 Jogadores Tier 1** VS **4 Inimigos Tier 1 e 1 Inimigo Tier 2**
+
+Tenha cautela ao colocar Inimigos de Tiers mais avançados para batalhar contra os jogadores. Esses inimigos podem possuir habilidades que controlam o sistema de batalha ou desabilitam os personagens, tornando esse cálculo de balanceamento muito mais difícil de realizar.
+
+:::info Comece aos poucos
+Todas essas regras são baseadas nos inimigos que criamos para o nosso Bestiário. Caso você esteja criando seus próprios Inimigos, é interessante que comece devagar, colocando menos inimigos, e depois aumente gradualmente, conforme sentir que os jogadores estão conseguindo enfrentar as ameaças que você pensou.
+
+Pesar a mão nesse processo pode fazer com que todo o time seja derrotado. (o que não é necessariamente algo ruim, mas é bom ter cautela)
+:::
 
 ### Gerenciando um combate
 
