@@ -1,12 +1,14 @@
 ---
-id: malags-card
-title: Carta de Malag
-slug: /4-grimos-and-spells/malags-card
+id: qatuns-illusion
+title: Ilusão de Qatun
+slug: /4-grimos-and-spells/qatuns-illusion
 ---
 
-Utilizando a **magia do Caos** e outras tecnicas multi-elementais, os **Adeptos de Malag** são conhecidos como poderosos Fortunos; Ilusionistas, capazes de alterar a percepção do que é real e confundir seus oponentes, enquanto jogam com a sorte para desferir ataques poderosos.
+Os **Adeptos de Qatun** são treinados na arte de manipular a mente e a matéria, criando ilusões convincentes que podem confundir seus inimigos.
 
-Os adeptos aprendem os conhecimentos do Caos nos **Circus de Malag**, local sagrado onde esses Adeptos recebem o Grimo de Malag
+Mestres do Ilusionismo e dominadores da Magia do Caos, esses elegantes Fortunos podem influenciar a mente de seus inimigos através da magia de Hipnose, e são capazes de materializar objetos reais que podem ser utilizados para confundir inimigos.
+
+Alguns os chamam de Fortunos, outro de Ilusionistas, ou até mesmo salafrários, mas seja como for, é inegável que o incrível poder escondido na **Ilusão do Qatun**  é capaz de alterar a percepção da própria realidade, enquanto desafiam a sorte e o destino para desferirem ataques poderosos.
 
 ## Criando um Adepto de Magni
 
