@@ -1,0 +1,15 @@
+{
+  "name": "Pular para Derrubar",
+  "magic_cost": null,
+  "duration_time": "0",
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMonsterGrasp",
+  "element": null,
+  "caption": "",
+  "description": "<p>Salta em um alvo a até {{cast_distance}} quadrados de distância, derrubando-o e causando `{{formula}}` de dano. O teste para derrubar deve ser feito contra a defesa física do alvo.</p>",
+  "tags": ["enemy", "monster"]
+}
