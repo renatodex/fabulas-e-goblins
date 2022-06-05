@@ -1,0 +1,15 @@
+{
+  "name": "Feixo Elemental",
+  "magic_cost": null,
+  "duration_time": "1",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "40",
+  "range_amount": "1",
+  "range_type": "Ponto",
+  "icon": "GiMonsterGrasp",
+  "element": "mixed",
+  "caption": null,
+  "description": "<p>Conjura um poderoso feixe de {{element}} que causa um dano devastador. Causa {{formula}} de dano.</p>",
+  "tags": ["enemy", "monster"]
+}
