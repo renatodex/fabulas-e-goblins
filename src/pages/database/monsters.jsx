@@ -141,7 +141,7 @@ function AttributeBar({ color, children, value, icon }) {
       {children}
 
       {value && (
-        <div className='float-right bg-white border-x border-y border-black rounded-full p-2 w-[2.1em] h-[2.1em] text-center text-2xl absolute -right-2 top-0 -top-[0.3em]'>
+        <div className='float-right bg-white border-x border-y border-black rounded-full p-2 min-w-[2.1em] h-[2.1em] text-center text-2xl absolute -right-2 top-0 -top-[0.3em]'>
           {value}
         </div>
       )}
@@ -237,14 +237,16 @@ function EnemySpellsByTier({ tier, attributes, mappedSpells }) {
               mappedSpell?.spell?.attack_logic == 'Físico' ? attributes?.attack?.physical : attributes?.attack?.magical
 
             return (
-              <AttributeBar
-                color={'bg-pale-violet'}
-                value={mappedSpell?.attack || attackAttribute}
-                icon={<GiMidnightClaw/>}
-                key={mappedSpell.handle}
-              >
-                {mappedSpell?.spell?.name}
-              </AttributeBar>
+              <div className='mt-5'>
+                <AttributeBar
+                  color={'bg-pale-violet'}
+                  value={mappedSpell?.attack || attackAttribute}
+                  icon={<GiMidnightClaw/>}
+                  key={mappedSpell.handle}
+                >
+                  {mappedSpell?.spell?.name}
+                </AttributeBar>
+              </div>
             )
           })}
         </div>

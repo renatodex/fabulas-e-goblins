@@ -1,0 +1,15 @@
+{
+  "name": "Bola Elemental",
+  "magic_cost": null,
+  "duration_time": "1",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "6",
+  "range_amount": "2x2",
+  "range_type": "Área",
+  "icon": "GiMonsterGrasp",
+  "element": "mixed",
+  "caption": null,
+  "description": "<p>Conjura {{balls}} enorme Bola(s) de {{element}} que atinge(m) {range_amount} quadrados e causa(m) dano a todos na área. Causa {{formula}} de dano.</p>",
+  "tags": ["enemy", "monster"]
+}

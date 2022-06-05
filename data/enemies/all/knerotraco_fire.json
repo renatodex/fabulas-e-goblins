@@ -1,0 +1,196 @@
+{
+  "name": "Knerotraco de Fogo",
+  "image": "https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C547dbbd1-2625-434e-b56f-2d3c4059373c.png",
+  "description": "<p>Knerotracos são serpentes elementais que podem assumir as mais diversas dominações de elementos mágicos. Algumas serpentes são constituídas por chamas brutas, outras, por eletricidade, e algumas espécies híbridas podem até ser formadas por mais de um único elemento, ou até serem corrompidas por versões corrompidas dos mesmos.<br/>Considerados animais mágicos lendários, essas serpentes são admiradas por suas guelras extremamente valiosas e seu poder natural de flutuação mágica, mas ao mesmo tempo temidas por sua agressividade, e por serem criaturas altamente defensoras.<br/>São animais extremamente versáteis, podendo viver no Ar, na Terra, e também nos Oceanos. </p>",
+  "monster_type": ["reptoid", "dragonoid"],
+  "environments": ["caves", "oceans", "abyss"],
+  "morales": ["skilled", "agressive", "territorialist"],
+  "mob_nature": ["lonely"],
+  "reproduction_pattern": ["hermaphrodite"],
+  "replication_pattern": ["oviparous"],
+  "monster_size": "standard",
+  "tameable": "false",
+  "tier_attributes": [
+    {
+      "tier": 1,
+      "hit_points": 500,
+      "movement": 18,
+      "attack": {
+        "physical": 20,
+        "magical": 20
+      },
+      "defense": {
+        "physical": 20,
+        "magical": 20
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "2d12"
+        },
+        {
+          "handle": "elementalball",
+          "formula": "3d10+5",
+          "element": "fire",
+          "balls": 3
+        },
+        {
+          "handle": "elementalacid",
+          "element": "fire",
+          "area": "3x3",
+          "formula": "1d12+5"
+        },
+        {
+          "handle": "elementalbeam",
+          "element": "fire",
+          "formula": "TIER*(4d10+20)"
+        },
+        {
+          "handle": "ablaze",
+          "formula": "1d6+5",
+          "healing": "1d6+5"
+        },
+        {
+          "handle": "hideonelement",
+          "element": "fire"
+        }
+      ]
+    },
+    {
+      "tier": 2,
+      "hit_points": 800,
+      "movement": 18,
+      "attack": {
+        "physical": 25,
+        "magical": 25
+      },
+      "defense": {
+        "physical": 25,
+        "magical": 25
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "4d12"
+        },
+        {
+          "handle": "elementalball",
+          "formula": "6d10+5",
+          "element": "fire",
+          "balls": 3
+        },
+        {
+          "handle": "elementalacid",
+          "element": "fire",
+          "area": "3x3",
+          "formula": "2d12+10"
+        },
+        {
+          "handle": "elementalbeam",
+          "element": "fire",
+          "formula": "TIER*(4d10+20)"
+        },
+        {
+          "handle": "ablaze",
+          "formula": "2d6+5",
+          "healing": "2d6+5"
+        },
+        {
+          "handle": "hideonelement",
+          "element": "fire"
+        }
+      ]
+    },
+    {
+      "tier": 3,
+      "hit_points": 1100,
+      "movement": 18,
+      "attack": {
+        "physical": 30,
+        "magical": 30
+      },
+      "defense": {
+        "physical": 30,
+        "magical": 30
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "6d12"
+        },
+        {
+          "handle": "elementalball",
+          "formula": "9d10+5",
+          "element": "fire",
+          "balls": 3
+        },
+        {
+          "handle": "elementalacid",
+          "element": "fire",
+          "area": "3x3",
+          "formula": "3d12+10"
+        },
+        {
+          "handle": "elementalbeam",
+          "element": "fire",
+          "formula": "TIER*(4d10+20)"
+        },
+        {
+          "handle": "ablaze",
+          "formula": "3d6+5",
+          "healing": "3d6+5"
+        },
+        {
+          "handle": "hideonelement",
+          "element": "fire"
+        }
+      ]
+    },
+    {
+      "tier": 4,
+      "hit_points": 1400,
+      "movement": 18,
+      "attack": {
+        "physical": 35,
+        "magical": 35
+      },
+      "defense": {
+        "physical": 35,
+        "magical": 35
+      },
+      "spells": [
+        {
+          "handle": "byte",
+          "formula": "8d12"
+        },
+        {
+          "handle": "elementalball",
+          "formula": "12d10+5",
+          "element": "fire",
+          "balls": 3
+        },
+        {
+          "handle": "elementalacid",
+          "element": "fire",
+          "area": "3x3",
+          "formula": "4d12+5"
+        },
+        {
+          "handle": "elementalbeam",
+          "element": "fire",
+          "formula": "TIER*(4d10+20)"
+        },
+        {
+          "handle": "ablaze",
+          "formula": "4d6+5",
+          "healing": "4d6+5"
+        },
+        {
+          "handle": "hideonelement",
+          "element": "fire"
+        }
+      ]
+    }
+  ],
+  "tags": ["monster", "enemy", "legendary"]
+}
