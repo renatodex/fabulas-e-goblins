@@ -2,10 +2,9 @@
 id: preparing-combats
 title: Preparando Combates
 slug: /10-the-guide/preparing-combats
-image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccc564896-87f2-4805-95ba-884a5dc7e5ca.jpg
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cda4dee20-6453-40a1-8c5d-383bcb79f005.png
 ---
-
-![Criando desafios de combate à altura dos jogadores](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccc564896-87f2-4805-95ba-884a5dc7e5ca.jpg)
+![Criando desafios de combate à altura dos jogadores](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cda4dee20-6453-40a1-8c5d-383bcb79f005.png)
 
 O combate é uma parte importante no RPG, é ela que faz com que o jogo não se resuma **apenas a contar histórias**.
 
@@ -21,7 +20,7 @@ Para explicar como criar combates equilibrados, separamos essa Seção em 2 part
 
 ## 1. Conceitos
 
-Antes de entrarmos na parte parte de criar combates equilibrados, existem diversos conceitos interessantes que utilizamoss nos Inimigos do nosso Bestiário.
+Antes de entrarmos na parte parte de criar combates equilibrados, existem diversos conceitos interessantes que utilizamos nos Inimigos do nosso Bestiário.
 Entender esses conceitos é importante para criar combates interessantes e ao mesmo tempo desafiadores.
 
 São eles:
@@ -33,12 +32,13 @@ São eles:
 
 ### Morais de Combatente
 
-Mesmo se dois inimigos possuíssem os mesmos atributos e poderes em sua ficha, eles ainda poderiam enfrentar os Jogadores de maneiras completamente distintas.
-Para descrever os "comportamentos" dos inimigos no combate, utilizamos o conceito de "Moral".
+Mesmo se duas criaturas diferentes possuíssem os mesmos atributos e poderes em sua ficha, elas ainda poderiam enfrentar os Jogadores de maneiras completamente distintas.
 
-A moral vai definir a personalidade deste inimigo, e vai te ajudar a preparar combates mais interessantes e únicos.
+Esse "comportamento de combate" é que chamamos de "Morais de Combatente".
 
-Na tabela a seguir, listamos algumas morais de combate.
+A moral vai definir a personalidade deste inimigo - se ele é agressivo, inteligente, ou até covarde. Essas características te ajudam a preparar combates mais interessantes e únicos.
+
+Na tabela a seguir, listamos algumas morais de combate comuns:
 
 | Tipo | Descrição |
 |------|-----------|
@@ -61,78 +61,7 @@ Na tabela a seguir, listamos algumas morais de combate.
 | Corajoso | Este inimigo não se afugenta do perigo, mesmo se perceber se está enfrentando um inimigo que parece muito superior a ele mesmo. |
 | Oportunista | Este inimigo não costuma atacar a tudo que vê, mas se perceber uma chance maior de vitória, ele com certeza aproveitará. |
 
-### Iniciativa dos Inimigos
-
-Diferente dos Personagens dos Jogadores, os Inimigos não possuem um valor de iniciativa. Ao invés disso, o turno deles acontece de forma reativa as ações dos Jogadores, de forma que os turnos serão na maioria das vezes intercalados (Turno do jogador, turno do inimigo..).
-
-Essa estratégia abre espaço para que os jogadores criem estratégias para gerenciar o combate, e consigam utilizar seus [Papéis de Combate](/docs/5-roles/roles-introduction) de forma útil e criativa.
-
-Para definir qual será o inimigo a agir depois de um jogador, você seguirá algumas regras que preparamos.
-As regras na tabela abaixo são muito simples, e devem ser aplicadas sempre de cima para baixo.
-
-| Prioridade de Turno | Descrição |
-|-------|-----------|
-| Inimigos que não agiram | Nenhum inimigo pode agir duas vezes durante uma rodada de combate (a menos que um poder ou habilidade dele diga o contrário). Logo, você deverá sempre priorizar a ação dos inimigos que não agiram ainda. |
-| Inimigos que podem agir | Inimigos afetados por condições debilitantes como paralizia ou congelamento terão sua prioridade reduzida. Logo, ao escolher qual inimigo agirá, escolha primeiro aqueles que estão aptos. |
-| Inimigos que foram atacados | Essa regra depende muito da moralidade e estratégia do inimigo. Mas como regra geral, inimigos que forem atacados no turno anterior tem a tendência de reagir a um ataque e agir em direção ao alvo que lhe atacou. |
-| Inimigos que podem atacar | Inimigos que podem realizar ataques em jogadores devem agir antes daqueles que não podem realizar ataques. |
-| Inimigos mais próximos | Se nenhum inimigos puder atacar, você poderá selecionar o mais próximo e movimentar. Se estiver em dúvida, você também pode escolher o próximo inimigo com base na sua moralidade de combate. (ex: Inimigos Corajosos agem antes que inimigos Covardes) |
-
-O mais importante é que todos os personagens e inimigos tenham a oportunidade de agir **durante cada rodada**.
-
-:::info
-A **ordem** dos turnos dos inimigos vai depender das **ações dos jogadores**, mas essas regras servem apenas para te **auxiliar a escolher** qual inimigo deve agir após um Personagem.
-
-Se essas regras **não funcionarem** para o seu combate, fique livre para **escolher os turrnos dos inimigos arbitrariamente**, ou se quiser, pode também ir pelo caminho mais difícil e **rolar manualmente** a ordem de iniciativa deles.
-:::
-
-### Exemplo de Combate
-
-O primeiro turno de um combate sempre será iniciado pelos Jogadores, exceto se o combate for uma **emboscada**, ou se algum inimigo possuir alguma habilidade especial que **diga o contrário**.
-
-Aqui, os jogadores rolarão sua iniciativa, e quem tirar o maior valor será o primeiro a agir.
-
-#### Rodada 1 - Turno 1
-
-![CombateTurno1.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C36238790-4970-4b33-96e3-53abd7df1f87.jpg)
-
-Depois que o primeiro jogador agir, o próximo será um inimigo, a menos que alguma outra condição diga o contrário.
-
-A prioridade é **sempre a mesma**:
-
-1. Inimigos que não agiram
-2. Inimigos que podem agir
-3. Inimigos que foram atacados
-4. Inimigos que podem atacar
-
-#### Rodada 1 - Turno 2
-
-![CombateTurno2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1799fcdc-b9a7-4600-b82e-8a41a3529e7c.jpg)
-
-No caso acima, o Camag atacado é um **inimigo Selvagem**, e decidiu reagir ao ataque do **Goblin B**.
-
-Inimigos inteligentes podem avaliar a quantidade de dano e o perigo da situação para decidirem se vão agir em direção ao Personagem que o a tacou.
-
-
-#### Rodada 1 - Turno 3
-
-![CombateTurno3.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1b05e0ff-d130-4893-b1b9-43c47dfdbc9a.jpg)
-
-O próximo personagem será sempre aquele na ordem da iniciativa.
-
-Como aqui no nosso exemplo há apenas 2 Personagens, e um deles já agiu, agora será o turno do **Goblin B**.
-
-#### Rodada 1 - Turno 4
-
-![CombateTurno4.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd572128c-d752-4ebd-8d62-8a9956e65792.jpg)
-
-Na figura acima, estamos assumindo que esses inimigos estão dispostos em um [Grid de Combate](/docs/9-combat-rules/moving), e um deles está fisicamente mais próximo dos Personagens.
-
-#### Rodada 1 - Turno 5
-
-![CombateTurno5.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff4ad7b9-e51c-4a2e-9a60-e4ac0bc81e34.jpg)
-
-Ao final de uma rodada, todos os Inimigos e Personagens devem ter agido pelo menos uma vez.
+Ao checar nosso [Bestiário](/database/monsters), você frequentemente encontrará inimigos sendo classificados em uma ou mais Morais de combate, essas morais orientam você, como Narrador, a interpretar esses inimigos utilizando suas motivações (ou não-motivações) de combate.
 
 ### Expectativa de Dano
 
@@ -227,10 +156,34 @@ Todas essas regras são baseadas nos inimigos que criamos para o nosso Bestiári
 Pesar a mão nesse processo pode fazer com que todo o time seja derrotado. (o que não é necessariamente algo ruim, mas é bom ter cautela)
 :::
 
-### Gerenciando um combate
-
-### Inteligência dos Monstros
-
-### Batalhas Memoráveis
-
 ### Balanceando Combates
+
+O balanceamento perfeito é muito difícil de se fazer. E por mais que o nosso Bestiário possua **Inimigos separados por Tiers**, e oferecermos no livro **diversas idéias** para criar um combate equilibrado para os Personagens, as vezes essas regras não vão ser suficientes.
+
+As vezes seus jogadores tomarão atitudes não esperadas em um combate, e tudo isso poderá comprometer o delicado equilíbrio que você calculou previamente.
+
+Nesses casos, sinta-se livre para utilizar outras ferramentas a seu favor. Talvez os inimigos estando em menor número tenham medo, e fujam do combate. Talvez um dos jogadores fez uma jogada incrível, e isso impressionou um inimigo de tal forma que ele ficou sem reação durante seu turno.
+
+Pense que alguns inimigos também possuem traumas, e que as ações dos jogadores também podem ter desencadeado ações não esperada neles também.
+
+Além disso, as próprias Morais dos inimigos também podem ser uma ferramenta para que você equilibre um combate. Um inimigo agressivo pode ter sido levado a fazer algo extremamente impensado e fora da lógica inteligente, o que poderia também favorecer os jogadores.
+
+### Nem todos inimigos precisam morrer com 0 P.V.
+
+Apesar da Regra de combate dizer o contrário, um Personagem pode ter realizado uma ação crítica impressionante, deixando um certo inimigo com 3 P.V.
+
+Tecnicamente, pelas regras do jogo, ele não morreria, mas porquê não aproveitar esse momento épico para fazer com que a morte desse inimigo aconteça independente do dano ter zerado todos seus P.V?
+
+Aproveite essas ocasiões para dobrar as regras ao seu favor, caso precise, e esteja percebendo que o combate esteja muito desequilibrado para os jogadores.
+
+### A Derrota nem sempre é ruim
+
+No Fábulas & Goblins, quando os Personagens chegam a Zero (0) Pontos de Vida, eles caem inconsciente no chão ao [invés de morrer](/docs/9-combat-rules/death). Esse acontecimento. faz com que eles recebam um Trauma individual.
+
+Mas as vezes, um combate pode acabar sendo muito difícil, e o grupo todo pode acabar sendo derrotado em um combate. (evento que é conhecido pela sigla em inglês TPK, ou "Total Party Kill")
+
+Quando for planejar suas Sessões, **pense sempre no que acontecerá** para **efeito de história** caso o grupo todo **seja derrotado em um combate**.
+
+Talvez eles acabem sendo capturados em uma prisão, resgatados no último minuto por um segundo grupo de aventureiros, ou quem sabe até tenham realmente morrido naquele momento, para descobrir que acordaram em um plano pós-vida e agora precisam buscar sua redenção no submundo se quiserem retornar.
+
+Lembre-se sempre que com bom planejamento e improviso, uma derrota completa pode até mesmo ser considerada uma vitória!

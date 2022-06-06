@@ -55,6 +55,16 @@ A Localidade é onde os Personagens iniciar a Aventura. Pode ser uma Taverna, um
 | O Jogo | Os Personagens são abduzidos por alguma força externa, e acordam ao lado de desconhecidos (seu Grupo). Agora precisam trabalhar juntos para sobreviver. |
 | Guerra | Os Personagens são todos soldados no mesmo lado da Guerra (ou não). Um evento disruptivo força-os a se manterem juntos e sobreviver. |
 
+:::note Crie uma ligação
+A Localidade Inicial é o que chamamos de **Gancho da Aventura**, é uma circunstância comum que liga os personagens.
+
+Mas essa ligação não precisa ocorrer por um fator externo. Pode ser interessante conversar com os Jogadores para estabelecer entre os Personagens vínculos anteriores à aventura.
+
+Talvez dois dos Personagens trabalhem juntos, e um deles pode ter algum tipo de parentesco com um terceiro.
+
+Use sua criatividade, e com a ajuda dos jogadores, você será capaz de criar ótimos Ganchos de aventura.
+:::
+
 ## Defina Capítulos
 
 Os Capítulos na sua história são semelhantes ao conceito de **Começo, Meio e Fim**. Se os seus jogadores esperam que sua campanha tenha um final, é importante que você **Narrador** saiba **qual é o fim da sua história**.

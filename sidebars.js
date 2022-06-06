@@ -143,7 +143,7 @@ const sidebars = {
         'the-guide/inhabit-the-world',
         'the-guide/preparing-a-session',
         'the-guide/preparing-combats',
-        'the-guide/get-in-the-mood',
+        'the-guide/executing-combats',
         'the-guide/tell-the-tale',
         'the-guide/game-tips',
         'the-guide/gm-toolbelt',
