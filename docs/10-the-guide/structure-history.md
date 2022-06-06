@@ -2,9 +2,10 @@
 id: structure-history
 title: Estruture a História
 slug: /10-the-guide/structure-history
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf2a8fd73-5730-4d36-933a-0cb1b9b1f8cc.jpg
 ---
 
-![structurestory.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf2a8fd73-5730-4d36-933a-0cb1b9b1f8cc.jpg)
+![Você Mestre! Já sabe como estruturar sua história do Fábulas & Goblins? Vêm que a gente te ajuda!](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf2a8fd73-5730-4d36-933a-0cb1b9b1f8cc.jpg)
 
 O principal objetivo do Narrador é **contar uma boa história**. Mas como fazer para organizar tantos conceitos diferentes e mesmo assim criar uma história fluida e que faça sentido para os jogadores?
 

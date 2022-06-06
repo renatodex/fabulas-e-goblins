@@ -2,6 +2,7 @@
 id: preparing-a-session
 title: Preparando uma Sessão
 slug: /10-the-guide/preparing-a-session
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C60ac56a5-80bd-4bdc-a7cb-06e92ad7cab0.jpg
 ---
 
 ![Desafios, Tesouros, Experiência e muito mais!](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C60ac56a5-80bd-4bdc-a7cb-06e92ad7cab0.jpg)

@@ -2,9 +2,10 @@
 id: tell-the-tale
 title: Conte a História
 slug: /10-the-guide/tell-the-tale
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccdefe6f9-be4a-427e-a72b-1ed5ce6c281c.jpg
 ---
 
-![GiantTale.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccdefe6f9-be4a-427e-a72b-1ed5ce6c281c.jpg)
+![Quer saber como contar uma boa história? Aqui te damos algumas dicas de onde começar!](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccdefe6f9-be4a-427e-a72b-1ed5ce6c281c.jpg)
 
 Com tudo pronto, é hora de contar uma história!
 
