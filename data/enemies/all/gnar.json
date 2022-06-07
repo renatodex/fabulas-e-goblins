@@ -1,0 +1,124 @@
+{
+  "name": "Gnar",
+  "image": "https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccafac53d-e1e6-4e85-adeb-618cca2d7088.png",
+  "description": "<p>Gnars são criaturas senscientes, sendo capazes de organizar suas próprias comunidades e vilarejos.<br/>Movidos basicamente pela ambição e pelo poder, essas criaturas farão qualquer negócio para aumentar sua influência em uma região.<br/>São conhecidos por habitarem Pântanos, Templos antigos e ambientes com umidade, o que pode ou não incluir Florestas, mas são conhecidos também por habitarem grandes lagos, e construírem suas vilas dentro deles.<br/>Essas criaturas frequentemente se aliam com outras espécies senscientes como Fougrats, Zoblins e Boukos para organizarem planos de expansão de seus territórios, ataques ou emboscadas, e até mesmo rituais que envolvem magia Caótica ou artefatos de propósito duvidoso.</p>",
+  "monster_type": ["fish", "reptoid"],
+  "environments": ["lake", "swamp", "ocean"],
+  "morales": ["intelligent", "stealth", "territorialist"],
+  "mob_nature": ["pack"],
+  "reproduction_pattern": ["familiar"],
+  "replication_pattern": ["oviparous"],
+  "monster_size": "standard",
+  "tameable": "false",
+  "tier_attributes": [
+    {
+      "tier": 1,
+      "hit_points": 16,
+      "movement": 5,
+      "attack": {
+        "physical": 17,
+        "magical": 13
+      },
+      "defense": {
+        "physical": 14,
+        "magical": 14
+      },
+      "spells": [
+        {
+          "handle": "scratch",
+          "formula": "1d6+2"
+        },
+        {
+          "handle": "watergun",
+          "formula": "1d10+3"
+        },
+        {
+          "handle": "jumptoprone",
+          "formula": "1d6+5"
+        }
+      ]
+    },
+    {
+      "tier": 2,
+      "hit_points": 32,
+      "movement": 5,
+      "attack": {
+        "physical": 19,
+        "magical": 16
+      },
+      "defense": {
+        "physical": 16,
+        "magical": 16
+      },
+      "spells": [
+        {
+          "handle": "scratch",
+          "formula": "2d6+4"
+        },
+        {
+          "handle": "watergun",
+          "formula": "2d10+3"
+        },
+        {
+          "handle": "jumptoprone",
+          "formula": "1d8+10"
+        }
+      ]
+    },
+    {
+      "tier": 3,
+      "hit_points": 64,
+      "movement": 5,
+      "attack": {
+        "physical": 23,
+        "magical": 19
+      },
+      "defense": {
+        "physical": 18,
+        "magical": 18
+      },
+      "spells": [
+        {
+          "handle": "scratch",
+          "formula": "3d8+6"
+        },
+        {
+          "handle": "watergun",
+          "formula": "3d10+4"
+        },
+        {
+          "handle": "jumptoprone",
+          "formula": "1d10+15"
+        }
+      ]
+    },
+    {
+      "tier": 4,
+      "hit_points": 128,
+      "movement": 5,
+      "attack": {
+        "physical": 26,
+        "magical": 22
+      },
+      "defense": {
+        "physical": 20,
+        "magical": 20
+      },
+      "spells": [
+        {
+          "handle": "scratch",
+          "formula": "4d10+8"
+        },
+        {
+          "handle": "watergun",
+          "formula": "4d12+5"
+        },
+        {
+          "handle": "jumptoprone",
+          "formula": "1d12+20"
+        }
+      ]
+    }
+  ],
+  "tags": ["monster", "enemy"]
+}

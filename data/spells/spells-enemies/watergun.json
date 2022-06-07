@@ -1,0 +1,15 @@
+{
+  "name": "Jato de Água",
+  "magic_cost": null,
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "4",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMonsterGrasp",
+  "element": "water",
+  "caption": "",
+  "description": "<p>Atira um Jato de Água a até {{cast_distance}} quadrados de distância em um alvo, causando `{{formula}}` de dano.</p>",
+  "tags": ["enemy", "monster"]
+}

@@ -2,6 +2,7 @@
 id: alluras-orb
 title: Orbe de Allura
 slug: /4-grimos-and-spells/alluras-orb
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C5f3d693b-c138-4c37-abee-a930c3059681.jpg
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -54,7 +55,7 @@ import meteors from './../../data/spells/spells-allura/tier4/meteors.json'
 import quadro_blast from './../../data/spells/spells-allura/tier4/quadro_blast.json'
 import torment_master from './../../data/spells/spells-allura/tier4/torment_master.json'
 
-![allura2.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd7d742c5-4dd6-4890-9cf0-4ad23bc2a2a1.png)
+![Que tal se tornar um verdadeiro Mago elemental? Tem um minuto pra ouvir a palavra de Allura?](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C5f3d693b-c138-4c37-abee-a930c3059681.jpg)
 
 A **Orbe de Allura** é um Grimo elemental, que ao ser vinculado, pode adquirir qualquer um dos 12 Aspectos Elementais do mundo.
 

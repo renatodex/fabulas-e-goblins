@@ -1,0 +1,15 @@
+{
+  "name": "Em chamas",
+  "magic_cost": null,
+  "duration_time": "1",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": "0",
+  "range_type": "Sí mesmo",
+  "icon": "GiMonsterGrasp",
+  "element": "mixed",
+  "caption": null,
+  "description": "<p>Coloca o próprio corpo em chamas, criando uma espécie de armadura elemental que reduz em {{formula}} qualquer dano causado, além de curar {{healing}} por turno.</p>",
+  "tags": ["enemy", "monster"]
+}
