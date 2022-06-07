@@ -135,13 +135,20 @@ const sidebars = {
         'combat-rules/durability',
         'combat-rules/negative-effects',
       ],
-      '10. Itens e Equipamentos': [
-        'itens-and-equipments/itens-intro',
+      '10. Narrador': [
+        'the-guide/guide-intro',
+        'the-guide/fundamentals',
+        'the-guide/structure-history',
+        'the-guide/create-the-world',
+        'the-guide/inhabit-the-world',
+        'the-guide/preparing-a-session',
+        'the-guide/preparing-combats',
+        'the-guide/executing-combats',
+        'the-guide/tell-the-tale',
+        'the-guide/game-tips',
+        'the-guide/gm-toolbelt',
       ],
-      '11. Narrador': [
-        'the-guide/guide-intro'
-      ],
-      '12. A Magia': [
+      '11. A Magia': [
         'the-magic/magic-in-the-world',
         'the-magic/magic-potions',
         'the-magic/radamagi-and-scrolls',
@@ -154,7 +161,7 @@ const sidebars = {
         'the-magic/gem-cards',
         'the-magic/grimo-popularization'
       ],
-      '13. As Terras Místicas': [
+      '12. As Terras Místicas': [
         'the-world/wheres-the-game-placed',
         'the-world/the-blackout',
         'the-world/the-emotions-and-the-blackout',
@@ -169,7 +176,7 @@ const sidebars = {
         'the-world/the-ecos',
         'the-world/the-ages-of-the-world'
       ],
-      '14. Appêndice': [
+      '13. Appêndice': [
         'appendix/stereotypes',
         'appendix/flaws',
         'appendix/character-sheet',

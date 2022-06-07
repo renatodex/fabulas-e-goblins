@@ -26,3 +26,5 @@ newrelic_agent.log
 /static/*.json
 /static/spells.json
 /static/enemies.json
+
+newrelic_agent.log

@@ -2,6 +2,7 @@
 id: specie-luminins
 title: Luminins
 slug: /3-species/specie-luminins
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf825ad17-1143-4824-8c2d-c448cac0df46.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -9,7 +10,7 @@ import Float from './../../data/spells/spells/float.json'
 import NaturalLight from './../../data/spells/spells/natural_light.json'
 import MineralCamouflage from './../../data/spells/spells/mineral_camouflage.json'
 
-![luminins.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf825ad17-1143-4824-8c2d-c448cac0df46.png)
+![Os habitantes das florestas de cristais](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf825ad17-1143-4824-8c2d-c448cac0df46.png)
 
 *Enquanto caminhava pela floresta à noite, o corpo daquela criatura parecia iluminar as Cristaritas suavemente, atravessando seus estruturas opacas e cintilando um leve e suave brilho purpúreo, que emanava de.
 Desconfiada, olhava para os lados com um estranho pressentimento de estar sendo observada.

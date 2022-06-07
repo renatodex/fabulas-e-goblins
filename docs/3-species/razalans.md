@@ -2,6 +2,7 @@
 id: specie-razalans
 title: Razalans
 slug: /3-species/specie-razalans
+image: https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/especies-jogaveis/razalans/RazalansSpecie.jpg
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -9,7 +10,7 @@ import Float from './../../data/spells/spells/float.json'
 import SoftFall from './../../data/spells/spells/soft_fall.json'
 import WindBlow from './../../data/spells/spells/wind_blow.json'
 
-![](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/especies-jogaveis/razalans/RazalansSpecie.jpg)
+![Os habitantes das ilhas flutuantes](https://fabulas-e-goblins-book.s3.us-west-2.amazonaws.com/especies-jogaveis/razalans/RazalansSpecie.jpg)
 
 *Flutuando com sua superioridade indubitável, o soldado Razalan espantava aquelas terríveis criaturas apenas com o bater de suas asas e o brandir de sua lança, que lembrava vagamente um tridente. Enquanto as criaturas correm em busca de abrigo longe do Soldado, o jovem Goblin sente-se aliviado, agradecendo a presença de seu salvador. Ele então aponta ao Goblin o caminho da estrada segura, e pede ao pequeno que a siga, evitando adentrar a mata das ilhas flutuantes. Subitamente, ele salta pelo penhasco e abre suas asas, planando graciosamente pelo vento, e provendo um espetáculo a parte que o jovem Goblin jamais esqueceria.*
 
