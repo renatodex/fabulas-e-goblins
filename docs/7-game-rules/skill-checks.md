@@ -40,7 +40,7 @@ Mas uma Falha **nem sempre** significa que você fracassou totalmente. Deixamos 
 
 No contexto de um combate por exemplo, uma **Falha de Ataque** nem sempre significa que você **errou um ataque** sem causar dano. O Narrador pode decidir que você **conseguiu causar dano ao alvo**, mas a **forma como você realizou essa ação** pode vir acompanhada de algumas **consequências**.
 
-Descrevemos algumas dessas consequências no [Capítulo 9: Regras de Combate](/docs/9-combat-rules/physical-combate).
+Descrevemos algumas dessas consequências no [Capítulo 9: Regras de Combate](/docs/9-combat-rules/physical-combat).
 
 *Se você estava tentando atacar um oponente com sua espada, uma falha pode significar apenas que seu ataque não foi bem sucedido, e o inimigo conseguiu desviar do ataque; Se você estiver abrindo uma fechadura, uma falha significa que seus esforços não foram suficientes para destravar o mecanismo.*
 
