@@ -1,0 +1,15 @@
+{
+  "name": "Inicio Utilitário",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiBubbles",
+  "element": null,
+  "caption": "Antes mesmo de um combate iniciar, você sabe avaliar seus inimigos e se preparar para o combate de forma mais eficiente.",
+  "description": "<p>Quando um encontro iniciar, escolha um</p><ul><li>Iniciar o encontro com <code>TIER*5</code> P.M temporários.</li><li>Iniciar o encontro com <code>TIER*5</code> P.V temporários.</li><li>Iniciar o encontro com <code>+4</code> de Iniciativa</li><li>Iniciar o encontro com <code>+4</code> de Bônus de Ataque.</li><li>Iniciar o encontro com <code>+4</code> de Bônus de Defesa.</li>",
+  "tags": ["role", "utility"]
+}

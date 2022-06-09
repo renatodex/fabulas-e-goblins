@@ -4,6 +4,13 @@ title: Atirador
 slug: /5-roles/roles-hunter
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import disengage from './../../data/spells/spells-roles/disengage.json'
+import sharp_precision from './../../data/spells/spells-roles/sharp_precision.json'
+
+![Atirador.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4ec3f2d3-8faf-48ab-b247-a2086d04c538.jpg)
+
 O Atirador é um tipo de Carregador focado no combate a Longa Distância. Costuma focar sua build em precisão e combate estratégico.
 Personagens atiradores costumam ficar distantes no campo de batalha, oferecendo cobertura aos aliados e alto dano aos inimigos.
 
@@ -51,9 +58,11 @@ Costumam se adaptar mais com armas leves que permitem uma boa movimentação no 
       <td>Pontos de Magia por Nível</td>
       <td>+3/+3/+6/+6</td>
     </tr>
-    <tr>
-      <td>Bônus de Ataque à Distância</td>
-      <td>+1</td>
-    </tr>
   </tbody>
 </table>
+
+## Poderes do Papel
+
+<SpellFromJson expanded={false} spellData={disengage} />
+
+<SpellFromJson expanded={false} spellData={sharp_precision} />

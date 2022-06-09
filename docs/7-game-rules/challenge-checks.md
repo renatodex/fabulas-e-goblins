@@ -21,10 +21,10 @@ Um exemplo de uma **ação desse tipo** é a Ação para se **defender de um ata
 
 Para realizar uma ação desse tipo, o Narrador **definirá um número** *(secretamente ou não)* do qual você **deverá superar** se quiser **ser bem sucedido**. Chamamos esse número de **Dificuldade do Teste**.
 
-Assim como a **tabela fixa** dos **Testes de Perícia**, rolar um resultado que esteja até **5 pontos abaixo** do valor de dificuldade resultará em uma **jogada imperfeita**. Da mesma forma, qualquer valor igual ou superior à **Dificuldade do Teste** será considerado como um **Sucesso**.
+Assim como a **tabela fixa** dos **Testes de Perícia**, rolar um resultado que esteja abaixo do valor de dificuldade resultará em uma **Falha**. Da mesma forma, qualquer valor igual ou superior à **Dificuldade do Teste** será considerado como um **Sucesso**.
 
 Da mesma forma, **rolar 1 ou 20** também **resultará em um Desastre ou Triunfo**, respectivamente.
 
 **Uma forma de visualizar** os tipos de resultados de uma **Ação de Desafio** seria a seguinte:
 
-![ChallengeRoll.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C435ea233-fc20-4740-a77e-af4cd1d4139b.png)
+![ChallengeRoll](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1f674489-3efd-4c21-ad29-4293c805ccf0.png)

@@ -10,6 +10,6 @@
   "icon": "GiPocketBow",
   "element": null,
   "caption": "Materializa um Arco Mágico para desferir um único disparo preciso e mortal, causando um dano gigantesco em um alvo.",
-  "description": "<p>O Disparo Fatal sempre acerta um inimigo no seu ponto mais fraco, causando <code>TIER*(2D10+25)</code> de dano direto e causando <code>Sangramento 10*TIER</code> <b>(perda de vida por turno)</b> por 3 (três) turnos. Para acertar o ataque, você deve testar contra a Defesa Física do alvo.<br/><b>Pode atingir alvos de uma distância gigantesca.</b></p>",
+  "description": "<p>O Disparo Fatal sempre acerta um inimigo no seu ponto mais fraco, causando <code>TIER*(2D10+25)</code> de dano direto e causando <code>Sangramento 10*TIER</code> <b>(perda de vida por turno)</b> por 3 (três) turnos. Para acertar o ataque, você deve testar contra a Defesa Física do alvo.<br/><b>Pode atingir alvos de uma distância gigantesca. Apesar de testar contra Defesa Física, este poder causa dano mágico.</b></p>",
   "tags": ["grimo", "kanus", "ultimate"]
 }

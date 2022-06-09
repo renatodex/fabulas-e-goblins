@@ -75,39 +75,26 @@ O Tutor é uma pessoa da sua história de vida que gerou sua indicação para a 
 A nomeação no primeiro momento pode ser tão simples como: Meu Tutor chama-se "Fulano da Silva". O nome do Tutelado deve estar anotado na sua Ficha de Personagem para referência futura do Narrador.
 *Não é necessário que a história do Tutor seja explicada nesse primeiro momento, mas com certeza se você tiver uma explicação, será melhor!*<br/>
 
-### 2. **Escolher uma Especialização inicial de Arma**
-
-Essa especialização deve ser adicionada a sua ficha, e lhe garantirá um Bônus de +1 em todos ataques utilizando esse tipo de arma. (O bônus também pode se aplicar aos poderes, caso o poder cite sua arma como canalização do poder).
-
-Esse bônus sinaliza um treinamento inicial para se movimentar e se equilibrar utilizando esse tipo de arma.*<br/>
-Dentre as categorias de armas, estão:
-  - Espadas
-  - Machados
-  - Martelos/Malhos
-  - Clavas/Maças
-  - Bastões
-  - Armas de Haste
-  - Escudos
-
-**A escolha da Especialização se aplica tanto para Armas de Uma Mão ou de Duas Mãos.**
-
-:::note Armas e suas Categorias
-No mundo real, o combate com tipos diferentes de espadas pode afetar completamente o tipo de treinamento que você precisa para utilizar uma certa arma.
-
-Aqui no Fábulas, não temos a intenção de ser um sistema *Simulacionista*, e para efeito de simplificação, compactamos o bônus de especialização em grandes grupo de armas, como descrevemos acima, justamente para tornar a criação do personagem mais fácil e objetiva.
-
-Caso o Narrador prefira entrar no detalhe e decidir por exemplo que personagens com treinamento em **Scimitarras** não podem receber o mesmo bônus ao utilizar **Espadas de Esgrima**, não tem problema, fica a cargo do grupo decidir quais regras fazem mais sentido para o treinamento de especialização.
-
-Nossa sugestão oficial é que se utilizem as categorias genéricas, mas nada impede o grupo de trabalhar aspectos mais detalhados desse treinamento.<br/>
-De fato, em determinadas aventuras, a depender do contexto, esse tipo de decisão pode ser bastante interessante.
-:::
-
-### 3. Escolher seus Poderes Iniciais
+### 2. Escolher seus Poderes Iniciais
 
 A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
+
+## Folego de Herói
+
+Sua vontade em vencer seus obstáculos seria indescritível para qualquer um sem sua garra e motivação.
+
+Além disso, **Adeptos de Giurad** são treinados a ferro e fogo para circunstâncias letais onde pode não haver esperança. Por isso, esses guerreiros aprendem desde o início que o mundo é cruel, e só depende deles se tornarem a própria faísca da esperança.
+
+O Folego de Herói garante que, uma vez por dia, sempre que você chegar a **0 P.V e for abatido**, faça um **Teste de Resiliência**. Se for bem sucedido, você se levanta **após no mínimo 3 turnos** com apenas **1 P.V** para viver e lutar mais uma vez.
+
+**Você pode escolher se levantar em qualquer ordem da iniciativa.**
+
+Antes de se levantar, como uma ação livre de puro metajogo, você pode narrar os pensamentos ou visões que te levaram a se levantar epicamente contra a escuridão e lutar mais uma vez.
+
+Essa ação, se bem sucedida, **não gerará um Trauma** para o Personagem.
 
 ## Interpretando um Adepto de Giurad
 
@@ -116,7 +103,7 @@ Eles são vistos pelos outros como uma espécie de **Cavaleiro**, cujos objetivo
 
 A honra desse privilégio é muito bem vista em civilizações do mundo todo, pois os **Adeptos de Giurad** sacrificam suas pretenções para defender aqueles que mantém o equilíbrio do mundo.
 
-Politicamentee, a **Academia de Giurad** é aliado de grandes Reinos, sendo cada academia individual geralmente associada a um único reino ou império.
+Politicamente, a **Academia de Giurad** é aliado de grandes Reinos, sendo cada academia individual geralmente associada a um único reino ou império.
 
 Os **Adeptos** portanto, são Cavaleiros leais, que possuem objetivos claros e são muitas vezes avistados como Guarda-Costas de Elite de entidades importante no mundo, como Imperadores e Augúrios.
 
@@ -140,10 +127,10 @@ Uma das grandes virtudes que se destacam na criação do Grimo é sua criativida
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Dano | Descrição | Durabilidade |
-| ------ | ------------ | ---- | --------- | ------------ |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | D12 + 3 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | D12 + 3 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas |
+| Imagem | Nome da Arma | Tipo de Dano | Dano | Descrição | Durabilidade | Atributo |
+| ------ | ------------ | ---- | --------- | ------------ | -------- | --------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | Físico | D12 + 3 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Resiliência |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | Físico | D12 + 3 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Força |
 
 ## Poderes do Grimo
 

@@ -1,0 +1,15 @@
+{
+  "name": "Ação: Desengajar",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Movimento",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você se afasta de um alvo hostil, criando espaço para atacar.",
+  "description": "<p>No lugar de uma ação de Movimento, você pode se afastar de um inimigo gratuitamente sem penalidades, movendo-se até <code>3</code> quadrados e realizando um ataque simultâneo com sua arma principal de longa distância. Só pode ser realizado com alvos engajados.</p>",
+  "tags": ["role", "shooter"]
+}

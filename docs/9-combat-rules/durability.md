@@ -31,7 +31,7 @@ As **Cargas de Desgaste** podem ser acumuladas em diversas ocasiões. Abaixo lis
 - Ao rolar uma **falha crítica** num teste de Defesa Física ou Mágica.
 - Ao ser afetado por um **poder inimigo** que reduz Durabilidade.
 - Ao utilizar seus equipamentos de **forma imprudente** e não segura.
-- Como consequência de um [Sucessos imperfeito](/docs/7-game-rules/skill-checks).
+- Como consequência de um [Falha](/docs/7-game-rules/skill-checks). (usar com cautela)
 
 As cargas devem ser recebidas de forma contextual, logo, é importante que o Narrador avalie se aquela situação realmente se traduziu num dano de Durabilidade à Arma.
 

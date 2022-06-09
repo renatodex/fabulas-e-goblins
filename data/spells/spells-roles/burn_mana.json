@@ -1,0 +1,15 @@
+{
+  "name": "Ação: Queimar Magia",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você canaliza toda sua magia remanescente de volta ao universo.",
+  "description": "<p>Você gasta uma Ação Maior para drenar todos seus Pontos de Magia. Geralmente utilizado para ativar o Fôlego Mágico.</p>",
+  "tags": ["role", "caster", "encounter"]
+}

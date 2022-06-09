@@ -1,0 +1,15 @@
+{
+  "name": "Sobrecarga Mágica",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você utiliza cada gota da sua conexão mágica para continuar canalizando poderes do seu Grimo.",
+  "description": "<p>A qualquer momento, sobrecarrega um poder mágico (do Grimo ou de Itens), aumentando sua área em <code>1</code>. Exemplo: Poderes em áreas quadradas de <code>1x1</code> se tornam <code>2x2</code>. Poderes que atingem <code>1</code> alvo ou ponto agora atingem <code>2</code> alvos/pontos, e poderes em linha de <code>1x4</code> se tornam <code>2x4</code>.</p><p>Não tem efeito em poderes corpo a corpo ou que se aplicam a sí mesmo.<br/>Não pode ser usado em ataques Especiais (Ultimates).</p>",
+  "tags": ["role", "caster", "encounter"]
+}

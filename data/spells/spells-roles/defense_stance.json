@@ -1,0 +1,15 @@
+{
+  "name": "Estância de Defesa",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você entra em modo de defesa na hora certa, preparado para receber o ataque inimigo.",
+  "description": "<p>A qualquer momento antes de receber um ataque, você pode ativar a instância de Defesa para receber <code>+4</code> de Defesa (Físico e Mágico) contra o próximo ataque realizado contra você. Use essa habilidade uma vez por encontro.</p>",
+  "tags": ["role", "tank", "encounter"]
+}

@@ -94,6 +94,8 @@ Essa expectativa vai te ajudar a entender como os seus Personagens podem progred
 
 Esses itens geralmente vão fornecer aos Personagens **valores de ataque e de defesa adicionais**, e por isso, precisam ser considerados na hora de criarmos novos inimigos para o Universo do **Fábulas & Goblins**.
 
+Inicialmente, cada atributo de Personagem **pode variar entre -1 e +4**, então você precisa considerar que um personagem **Tier 1** com uma **Espada +2** tecnicamente já pode possuir **+6 de Ataque**, o que permite que ele acerte facilmente os inimigos desse Tier.
+
 Todos os inimigos que você encontrará em nosso **Bestiário** foram criados com essa expectativa em mente.
 
 | Tier | Ataque Físico            | Ataque Mágico | Defesa Física | Defesa Mágica |
@@ -103,11 +105,16 @@ Todos os inimigos que você encontrará em nosso **Bestiário** foram criados co
 | Tier 3 (Níveis 11 a 15)   | Entre +4 e +8            | Entre +4 e +8            | Entre +4 e +8            | Entre +4 e +8            |
 | Tier 4 (Níveis 16 a 20)   | Entre +8 e +16           | Entre +8 e +16           | Entre +8 e +16           | Entre +8 e +16           |
 
-Isso significa que, ao distribuir **itens mágicos** aos jogadores, você poderá usar a tabela acima para entender os limites esperados e evitar que os personagens se tornem muito mais fortes que os inimigos do nosso bestiário.
+Personagens de **Tier 4** podem possuir até **+16 de Bônus de Ataque**, isso porquê inimigos poderosos de Tier 4 como **Knerotracos** podem possuir **35 de Defesa** ou até mais que isso.
+No caso de um **Knerotraco de Fogo** por exemplo, jogadores com +4 de Atributo e +16 de Bônus de Ataque precisariam tirar **15 ou mais no Dado** caso queiram superar a defesa dele. *(4 + 16 + 15 = 35)*
 
-Por exemplo, entregar uma **Espada +4** (Ataque Físico +4) a um **Personagem Nível 3** pode tornar ele muito forte em comparação aos inimigos desse Tier, já entregar uma **Espada +4** para um personagem **Nível 16** pode ser inferior ao nível de inimigos que eles enfrentarão.
+Logo, ao distribuir **itens mágicos** aos jogadores, você poderá usar a tabela acima para entender os **limites esperados** e **evitar** que os personagens se tornem **muito mais fortes** que os **inimigos do nosso bestiário**.
 
-Logicamente, essa regra não é tão relevante caso você esteja criando seus próprios inimigos!
+Por exemplo, entregar uma **Espada +4** (Ataque Físico +4) a um **Personagem Nível 3** pode tornar ele muito forte em comparação aos inimigos desse Tier, já entregar uma **Espada +4** para um personagem **Nível 16** pode ser **inferior** ao nível de inimigos que eles enfrentarão.
+
+:::note
+Apesar de **não recomendarmos**, vale dizer que essa regra é **irrelevante** caso você esteja **criando seus próprios inimigos** e fazendo seu próprio **balanceamento**!
+:::
 
 ## 2. Criando Combates
 

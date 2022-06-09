@@ -98,15 +98,5 @@ Para ajudá-lo em sua decisão, preparamos uma tabela abaixo comparando os atrib
       <td>2/4/4/6</td>
       <td>3/3/6/6</td>
     </tr>
-    <tr>
-      <td>Bônus</td>
-      <td>Ataque Corpo-a-Corpo +1</td>
-      <td>Ataque Mágico +1</td>
-      <td>Ataque à Distância +1</td>
-      <td>Defesa Mágica +1</td>
-      <td>Defesa Física +1</td>
-      <td>Iniciativa +2</td>
-    </tr>
-
   </tbody>
 </table>
