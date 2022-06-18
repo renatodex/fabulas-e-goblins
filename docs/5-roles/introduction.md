@@ -14,27 +14,24 @@ Em Sistemas de RPG tradicionais, as Classes ditam vários aspectos do personagem
 - Rótulos de Interpretação (Bárbaros são brutos, Bardos são carismáticos, e por ai vai)
 - Curva de evolução (As Classes geralmente possuem uma base de Pontos de Vida que ganham por nível)
 - Proficiências de Armas
-- Habilidades (Cada classe possui suas habilidades)
+- Habilidades e Poderes (Cada classe possui suas habilidades)
 
 Enquanto é inegável que esse é um sistema é simples de digerir, ele também impõe muitas pequenas restrições que podem acabar dificultando a criação de personagens "fora da curva".
 
-Por isso, no Fábulas, logo no começo tomamos a decisão de remover o conceito de "Classes" completamente do jogo, substituindo elas pelo conceito de "Papeis"
+Por isso, no Fábulas, logo no começo tomamos a decisão de remover o conceito de "Classes" completamente do jogo, substituindo elas por diversos conceitos independentes, incluindo o conceito de "Papeis".
 
 :::note Classes
 É claro que dentro do mundo das Terras Místicas, esses Rótulos ou Designações de Classe existem normalmente, pois existem academias específicas que treinam Sacerdotes, Cavaleiros, Arcanistas, Fortunos e todo os tipos de rótulos de classe que você pode imaginar.
-A única diferença é que essas "Classes" se restringem ao mundo de jogo, e passam a não representar mais uma "Escolha" na sua ficha.
+A única diferença é que esses termos se restringem ao mundo de jogo, e não representam mais uma escolha na sua ficha.
 :::
 
 ## Como eu escolho meu Papel?
 
-O Papel é uma escolha que você faz na construção da sua ficha que dita como será a progressão mecânica do seu personagem. Ele irá ganhar mais pontos de vida? Terá um ataque base superior? Se movimentará mais pelo campo de batalha?
+A escolha do Papel define como será a **progressão mecânica** do seu Personagem conforme ele passar de nível. Ele irá ganhar **mais pontos de vida**? Terá um **ataque** superior? Se **movimentará mais** pelo campo de batalha? Tudo isso é definido quando você escolhe um Papel de jogo.
 
-Todas essas caracteríscas são esclarecidas pela escolha do Papel.<br/>
-O Papel é independente do seu estilo de Combate ou Grimo que escolheu para jogar, ele é meramente uma escolha mecânica, e deve ser contextualizado pelas preferências de combate do seu personagem.
+O Papel de jogo também ajuda a definir qual será o seu "objetivo" dentro de um combate. Ou seja, se quiser criar um personagem que **aguente o dano dos inimigos** e evite que seus **aliados recebam dano**, talvez queira escolher o **Papel de Tanque**, pois esse papel lhe dará uma base superior de **Pontos de Vida**, além de permitir que você prenda a atenção dos inimigos por mais tempo.
 
-Se quer criar um personagem que aguente o dano dos inimigos e consiga sobreviver por mais tempo, talvez queira escolher o Papel "Tanque", pois esse papel lhe dará uma base superior de **Pontos de Vida**.
-
-Já se o seu objetivo é criar um Mago destruidor, cujo objetivo é incendiar o campo de batalha com uma leque diverso de magias, talvez você prefira o Papel do **Conjurador**, pois nesse Papel você terá, além de uma boa base de **Pontos de Magia** iniciais, um valor de **Ataque Mágico** razoável para acertar os seus feitiços nos inimigos!
+Já se o seu objetivo é criar um Mago destruidor, cujo objetivo é incendiar o campo de batalha com um leque diverso de magias, talvez você prefira o **Papel do Conjurador**, pois nele você terá, além de uma boa base de **Pontos de Magia** iniciais, a habilidade de **potencializar seus Ataques Mágicos**, atingindo mais inimigos e causando ainda mais dano!
 
 ## Comparação dos Papéis
 

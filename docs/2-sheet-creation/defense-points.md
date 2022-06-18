@@ -14,7 +14,7 @@ Assim como os **Pontos de Vida** e **Magia**, os **Pontos de Defesa** também au
 
 Ao criar o seu personagem, você deve calcular seus **Pontos de Defesa Física** *(D.F)* com a seguinte fórmula:
 
-![Formula-PD-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C40ceadaf-7222-4994-b022-b4d968d0023c.jpg)
+![Formula-PD-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cba7f5e1f-b9bc-4dbf-8d55-bb669ccda1dc.jpg)
 
 Os Pontos de Defesa **entram em jogo** sempre que seu personagem for **atacado fisicamente**. Nesses momentos, você deverá deverá rolar um D20 e **Somar seus Pontos de Defesa**.
 
@@ -27,8 +27,8 @@ Vamos falar um pouco sobre isso.
 
 No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 
-- Adquirindo pontos de **Força ou Resiliência**.
-- Treinando Poderes no Grimo que **aumentam Defesa** ([Introdução aos Grimos](/docs/4-grimos-and-spells/introduction)).
+- Adquirindo pontos do atributo **Resiliência**.
+- Treinando Poderes no Grimo que **aumentam Defesa Física** ([Introdução aos Grimos](/docs/4-grimos-and-spells/introduction)).
 - Adquirindo [Equipamentos melhores](/docs/13-appendix/types-of-armor) *(ou até escudo e outros acessórios de defesa)*.
 
 :::tip Importante

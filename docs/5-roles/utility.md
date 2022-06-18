@@ -19,8 +19,9 @@ Os Utilitários são como Canivetes Suíços, oferecendo grande flexibilidade de
 
 ## Você deve escolher este Papel se...
 
-- Seu objetivo primário pode váriar entre papéis.
+- Seu estilo de batalha pode variar dependendo da situação.
 - Você não prioriza causar o maior dano ou fornecer o melhor suporte.
+- Você quer sempre ser útil para o seu time no momento certo.
 
 ## Características Iniciais
 

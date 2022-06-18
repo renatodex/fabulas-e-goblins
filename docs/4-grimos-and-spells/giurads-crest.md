@@ -88,11 +88,11 @@ Sua vontade em vencer seus obstáculos seria indescritível para qualquer um sem
 
 Além disso, **Adeptos de Giurad** são treinados a ferro e fogo para circunstâncias letais onde pode não haver esperança. Por isso, esses guerreiros aprendem desde o início que o mundo é cruel, e só depende deles se tornarem a própria faísca da esperança.
 
-O Folego de Herói garante que, uma vez por dia, sempre que você chegar a **0 P.V e for abatido**, faça um **Teste de Resiliência**. Se for bem sucedido, você se levanta **após no mínimo 3 turnos** com apenas **1 P.V** para viver e lutar mais uma vez.
+O Folego de Herói garante que, uma vez por dia, sempre que você chegar a **0 P.V e for abatido**, faça um **Teste de Resiliência**. Se for bem sucedido, você se levanta **após 1 turno** com apenas **1 P.V** para viver e lutar mais uma vez.
 
 **Você pode escolher se levantar em qualquer ordem da iniciativa.**
 
-Antes de se levantar, como uma ação livre de puro metajogo, você pode narrar os pensamentos ou visões que te levaram a se levantar epicamente contra a escuridão e lutar mais uma vez.
+Antes de se levantar, como uma **ação livre de interpretação**, você pode narrar os pensamentos ou visões que te levaram a se levantar epicamente contra a escuridão e lutar mais uma vez.
 
 Essa ação, se bem sucedida, **não gerará um Trauma** para o Personagem.
 
