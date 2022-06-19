@@ -147,20 +147,7 @@ const sidebars = {
         'the-guide/game-tips',
         'the-guide/gm-toolbelt',
       ],
-      '11. A Magia': [
-        'the-magic/magic-in-the-world',
-        'the-magic/magic-potions',
-        'the-magic/radamagi-and-scrolls',
-        'the-magic/magic-items',
-        'the-magic/grimos',
-        'the-magic/nexus-master',
-        'the-magic/the-cycle-of-life',
-        'the-magic/zigonio-fragments',
-        'the-magic/zigonio-gems',
-        'the-magic/gem-cards',
-        'the-magic/grimo-popularization'
-      ],
-      '12. As Terras Místicas': [
+      '11. As Terras Místicas': [
         'the-world/wheres-the-game-placed',
         'the-world/the-blackout',
         'the-world/the-emotions-and-the-blackout',
@@ -175,7 +162,7 @@ const sidebars = {
         'the-world/the-ecos',
         'the-world/the-ages-of-the-world'
       ],
-      '13. Appêndice': [
+      '12. Appêndice': [
         'appendix/stereotypes',
         'appendix/flaws',
         'appendix/character-sheet',

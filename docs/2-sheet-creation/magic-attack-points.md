@@ -9,7 +9,7 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C5bd
 
 Enquanto o **Ataque Físico** é influenciado pelos equipamentos e capacidades que o seu Personagem possui, o **Ataque Mágico** depende da sua habilidade técnica para canalizar, dominar e estabilizar o **poder de seu Grimo** de forma eficiente contra seus inimigos.
 
-Se quiser saber mais como **Atacar durante o combate**, temos um Capítulo específico para isso, na sessão [Regras de Jogo: Atacando durante o Combate](/docs/7-game-rules/old/attacking-during-combat).
+Se quiser saber mais como **Atacar durante o combate**, consulte a seção [Ataque e Defesa com Magias](/docs/9-combat-rules/magical-combat).
 
 ## Calculando seus Pontos de Ataque Mágico
 

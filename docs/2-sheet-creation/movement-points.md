@@ -18,8 +18,6 @@ Ao criar seu personagem, você deverá calcular seus **Pontos de Movimento** uti
 
 Como você pode perceber, a **Dedução de Armadura** é um fator negativo para o cálculo de movimento, o que significa que quanto mais pesada sua armadura, mais dificuldade você terá de se mover no combate.
 
-Temos dois capítulos excelentes que você pode ler sobre isso, o primeiro é sobre a [relação das Armaduras Metálicas com o jogo](/docs/7-game-rules/old/metallic-armors-in-game), e o segundo, tão importante quanto o primeiro, é sobre as próprias regras de [Dedução de Armadura](/docs/2-sheet-creation/armor-deduction).
-
 Na seção de [Dedução de Armadura](/docs/2-sheet-creation/armor-deduction) você encontrará tabelas que classificam as armaduras dentro do jogo.
 
 :::note Dica

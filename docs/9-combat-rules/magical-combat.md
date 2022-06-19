@@ -10,7 +10,7 @@ import bash from './../../data/spells/spells-giurad/tier1/bash.json'
 
 ![Como utilizar o mais poderoso dos recursos no combate](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C97132ead-7b95-40cb-ad24-8ac4af65d437.jpg)
 
-A Magia é um dos recursos mais poderosos das **Terras Místicas**. Devido ao advento do [Blecaute](/docs/12-the-world/the-blackout) o acesso à magia natural foi banido à todas as civilizações senscientes do mundo, e foi graças aos **Grimos** que os aventureiros puderam usufruir novamente dos conhecimentos mágicos ancestrais.
+A Magia é um dos recursos mais poderosos das **Terras Místicas**. Devido ao advento do [Blecaute](/docs/11-the-world/the-blackout) o acesso à magia natural foi banido à todas as civilizações senscientes do mundo, e foi graças aos **Grimos** que os aventureiros puderam usufruir novamente dos conhecimentos mágicos ancestrais.
 
 No jogo, os Personagens podem utilizar o vínculo com seus Grimos para desferirem **poderosos ataques mágicos**, e por mais que este acesso seja limitado, ele se expande a medida que os Personagens evoluem.
 

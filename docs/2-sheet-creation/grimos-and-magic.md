@@ -8,11 +8,11 @@ slug: /2-sheet-creation/grimos-and-magic
 
 No *Fábulas & Goblins*, a **magia era acessível** a todos no passado. Sua presença era **abundante**, e os estudiosos muitas vezes a descreviam como uma única entidade livre, correndo pelos infinitos e vastos corredores que se entrelaçam constantemente e de forma imperceptível com a realidade.
 
-Quando o [Blecaute](/docs/12-the-world/the-blackout) veio, **ele mudou tudo isso**. Essa mesma magia, **abundante**, **livre e acessível**, de uma hora pra outra se tornou **ausente**, **silenciosa**, **distante**, e mesmo se pudesse produzir algum som, ninguém poderia ouvi-la.
+Quando o [Blecaute](/docs/11-the-world/the-blackout) veio, **ele mudou tudo isso**. Essa mesma magia, **abundante**, **livre e acessível**, de uma hora pra outra se tornou **ausente**, **silenciosa**, **distante**, e mesmo se pudesse produzir algum som, ninguém poderia ouvi-la.
 
 Com o tempo, as diversas civilizações do mundo entenderam que a **nova realidade** vinha pra ficar, e que se **adaptar era a única saída**. Mesmo assim, eles **precisavam de uma solução**, uma **Muleta**, que pudesse **substituir a abundância da Magia natural**.
 
-Os [Grimos](/docs/11-the-magic/grimos), criados pelo [Mestre-Elo Jelev Arioniz](/docs/11-the-magic/grimo-popularization), **já existiam** muito antes do **Blecaute**, mas seu uso era restrito, **devido a seu custo e tempo de preparação**.
+Os [Grimos](/docs/4-grimos-and-spells/introduction), criados pelo [Mestre-Elo Jelev Arioniz](/docs/4-grimos-and-spells/introduction), **já existiam** muito antes do **Blecaute**, mas seu uso era restrito, **devido a seu custo e tempo de preparação**.
 
 Esses dispositívos **armazenam a Magia aprendida por um usuário que dominava a magia natural no passado**. Através do processo de **conexão** com o Grimo, um usuário pode aprender os seus segredos, e utilizar as **tecnicas armazenadas nele** sem a necessidade de **acessar a magia natural** do mundo.
 

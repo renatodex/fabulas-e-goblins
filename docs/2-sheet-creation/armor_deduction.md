@@ -4,7 +4,7 @@ title: Dedução de Armadura
 slug: /2-sheet-creation/armor-deduction
 ---
 
-![Dedução de Armadura](https://fabulas-e-goblins-book.s3-us-west-2.amazonaws.com/criando-seu-personagem/deducao-da-armadura-01.png)
+![Dedução de Armadura](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e90659a-a6fa-4776-9835-84cb6d80990b.jpg)
 
 Armaduras são essenciais para **extender sua sobrevivência** em masmorras e outros locais perigosos. No *Fábulas & Goblins*, qualquer personagem pode usar **qualquer tipo de Armadura**, contanto que possua a Força necessária.
 
@@ -76,9 +76,3 @@ Cada Armadura do jogo pode ser categorizada em 4 diferentes Classes de Armaduras
     </tr>
     </tbody>
   </table>
-
-
-Se quiser saber mais sobre Armaduras, temos algumas seções interessantes:
-
-Para saber sobre a Classificação dos tipos de Armadura, consulte a Seção [Tipos de Armadura](/docs/13-appendix/types-of-armor).<br/>
-Para saber a relação das Armaduras Metálicas com o mundo, consulte a Seção [Armaduras Metálicas no Jogo](https://fabulasegoblins.com.br/docs/7-game-rules/old/metallic-armors-in-game).

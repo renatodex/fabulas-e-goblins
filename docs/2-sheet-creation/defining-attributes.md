@@ -95,7 +95,7 @@ Personagens com muita **Sobrevivência** demonstram pessoas que aprenderam a se 
         Destino
       </td>
       <td>
-        Define o quão <b>Destinado</b> você é, usado em <a href="/docs/7-game-rules/old/skill-checks">Testes Neutros</a>, e permite uma série de Ações de Evocação que podem mudar o rumo do jogo.
+        Define o quão <b>Destinado</b> você é, usado em <a href="/docs/7-game-rules/skill-checks">Ações de Perícia</a>.
       </td>
     </tr>
   </tbody>
