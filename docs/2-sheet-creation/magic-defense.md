@@ -14,21 +14,20 @@ Habilidades e equipamentos também podem influenciar nos seus Pontos de **Defesa
 
 Ao criar o seu personagem, você deve calcular seus Pontos de **Defesa Mágica (D.M)** com a seguinte fórmula:
 
-![Formula-PDM.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccd4d229b-c8f4-4c26-ba27-483d75ae20ef.jpg)
+![Formula-PDM.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cbfd65dfd-1527-4b9d-ab34-6ff5c1dfbc8f.jpg)
 
 Os **Pontos de Defesa Mágica** entram em jogo sempre que seu personagem for atacado por algum **poder de origem mágica ou elemental**. Nesses momentos, você deverá deverá **rolar um D20** e somar o resultado do dado com o **valor deste cálculo**.
 
-O Valor final deve ser *superior* à **Potência do Ataque Mágico** recebido. Logo, se você possui +2 de **Defesa Mágica** e está sofrendo um **Ataque de Potência 18**, deve tirar pelo menos 16 no Dado para superar ou desviar do ataque.
+O Valor final deve ser *superior* à **Potência do Ataque Mágico** recebido. Logo, se você possui +2 de **Defesa Mágica** e está sofrendo um **Ataque de Potência 18**, deve tirar pelo menos **16 no Dado** para superar ou desviar do ataque.
 
 Mas não se preocupe, pois conforme a evolução do seu personagem, este valor também poderá ser aumentado.
 Vamos falar um pouco sobre isso.
-
 
 ## Aumentando seus pontos de Defesa Mágica
 
 No jogo, existem várias formas de aumentar sua **Defesa Mágica**.
 
-- Adquirindo pontos de **Elo Mágico ou Espírito** nos [Níveis Especiais](/docs/7-game-rules/old/special-levels).
+- Adquirindo pontos de **Espírito** nos [Níveis Especiais](/docs/7-game-rules/old/special-levels).
 - Treinando Poderes no Grimo que **aumentam Defesa Mágica** ([Introdução aos Grimos](/docs/4-grimos-and-spells/introduction)).
 - Adquirindo [Equipamentos melhores](/docs/13-appendix/types-of-armor) *(a exemplo de implementos e outros itens mágicos)*.
 

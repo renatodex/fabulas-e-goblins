@@ -24,7 +24,7 @@ Seguindo as regras do [Sistema 2d20](/docs/8-system-2d20/system-introduction), p
 
 Para saber se passou no teste, você **deverá rolar o dado** e **comparar** o resultado com a **tabela abaixo**. Dependendo do **tipo da rolagem**, sua ação será caracterizada de uma **forma diferente**. Falaremos também de cada um desses resultados:
 
-![SkillRolls.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9865f9f1-9159-42b7-89f7-97cac63592e5.png)
+![SkillRolls.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C58b75b7b-5df0-4245-a2e9-7e6bec013012.png)
 
 ### Desastre
 
@@ -34,15 +34,17 @@ Tirar 1 no dado significa rolar um **Desastre**, e significa que sua ação não
 
 ### Falha
 
-Tirar uma Falha significa que você não conseguiu realizar a ação que desejava. Na maioria das vezes, você saberá instantaneamente que fracassou, e poderá tentar de novo, **caso o Narrador permita**. Falhas também podem acontecer em **combates** durante **ataques**.
+Tirar uma Falha significa que você não foi capaz de realizar a ação da forma que desejava. Na maioria das vezes, você saberá instantaneamente que fracassou, e poderá tentar de novo, **caso o Narrador permita**. Falhas também podem acontecer em **combates** durante **ataques**.
 
-*Se você estava tentando atacar um oponente com sua espada, uma falha apenas indica que seu ataque não foi bem sucedido, e o inimigo conseguiu desviar do ataque; Se você estiver abrindo uma fechadura, uma falha significa que seus esforços não foram suficientes para destravar o mecanismo.*
+Mas uma Falha **nem sempre** significa que você fracassou totalmente. Deixamos essa interpretação em aberto para que os Narradores **possam manobrar falhas** e interpretá-las como **"ações imperfeitas"**. Nesse caso, parte da sua ação poderia ser bem sucedida, mas viriam acompanhadas de algumas **consequências**.
 
-### Imperfeição
+No contexto de um combate por exemplo, uma **Falha de Ataque** nem sempre significa que você **errou um ataque** sem causar dano. O Narrador pode decidir que você **conseguiu causar dano ao alvo**, mas a **forma como você realizou essa ação** pode vir acompanhada de algumas **consequências**.
 
-Tirar um resultado imperfeito significa que você até conseguiu realizar a ação que desejava, mas sua ação gerou **complicações**. Talvez você tenha agido de forma desajeitada, ou talvez não esteja num dia bom.
+Descrevemos algumas dessas consequências no [Capítulo 9: Regras de Combate](/docs/9-combat-rules/physical-combat).
 
-*Talvez você esteja no alto de um penhasco, avistando uma pequena tropa de inimigos viajando na estrada abaixo. Você vê um grande pedregulho, e tenta empurrá-lo em cima dos inimigos, mas uma rolagem imperfeita faz com que você se desequilibre, e caia junto com o pedregulho.*
+*Se você estava tentando atacar um oponente com sua espada, uma falha pode significar apenas que seu ataque não foi bem sucedido, e o inimigo conseguiu desviar do ataque; Se você estiver abrindo uma fechadura, uma falha significa que seus esforços não foram suficientes para destravar o mecanismo.*
+
+*Da mesma forma, falhar ao empurrar um grande pedregulho sobre seus inimigos, não precisa significar que você não teve forças para empurrá-lo, mas que ao tentar empurrá-lo, você pode ter se desequilibrado, caindo junto com ele.*
 
 ### Sucesso
 

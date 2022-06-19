@@ -1,0 +1,15 @@
+{
+  "name": "Precisão Afiada",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Seu treinamento lhe permite desferir um ataque preciso, que sempre acerta em cheio seu inimigo.",
+  "description": "<p>Reação: Use a qualquer momento para maximizar o valor de um único dado em um teste de ataque ou dano de um poder realizado a longa distância. Usar esta habilidade durante um ataque não resulta em um Triunfo mas pode evitar um Fracasso de ocorrer. Pode ser usado uma vez por encontro.</p><p>Caso você tenha rolado <code>1 e 20</code> no seu ataque, e tenha maximizado o Fracasso, seu teste é considerado automaticamente como um Triunfo não Épico.</p>",
+  "tags": ["role", "shooter", "encounter"]
+}

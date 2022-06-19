@@ -56,7 +56,6 @@ const sidebars = {
         'sheet-creation/defining-initiative'
       ],
       '3. Espécies Jogáveis': [
-        'species/species-introduction',
         'species/specie-goblins',
         'species/specie-armadons',
         'species/specie-metaloids',

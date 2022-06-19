@@ -2,7 +2,16 @@
 id: roles-arcanist
 title: Conjurador
 slug: /5-roles/roles-arcanist
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C60f053b3-d44d-4d99-acf0-131ce11f8717.jpg
 ---
+
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import magical_breath from './../../data/spells/spells-roles/magical_breath.json'
+import burn_mana from './../../data/spells/spells-roles/burn_mana.json'
+import magical_overcharge from './../../data/spells/spells-roles/magical_overcharge.json'
+
+![Quer saber o que um Conjurador pode fazer no jogo? Vêm que a gente mostra!](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C60f053b3-d44d-4d99-acf0-131ce11f8717.jpg)
 
 Conjuradores são carregadores mágicos. Geralmente dependem de um vínculo forte com a Magia, pois seus poderes costumam utilizar muito mais Conexão mágica do que outros Papeis de Jogo.
 
@@ -57,9 +66,13 @@ Ao escolher esse Papel, você terá uma boa base de Pontos de Magia, e isso lhe 
       <td>Pontos de Magia por Nível</td>
       <td>+4/+4/+8/+8</td>
     </tr>
-    <tr>
-      <td>Bônus de Ataque Mágico</td>
-      <td>+1</td>
-    </tr>
   </tbody>
 </table>
+
+## Poderes do Papel
+
+<SpellFromJson expanded={false} spellData={burn_mana} />
+
+<SpellFromJson expanded={false} spellData={magical_breath} />
+
+<SpellFromJson expanded={false} spellData={magical_overcharge} />

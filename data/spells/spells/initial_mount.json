@@ -10,6 +10,6 @@
   "icon": "GiHorseshoe",
   "element": null,
   "caption": "Quem preza os próprios joelhos sabe quando pode ser perigoso viajar distancias longas a pé.",
-  "description": "<p>Você inicia o jogo com uma Montaria Inicial (escolhas: Cromodon, Bungan).</p>",
+  "description": "<p>Você inicia o jogo com uma Montaria Inicial (escolhas: Cromodon, Bungan). Sua montaria inicial possui <b>(TIER*15 P.V)</b> mas não pode ser controlada ou usada para atacar em um combate.</p><p>Estar montado durante um combate fornece a você +2 Pontos de Movimento por turno.</p><p>Inimigos podem escolhar atacar a montaria ao invés de te atacar. Caso isso aconteça, você pode rolar a defesa normalmente contra o ataque, porém não pode usar seus modificadores de defesa. Por padrão, as montarias possuem +0 de Defesa.</p><p>Fora de um combate, as montarias proporcionam o dobro de velocidade de viajem comparado com personagens desmontados.</p>",
   "tags": ["cultural", "children-of-plains"]
 }

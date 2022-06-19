@@ -1,0 +1,15 @@
+{
+  "name": "Ataque Poderoso",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você entra em modo de defesa na hora certa, preparado para receber o ataque inimigo.",
+  "description": "<p>Use a qualquer momento para aumentar dano do seu próximo ataque em <code>TIER*d12</code>. Pode eser usado uma vez por encontro.</p>",
+  "tags": ["role", "carrier", "encounter"]
+}

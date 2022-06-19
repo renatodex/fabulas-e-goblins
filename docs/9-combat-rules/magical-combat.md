@@ -54,7 +54,9 @@ Alguns poderes mágicos, como a [Pancada, do Grimo de Giurad](/docs/4-grimos-and
 
 Todos os testes de Ataques são considerados **Ações de Desafio**. É o Narrador que determina qual é a **dificuldade do teste**. Um **Ataque Mágico** será bem sucedido se o resultado da rolagem de ataque **superar a Defesa Mágica do Inimigo**.
 
-Mas caso você não ultrapasse esse resultado, ainda é possível obter um **Sucesso Imperfeito**, que faz com que seu Dano/Efeito seja aplicado normalmente*, mas pode gerar algumas consequências. Na tabela abaixo listamos algumas **consequências** que o Narrador pode utilizar neste tipo de ocasião rolando um D8:
+Caso você não ultrapasse esse resultado, sua ação é considerada como uma **Falha**. Por padrão, uma falha significa que seu ataque não acertou o alvo. Mas o Narrador pode interpretar sua ação dependendo do contexto, e decidir que você cause dano no inimigo, ao mesmo em que sua ação gera algumas **consequências negativas**.
+
+Na tabela abaixo listamos algumas **consequências** que o Narrador pode utilizar neste tipo de ocasião rolando um D8:
 
 | D8 | Se aplica a | Descrição |
 | ------------- | ----------- | --------- |
@@ -67,7 +69,7 @@ Mas caso você não ultrapasse esse resultado, ainda é possível obter um **Suc
 | 7 | Ambiente | Seu ataque atinge o inimigo normalmente, mas uma reação em cadeia atinge um elemento do ambiente que de alguma forma cria uma vantagem para os inimigos. |
 | 8 | Ambiente | Seu ataque atinge o inimigo normalmente, mas uma reação em cadeia atrai um inimigo adicional ao combate. |
 
-Mas essas são apenas algumas sugestões, elas não são colocadas em **forma de regra**, mas em forma de **ferramenta Narrativa** que pode ser usada para dar sentido aos **Sucessos Imperfeitos**.
+Mas essas são apenas algumas sugestões, elas não são colocadas em **forma de regra**, mas em forma de **sugestão Narrativa** que pode ser usada em casos de **Falha**.
 
 ### 3. Aplicar Efeito/Dano
 
@@ -152,7 +154,9 @@ Seja como for, a fórmula para determinar o resultado do **teste de Defesa Mági
 
 Todos os testes de Defesa são considerados **Ações de Desafio**. É o Narrador que determina qual é a **dificuldade do teste**. Uma **Defesa Mágica** será bem sucedida se o resultado da rolagem de ataque **superar o Ataque Mágico do Inimigo**.
 
-Mas caso você não ultrapasse esse resultado, ainda é possível obter um **Sucesso Imperfeito**, que faz com que sua defesa seja bem sucedida, mas com possíveis consequências. Na tabela abaixo listamos algumas **consequências** que o Narrador pode utilizar neste tipo de ocasião rolando um D8:
+Caso você não ultrapasse esse resultado, o seu teste é considerado como uma **Falha**. Por padrão, uma falha significa que você foi capaz de se defender de seu inimigo, mas o Narrador pode interpretar sua ação dependendo do contexto, e decidir que você cause dano, ao mesmo tempo em que sua ação gera algumas **consequências negativas**.
+
+Na tabela abaixo listamos algumas **consequências** que o Narrador pode utilizar neste tipo de ocasião rolando um D8:
 
 | D8 | Se aplica a | Descrição |
 | ------------- | ----------- | --------- |
@@ -165,7 +169,7 @@ Mas caso você não ultrapasse esse resultado, ainda é possível obter um **Suc
 | 7 | Ambiente | O personagem se defende do ataque, mas uma reação em cadeia atinge um elemento do ambiente que de alguma forma cria uma vantagem para os inimigos. |
 | 8 | Ambiente | O personagem se defende do ataque, mas um outro inimigo percebe uma abertura em sua guarda e pode realizar uma ação de ataque contra ele imediatamente com **+2 de Bônus**. |
 
-Mas essas são apenas algumas sugestões, elas não são colocadas em **forma de regra**, mas em forma de **ferramenta Narrativa** que pode ser usada para dar sentido aos **Sucessos Imperfeitos**.
+Mas essas são apenas algumas sugestões, elas não são colocadas em **forma de regra**, mas em forma de **sugestão Narrativa** que pode ser usada em casos de **Falha**.
 
 ### 3. Resolução do Efeito/Dano
 

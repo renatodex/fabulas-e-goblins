@@ -2,7 +2,16 @@
 id: roles-priest
 title: Suporte
 slug: /5-roles/roles-priest
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccdb2e228-9546-40ec-a8de-92a16e5f080f.jpg
 ---
+
+import { SpellFromJson } from './../../src/components/skill_block/index'
+import save_ally from
+'./../../data/spells/spells-roles/save_ally.json'
+
+import power_heal from './../../data/spells/spells-roles/power_heal.json'
+
+![O Suporte é a Pilar de Luz de um bom grupo! Quer saber como utilizá-los?](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccdb2e228-9546-40ec-a8de-92a16e5f080f.jpg)
 
 O Papel de Suporte geralmente é utilizado por personagens que não priorizam o dano no combate.
 
@@ -51,9 +60,11 @@ Devido a utilização de muitas habilidades à distância, esses personagens nã
       <td>Pontos de Magia por Nível e Tier</td>
       <td>+5/+5/+10/+10</td>
     </tr>
-    <tr>
-      <td>Bônus de Defesa Mágica</td>
-      <td>+1</td>
-    </tr>
   </tbody>
 </table>
+
+## Poderes do Papel
+
+<SpellFromJson expanded={false} spellData={save_ally} />
+
+<SpellFromJson expanded={false} spellData={power_heal} />

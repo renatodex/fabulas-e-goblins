@@ -1,0 +1,15 @@
+{
+  "name": "Cura Poderosa",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você desafia os limites da Magia para curar seus aliados com mais eficiência.",
+  "description": "<p>Uma vez por encontro, um poder de cura ou uma poção de recuperação cura um adicional de <code>TIER*1d8</code> de Dano.</p>",
+  "tags": ["role", "support", "encounter"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Ação: Salvar Aliado",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Ativa e Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você utiliza a magia do seu Grimo para proteger um aliado com uma instância mágica.",
+  "description": "<p>A qualquer momento, apenas uma vez por encontro, você pode realizar uma Ação Extra para colocar uma instância de proteção em um alvo que previne que ele sofra <code>TIER*1d10</code> de dano no próximo ataque. Essa Ação também pode ser usada como uma Reação.</p><p>Usar <b>Salvar Aliado</b> como uma Ação não impede que você se movimente ou ataque.</p>",
+  "tags": ["role", "support", "encounter"]
+}

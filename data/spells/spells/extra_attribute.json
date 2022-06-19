@@ -10,6 +10,6 @@
   "icon": "GiUpgrade",
   "element": null,
   "caption": "Goblins são muito habilidosos, e parecem ter uma enorme disposição para aprender muitas coisas diferentes.",
-  "description": "Ao criar um Goblin, receba 2 pontos extra de Atributos para distribuir como quiser.",
+  "description": "Ao criar um Goblin, receba 1 pontos extra de Atributo para distribuir como quiser. Além disso, todos os atributos com valor -1 passam a ser 0. Nenhum atributo pode superar o valor de +4 como resultado dessa habilidade racial.",
   "tags": ["racial", "goblin"]
 }

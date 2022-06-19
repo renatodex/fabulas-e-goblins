@@ -1,0 +1,15 @@
+{
+  "name": "Ação: Dano Colateral",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Movimento",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiNightVision",
+  "element": null,
+  "caption": "Você se move de forma acrobática até um inimigo causando dano com sua arma.",
+  "description": "<p>Como uma ação de movimento, você pode utilizar Dano Colateral para se mover e atacar um inimigo em uma única ação. O ataque é realizado contra a Defesa física do oponente e causa <code>TIER*1d4</code> de Dano ao invés do dano da sua Arma. Se sua arma ou Grimo aumentar o seu dano causado através de uma propriedade mágica, esse dano extra poderá ser aplicado aqui.</p><p>Não pode ser realizado enquanto estiver engajado com um inimigo.</p>",
+  "tags": ["role", "carrier"]
+}

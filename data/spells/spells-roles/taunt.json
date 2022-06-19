@@ -1,0 +1,15 @@
+{
+  "name": "Ação: Provocar",
+  "magic_cost": "0 P.M",
+  "duration_time": "0",
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": 7,
+  "range_amount": 1,
+  "range_type": "Alvo",
+  "icon": "GiBubbles",
+  "element": null,
+  "caption": "Você provoca seu inimigo vorazmente, fazendo com que ele seja obrigado a te atacar..",
+  "description": "Como Tanque, você pode usar uma Ação especial de Provocação. Provocar um inimigo faz com que ele receba <code>-4</code> de Ataque (Físico e Mágico) caso decida não te atacar. A Provocação só tem efeito até o próximo ataque do alvo.",
+  "tags": ["racial", "valdari"]
+}

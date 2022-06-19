@@ -2,7 +2,15 @@
 id: roles-adventurer
 title: Carregador
 slug: /5-roles/roles-adventurer
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7fffe2b9-0752-49af-a86a-f5a956ea84bf.jpg
 ---
+
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import collateral_damage from './../../data/spells/spells-roles/collateral_damage.json'
+import powerful_attack from './../../data/spells/spells-roles/powerful_attack.json'
+
+![Quer saber como se tornar uma verdadeira máquina de destruição? Conheça os Carregadores!](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7fffe2b9-0752-49af-a86a-f5a956ea84bf.jpg)
 
 Se você é daqueles que não se importa em correr riscos se o objetivo for causar o maior dano, o Papel Carregador é pra você!
 Como o próprio nome diz, o Papel do Carregador possui este nome porque esses personagens geralmente "Carregam" o time em direção a vitória.
@@ -48,7 +56,7 @@ Ao escolher esse Papel, você terá uma boa base de Pontos de Vida, e isso lhe p
     </tr>
     <tr>
       <td>Proficiência Armas</td>
-      <td>Força ou Resiliência</td>
+      <td>Força ou Agilidade</td>
     </tr>
     <tr>
       <td>Pontos de Vida por Nível</td>
@@ -58,10 +66,11 @@ Ao escolher esse Papel, você terá uma boa base de Pontos de Vida, e isso lhe p
       <td>Pontos de Magia por Nível</td>
       <td>+2/+4/+4/+6</td>
     </tr>
-    <tr>
-      <td>Bônus de Ataque Corpo-a-Corpo</td>
-      <td>+1</td>
-    </tr>
   </tbody>
 </table>
 
+## Poderes do Papel
+
+<SpellFromJson expanded={false} spellData={collateral_damage} />
+
+<SpellFromJson expanded={false} spellData={powerful_attack} />
