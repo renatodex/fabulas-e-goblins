@@ -4,4 +4,14 @@ title: Onde se passa o jogo?
 slug: /11-the-world/wheres-the-game-placed
 ---
 
-Esta página está em construção e encontra-se indisponível.
+## As Terras Místicas
+
+## Continentes conhecidos
+
+### Galantia
+
+### Astraka
+
+### Vonimus
+
+### Prismus

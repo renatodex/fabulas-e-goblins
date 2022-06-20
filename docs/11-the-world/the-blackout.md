@@ -4,4 +4,9 @@ title: O Blecaute
 slug: /11-the-world/the-blackout
 ---
 
-Esta página está em construção e encontra-se indisponível.
+## Magia no mundo
+
+### Antes do Blecaute
+### Depois do Blecaute
+
+## Rei dos Monstros
