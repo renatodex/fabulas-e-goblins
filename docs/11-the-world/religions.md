@@ -1,7 +1,7 @@
 ---
-id: the-ecos
-title: Os Ecos
-slug: /11-the-world/the-ecos
+id: religions
+title: Religiões Dominantes
+slug: /11-the-world/religions
 ---
 
 Esta página está em construção e encontra-se indisponível.

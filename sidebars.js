@@ -32,7 +32,7 @@ const sidebars = {
         'starting-the-game/what-is',
         'starting-the-game/players-role',
         'starting-the-game/gm-role',
-        'starting-the-game/how-to-play'
+        'starting-the-game/how-to-play',
       ],
       '2. Criando seu Personagem': [
         'sheet-creation/getting-sheet',
@@ -53,7 +53,7 @@ const sidebars = {
         'sheet-creation/initial-items',
         'sheet-creation/grimos-and-magic',
         'sheet-creation/defining-your-origins',
-        'sheet-creation/defining-initiative'
+        'sheet-creation/defining-initiative',
       ],
       '3. Espécies Jogáveis': [
         'species/specie-goblins',
@@ -61,7 +61,7 @@ const sidebars = {
         'species/specie-metaloids',
         'species/specie-razalans',
         'species/specie-valdaris',
-        'species/specie-luminins'
+        'species/specie-luminins',
       ],
       '4. Grimos': [
         'grimos-and-spells/grimos-introduction',
@@ -86,7 +86,7 @@ const sidebars = {
         'roles/roles-hunter',
         'roles/roles-arcanist',
         'roles/roles-priest',
-        'roles/roles-fortuner'
+        'roles/roles-fortuner',
       ],
       '6. Culturas': [
         'cultures/cultures-introduction',
@@ -150,24 +150,18 @@ const sidebars = {
       '11. As Terras Místicas': [
         'the-world/wheres-the-game-placed',
         'the-world/the-blackout',
-        'the-world/the-emotions-and-the-blackout',
-        'the-world/the-society-and-the-blackout',
-        'the-world/the-economy-and-the-blackout',
-        'the-world/the-magic-and-the-blackout',
-        'the-world/the-magic-and-the-origin-of-the-world',
-        'the-world/the-auguries',
-        'the-world/the-continents',
-        'the-world/class-academies',
-        'the-world/the-protectorship-order',
-        'the-world/the-ecos',
-        'the-world/the-ages-of-the-world'
+        'the-world/the-ages-of-the-world',
+        'the-world/religions',
+        'the-world/natural-laws',
+        'the-world/magic-items',
+        'the-world/notable-groups',
       ],
       '12. Appêndice': [
         'appendix/stereotypes',
         'appendix/flaws',
         'appendix/character-sheet',
         'appendix/types-of-armor',
-        'appendix/modifier-rule'
+        'appendix/modifier-rule',
       ]
     }
   ]
