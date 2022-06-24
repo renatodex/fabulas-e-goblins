@@ -5,7 +5,7 @@ slug: /11-the-world/the-blackout
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ce9f66741-8a96-4a61-9205-34c73ab0386b.png
 ---
 
-![AttackMagic.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ce9f66741-8a96-4a61-9205-34c73ab0386b.png)
+![Uma conjuração poderosa de escala global que mudaria para sempre o mundo das Terras Místicas.](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ce9f66741-8a96-4a61-9205-34c73ab0386b.png)
 
 Considerado como a **conjuração mais poderosa** da história do mundo, o **Blecaute** foi um feitiço de **escala global** que afetou todos os **seres senscientes**, **bloqueando** sua capacidade de acessar, se conectar ou **manipular a magia**.
 
