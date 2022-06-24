@@ -2,9 +2,10 @@
 id: the-ages-of-the-world
 title: As Eras do Mundo
 slug: /11-the-world/the-ages-of-the-world
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf54f451f-607e-4ae7-9df2-379c27f51409.jpg
 ---
 
-![WorldCreation.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf54f451f-607e-4ae7-9df2-379c27f51409.jpg)
+![Muita coisa já aconteceu desde o surgimento das Terras Místicas, aqui vamos resumir os principais acontecimentos históricos na linha do tempo das Terras Místicas.](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf54f451f-607e-4ae7-9df2-379c27f51409.jpg)
 
 Os historiadores tem usado todas as ferramentas possíveis para documentar as Eras do mundo e a evolução da civilização, mas num mundo permeado por magia essa é uma tarefa complexa, pois alguns rastros já se apagaram para sempre.
 
