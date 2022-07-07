@@ -30,6 +30,12 @@ Durante milênios Lunn observaria atenciosamente o crescimento do mundo, e os re
 
 Os Primeiros sacerdotes do antigo povo **Gudrash** foram os iniciadores da **Crença de Lunn**, mas em algum momento da história, os traços dessa civilização misteriosa teriam sido apagados, sem deixar quaisquer rastros. O **Tomo do Criador** foi um dos poucos artefatos recuperados, e que comprova não só a existência dos **Gudrash**, como também a passagem de **Lunn** pelas **Terras Místicas**. Foi a partir desse conhecimento ancestral que a própria **Igreja de Lunn** seria formada milênios depois.
 
+#### Ensinamentos:
+
+- Iluminarás os cantos mais obscuros do mundo com sua luz.
+- Não aceitarás a persistência do mal, mesmo que em doses pequenas.
+- Levarás a palavra aos fracos e àqueles que perderam a esperança.
+
 ## Eterealistas (12 Deuses)
 
 Os Eterealistas acreditam que os **Deuses Misticianos** não existem, o que significa que, divindades que assumem a forma de Goblins, Armadons, Razalans, ou qualquer outra civilização sensciente mundo não passam de uma **farsa**, inventadas em tempos antigos para prender a fé das mentes fracas.
@@ -40,6 +46,8 @@ De fato, aparições raras e infrequentes de **criaturas colossais** atravessand
 
 Dizem que os **Etéreos** seriam muito maiores do que qualquer criatura jamais vista, e que um sopro de seu poder poderia forjar um continente inteiro em uma fração de segundos.
 
+A história dos Etéreos é contada no livro dos **Eterealistas**, conhecido como as **Lendas Etéreas**.
+
 | Etéreo | Elemento | Traços |
 | ------ | -------- | ------ |
 | Balum   | Caos | Caos, Anarquia, Destruição |
@@ -48,7 +56,7 @@ Dizem que os **Etéreos** seriam muito maiores do que qualquer criatura jamais v
 | Zaravos   | Arcano | Arcanismo, Transformação, Dualidade |
 | Ogoron  | Terra | Conexão, Essência, Estabilidade |
 | Somonir   | Luz | Vida, Renovação, União |
-| Musgom  | Trevas | Morte, Isolamento, Corrupção |
+| Azarog  | Trevas | Morte, Isolamento, Corrupção |
 | Moltron   | Fogo | Fúria, Paixão, Força |
 | Ehphyros  | Ar | Leveza, Equilíbrio, Consciência |
 | Xenosh  | Acido | Transformação, Poder, Respeito |
@@ -57,23 +65,83 @@ Dizem que os **Etéreos** seriam muito maiores do que qualquer criatura jamais v
 
 ### Balum
 
-Divindade que representa a essência do Caos. Os primeiros relatos de Balum datam de aproximadamente 1400 A.B, nos povos Gobolur, ao norte de Astraka.
-Balum era visto como o criador e mantenedor de toda energia do Caos. Sua representação tipica é de um Goblin de pele avermelhada, tipicamente representado como um Feiticeiro Ferreiro. Balum opera uma máquina parecida com um tear, onde por um lado entra o fluxo de magia elemental, e do outro lado sai a pura essência Caótica, recem criada.
+Balum é Representado como um demônio gigante portando uma pesada armadura negra banhada em magia do Caos. Seu corpo tem coloração acinzentada e sua face é coberta por um Elmo com longos chifres formando um espiral. Seus membros inferiores lembram o corpo de um crustácio, e seus membros superiores portam uma enorme maça cravada com espinhos que se entrelaçam perigosamente.
+
+Os primeiros relatos de Balum datam de aproximadamente 1400 A.B, nos povos **Gobolur**, ao norte de **Astraka**, onde ele teria sido avistado caminhando ao longe em plena luz do luar pelas extensas terras desérticas brandindo sua terrível maça cravada.
+
+As Lendas Etéreas contam que **Balum**, inconformado com a perfeição e calmaria dos primórdios do mundo, teria ordenado uma grande tempestade de puro Caos, provocando embates e conflitos por toda a Terra. Balum é um *Kaun'Daqar*, que pode ser traduzido da lingua ancestral como "*aquele que nasce no início dos tempos*". A origem de **Balum** de acordo com os **Eterealistas** portanto, não pode ser definida por um tempo ou Era, e que a entidade teria surgido junto com a própria criação do mundo.
+
+**Balum** é visto como o criador e mantenedor de toda energia do Chaos, adorado por aqueles que acreditam que o equilíbrio não pode ser criado apenas com períodos de paz, ou de guerra, mas que o embate constante entre essas dualidades é uma característica essencial para o equilíbrio do mundo.
+
+#### Ensinamentos:
+
+- A justiça é ilusória, e que para todo o ato do bem, deverá haver pelo menos um ato do mal.
+- A ordem é uma farsa, e que sabios são aqueles que aceitam a desordem como um elemento natural da vida.
+- O controle não existe, e que apenas aqueles que acreditarem no imprevisível poderão aceitar Balum como seu Deus.
 
 ### Koroma
 
-Koroma é descrita como uma Ipimera de proporções kilométricas. Sua forma Etérea é conhecida por amedrontar pescadores que escolheram se aventurar no Oceano de Caldera.
-Koroma é frequentemente visto como o Patrono do Elemento Água, e representada como o Avatar da Espiritualidade, Auto-conhecimento e Mente.
+Koroma é descrita como uma enorme Ipimera de proporções kilométricas. Sua forma Etérea é conhecida por amedrontar pescadores que escolheram se aventurar no Oceano de Caldera nas regiões mais distantes da costa continental.
+
+Ela é frequentemente vista como a Patrona do Elemento Água, e é representada como o Avatar da Espiritualidade, Auto-conhecimento e Mente.
+
+As Lendas Etéreas contam que no alvorescer do mundo **não haviam oceanos**, e que Koroma e Kirimo eram deuses irmãos que viviam nas **Terras Baixas**, em harmonia por milhões de anos. Com o passar dos milênios, **Koroma** começou a perceber que algo perturbava **Kirimo**. Ele se afastara, tornando-se reservado e misterioso, e cada vez que **Koroma** o questionava, ele agia de forma cada vez mais impulsiva e agressiva.
+
+Até que um dia **Kirimo** visitou sua irmã, e demandou que as terras baixas fossem delimitadas, alegando que **Koroma** à partir de agora estaria proibida de adentrar certas regiões. A demanda de irmão, e seu histórico insensato resultaram numa discussão incendiária, que acenderam a fúria de Koroma, iniciando um combate cruel entre os irmãos que duraria mais de 100 milhões de anos.
+
+Ambos haviam sido consumidos pela raiva, e no fim **Koroma** abateria o próprio irmão, descobrindo que seu corpo havia sido tomado por uma estranha corrupção. **Kirimo** em seus últimos momentos retoma sua lucidez, e pede perdão a irmã, arrependendo-se de seus feitos, e desejando que tudo tivesse sido diferente.
+
+A tristeza de **Koroma** ecoou sobre os quatro cantos do mundo, e por mais 100 milhões de anos ela chorou um choro infinito. Suas lágrimas cobriram cada pedaço das **Terras Baixas**, que no fim se transformaram em um longo e vasto oceano.
+
+A água trouxe a vida pela primeira vez as **Terras Baixas**, e a tristeza da deusa se transformaria em uma nova oportunidade. **Koroma** prometeu que jamais permitiria que a raiva e o ódio dominassem as **Terras Baixas** mais uma vez, e jurou que levaria a paz e a tranquilidade para o coração de seus filhos.
+
+Adorado por aqueles que acreditam no poder dos laços, da paz, da harmonia e do espírito, Koroma se tornou um símbolo do auto-conhecimento e da espiritualidade, sendo muito popular nos reinos de **Timéria** e até por piratas de **Caldera**.
+
+#### Ensinamentos:
+
+- A luta e o conflito só se justificam se estiverem isolados da raiva e do ódio.
+- Sabedoria não está no agir, mas em conhecer a sí próprio e os seus limites.
+- Combaterás a corrupção com a mesma intensidade que ela corrói a terra.
 
 ### Quaemanir
 
 Descrita como uma massiva serpente de um único Chifre energizado, essa criatura representa o próprio Trovão, e é frequentemente relatada como uma lendária Serpente cujo corpo é coberto por runas. A Quaemanir é descrita em histórias dormindo em grandes cadeias de montanhas com seu corpo gigante e imponente.
-Através do seu Chifre, ela teria o poder de canalizar o mais fatal de todos os Trovões, sendo capaz de repartir o próprio seio da terra com seu poder.
-Frequentemente associada a Justiça e ao Equilíbrio, sendo venerada inclusive pela Ordem do Protetorado.
+Através do seu Chifre, ela teria o poder de canalizar o mais poderoso de todos os Trovões, sendo capaz de repartir o próprio seio da terra em dois.
+
+Contam as **Lendas Etéreas** que a terra natal de **Quaemanir** teria sido destruída durante as **Guerras Etéreas**, um terrível conflito Primordial que data a milhares de Eras antes da criação do mundo. Desde então, **Quaemanir** vagava durante bilhões de anos para encontrar para sí uma nova morada, escolhendo finalmente as **Terras Místicas**.
+
+Satisfeito com seu novo lar, **Quaemanir** levantou aos céus e gritou em agradecimento com a força de mil trovões, trazendo uma tempestade elétrica tão poderosa que balançaria toda a terra. Os raios de **Quaemanir** se fundiram ao próprio mundo, e mudaram sua atmosfera para sempre, trazendo energia, movimento, vida e um novo elemento.
+
+De acordo com as lendas, os Povos ancestrais levavam infiéis perante a grande serpente para que ela pudesse julgá-los de seus crimes, pois a energia que fluia pelo seu corpo agora fluia por todas as criaturas das **Terras Místicas**, e portanto, a serpente poderia ler suas mentes, sendo venerada como pilar da Justiça suprema no mundo.
+
+Frequentemente associada ao Equilíbrio e à Justiça, ela é frequentemente venerada pelo **Povo Livre**, pela conhecida **Ordem do Protetorado** e pelos **Tempestos**.
+
+#### Ensinamentos:
+
+- A verdade é irredutível, e a ela todos se curvarão.
+- A justiça é como um raio, que pode partir até mesmo o mais forte dos resilientes.
+- Aceitaras Quaemanir como a fonte de sua energia, vontade e força.
 
 ### Zaravos
 
-Representado por um grande Mago com características etéreas, sendo seu corpo formado inteiramente por energia arcanas, vestidas por densos trajes de um mago ancestral.
+Zaravos é representado como uma grande besta de pelos brancos e patas escuras, cuja cabeça horizontal lembraria a forma de um bomerangue, com olhos transbordando de magia Arcana e uma robusta proteção rochosa partindo de sua cabeça como uma tira e percorrendo toda sua coluna dorsal. Seu corpo transbordaria a pura essência da magia arcana, e sua extensão continental poderia ser vista a kilômetros de distância.
+
+Essa criatura é tida como a essência do elemento Arcano e guardiã do plano da Magia (frequentemente referidia como Grimória). Augúrios de tempos passados relatam ter tido encontros espirituais com uma criatura que lembraria a descrição de **Zaravos**, dizendo que ele atuaria como uma espécie de mediador, ou conselheiro para aqueles prestes a tomarem decisões difíceis.
+
+As origens de **Záravos** se confundem com a semente do próprio mundo, e sua existência no Eterealismo é frequentemente vista como uma espécie de cuidador, responsável por manter os outros elementos em equilíbrio.
+
+Contam as **Lendas Etéreas** que por 3 vezes **Zaravos** teria impedido que a dualidade entre **Somonir** e **Azarog** resultassem na destruição completa das **Terras Místicas**. As lendam mencionam que a besta arcana descansa em sua **torre prismática** em **Grimória**, onde se mantém atenta a qualquer desequilíbrio mágico ou elemental que possa ocorrer no mundo.
+
+Os **profetas do Eteralismo** sempre acreditaram que a **banalização mágica** estava causando um terrível desequilíbrio à **Grimória**, e afirmam que **Zaravos** teria escolhido não impedir a conjuração do Blecaute, por saber que o feitiço selaria de vez a entrada para **Grimória** e daria um fim ao desequilíbrio mágico do mundo.
+
+Venerado por feiticeiros, Arcanistas e estudiosos, Zaravos é a personificação do Arcanismo, da Transformação e da Dualidade.
+
+#### Ensinamentos:
+
+- Usarás a magia com sabedoria, e respeitarás os limites naturais.
+- Combaterás o Caos e todo desequilíbrio de natureza mágica.
+- Levará sua palavra àqueles que sofrem com a dualidade do espírito, pois nele reside a sabedoria arcana.
+
 ### Ogoron
 
 Ogoron é representado por um grande passaro negro coberto por trevas. Ele é a representação da própria escuridão, e é cultuado em diversos lugares do mundo.
