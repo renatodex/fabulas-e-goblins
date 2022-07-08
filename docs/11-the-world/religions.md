@@ -1,6 +1,6 @@
 ---
 id: religions
-title: Religiões Dominantes
+title: Religiões e Divindades
 slug: /11-the-world/religions
 ---
 
