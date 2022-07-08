@@ -56,7 +56,7 @@ A história dos Etéreos é contada no livro dos **Eterealistas**, conhecido com
 | Zaravos   | Arcano | Arcanismo, Transformação, Dualidade |
 | Ogoron  | Terra | Conexão, Essência, Estabilidade |
 | Somonir   | Luz | Vida, Renovação, União |
-| Azarog  | Trevas | Morte, Isolamento, Corrupção |
+| Azarog  | Trevas | Morte, Escuridão, Corrupção |
 | Moltron   | Fogo | Fúria, Paixão, Força |
 | Ehphyros  | Ar | Leveza, Equilíbrio, Consciência |
 | Xenosh  | Acido | Transformação, Poder, Respeito |
@@ -144,14 +144,64 @@ Venerado por feiticeiros, Arcanistas e estudiosos, Zaravos é a personificação
 
 ### Ogoron
 
-Ogoron é representado por um grande passaro negro coberto por trevas. Ele é a representação da própria escuridão, e é cultuado em diversos lugares do mundo.
+Representado por um **Drogo de areia** e enormes garras de pedra, Ogoron é o **Deus supremo da Terra**. Dizem que ele sozinho teria terraformado o mundo conjurando a terra com suas garras para formar um grande ninho do qual ele faria seu lar.
+
+Esse grande ninho de terra ficaria conhecido como as **Terras Místicas**.
+
+As aparições de **Ogoron** são sempre mascaradas de enormes tempestades de poeira, furacões e poderosos pilares de areia.
+
+De acordo com as lendas, o Deus da Terra se esconde em grandes cavernas no centro do mundo, e que Terremotos e outros desastres sismicos apenas ocorrem quando ele precisa se locomover de um canto ao outro.
+
+As **Lendas Etéreas** também contam que **Ogoron** é uma criatura pacífica, que hiberna pacificamente no seio do mundo, e que apenas desperta do seu sono quando percebe que seu ninho está em perigo.
+
+**Ogoron** teria despertado algumas vezes de seu sono para restaurar a terra após um grande período de destruição iniciado por **Moltron** e **Qaemanir**.
+
+O Deus da Terra não possui afinidades, nem sente ódio ou rancor, e seu único objetivo é o de preservar a Terra e se conectar com seu lar profundamente, permitindo que outras criaturas possam coexistir em seu domínio, desde que respeitem seus limites.
+
+Visto como o Deus da Conexão, da Essência e da Estabilidade, Ogoron é frequentemente venerado por **Filhos da Floresta**, pelo **Povo Livre** e até **corsários**.
+
+#### Ensinamentos:
+
+- Respeitarás a integridade da Terra a ela se curvará.
+- O Domínio da Terra jamais exigirás, pois ela apenas a Ogoron pertence.
+- Aceitará a coexistência e permitirás que outros vivam em seu domínio, desde que respeitem seus limites.
+
 ### Somonir
 
-Divindade que representa o elemento Divino, frequentemente ilustrada como um grande Anjo dourado com a forma de um Razalan e três pares de asas, sentado em seu trono infinito.
-Diziam que Somonir podia recuperar a vida em regiões desérticas e mortas, trazendo a luz de volta e dando um fim aos extensos períodos lunares do norte, que impediam o crescimento saudável de campos inteiros.
-### Musgom
+Divindade que representa o elemento Divino, frequentemente ilustrada como um grande Xal'gon angelical de pele radiante e armadura dourada, possuindo três grandes pares de asas, e seu enorme escudo divino.
 
-Vista como uma entidade corruptiva, sua mera aura é responsável pela corrupção de diversos Biomas nas Terras Místicas, e é representado por uma máscara medonha, seguido de diversos tentáculos que saem a partir de um corpo decréptico.
+Dizem as **Lendas Etéreas** que nos primórdios do mundo, um grande cometa atingira o solo das **Terras Místicas**, aniquilando toda a vida existente. Nesse dia, conhecido como o **Primeiro Marco**, os Deuses Etéreos se reuniram pela primeira vez, e choraram pela perda de seus filhos, e por tudo que havia sido construído. Em pouco tempo, os deuses entrarem em desacordo, e começaram a culpar uns aos outros pela catástrofe, alegando que alguns deveriam ter previsto o cometa, e impedido a destruição.
+
+Foi nesse momento que **Somonir** teria cravado seu enorme escudo na terra desértica e morta, trazendo de volta toda a vida e toda a glória do mundo com sua magia divina. Sua luz não só deu fim ao luto infinito dos Deuses, como também trouxe esperança ao mundo, renovando a vida e trazendo novamente a união entre os Deuses Etéreos.
+
+Desde então, **Somonir** é adorado como o Deus da Vida, da Renovação e União, e sua veneração costuma ser frequente entre os **Luminins**, os **Filhos das Ilhas** e **Sacerdotes**.
+
+#### Ensinamentos:
+
+- Enquanto reinar a luz de Somonir, haverá esperança.
+- A vida é o bem mais precioso, e nada justifica sua aniquilação.
+- Aceitarás que tudo aquilo que está quebrado poderá ser reparado se houver fé.
+
+### Azarog
+
+Visto como uma entidade corruptiva e sombria, sua mera aura é sufiente para corromper a terra, a flora e todas criaturas que vivem nela. Sua imagem é representada pelo rosto alongado de um demônio de oito olhos oculta em sombras profundas, de onde saem espinhos e tentáculos que se extendem à partir de seu corpo decréptico.
+
+Contam as **Lendas Etéreas** que **Azarog** teria sido criado por **Balum** como resposta ao desequilíbrio mágico causado por **Somonir** ao conjurar o feitiço de renovação da vida no **Primeiro Marco**.
+
+**Azarog** surgira então com o única determinação de exterminar **Somonir**, e no primeiro instante da sua criação, o poderoso Deus elevou seus tentáculos obscuros para além do mundo, criando assim a **Primeira Noite**. Desde então, o Deus das Sombras tratou de iniciar um conflito eterno com **Somonir**, que se extendeu por bilhões de anos, durante até os dias atuais.
+
+Nos milênios posteriores, sua peregrinação pela terra corromperia cada planta e cada criatura que pudesse tocar, transformando-as em seus servos e reunindo um exército de criaturas decrépitas que corromperiam o seio da terra para sempre.
+
+**Koroma** e **Somonir** sempre trabalharam em conjunto para limpar a corrupção de **Azarog** do mundo, mas a extensão de seu estrago é difícil de calcular, mesmo para os Deuses.
+
+Venerado por criaturas obscuras como o Deus da Morte da Escuridão e da Corrupção, Azarog é temido entre aqueles que adentram os territórios corrompidos ou viagem pela noite.
+
+#### Ensinamentos:
+
+- Aceitarás que a Luz é uma doença e que sua mera existência ameaça o brilho da noite.
+- Corromperás cada um em seu caminho, sendo ele terra ou vida.
+- Levarás sua palavra àqueles que acreditam no poder da noite, e apenas assim serás aceito pelo senhor das trevas.
+
 ### Moltron
 
 Representado por um massivo Aburu de Fogo que produz naturalmente magma em seu estado bruto que saem do interior de suas entranhas.
