@@ -250,7 +250,28 @@ Ehphyros é considerado como o **Deus do Vento**, venerado por seu **Equilíbrio
 
 ### Xenosh
 
-Representado por uma Ardoq titânica cujo corpo é inteiramente formado por ácido.
+Representada por uma Ardoq dracônica anfíbia cujo corpo de **ácido transbordante** é revestido por uma lendária armadura de placas metálicas.
+
+Xenosh é também chamada pelos povos Tribais antigos como a **Raínha das Serpentes**, sendo sua face frequentemente retratada com uma poderosa e imponente barbatana dorsal.
+
+Contam as **Lendas Etéreas** que Xenosh teria surgido à partir dos **restos mortais corrompidos** de **Kirimo**, o Deus irmão da Deusa da Água, **Koroma**.
+
+Ao se erguer do plano dos Deuses, **Xenosh** estava convicta que a existência dos **Deuses Etéreos** era uma ameaça à sua existência, e como resultado de sua mentalidade distorcida, a Serpente Dragão teria **erguido seu domínio** conjurando um massivo ciclone de corrupção converteria a **água dos oceanos** em puro ácido.
+
+A terrível corrupção do poder ácido de **Xenosh** teria penetrado na terra e afetado diversos continentes das **Terras Altas**, resultando na criação um novo Bioma chamado de **Detóxia**, uma área morta com pouca vegetação frequentada apenas por criaturas corrompidas pelo Ácido de **Xenosh**.
+
+Por conta de sua expansão perigosa, os outros Deuses Etéreos se juntaram a 3 bilhões de anos atrás na tentativa de impedir o avanço da grande Serpente. Eles invadiram o lar da Deusa do Ácido, mas perceberam que permanecer na influência corrosiva de **Xenosh** poderia trazer danos permanentes à suas integridades divinas.
+
+Num esforço unitário, **Koroma**, **Somonir**, **Igadash** e outros Etéreos conseguiram derrotar **Xenosh**, mas a Serpente, como ato final de sua derrota, conjurou uma poderosa Aura de intensificação de seu ácido para expulsar seus inimigos, fechando-se num **casulo de regeneração** por onde ainda mantém hibernando até o dia que acordará novamente para trazer vingança ao mundo.
+
+Venerada por **Criaturas senscientes e obscuras**, **Cultistas** e **Arcanistas de Allura**, **Xenosh**, mesmo em seu casulo, ainda exerce domínio mental àqueles que procuram seus ensinamentos.
+
+#### Ensinamentos
+
+- Corromperás seus inimigos da forma mais cruel.
+- Atenderás apenas aos próprios interesses e aos dogmas da Serpente.
+- Levantarás um exército de escolhidos para o despertar da Serpente.
+
 ### Igadash
 
 Descrito como uma silhoueta negra contida em um grande Cristal flutuante, Igadash é tida como uma das Divindades tradicionalmente veneradas pelos Luminins e por Povos das Tempestades.
