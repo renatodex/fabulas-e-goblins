@@ -204,10 +204,50 @@ Venerado por criaturas obscuras como o Deus da Morte da Escuridão e da Corrupç
 
 ### Moltron
 
-Representado por um massivo Aburu de Fogo que produz naturalmente magma em seu estado bruto que saem do interior de suas entranhas.
+Representado por um massivo Aburu de Fogo, Moltron é capaz de produzir naturalmente magma em seu estado bruto, sendo conhecido com o **Deus do Fogo** dos Eterealistas.
+
+As **Lendas Etéreas** contam que Eras atrás, **Moltron** teria hibernado no vazio após uma longa sucessão de conflitos, tomando a forma de uma imensa **estrela de fogo** adormecida.
+
+Foi então que **Ogoron**, sem saber que a estrela se tratava na verdade um Deus, aproveitou o seu núcleo flamejante, e conjurou a terra no seu entorno para dar origem ao que um dia se transformaria nas **Terras Místicas**.
+
+Após **2 bilhões de anos**, muito tempo depois da constituição do mundo, **Moltron** despertou enfurecido de seu casulo, pois uma barreira espessa de terra havia sido criado em seu entorno. O **Deus do Fogo** acreditava que havia sido aprisionado por seus inimigos durante sua hibernação, e encurralado, conjurou uma onda **cataclísmica** de lava referidas por pesquisadores como **A Erupção da Terra**.
+
+O despertar furioso de **Moltron** criou rachaduras profundas na Terra, que não só dariam origem aos primeiros Vulcões ativos do mundo, como também formariam um novo Bioma, os **Lagos de Fogo**, repletos de tuneis subterrâneos mergulhados em lava pulsante, que **Moltron** utilizou para viajar pelo mundo nos primeiros dias.
+
+Mas a **Erupção da Terra** também enfureceu **Ogoron**, pois seu império de terra e areia estava desmoronando de dentro para fora pelo **Cataclisma de Fogo**. Os dois deuses então se confrontaram para defender seus territórios, até que **Ogoron** percebera que a **Estrela de Fogo** que ele acreditava ser um astro, era na verdade, o Casulo do **Deus do Fogo**.
+
+Entendendo a fragilidade de seus territórios e o benefício mutúto entre os dois, os Deuses entenderam que a trégua era o único caminho plausível, e passaram a conviver em harmonia desde então.
+
+**Moltron** é venerado como o deus da **Fúria**, da **Força** e da **Paixão**, e  é frequentemente cultuado por aqueles com o coração ardente, **Cultistas da Lava**, **Armadons** e **Arcanistas de Allura**
+
+#### Ensinamentos:
+
+- Demonstrarás a Força de sua fé, e imporás a fúria aos seus inimigos.
+- Amarás os seus valores, e darás tudo de sí para protegê-los.
+- Alguns acreditam que a purificação está na Água, mas estes estão enganados, pois apenas o **Fogo** poderá purificar a alma.
+
 ### Ehphyros
 
-Representado por um massivo Drogo translúcido que pode viajar pelo céu sem nunca ter visto, devido a sua capacidade de camuflagem natural.
+O **Deus do Vento** é representado por um massivo **Drogo** de **plumas brancas** translúcido, que pode viajar pelo céu sem nunca ser avistado, devido a sua capacidade de camuflagem mágica.
+
+Contam as **Lendas Etéreas** que os **Ehphyros** foram soprados de sua terra de origem por seus pares ancestrais no **Cume do Vento**. A tradição é que o **Sopro** leva um **Ehphyro** ao seu destino, no qual ele deve permanecer até o final de sua existência.
+
+Os profetas acreditam que o **Sopro** teria trazido Ehphyros até as **Terras Místicas** bilhões de anos após sua formação inicial, para que ele pudesse empoderar os Deuses com o Elemento Ar e desabrochar a vida através das correntes de renovação.
+
+Ehphyros teria chego as **Terras Místicas** em um massivo **Tornado de Ar** de proporções continentais com milhares de kilômetros de extensão, ocasionando na criação de correntes de vento permanentes conhecidas como **As Nove Monções**. A chegada de Ehphyros também possibitou a polinização dos **filhos de Gumera**, além das núvens, tempestades naturais e criaturas voadoras.
+
+Dizem que aquele que meditar em sincronia com as **Monções** poderá sintonizar com a consciência do **Ehphyros** para adquirir orientação espiritual ou até mesmo geográfica.
+
+Contam as lendas que as **Plumas de Ehphyros** teriam o poder de entrar em comunhão com as Monções, também conhecidas como os olhos e os ouvidos curiosos do **Deus do Vento**. As Monções seriam capazes de se lembrar de cada suspiro dos vivos, revelar a localização de qualquer pessoa ou artefato e até sibilar suas histórias passadas.
+
+Ehphyros é considerado como o **Deus do Vento**, venerado por seu **Equilíbrio**, **Leveza** e alta **Consciência**.
+
+#### Ensinamentos:
+
+- Respeitarás as vontades das Monções.
+- Seguirás o seu destino como a Pluma segue o vento.
+- Não obstruirás o caminho das Monções.
+
 ### Xenosh
 
 Representado por uma Ardoq titânica cujo corpo é inteiramente formado por ácido.
