@@ -59,7 +59,7 @@ As Culturas disponíveis são:
             <td>Filhos do Orvalho</td>
             <td>Colheita, Tradição, Sabedoria</td>
             <td>Trajes Arbóreos, Túnicas e Proteções Artesanais de madeira ou algodão</td>
-            <td>Lunn, Gumera, Musgom</td>
+            <td>Lunn, Gumera, Azarog</td>
             <td>Sobrevivência +1, Agilidade +1, Intelecto +1, P.M +2</td>
         </tr>
          <tr>

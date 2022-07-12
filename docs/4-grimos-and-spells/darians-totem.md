@@ -82,7 +82,7 @@ Vistos frequentemente como uma espécie de Feiticeiros Monges, esses indivíduos
 
 ## Origem do Grimo
 
-Antigos manuscritos derivados dascivilizações Gudrash e Lunir já revelavam que os primeiros Goblins que habitavam as terras místicas, antes mesmo do surgimento da civilização como conhecemos hoje, já utlilizavam a Magia de forma primitiva. O Elo Mágico destes povos com o Plano da Magia é considerado pelos estudiosos de Darian como a forma de conexão mais Pura que pode existir.
+Antigos manuscritos derivados das civilizações Gudrash e Lunir já revelavam que os primeiros Goblins que habitavam as terras místicas, antes mesmo do surgimento da civilização como conhecemos hoje, já utlilizavam a Magia de forma primitiva. O Elo Mágico destes povos com o Plano da Magia é considerado pelos estudiosos de Darian como a forma de conexão mais Pura que pode existir.
 
 De acordo com eles, o próprio surgimento dos Augúrios estaria relacionado a herança espiritual de determinados indivíduos com Povos antigos, como os Gobolur e os Lunir.
 

@@ -60,7 +60,7 @@ A história dos Etéreos é contada no livro dos **Eterealistas**, conhecido com
 | Moltron   | Fogo | Fúria, Paixão, Força |
 | Ehphyros  | Ar | Leveza, Equilíbrio, Consciência |
 | Xenosh  | Acido | Transformação, Poder, Respeito |
-| Igadash   | Gelo | Tempo, Eternidade, Harmonia |
+| Igadash   | Gelo | Tempo, Bondade, Harmonia |
 | Gumera  | Natureza | Proteção, Co-Existência, Preservação |
 
 ### Balum
@@ -274,13 +274,64 @@ Venerada por **Criaturas senscientes e obscuras**, **Cultistas** e **Arcanistas 
 
 ### Igadash
 
-Descrito como uma silhoueta negra contida em um grande Cristal flutuante, Igadash é tida como uma das Divindades tradicionalmente veneradas pelos Luminins e por Povos das Tempestades.
+Descrita como a silhoueta negra de uma imensa Golem metálica contida em um grande Cristal flutuante, **Igadash** é tida como uma das Divindades tradicionalmente veneradas pelos Luminins e por **Povos de Ifinia**. (da lingua ancestral **Ifi** = Mundo, **Nia** = Congelado).
+
+A quase **1 bilhão** de anos atrás, quando as **Terras Místicas** atingiam sua Geografia estável, as primeiras civilizações ancestrais começavam a aparecer, como os antigos **Gudrash**, os **Gobolurs** e os **Lunir**.
+
+Contam as **Lendas Etéreas** que os Deuses criadores temiam que sua presença ativa no mundo poderia prejudicar a evolução de seus recém desenvolvidos filhos senscientes. Por isso, uma reunião entre os **Etéreos** foi organizada com a ajuda das **Monções de Ehphyros**, e os Deuses discutiram sobre o destino do mundo, num encontro que os Eterealitas chamam de **O Sínodo dos Deuses**.
+
+Nesse dia, os Etéreos decidiram que precisavam se ausentar do mundo, pois suas aparições massivas poderiam colocar em risco a evolução dessas novas espécies, um evento considerado pelos Etéreos como um *Marco Sagrado da criação*. Restava um último problema a ser resolvido. Isso porquê **Xenosh**, **Azarog** e **Balum** continuavam em remissão após serem combatidos pelos outros Etéreos a milhões de anos, mas poderiam retornar a qualquer momento para ameaçar o domínio dos outros Deuses.
+
+Além disso, o estrago causado pelos milhares de anos de conflitos entre os Deuses havia desencadeado a criação de **bestas e criaturas poderosas**, e os Etéreos acreditavam que as novas civilizações precisariam de alguma ajuda caso quisessem se fortalecer no mundo.
+
+E foi então que Etéreos do conselho uniram suas forças para conjurar **Igadash**, a Raínha do Gelo, tão poderosa que poderia **congelar o próprio tempo**.
+
+Mas enquanto conjuravam **Igadash**, algo inesperado aconteceu. Pela primeira vez, os Etéreos foram atacados. Não por um Deus, mas por uma **horda de criaturas e bestas corrompidas**, controladas mentalmente pelos 3 Etéreos decaídos, tão forte era a influência deles no mundo.
+
+A invasão desestabilizou a conjuração de **Igadash**, e um imenso impacto de Gelo ensurdecedor atingiu o local do conselho, dando origem ao **Território gelado de Ifínia**.
+
+Por sorte, os Etéreos sobreviveram ao impacto, e a horda de bestas foi Derrotada, mas a invasão mostrava pela primeira vez aos Deuses que seus filhos corriam perigo.
+
+**Igadash** agradeceu o sacrifício dos Deuses, e no alvorecer de uma nova era prometeu que auxiliaria os Reinos de seus filhos.
+
+Nos próximos milênios, **Igadash** guiaria as novas civilizações oferecendo sua ajuda e conhecimento, sendo grande responsável pela criação dos primeiros **templos de veneração** aos Deuses. A Deusa teria ensinado a **Engenharia**, **Arquitetura** e teria auxiliado os primeiros reinos de **Prismus** a utilizarem técnicas avançadas de **Agricultura**.
+
+Frequentemente venerada por povos em **Prismus**, **Arcanistas de Allura** e pelos **Povos de Ifinia**, a **Deusa do Gelo** é reconhecida por sua **Bondade**, **Harmonia** e por controlar o próprio **Tempo**.
+
+#### Ensinamentos
+
+- Passarás seu conhecimento e sabedoria adiante, pois aquele que aprisiona seu conhecimento jamais conhecerá a sí mesmo.
+- Serás benevolente, e usará suas forças para construir um mundo em harmonia.
+- Construirás no mundo físico e no espiritual, permitindo que outros possam usar seu legado.
+
 ### Gumera
 
-Gumera é o Eco da Floresta, responsável por fazer brotar cada nova semente, e fertilizar o solo, sendo comumente representado como uma criatura Serpentóide voadora e caótica, com corpo felpudo e incríveis três pares de asa variando entre o branco cintilante e diversos tons alaranjados. Apenas alguns raros avistamento da lendária criatura já foram realizados, e são contados desde os tempos da Era da Navegação por antigos exploradores da região do Bosque.
-Diz a lenda, que o Eco é invisível aos olhso nús, e apenas poderia ser visto num curto período do dia ao raiar da lua de orvalho, uma fase da lua onde sua luz brilha num fraco tom ambar, mas que é muito nítido e belo.
+Representada como uma criatura dracônica com 3 pares de asas cintilantes e corpo felpudo, Gumera é uma Serpente voadora conhecida pelos povos antigos como a **Deusa da Natureza**.
 
-De acordo com a Mitologia, ao ser avistado de olhos brancos, o Eco poderia conceder uma benção divina ao seu primeiro avistador. Por outro lado, aquele que avistasse seus olhos Alaranjados, receberia uma Maldição tão terrível, que seria impossível se livrar delas pelas suas próximas 1000 existências.
+Contam as **Lendas Etéreas** que a **semente de Gumera** teria acidentalmente caído na Terra desértica do mundo em tempos primais, a **bilhões de anos** do alvorecer da civilização.
+
+Lentamente e de forma silenciosa, Gumera floresceu ao longo dos milênios, acumulando o poder necessário para se tornar o **Eco da Floresta**.
+
+Após florescer, a Deusa teria permeado a superfície da Terra com **12 sementes mágicas**, cada uma delas transformando-se rapidamente em densas florestas que se fundiram ao coração do mundo e brotaram uma incrível variedade de fauna e de flora que transformaram as **Terras Místicas** para sempre.
+
+A vinda das **Monções de Ehphyros** também foram fundamentais para a expansão do domínio de **Gumera**, permitindo a polinização de Plantas, Fungos e outras criaturas.
+
+As **Sementes de Gumera** deram origem a imensas Árvores anciãs, cujas **raízes mágicas** se aprofundam até hoje no solo do mundo.
+
+Apenas alguns raros avistamento da lendária criatura já foram realizados, e são contados desde os tempos da **Era da Navegação** por antigos exploradores de regiões densamente arborizadas.
+
+Diz a lenda, que **Gumera** não pode ser vista aos olhos nús, mas que haveria um curto período ao **raiar da lua de orvalho** onde a magia de elusão da Deusa seriam anuladas. A **Lua de Orvalho** é uma fase rara da lua de **Karamani**, onde sua luz brilharia num fraco tom ambar por 3 vezes ao ano, um evento considerado muito especial e bastante almejado pelos Povos arbóreos para ocasiões cerimoniais.
+
+**Gumera** é a protetora da floresta e dos animais, e dizem as lendas que ela poderia sentir a destruição de seu domínio, castigando seus invasores com **terríveis maldições**.
+
+Venerada com o a Deusa da **Proteção**, da **Co-Existência** e da **Preservação**, **Gumera** é frequentemente cultuada por **Tribos nativas**, **Filhos da Floresta** e **Xamãs**.
+
+#### Ensinamentos
+
+- Respeitarás a floresta e suas raízes, e a protegerás com toda garra.
+- Viverás em comunhão com a Natureza, respeitando seus costumes e sua pureza.
+- Expandirás os domínios de Gumera semeando a vida através de suas raízes.
+
 ## Avernicismo (10 Deuses / 1 Deus)
 
 Acredita na existência do Avérnico, uma encarnação de um Deus terreno, um ser imaculado cuja fim resulta no início de uma nova existência.
