@@ -334,7 +334,79 @@ Venerada com o a Deusa da **Proteção**, da **Co-Existência** e da **Preserva�
 
 ## Avernicismo (10 Deuses / 1 Deus)
 
+A bilhões de anos atrás, no alvorecer da própria criação, as Guardiãs chegavam ao fim de sua existência, e temendo que não estariam presentes para proteger o destino de seus filhos nas eras seguintes, uma **Aldrava Lendária** foi forjada nas profundezas do **Abismo Primal**
+
+Mas o lendário artefato era apenas metade da chave, pois a **Aldrava** deveria escolher um, ao qual se uniria para compartilhar a **Benção do Avérnico**.
+
+O **Manuscrito da Aldrava** conta que o escolhido se tornaria um **Avérnico**, e a **Aldrava** assumiria a forma da Arma que ele masterizaria em sua existência, tornando-se sua aliada durante toda a vida.
+
+Como resultado da **Benção**, os **Avérnicos** poderiam acessar as memórias de suas antigas existências, sendo um **instrumento divino** que modelaria o próprio balanço do mundo.
+
+Com o passar das eras, 10 (dez) encarnações de **Avérnicos** viveram no mundo, entre Goblins, Razalans e outras espécie. Mas depois do Blecaute, **Lazan**, o último dos **Avérnicos**, desapareceu sem deixar rastros, criando rumores sobre a possível chegada de um novo **Avérnico** no mundo.
+
+
+| Avérnico | Arma     | Traços |
+| ------   | -------- | ------ |
+| Herodus   |  Cajado   |  União, Ubuntu, Paz |
+| Mino   |  Foice   |  Colheita, Frutividade |
+| Joromur   |  Arco   |  Bravura, Inovação, Caça |
+| Valamir   |  Espada   |  Bravura, Exploração, Resiliência |
+| Lunn   |  Cetro   |  Luz, Cura, Redenção |
+| Dzeranir   |  Lança   |  Tradição, Equilíbrio, Patriotismo |
+| Ysanar   |  Orbe   |  Conhecimento, Magia, Elementos |
+| Valis   |  Correntes   |  Vingança, Justiça, Luta |
+| Beremord   |  Martelo   |  Fartura, Riqueza, Predestinação |
+| Lazan   |  Tridente   |  Domínio, Poder, Liderança |
+
 Acredita na existência do Avérnico, uma encarnação de um Deus terreno, um ser imaculado cuja fim resulta no início de uma nova existência.
+
+### Herodus
+
+A primeira aparição de Herodus data de 1900 AB, em Vonimus, no período histórico conhecido como O Despontar, período em que grande parte das entidades Divinas das Terras Místicas parecem ter surgido.
+Herodus é tipicamente representado por uma Goblin das montanhas, com a pele terrosa e um único chifre espiralado na testa que lembra um Uvulor selvagem.
+Nas suas mãos, um belo Tridente feito com Ossos cuidadosamente polidos e cabo de ouro sugerem o respeito e poder dessa divindade.
+A civilização Lunir é conhecida historicamente por apoiar e exaltar a deusa Herodus, e de acordo com suas inscrições, ela era mencionada como uma Deusa exploradora, respeitada pelo seu incrível senso de Justiça e igualdade.
+Diferente de outros relatos de divindades, as escritas antigas dos Lunirs apontam que Herodus teria realmente vivido entre as montanhas de Vonimus, tendo sido inclusive responsável pela união de diversos povos selvagens na mesma bandeira Lunir.
+Estudos da escrita bíblica dos Lunirs teriam revelado que o termo ""Herodus"" não era explicitamente o nome da Divindade, mas um título, que seria dado ao nascimento Divino de um indivíduo encarregado de trazer a União. (Hoero => Divino, Odus => União). Na fala popular, o termo ""Hoero Odus"" acabou sendo encurtado para apenas ""Herodus""
+### Mino
+
+Mino seria visto como o Pai dos Goblins, considerado o Pai fundador do continente de Prismos, Mino teve visões reveladoras na sua vida sobre a verdade do mundo, e descreveu toda sua trajetória divina no livro sagrado denominado o Livro de Mino.
+Frequentemente associado a Exploração e a Construção e a constituição de Civilizações, Mino é frequentemente visto como o Deus da Colheita e da frutividade.
+### Joromur
+
+Um dos primeiros piratas exploradores conhecido como Deus dos Arcadianos. A história conta que Joromur teria derrubado uma Iphitera gigantesca utilizando sua embarcação lendária: O Lugre Rubro.
+### Valamir
+
+Profeta e Explorador dos Desertos, sendo fundador de grandes reinos Armadons. Valamis era um Armadon Albino, que a Eras atrás teve sua vila natal destruída um imenso Vorme do Vazio.
+Sendo um dos poucos sobreviventes, ele iniciou um êxodo que traria os Armadons para o continente de Galantia, e fundaria importantes reinos.
+Conhecido por sua lendária Espada de 4 Lâminas, o Sabre de Quatro Ventos, ele constantemente venerado como um Deus por povos do Deserto.
+### Lunn
+
+Divindade que representa o elemento Divino.
+### Dzeranir
+
+Na Era das Navegações, o continente de Vônimus recebeu muitas invasões, e muitas guerras foram desencadeadas a partir dessas invasões a terra que os povos consideravam como sagrada.
+Dzeranir era um Cavaleiro que viveu nos antigos povos Iméricos, diziam que a sua lança, batizada pelos antigos como a ""Voz de Kal'Laranor"", era um artefato mágico, originado por parte de um ditado Imérico  antigo que dizia: ""Se não podem ouvir a sua voz, então que ouçam a sua lança!"".
+A poderosa lança era capaz de dizimar um exército inteiro, transformando seus inimigos em gelo ao atingir o solo.
+### Ysanar
+
+Ysanar era uma aldeã comum que viveu Eras atrás. Ao ser expulsa de seu lar por não ter pago tributos ao seu rei, vagou sem esperança pelos vales Sombrios, até que, ao entrar numa Gruta escura, ela acidentalmente revelou a porta para a Biblioteca secreta, cuja localização era desconhecida por Eras antes de seu tempo. Lá, ela obteve um dos artefatos mais poderosos mágicos mais poderosos do mundo, conhecido como a Orbe Primeva.
+Ysanar passou anos na biblioteca, absorvendo seu conhecimento e se tornando a primeira Arcanista Multi-Elemental do mundo.
+### Valis
+
+Nascido como um escravo, Valis é um martir de guerra que teria libertado o povo nativo de Prismus da invasão dos reinos das terras Mediterrâneas. Sua luta era sobre a liberdade e a igualdade de um povo, e sua imagem é frequentemente representada pelas icônicas Correntes Mágicas de El'gamar, a qual Valis teria forjado com ajuda de um Jinn do Ar, após libertá-lo de sua prisão eterna. Após ser liberto, o Jinn agradeceu o jovem Metalóide e forjou as correntes mágicas de El'Gamar que foram peça chave na libertação das Tribos de Prismus.
+
+### Beremord
+
+Beremord era um aldeão Armadon de família pobre, que sempre passou dificuldades e nunca teve uma oportunidade na vida. Recusando-se a perder sua honra e partir para uma vida de crimes, ele envelheceu sem esperanças, num mundo onde precisava lidar constantemente com a fome, a pobreza e a humilhação. Um certo dia, já no final de sua vida, ele decidiu vagar pelas profundezas da terra, até que acidentalmente encontrou um vasto templo onde o Martelo da Esperança estava localizado. O Machado, de acordo com as lendas, realizaria automaticamente o maior desejo de qualquer um que o empunhasse.
+Por isso, fazê-lo, todo o vasto templo se
+### Lazan
+
+Lazan é um herói vastamente conhecido por derrubar uma imensa Ipimera que ameaçou um dos reinos submersos dos Valdari.
+Sua arma, o Tridente do Além-Mar, foi teoricamente criada por Lazan em uma de suas viagens para além do perímetro mapeado do mar de Caldera.
+O Tridente contém um mineral mágico de raridade inconfundível, que nunca havia sido encontrado em nenhuma parte do mundo. Com ele, Lazan derrotou uma Terrível Ípimera que a anos aterrorizava o oceano na região.
+
+
 
 ## Arzalismo (20 Deuses, mas dá pra por uns 10)
 
