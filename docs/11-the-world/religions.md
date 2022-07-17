@@ -16,10 +16,6 @@ Considerada como uma das religiões mais dominantes no mundo das *Terras Místic
 
 A Jóia, que também é a inspiração histórica para criação do **Grimo de Lunn**, é o artefato mágico que o próprio **Lunn** teria forjado para criar todos os mundos conhecidos no início dos tempos.
 
-:::info Curiosidade
-Uma curiosidade interessante é que o **Lunniísmo** (ou **Lunnismo**) também parece ter de certa forma influenciado o **Avernicismo**, pois para os **Avernistas**, **Lunn** também é considerado como uma das reencarnações do Avérnico. (apesar dos **Avernistas** discordarem veementemente que a reeencarnação de Lunn tenha sido a primeira)
-:::
-
 ### Lunn, o criador
 
 Sendo o primeiro a pisar no solo infértil das Terras Místicas, Lunn olhou para o horizonte e ergueu suas mãos, brandindo pela primeira vez o poder da **Jóia de Lunn**. Com um único movimento, Lunn irradiou a essência da vida para os quatro cantos do mundo, levantando florestas e desenhando cadeias inteiras de montanhas num piscar de olhos.
@@ -334,11 +330,11 @@ Venerada com o a Deusa da **Proteção**, da **Co-Existência** e da **Preserva�
 
 ## Avernicismo (10 Deuses / 1 Deus)
 
-A bilhões de anos atrás, no alvorecer da própria criação, as Guardiãs chegavam ao fim de sua existência, e temendo que não estariam presentes para proteger o destino de seus filhos nas eras seguintes, uma **Aldrava Lendária** foi forjada nas profundezas do **Abismo Primal**
+A bilhões de anos atrás, no alvorecer da própria criação, as Guardiãs chegavam ao fim de sua existência, e temendo que não estariam presentes para proteger o destino de seus filhos nas eras seguintes, a **Aldrava Primordial** foi forjada nas profundezas do **Abismo Primal**
 
 Mas o lendário artefato era apenas metade da chave, pois a **Aldrava** deveria escolher um, ao qual se uniria para compartilhar a **Benção do Avérnico**.
 
-O **Manuscrito da Aldrava** conta que o escolhido se tornaria um **Avérnico**, e a **Aldrava** assumiria a forma da Arma que ele masterizaria em sua existência, tornando-se sua aliada durante toda a vida.
+O **Manuscrito da Aldrava** conta que o escolhido se tornaria um **Avérnico**, e a **Aldrava** fundiría-se ao seu portador, conjurando a ele uma Arma, cuja qual ele masterizaria em sua existência.
 
 Como resultado da **Benção**, os **Avérnicos** poderiam acessar as memórias de suas antigas existências, sendo um **instrumento divino** que modelaria o próprio balanço do mundo.
 
@@ -348,9 +344,9 @@ Com o passar das eras, 10 (dez) encarnações de **Avérnicos** viveram no mundo
 | Avérnico | Arma     | Traços |
 | ------   | -------- | ------ |
 | Herodus   |  Cajado   |  União, Ubuntu, Paz |
-| Mino   |  Foice   |  Colheita, Frutividade |
-| Joromur   |  Arco   |  Bravura, Inovação, Caça |
-| Valamir   |  Espada   |  Bravura, Exploração, Resiliência |
+| Mino   |  Cruz   |  Despertar, Fé, Espiritualidade |
+| Joromur   |  Arco   |  Bravura, Caça, Conexão |
+| Valamika   |  Espada   |  Resiliência, Justiça, Vingança |
 | Lunn   |  Cetro   |  Luz, Cura, Redenção |
 | Dzeranir   |  Lança   |  Tradição, Equilíbrio, Patriotismo |
 | Ysanar   |  Orbe   |  Conhecimento, Magia, Elementos |
@@ -358,29 +354,113 @@ Com o passar das eras, 10 (dez) encarnações de **Avérnicos** viveram no mundo
 | Beremord   |  Martelo   |  Fartura, Riqueza, Predestinação |
 | Lazan   |  Tridente   |  Domínio, Poder, Liderança |
 
-Acredita na existência do Avérnico, uma encarnação de um Deus terreno, um ser imaculado cuja fim resulta no início de uma nova existência.
-
 ### Herodus
 
-A primeira aparição de Herodus data de 1900 AB, em Vonimus, no período histórico conhecido como O Despontar, período em que grande parte das entidades Divinas das Terras Místicas parecem ter surgido.
-Herodus é tipicamente representado por uma Goblin das montanhas, com a pele terrosa e um único chifre espiralado na testa que lembra um Uvulor selvagem.
-Nas suas mãos, um belo Tridente feito com Ossos cuidadosamente polidos e cabo de ouro sugerem o respeito e poder dessa divindade.
-A civilização Lunir é conhecida historicamente por apoiar e exaltar a deusa Herodus, e de acordo com suas inscrições, ela era mencionada como uma Deusa exploradora, respeitada pelo seu incrível senso de Justiça e igualdade.
-Diferente de outros relatos de divindades, as escritas antigas dos Lunirs apontam que Herodus teria realmente vivido entre as montanhas de Vonimus, tendo sido inclusive responsável pela união de diversos povos selvagens na mesma bandeira Lunir.
-Estudos da escrita bíblica dos Lunirs teriam revelado que o termo ""Herodus"" não era explicitamente o nome da Divindade, mas um título, que seria dado ao nascimento Divino de um indivíduo encarregado de trazer a União. (Hoero => Divino, Odus => União). Na fala popular, o termo ""Hoero Odus"" acabou sendo encurtado para apenas ""Herodus""
-### Mino
+No início dos tempos, contam as lendas que os Razalans formaram as primeiras civilizações nas Ilhas Flutuantes, conhecidas como o Território Ivérnico.
 
-Mino seria visto como o Pai dos Goblins, considerado o Pai fundador do continente de Prismos, Mino teve visões reveladoras na sua vida sobre a verdade do mundo, e descreveu toda sua trajetória divina no livro sagrado denominado o Livro de Mino.
-Frequentemente associado a Exploração e a Construção e a constituição de Civilizações, Mino é frequentemente visto como o Deus da Colheita e da frutividade.
+Naquela época, milhares de anos antes do Blecaute, a Magia ainda era pouco conhecida, e mesmo aqueles que tinham potencial, não sabiam explorá-la corretamente.
+
+Foi então que num período sombrio de invasões selvagens, os Guardiões visitaram o continente de Vônimus, e presentearam o **Monarca** do **Primeiro Reino Razalan** com um artefato lendário conhecido como **A Aldrava**.
+
+A **Aldrava** se fundiria a **Herodus**, conjurando um **Cajado** que seria o símbolo da união do Povo Razalan nos tempos antigos.
+
+Com o poder do **Cajado de Herodus**, os **Razalans** expulsaram as primeiras invasões selvagens, e estabeleceram seus Reinos e se uniram sob  uma única bandeira, num período de paz e prósperidade que duraria mais de 3 gerações.
+
+O Rei viveu tranquilamente por toda sua vida, e ficou conhecido como o Avérnico da **União**, **Ubuntu** e da **Paz**, passando seus aprendizados ao Povo Razalan.
+
+#### Ensinamentos
+
+- Trabalharás arduamente para trazer a união de seu Povo.
+- Combaterás as ameaças do mal à sua porta.
+- Usarás seu poder apenas para trazer a Paz.
+
+### Minali
+
+Por muitos anos, **Herodus** governou o mundo Razalan sustentado na sabedoria e no poder da **Aldrava Primordial**.
+
+Mas uma grande tempestade se aproximava, pois muitos almejavam obter o poder do **Avérnico**, e no dia da morte de **Herodus**, em meio a confusão, uma grande Guilda de Bandidos invadiu o perímetro das Torres Reais, levando a **Aldrava** à força para seu esconderijo.
+
+O **Rei dos Ladrões** pretendia se unir a **Aldrava** e receber sua benção, mas o que ele não esperava, é que o artefato dos deuses teria vontade própria, e ao invés de se vincular ao **Rei dos Ladrões**, teria escolhido um de seus servos, **Minali**, uma jovem **Razalan** que havia se juntado a Guilda no próprio dia da invasão.
+
+**Minali** receberia a benção da **Aldrava**, e em instantes, o artefato se transformaria na Arma que ele masterizaria por toda sua vida, uma curiosa **Cruz**.
+
+Mas o Império real localizaria e invadiria a **Guilda dos Ladrões**, capturando todos seus integrantes, inclusive **Minali**.
+
+Por ter roubado a **Benção da Aldrava**, **Minali** foi condenada à mais vergonhosa das punições, a execução pública.
+
+Mas **Minali** tinha feito uma descoberta incrível. E foi no dia da execução, que a jovem portadora conjuria a própria **imagem do Imperador**, provando ao povo que **Minali** seria uma **Avérnica** capaz de se comunicar com os espíritos do passado através do poder de sua **Cruz**.
+
+O Povo entendeu que essa era a vontade dos Guardiões, e desejou que **Minali** se tornasse a nova imperadora. Mas a realeza temia que a vinda de **Minali** sujaria o sangue real, e foi então que a **Santa Igreja do Avérnico** foi criada, dessa forma, **Minali** poderia assumir uma posição de respeito, enquanto mantia uma separação clara da linhagem real.
+
+A **Igreja** instituiria o culto ao **Avérnico** como uma nova religião, e mudaria toda a percepção do povo **Razalan**.
+
+Com o poder da **Cruz de Minali**, a **Avérnica** reinou como líder da Igreja, levando uma **nova Fé** para o povo e **iluminando** os territórios mais **sombrios** da civilização **Razalan**. Ela ficaria conhecida como a Avérnico do **Despertar**, da **Fé** e da **Espiritualidade**.
+
+#### Ensinamentos
+
+- Usarás o poder da Fé para trazer esperança ao povo.
+- Se conectarás consigo mesmo para compreender sua espiritualidade.
+- Despertarás no próximo a Esperança suprimida pela escuridão.
 ### Joromur
 
-Um dos primeiros piratas exploradores conhecido como Deus dos Arcadianos. A história conta que Joromur teria derrubado uma Iphitera gigantesca utilizando sua embarcação lendária: O Lugre Rubro.
-### Valamir
+**Minali** reinou durante anos na **Santa Igreja do Avérnico**, mas nem todos estavam felizes.
+Anos atrás, um dos Principes da realeza estava insatisfeito com o rumo das coisas, e abdicara de sua posição real para se juntar a **Kol'Banir**, um dos Reinos aliados.
 
-Profeta e Explorador dos Desertos, sendo fundador de grandes reinos Armadons. Valamis era um Armadon Albino, que a Eras atrás teve sua vila natal destruída um imenso Vorme do Vazio.
-Sendo um dos poucos sobreviventes, ele iniciou um êxodo que traria os Armadons para o continente de Galantia, e fundaria importantes reinos.
-Conhecido por sua lendária Espada de 4 Lâminas, o Sabre de Quatro Ventos, ele constantemente venerado como um Deus por povos do Deserto.
-### Lunn
+De lá, ele planejou um ataque surpresa à sede da **Igreja**, assassinando **Minali** covardemente e levando a `Aldrava` à força num movimento que desestabilizaria todo período de paz conquistado por **Herodus, o Primeiro**.
+
+Mas a **Aldrava** representava grande poder, e outros Reinos Razalans que sabiam do ataque aproveitaram a oportunidade para cercar as Forças remanescentes de **Kol'Banir** na viajem de volta, numa batalha que ficou conhecida como O **Massacre de Kol'Banir**.
+
+Eles todos buscavam poder, através **Aldrava Primordial**, mas ironicamente, durante o ataque, o artefato se perdeu, caindo dos longos penhascos de **Kol'Banir** no coração das **Terras Baixas**.
+
+Por décadas a **Aldrava** esteve perdida, até que um caçador **Armadon** explorando uma caverna nas entranhas das **Cavernas de Astraka** a encontrou na toca de um terrível **Baguar**. Ao se fundir com o artefato, o **Arco de Joromur** foi criado, fornecendo um grande poder ao seu portador.
+
+**Joromur** domaria o **Baguar** e faria dele seu fiel aliado, criando um vínculo lendário com uma criatura que muitos acreditavam ser indomesticável.
+O Caçador se tornaria uma lenda, e reaviveria a chama da **Igreja do Avérnico**.
+
+Numa época de conflitos, ele combateu criaturas colossais para proteger a integridade dos Reinos Armadons, e mostrou pela primeira vez que a **Igreja do Santo Avérnico** não pertencia apenas aos **Razalans**, mas a todos aqueles que acreditavam no poder da **Aldrava Primordial**.
+
+Sua bravura e determinação lhe renderam diversas estátuas de méritos em grandes reinos **Armadons**, onde o **Avérnico** pode ser encontrado montado em um imenso **Baguar** com o **Arco de Joromur**.
+
+**Joromur** ficou conhecido como o Avérnico da **Bravura**, da **Caça** e da **Conexão**. No final de sua vida, **Joromur Kanus** utilizaria seus conhecimentos para forjar o que se tornaria o Grimo que se tornaria o **Olho de Kanus**.
+
+#### Ensinamentos
+
+- Desafiarás o indesafiável, pois aquele que acredita na Força de Joromur tem o poder para vencer qualquer desafio.
+- Desdenharás das Trevas, pois a Luz de Joromur iluminará qualquer canto obscuro do mundo.
+- Comunharás com a natureza, pois nela encontrarás a saída dos caminhos tortuosos.
+
+### Valamika
+
+Quando o **Avérnico Joromur** se foi, muitos esperavam que a  **Aldrava** deixasse seu corpo e pudesse ser passada para as próximas gerações de **Armadons**, mas por algum motivo, diferente de todos os outros **Avérnicos** antes dele, o artefato primordial nunca foi encontrado.
+
+Esse evento intrigou a todos **Avernicistas**, pois as escrituras afirmavam que ela sempre deixaria o corpo do seu portador no momento de seu último suspiro, assim como narravam as lendas antigas do **Rei Herodus** e da **Sacerdote Minali**.
+
+Alguns Rumores diziam que **Joromur** teria quebrado o vínculo com a **Aldrava** ainda em vida, pois sabia que um iminente conflito atingiria o mundo ao final de sua vida, e que, a pedido dos Guardiões, teria escondido o artefato em uma localização desconhecida.
+
+Outros Rumores diziam que a **Aldrava** havia sido roubada, e que estaria em posse de uma corporação muito poderosa.
+Mas nenhum dos rumores se provaram verdadeiros, e o artefato se manteve esquecido por mais de 4 Décadas.
+
+Nessa época, **Astraka** era aterrorizada por uma ameaça continental, uma criatura colossal sensciente conhecida como **Zolonimir**, o **Vorme do Vazio**.
+Manuscritos antigos dizem que a criatura teria despertado durante a construção de um dos **Reinos Armadons**, e em fúria, ela teria percorrido todo o continente destruindo tudo a seu caminho.
+
+**Valamika** foi a única sobrevivente do antigo reino de **Filir'Trakar**, o primeiro atingido pela fúria de **Zolonimir**.<br/>
+Após sobreviver ao ataque, a **Armadon** viajou por kilômetros ao norte, na intenção de buscar ajuda em um reino aliado, mas uma poderosa **tempestade de areia** teria levado a jovem a um **Taribu** colossal, cujo interior teria se transformado em uma espécie de templo.
+
+Dentro do templo, a jovem Armadon foi guiada à **Aldrava** pela voz dos **antigos portadores**, fundindo-se ao artefato e recebendo a **Espada de Quatro Lâminas**, também conhecida como  **Espada de Valamika**, cujo poder elemental seria crucial para combater o exército de Vormes controlados por **Zolonimir**.
+
+**Valamika** comunhou com a voz dos antigos **Avérnicos**, e jurou que buscaria vingança contra a besta que destruira sua terra natal.
+
+Por mais de 200 anos ela uniu os Povos **Armadons**, trazendo justiça àqueles que haviam sido vítimas da destruição dos **Vormes**, além de usar a **Espada de Valamika** para enviar a temida **Zolonimir** a uma realidade alternativa.
+
+Ela ficou conhecida como a Avérnica da **Resiliência**, da **Justiça** e da **Vingança** e é venerada até os dias de hoje não apenas pelos Armadons, mas por povos de toda **Astraka**.
+
+#### Ensinamentos
+
+- Vingarás a todo custo aqueles cujos nomes adornam suas feridas.
+- Não sederás às intempéries, pois são elas que eludem o brilho da [Alizarita](/docs/7-game-rules/merchants) no alto da Duna.
+- Usarás sua espada para trazer a justiça àqueles que não podem buscá-la.
+
+### Lando
 
 Divindade que representa o elemento Divino.
 ### Dzeranir
