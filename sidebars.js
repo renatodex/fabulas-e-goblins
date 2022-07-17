@@ -151,7 +151,15 @@ const sidebars = {
         'the-world/wheres-the-game-placed',
         'the-world/the-blackout',
         'the-world/the-ages-of-the-world',
-        'the-world/religions',
+        {
+          'Religiões': [
+            'the-world/religions/lunniism',
+            'the-world/religions/etherealism',
+            'the-world/religions/avernicism',
+            'the-world/religions/arzalism',
+            'the-world/religions/primalism',
+          ],
+        },
         'the-world/natural-laws',
         'the-world/magic-items',
         'the-world/notable-groups',
