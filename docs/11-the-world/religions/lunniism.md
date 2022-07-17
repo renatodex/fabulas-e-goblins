@@ -5,7 +5,7 @@ slug: /11-the-world/lunniism
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C99cd8d95-6595-41cf-9c1e-7fc1e34f6ad2.jpg
 ---
 
-![Lunn](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C99cd8d95-6595-41cf-9c1e-7fc1e34f6ad2.jpg)
+![O Luniísmo acredita na existência de um único Deus supremo, conhecido como Lunn. O criador teria formado as Terras Místicas com um estalo de seu cetro, e originado toda a vida.](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C99cd8d95-6595-41cf-9c1e-7fc1e34f6ad2.jpg)
 
 Considerada como uma das religiões mais dominantes no mundo das *Terras Místicas*, os **Adoradores de Lunn** acreditam na existência de um único Deus, representado frequentemente como a silhoueta iluminada de um Goblin com mantos e um grande cetro, no qual carregaria a **Jóia de Lunn**.
 

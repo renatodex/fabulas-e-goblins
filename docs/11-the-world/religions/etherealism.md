@@ -5,11 +5,9 @@ slug: /11-the-world/etherealism
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca508cff7-17bd-49e7-af9c-dc3bdd941df8.jpg
 ---
 
-![Ethereos.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca508cff7-17bd-49e7-af9c-dc3bdd941df8.jpg)
+![Os Eterialistas acreditam na existência de Ecos elementais, responsáveis pela criação do mundo e o equilíbrio das forças naturais.](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca508cff7-17bd-49e7-af9c-dc3bdd941df8.jpg)
 
-Os Eterealistas acreditam que os **Deuses Misticianos** não existem, o que significa que, divindades que assumem a forma de Goblins, Armadons, Razalans, ou qualquer outra civilização sensciente mundo não passam de uma **farsa**, inventadas em tempos antigos para prender a fé das mentes fracas.
-
-Ao invés disso, os Eterealistas acreditam que o mundo foi criado e mantido por **doze guardiões imortais** conhecidos como **Ecos**, ou **Etéreos**, e que são responsáveis por reger o equilíbrio do planeta.
+Os Eterealistas acreditam que a **Terra Mística** foi criada pelo poder de **doze guardiões imortais** conhecidos muitas vezes como **Ecos**, ou **Etéreos**. Eles são descritos como criaturas elementais, responsáveis por reger o equilíbrio dos elementos.
 
 De fato, aparições raras e infrequentes de **criaturas colossais** atravessando os céus e os mares foram sim registradas ao longo dos anos, e que aqueles que possuem o privilégio de avistá-los podem ser presenteados com uma benção ou até uma maldição, a depender de seu Karma individual.
 
