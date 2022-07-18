@@ -24,7 +24,7 @@ Com o passar das eras, 10 (dez) encarnações de **Avérnicos** viveram no mundo
 | Mino   |  Cruz   |  Despertar, Fé, Espiritualidade |
 | Joromur   |  Arco   |  Bravura, Caça, Conexão |
 | Valamika   |  Espada   |  Resiliência, Justiça, Vingança |
-| Lando   |  Cetro   |  Luz, Cura, Redenção |
+| Rugro   |  Harpão   |  Reconstrução, Aliança, Redenção |
 | Dzeranir   |  Lança   |  Tradição, Equilíbrio, Patriotismo |
 | Ysanar   |  Orbe   |  Conhecimento, Magia, Elementos |
 | Valis   |  Correntes   |  Vingança, Justiça, Luta |
@@ -134,12 +134,34 @@ Ela ficou conhecida como a Avérnica da **Resiliência**, da **Justiça** e da *
 ### Ensinamentos
 
 - Vingarás a todo custo aqueles cujos nomes adornam suas feridas.
-- Não sederás às intempéries, pois são elas que eludem o brilho da [Alizarita](/docs/7-game-rules/merchants) no alto da Duna.
+- Não sederás às intempéries, pois são elas que eludem a chama da [Alizarita](/docs/7-game-rules/merchants) no alto da Duna.
 - Usarás sua espada para trazer a justiça àqueles que não podem buscá-la.
 
-## Lando
+## Rugro
 
-Divindade que representa o elemento Divino.
+No dia em que **Valamika** enviou **Zolonimir** para outra dimensão, um último feitiço lançado pelo **Vorme do Vazio** arrancaria a **Aldrava** da própria essência da Avérnica, e enviaria a relíquia junto com a fera para outra dimensão.
+
+Mas os Guardiões foram sábios e, sabendo que algo poderia tentar separar a Relíquia Lendária do mundo, criaram um último mecanismo de proteção que conjuraria um portal para a localidade exata do Artefato em algum local do mundo, para que algum dia alguém pudesse encontrá-lo, e resgatasse o artefato de volta para o mundo, caso ele fosse levado à outras dimensões.
+
+Quando o exército de **Armadons** no campo de batalha vislumbrou a **Aldrava** entrando no **Vazio**, todos estavam certos que a era dos **Avérnicos** havia acabado.
+
+Mas não era isso que os manuscritos antigos diziam. **Herodus**, o primeiro **Avérnico** teria registrado as instruções dos Guardiões no **Manuscrito do Primeiro Avérnico**, e todos sabiam que poderia haver um portal, mas ninguém jamais o teria encontrado.
+
+Mais de 300 anos depois da batalha contra **Zolonimir**, **Rugro** era um pirata **Goblin** nascido no mar, que desbravava os oceanos de **Caldera** quando uma terrível **Tzakarin** atacara sua embarcação, o **Lugre Rubro**.
+
+Durante o combate, a criatura debruçou suas afiadas barbatanas na proa da embarcação, engolindo **Rugro** no processo.<br/>
+O restante da sua tripulação abateu a criatura com muito custo, mas o navio estava em pedaços, e o **corpo** da criatura, junto com **Rugro** afundaram nas profundezas do oceano.
+
+Depois de algum tempo inconsciente, **Rugro** despertou de dentro das entranhas decaídas da criatura e um estranho brilho nas profundezas do estomago da besta atraira sua atenção. O brilho cintilante batia com as descrições do **Manuscrito de Herodus**, e olhando além do orifício, **Rugro** avistaria o que seria descrito como uma estranha praia de **areias acinzentadas** e **céu alaranjado**, com sombras que se moviam ao horizonte. E ali mesmo, imóvel, jazia a **Aldrava Primordial**.
+
+O Goblin já havia ouvido as lendas, mas jamais imaginaria que pudesse ser real, e num movimento rápido e instintivo, ele mergulhou seu braço no portal trazendo de volta a relíquia, perdida a mais de dois séculos. Em comunhão, o artefato se comunicou com o **Rugro**, agradecendo a sua ajuda e tornando-o o primeiro **Avérnico dos Mares**.
+
+Ao se vinicular a **Aldrava**, o Goblin recebeu um **Harpão Mágico**, que ficaria conhecido como o **Harpão Rugro**, cujos poderes permitiriam ao seu portador viajar grandes distâncias e uma incrível velocidade, manipular as correntes, além de inúmeros outros poderes.
+
+Mas o **Tzakarin** era muito mais que uma mera criatura selvagem. Era uma criatura ancestral, cujas raízes se emaranhavam com a própria criação do mundo. O grito final da criatura havia despertado algo adormecido a muitas Eras atrás, algo perturbador e incontestável.
+
+Enquanto Avérnico, **Rugro**....todo
+
 ## Dzeranir
 
 Na Era das Navegações, o continente de Vônimus recebeu muitas invasões, e muitas guerras foram desencadeadas a partir dessas invasões a terra que os povos consideravam como sagrada.
