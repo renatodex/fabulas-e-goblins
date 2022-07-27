@@ -24,8 +24,8 @@ Com o passar das eras, 10 (dez) encarnações de **Avérnicos** viveram no mundo
 | Mino   |  Cruz   |  Despertar, Fé, Espiritualidade |
 | Joromur   |  Arco   |  Bravura, Caça, Conexão |
 | Valamika   |  Espada   |  Resiliência, Justiça, Vingança |
-| Rugro   |  Harpão   |  Reconstrução, Aliança, Redenção |
-| Dzeranir   |  Lança   |  Tradição, Equilíbrio, Patriotismo |
+| Rugro   |  Harpão   |  Exploração, Aliança, Reconstrução |
+| Alastor   |  Orbe   |  Guerra, Ódio, Repressão |
 | Ysanar   |  Orbe   |  Conhecimento, Magia, Elementos |
 | Valis   |  Correntes   |  Vingança, Justiça, Luta |
 | Beremord   |  Martelo   |  Fartura, Riqueza, Predestinação |
@@ -139,35 +139,66 @@ Ela ficou conhecida como a Avérnica da **Resiliência**, da **Justiça** e da *
 
 ## Rugro
 
-No dia em que **Valamika** enviou **Zolonimir** para outra dimensão, um último feitiço lançado pelo **Vorme do Vazio** arrancaria a **Aldrava** da própria essência da Avérnica, e enviaria a relíquia junto com a fera para outra dimensão.
+Antes de **Rugro**, a **Avérnica Valamika** havia dedicado toda sua vida combatendo a terrível **Vorme do Vazio** e os seus estragos nas **terras do sul**.
 
-Mas os Guardiões foram sábios e, sabendo que algo poderia tentar separar a Relíquia Lendária do mundo, criaram um último mecanismo de proteção que conjuraria um portal para a localidade exata do Artefato em algum local do mundo, para que algum dia alguém pudesse encontrá-lo, e resgatasse o artefato de volta para o mundo, caso ele fosse levado à outras dimensões.
+No dia em que a **Valamika** enviou **Zolonimir** para outra dimensão, o Vorme lançou um último feitiço, arrancando a **Aldrava** da própria essência da Avérnica, e levando a relíquia consigo para a **dimensão do vazio**.<br/>
+Quando o exército de **Armadons** no campo de batalha vislumbrou a **Aldrava** entrando no **Portal para o Vazio**, todos estavam certos que a **Era dos Avérnicos** havia acabado.
 
-Quando o exército de **Armadons** no campo de batalha vislumbrou a **Aldrava** entrando no **Vazio**, todos estavam certos que a era dos **Avérnicos** havia acabado.
+Mas os Guardiões eram sábios, e previam que um dia algo tentaria separar a **Aldrava** do mundo, e por isso criaram um último mecanismo que conjuraria um portal para a localidade exata do Artefato, caso ele fosse perdido em outra dimensão.
 
-Mas não era isso que os manuscritos antigos diziam. **Herodus**, o primeiro **Avérnico** teria registrado as instruções dos Guardiões no **Manuscrito do Primeiro Avérnico**, e todos sabiam que poderia haver um portal, mas ninguém jamais o teria encontrado.
-
-Mais de 300 anos depois da batalha contra **Zolonimir**, **Rugro** era um pirata **Goblin** nascido no mar, que desbravava os oceanos de **Caldera** quando uma terrível **Tzakarin** atacara sua embarcação, o **Lugre Rubro**.
+Mais de 300 anos depois da batalha contra **Zolonimir**, o mundo vivia uma Era de paz e exploração. E dentre tantos outros exploradores, um pequeno Goblin pirata chamado **Rugro** desbravava os oceanos de **Caldera** quando uma terrível **Tzakarin** atacou sua embarcação, o **Lugre Rubro**.
 
 Durante o combate, a criatura debruçou suas afiadas barbatanas na proa da embarcação, engolindo **Rugro** no processo.<br/>
 O restante da sua tripulação abateu a criatura com muito custo, mas o navio estava em pedaços, e o **corpo** da criatura, junto com **Rugro** afundaram nas profundezas do oceano.
 
-Depois de algum tempo inconsciente, **Rugro** despertou de dentro das entranhas decaídas da criatura e um estranho brilho nas profundezas do estomago da besta atraira sua atenção. O brilho cintilante batia com as descrições do **Manuscrito de Herodus**, e olhando além do orifício, **Rugro** avistaria o que seria descrito como uma estranha praia de **areias acinzentadas** e **céu alaranjado**, com sombras que se moviam ao horizonte. E ali mesmo, imóvel, jazia a **Aldrava Primordial**.
+Depois de algum tempo inconsciente, **Rugro** despertou de dentro das entranhas decaídas da criatura e um estranho brilho nas profundezas do estomago da besta atraira sua atenção. O brilho cintilante batia com as descrições do Portal descrito no **Manuscrito de Herodus**, e olhando além do orifício, **Rugro** avistaria o que seria descrito como uma estranha praia de **areias acinzentadas** e **céu alaranjado**, com sombras enormes que se moviam ao horizonte. E ali mesmo, imóvel, jazia a **Aldrava Primordial**.
 
-O Goblin já havia ouvido as lendas, mas jamais imaginaria que pudesse ser real, e num movimento rápido e instintivo, ele mergulhou seu braço no portal trazendo de volta a relíquia, perdida a mais de dois séculos. Em comunhão, o artefato se comunicou com o **Rugro**, agradecendo a sua ajuda e tornando-o o primeiro **Avérnico dos Mares**.
+Todos haviam ouvido as lendas, mas **Rugro** jamais imaginou fossem reais, e muito menos que encontraria o Portal nas entranhas de uma criatura ancestral. E num movimento rápido e instintivo, ele mergulhou seu braço através do portal trazendo de volta a relíquia, dada como perdida a mais de três séculos. O artefato agradeceu o **Goblin** por seu resgate, e vinculou-se a ele transformando-o no primeiro **Avérnico dos Mares**.
 
-Ao se vinicular a **Aldrava**, o Goblin recebeu um **Harpão Mágico**, que ficaria conhecido como o **Harpão Rugro**, cujos poderes permitiriam ao seu portador viajar grandes distâncias e uma incrível velocidade, manipular as correntes, além de inúmeros outros poderes.
+Ao se vinicular a **Aldrava**, o Goblin recebeu uma poderosa arma que ficaria conhecida como o **Harpão Rugro**, cujos poderes permitiriam ao seu portador viajar grandes distâncias e uma incrível velocidade, manipular as correntes, além de inúmeros outros poderes.
 
-Mas o **Tzakarin** era muito mais que uma mera criatura selvagem. Era uma criatura ancestral, cujas raízes se emaranhavam com a própria criação do mundo. O grito final da criatura havia despertado algo adormecido a muitas Eras atrás, algo perturbador e incontestável.
+Com o seu **Harpão**, **Rugro** lutou contra um longo período de despertar das **criaturas profundas**, uma Guerra que por séculos ameaçaria a destruição do povo **Valdari**. Quando as forças dos reinos de **Timéria** sucumbiram, foi **Rugro** quem buscou ajuda aos povos da superfície, criando um pacto de aliança que uniria **Goblins** e **Valdaris** nas décadas seguintes. Conhecido como um grande explorador que mapeou as **terras profundas de Timéria**, **Rugro** foi crucial na reconstrução dos Reinos destruídos na guerra.
 
-Enquanto Avérnico, **Rugro**....todo
+Conhecido como o Avérnico da **Exploração**, da **Reconstrução** e da **Aliança**, **Rugro** reavivou as chamas da **Igreja do Santo Avérnico**, levando sua fé para o povo de **Timéria**.
 
-## Dzeranir
+### Ensinamentos
 
-Na Era das Navegações, o continente de Vônimus recebeu muitas invasões, e muitas guerras foram desencadeadas a partir dessas invasões a terra que os povos consideravam como sagrada.
-Dzeranir era um Cavaleiro que viveu nos antigos povos Iméricos, diziam que a sua lança, batizada pelos antigos como a ""Voz de Kal'Laranor"", era um artefato mágico, originado por parte de um ditado Imérico  antigo que dizia: ""Se não podem ouvir a sua voz, então que ouçam a sua lança!"".
-A poderosa lança era capaz de dizimar um exército inteiro, transformando seus inimigos em gelo ao atingir o solo.
+- Aqueles que explorarem a casa de seus inimigos, estarão explorando suas fraquezas.
+- Unirás os povos ao seu redor, pois a desesperança é covarde e apenas ataca aos solitários.
+- Manterás a integridade de suas bordas, pois muros evitam que inimigos avistem suas derrotas.
+
+## Alastor
+
+A milênios atrás, a queda de um **Tzakarin** ancestral daria início a um período conturbado de Guerra das **criaturas profundas** contra os reinos submersos de **Timéria**. O **Avérnico Rugro** usou seus poderes para acabar com a Guerra, mas muito precisou ser sacrificado.
+
+A aliança entre os povos custaria a **Rugro** sua própria **Aldrava**, onde, como condição para salvar os reinos submersos, o **Avérnico** concordaria em entregar a **relíquia primordial** para que o próximo portador pudesse ser decidido de forma democrática.
+
+O escolhido pela **Aldrava** dentre milhares seria um **Metaloide**, um influente **Aristocrata** que recebera como benção a **Orbe de Alastor**.
+
+Mas depois de tantos anos, a **Aldrava** havia se equivocado. Pois a Alma de **Alastor** era corrupta como a seiva das trevas, e com o seu poder, aquele que seria conhecido como o **Avérnico do Caos** instaurou um período de repressão e conflitos, colocando cada povo contra seus iguais, e dando início a uma série de guerras sangrentas que ficariam conhecidas como a **Era do Sangue**.
+
+A ideologia de **Alastor** distorcia os conceitos de liberdade e paz, e era regado por uma sede de vingança a todos os povos que haviam confrontado **Metalóides** em Eras passadas.
+
+Ele ficou conheccido como o **Avérnico** da **Guerra**, do **Ódio** e da **Repressão**.
+
+### Ensinamentos
+
+- Punirás seu inimigo em público, para que outros saibam do poder de seu punho.
+- Abaterás os iguais de seus traídores, pois para cada erva daninha arrancada, um pomar de ameaças crescerá à sua volta.
+- Arrancarás o mal pela raíz, antes que ele possa nascer.
+
 ## Ysanar
+
+Por decadas, ninguém ousava desafiar o poder de **Alastor** como o **escolhido**, até que pequenas resistências em volta do mundo se uniram, iniciando uma guerra direta para contestar o poder do **Avérnico**.
+
+Com o poder da lei, dos exércitos e das Igrejas, o **Avérnico** se auto intitulou o imperador das **Terras Místicas** e usou toda sua força para impedir que os infiéis o despojassem de seu trono.<br/>
+E foram quase mil anos depois do início do seu reinado, que corajosos **Augúrios** desafiaram o poder de **Alastor**, depondo-o de seu império sombrio, o que ocasionou na sua morte.
+
+A **Igreja do Santo Avérnico** estava desequilibrada, pois pela primeira vez uma Alma mal intensionada teria usado o poder dos Guardiões para tramar contra o próprio povo. Os **Augúrios** sobreviventes decidiram que o mundo não estava pronto para o próximo **Avérnico**, arremessando o artefato nas profundesas do **Vulcão Primal**.
+
+
+
+
 
 Ysanar era uma aldeã comum que viveu Eras atrás. Ao ser expulsa de seu lar por não ter pago tributos ao seu rei, vagou sem esperança pelos vales Sombrios, até que, ao entrar numa Gruta escura, ela acidentalmente revelou a porta para a Biblioteca secreta, cuja localização era desconhecida por Eras antes de seu tempo. Lá, ela obteve um dos artefatos mais poderosos mágicos mais poderosos do mundo, conhecido como a Orbe Primeva.
 Ysanar passou anos na biblioteca, absorvendo seu conhecimento e se tornando a primeira Arcanista Multi-Elemental do mundo.
