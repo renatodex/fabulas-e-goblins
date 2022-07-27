@@ -93,15 +93,18 @@ Aqui listamos alguns tipos de Selos comuns:
 | Imagem | Nome | Descrição |
 | ----- | ---- | --------- |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Atributo | Fornece +1 de Bônus ao Atributo |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Conhecimento | Fornece +2 de Bônus em uma Perícia (ex: Abrir Portas) |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Conhecimento | Fornece +1 de Bônus em uma Perícia (ex: Abrir Portas) |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Cavaleiro | Fornece +1 de Bônus de Ataque Físico |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Paladino | Fornece +1 de Bônus de Defesa Física |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Mago | Fornece +1 de Bônus de Ataque Mágico |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Arauto | Fornece +1 de Bônus de Defesa Mágica |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Esquecimento | Permite ao personagem re-distribuir seus Atributos iniciais |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo Grimal | Permite ao personagem se vincular a um Grimo adicional |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo da Auto Ascensão | Permite ao personagem subir 1 Nível (os Pontos de Aventura são zerados) |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo da Ascensão Grimônica | Evolui o Grimo alvo em 1 Nível (os Pontos de Aventura do Grimo são zerados) |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo de Sobrecarga Grimal | Permite ao personagem aprender um segundo Poder Especial no Grimo |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Estudo Grimal | Permite ao personagem aprender um Poder adicional do Grimo (pode especificar um Tier) |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Esquecimento Grimal | Permite ao personagem re-distribuir seus Poderes de um Grimo |
 
 Esses são apenas alguns Selos conhecidos.
 

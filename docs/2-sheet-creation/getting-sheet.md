@@ -30,10 +30,11 @@ Aqui na versão digital, fornecemos o Download em PDF das Fichas, tanto em forma
 Assim que você tiver a ficha em mãos, podemos começar o preenchimento!
 
 :::note Download da Ficha
-Aqui no site, disponibilizamos o Download da Ficha em ambos tanto no formato original, quanto no formato Editável:
+Aqui no site, disponibilizamos o Download da Ficha no formato Editável:
 
-- [Baixar Ficha Impressão 2.1.0 (730kb)](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C11fd2d9c-52d1-443c-be23-09b6a033b1f7.pdf)
-- [Baixar Ficha Editável 2.1.0 (520kb)](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6164632c-3838-44eb-a41f-8dfb34810d76.pdf)
+- [Baixar Ficha Editável 3.0.0 (1.26mb)](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cca6e3771-a4fe-4ab6-9d02-e07d7e801eb7.pdf)
+
+Essa ficha contém 3 páginas, para que você anote os Dados do Personagem, os Poderes de Cultura e Papel de Jogo, e por último, uma página dedicada exclusivamente aos poderes do seu Grimo.
 :::
 
 :::danger Atenção!
