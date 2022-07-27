@@ -113,12 +113,11 @@ Quando criar seu personagem, você terá a seguinte lista de modificadores que d
 Você poderá distribuir os modificadores à vontade pelos seus atributos.
 Veja um exemplo abaixo de uma distribuição:
 
-![ModAttributos.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9c2a0eb1-0b16-4e8f-b108-f50a0b6c68bc.png)
+![ModAttributos2.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Caae9bf72-a0c1-47cc-9932-ad1a0a06bfc3.png)
 
 **Vamos ver o que podemos dizer desse nosso amigo acima:**
 
-- Ele é bem forte, mais do que a média das pessoas!
-- Não é muito inteligente, talvez nunca teve acesso a um estudo de qualidade?
+- Ele é fisicamente bem forte, mais do que a média das pessoas!
+- Possui péssima resiliência e intelecto, não é muito inteligente, e além disso é frágil!
 - É razoavelmente rápido, mas não é um corredor de maratona.
-- Interações sociais não são o seu forte, ele é péssimo para conversar com pessoas!
-- Definitivamente não é um sobrevivente, não saberia se localizar na floresta, e muito menos improvisar!
+- Não é exatamente um sobrevivente, nem saberia se localizar na floresta, e muito menos improvisar!
