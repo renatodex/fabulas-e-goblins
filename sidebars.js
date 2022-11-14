@@ -32,7 +32,7 @@ const sidebars = {
         'starting-the-game/what-is',
         'starting-the-game/players-role',
         'starting-the-game/gm-role',
-        'starting-the-game/how-to-play'
+        'starting-the-game/how-to-play',
       ],
       '2. Criando seu Personagem': [
         'sheet-creation/getting-sheet',
@@ -53,7 +53,7 @@ const sidebars = {
         'sheet-creation/initial-items',
         'sheet-creation/grimos-and-magic',
         'sheet-creation/defining-your-origins',
-        'sheet-creation/defining-initiative'
+        'sheet-creation/defining-initiative',
       ],
       '3. Espécies Jogáveis': [
         'species/specie-goblins',
@@ -61,7 +61,7 @@ const sidebars = {
         'species/specie-metaloids',
         'species/specie-razalans',
         'species/specie-valdaris',
-        'species/specie-luminins'
+        'species/specie-luminins',
       ],
       '4. Grimos': [
         'grimos-and-spells/grimos-introduction',
@@ -76,6 +76,7 @@ const sidebars = {
             'grimos-and-spells/flask-of-valari',
             'grimos-and-spells/magni-machine',
             'grimos-and-spells/rune-of-ixin',
+            'grimos-and-spells/qatuns-illusion'
           ]
         }
       ],
@@ -86,7 +87,7 @@ const sidebars = {
         'roles/roles-hunter',
         'roles/roles-arcanist',
         'roles/roles-priest',
-        'roles/roles-fortuner'
+        'roles/roles-fortuner',
       ],
       '6. Culturas': [
         'cultures/cultures-introduction',
@@ -147,40 +148,30 @@ const sidebars = {
         'the-guide/game-tips',
         'the-guide/gm-toolbelt',
       ],
-      '11. A Magia': [
-        'the-magic/magic-in-the-world',
-        'the-magic/magic-potions',
-        'the-magic/radamagi-and-scrolls',
-        'the-magic/magic-items',
-        'the-magic/grimos',
-        'the-magic/nexus-master',
-        'the-magic/the-cycle-of-life',
-        'the-magic/zigonio-fragments',
-        'the-magic/zigonio-gems',
-        'the-magic/gem-cards',
-        'the-magic/grimo-popularization'
-      ],
-      '12. As Terras Místicas': [
+      '11. As Terras Místicas': [
         'the-world/wheres-the-game-placed',
         'the-world/the-blackout',
-        'the-world/the-emotions-and-the-blackout',
-        'the-world/the-society-and-the-blackout',
-        'the-world/the-economy-and-the-blackout',
-        'the-world/the-magic-and-the-blackout',
-        'the-world/the-magic-and-the-origin-of-the-world',
-        'the-world/the-auguries',
-        'the-world/the-continents',
-        'the-world/class-academies',
-        'the-world/the-protectorship-order',
-        'the-world/the-ecos',
-        'the-world/the-ages-of-the-world'
+        'the-world/the-ages-of-the-world',
+        {
+          'Religiões': [
+            'the-world/religions/lunniism',
+            'the-world/religions/etherealism',
+            'the-world/religions/avernicism',
+            'the-world/religions/arzalism',
+            'the-world/religions/primalism',
+            'the-world/religions/ostrecism',
+          ],
+        },
+        'the-world/natural-laws',
+        'the-world/magic-items',
+        'the-world/notable-groups',
       ],
-      '13. Appêndice': [
+      '12. Appêndice': [
         'appendix/stereotypes',
         'appendix/flaws',
         'appendix/character-sheet',
         'appendix/types-of-armor',
-        'appendix/modifier-rule'
+        'appendix/modifier-rule',
       ]
     }
   ]

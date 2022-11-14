@@ -29,7 +29,7 @@ Por estarem sempre em contato com outras terras, as crenças dos Calderianos com
 
 Os Adoradores de Ehphyros contam que seu Deus é tido para os Calderianos como o Guardião dos Velejadores, sendo a entidade respeitada com unanimidade pela maioria de seu Povo. Representado como um Drogo invisível de proporções titânicas, a criatura teve poucas aparições, sendo a maioria delas com um propósito pacífico.
 
-Já Valis, é uma Lenda e uma divindade Calderiana, que conta a história sobre um Metalóide escravizado que teria libertado um Jinn aprisonado em um antigo templo, recebendo como agradecimento as **Correntes Mágicas de El'gamar**. A Lenda conta que as Correntes Mágicas teriam sido usadas para trazer a liberdade para o Povo nativo do Oriente.
+Já Valis, é uma Lenda e uma divindade Calderiana, que conta a história sobre um Metalóide prisioneiro de Guerra que teria se tornado Corsário e libertado os Metalóides na Guerra contra a opressão dos Razalans. A Lenda conta que suas Correntes Mágicas teriam sido usadas para trazer a liberdade para o Povo nativo do Oriente.
 
 Por último, temos Estiros como uma Divindade do Panteão Avérnico, sendo ele o primeiro Filho da Deusa Ludélia com o Deus Valeon, considerado como o Primogênito do Deus Supremo, Tronus.
 Estiros, visto constantemente como o Deus da Liberdade, da Independência e da Igualdade, deixou Zahadia, a morada dos Deuses, para viajar pelo reino das criaturas inferiores e aprender mais sobre o mundo. Dizem as lendas que os poderes permitiam manipular o ar, o clima e a temperatura, para criar e descriar tempestades ao seu bel prazer.

@@ -29,7 +29,7 @@ No jogo, existem várias formas de conseguir aumentar seus Pontos de Defesa.
 
 - Adquirindo pontos do atributo **Resiliência**.
 - Treinando Poderes no Grimo que **aumentam Defesa Física** ([Introdução aos Grimos](/docs/4-grimos-and-spells/introduction)).
-- Adquirindo [Equipamentos melhores](/docs/13-appendix/types-of-armor) *(ou até escudo e outros acessórios de defesa)*.
+- Adquirindo [Equipamentos melhores](/docs/7-game-rules/merchants) *(ou até escudo e outros acessórios de defesa)*.
 
 :::tip Importante
 Uma coisa importante para se ter em mente, é que no *Fábulas & Goblins*, o jogador é **ativo** durante o **tempo inteiro da batalha**.

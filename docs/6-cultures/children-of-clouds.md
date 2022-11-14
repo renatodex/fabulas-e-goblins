@@ -74,7 +74,7 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 - Intelecto +1
 - Elo Mágico +1
-- Resiliência +1
+- Destino +1
 - P.M +3
 
 ## Habilidades

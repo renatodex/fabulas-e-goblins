@@ -21,7 +21,7 @@ A formula para calcular esse valor é a seguinte:
 Além dessa fórmula, Bônus adicionais podem também ser aplicados por outros itens e habilidade.
 
 Se os seus **Pontos de Vida** (P.V) **chegarem a 0 (Zero)**, ou menos de 0, **você é Derrotado**, **caindo inconsciente** no combate. <br/>
-Para saber mais sobre o que acontece com o seu personagem quando ele chega nesse estado, consulte a Seção: [Cheguei a 0 de vida, e agora?](/docs/7-game-rules/old/what-happens-when-0-hp).
+Para saber mais sobre o que acontece com o seu personagem quando ele chega nesse estado, consulte a Seção: [Cheguei a 0 de vida, e agora?](/docs/9-combat-rules/death).
 
 :::note Dica
 Você também vai perceber que na Ficha existem dois espaços para preencher os pontos de vida.
@@ -30,4 +30,4 @@ O espaço superior representa o total dos seus pontos de vida atualmente.
 Enquanto o espaço inferior representa quantos pontos de vida você já perdeu.
 :::
 
-Para saber mais sobre as consequência de receber danos em combate, consulte a seção [Recebendo Dano de Combate](/docs/7-game-rules/old/receiving-damage-in-combat).
+Para saber mais sobre as consequência de receber danos em combate, consulte a seção [Ataque e Defesa com Armas](/docs/9-combat-rules/physical-combat) ou a seção [Ataque e Defesa com Magias](/docs/9-combat-rules/magical-combat).
