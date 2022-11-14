@@ -2,10 +2,10 @@
 id: ostrecism
 title: Ostrecismo
 slug: /11-the-world/ostrecism
-image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1b8d7307-9391-4c49-8030-9ee228c4b9be.jpg
 ---
 
-![Ostrecismo](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1b8d7307-9391-4c49-8030-9ee228c4b9be.jpg)
+![Saiba mais sobre o Ostrecismo, a religião mais antiga de Timéria que venera às Ostres Primordiais](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1b8d7307-9391-4c49-8030-9ee228c4b9be.jpg)
 
 # Introdução
 

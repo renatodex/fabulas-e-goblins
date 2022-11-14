@@ -5,7 +5,7 @@ slug: /11-the-world/arzalism
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccf7976e0-b222-4ba4-8982-bba886e2bfba.jpg
 ---
 
-![Arzalism](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccf7976e0-b222-4ba4-8982-bba886e2bfba.jpg)
+![Os Arzalistas veneram Arzala e seus filhos, considerados Divindades supremas do mundo...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccf7976e0-b222-4ba4-8982-bba886e2bfba.jpg)
 
 ## Arzala: O primeiro ser
 

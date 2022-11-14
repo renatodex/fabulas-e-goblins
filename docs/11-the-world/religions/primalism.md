@@ -5,7 +5,7 @@ slug: /11-the-world/primalism
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg
 ---
 
-![Zaratar](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg)
+![Considerada uma das religiões mais antigas das Terras Místicas, seus adoradores veneram Zaratar, o Autífero Primal...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg)
 
 # Primalismo
 

@@ -5,7 +5,7 @@ slug: /11-the-world/avernicism
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C202067a5-81ca-4cc0-91f2-3802dbfe48e7.jpg
 ---
 
-![Avernicismo](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C202067a5-81ca-4cc0-91f2-3802dbfe48e7.jpg)
+![Os Avernicistas veneram os Avérnicos, indivíduos que teriam sido escolhidos pela poderosa Aldrava Primordial para liderar a civilização...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C202067a5-81ca-4cc0-91f2-3802dbfe48e7.jpg)
 
 A bilhões de anos atrás, no alvorecer da própria criação, as Guardiãs chegavam ao fim de sua existência, e temendo que não estariam presentes para proteger o destino de seus filhos nas eras seguintes, a **Aldrava Primordial** foi forjada nas profundezas do **Abismo Primal**
 
