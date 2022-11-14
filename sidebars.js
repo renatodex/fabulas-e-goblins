@@ -76,6 +76,7 @@ const sidebars = {
             'grimos-and-spells/flask-of-valari',
             'grimos-and-spells/magni-machine',
             'grimos-and-spells/rune-of-ixin',
+            'grimos-and-spells/qatuns-illusion'
           ]
         }
       ],

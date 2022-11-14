@@ -26,9 +26,9 @@ Com o passar das eras, 10 (dez) encarnações de **Avérnicos** viveram no mundo
 | Valamika   |  Espada   |  Resiliência, Justiça, Vingança |
 | Rugro   |  Harpão   |  Exploração, Aliança, Reconstrução |
 | Alastor   |  Orbe   |  Guerra, Ódio, Repressão |
-| Ysanar   |  Orbe   |  Conhecimento, Magia, Elementos |
-| Valis   |  Correntes   |  Vingança, Justiça, Luta |
-| Beremord   |  Martelo   |  Fartura, Riqueza, Predestinação |
+| Ysanar   |  Tábua   |  Renascimento, Magia, Conhecimento |
+| Valis   |  Correntes   |  Liberdade, Justiça, Luta |
+| Beremord   |  Jarro   |  Fartura, Beneolência, Bondade |
 | Lazan   |  Tridente   |  Domínio, Poder, Liderança |
 
 ## Herodus
@@ -196,22 +196,107 @@ E foram quase mil anos depois do início do seu reinado, que corajosos **Augúri
 
 A **Igreja do Santo Avérnico** estava desequilibrada, pois pela primeira vez uma Alma mal intensionada teria usado o poder dos Guardiões para tramar contra o próprio povo. Os **Augúrios** sobreviventes decidiram que o mundo não estava pronto para o próximo **Avérnico**, arremessando o artefato nas profundesas do **Vulcão Primal**.
 
+**Ysanar** era uma **Valdari** comum que viveu Eras atrás em **Timéria**. Ao ser expulsa de seu lar por não ter pago tributos ao **Conselho dos Saru**, vagou sem esperança pelos vales Sombrios Submersos, além dos limites mapeados do mundo, até que, ao entrar numa Gruta escura, ela acidentalmente encontrou a entrada para a **Biblioteca Lendária de Herodus**, cuja localização era desconhecida por milênios antes de seu tempo.
 
+Na grande Biblioteca perdida, ela encontrou um dos artefatos mágicos mais poderosos do mundo, conhecido como a **Orbe Primeva**. Contam as lendas antigas que a **Orbe Primeva** era um dos **Artefatos Primordiais** deixados como presentes dos deuses para seus filhos, e que a Orbe era tão poderosa, que poderia tomar a forma de qualquer coisa já houvesse existido no mundo.
 
+Por ser uma fiel seguidora dos costumes Avérnicos, Ysanar pediu a Orbe que se transformasse na **Aldrava Primordial**, e a Orbe assim o fez.
 
+A Aldrava falou com **Ysanar**, e profetizou que ela estaria destinada a se tornar uma poderosa **Arcanista**, transformando-se logo em seguida na lendária **Tábua de Ysanar**.
+A Avérnica então passaria anos no isolamento da biblioteca lendária, absorvendo seu conhecimento e tornando-se a primeira **Arcanista Tetra-Elemental** do mundo.
 
-Ysanar era uma aldeã comum que viveu Eras atrás. Ao ser expulsa de seu lar por não ter pago tributos ao seu rei, vagou sem esperança pelos vales Sombrios, até que, ao entrar numa Gruta escura, ela acidentalmente revelou a porta para a Biblioteca secreta, cuja localização era desconhecida por Eras antes de seu tempo. Lá, ela obteve um dos artefatos mais poderosos mágicos mais poderosos do mundo, conhecido como a Orbe Primeva.
-Ysanar passou anos na biblioteca, absorvendo seu conhecimento e se tornando a primeira Arcanista Multi-Elemental do mundo.
+Anos depois, **Ysanar** revelou-se ao mundo, anunciando o retorno da **Aldrava Primordial** e pela primeira vez na história uma **Igreja do Santo Avérnico** seria fundada em um Reino de **Timéria**, prometendo restaurar o balanço do mundo e acabar com os conflitos da **Era do Sangue**.
+
+A Arcanista ficou conhecida como a **Avérnica** do **Renascimento**, da **Conhecimento** e da **Magia**.
+
+### Ensinamentos
+
+- Com sua mente, desejarás com todo o seu coração. Com seu coração agirás com toda a sua mente.
+- Trarás a Esperança ao mundo mesmo quando as sombras cobrirem o céu com Sangue.
+- Usarás a Magia e deixarás que ela te use, formando o vínculo de um verdadeiro Arcanista.
+
 ## Valis
 
-Nascido como um escravo, Valis é um martir de guerra que teria libertado o povo nativo de Prismus da invasão dos reinos das terras Mediterrâneas. Sua luta era sobre a liberdade e a igualdade de um povo, e sua imagem é frequentemente representada pelas icônicas Correntes Mágicas de El'gamar, a qual Valis teria forjado com ajuda de um Jinn do Ar, após libertá-lo de sua prisão eterna. Após ser liberto, o Jinn agradeceu o jovem Metalóide e forjou as correntes mágicas de El'Gamar que foram peça chave na libertação das Tribos de Prismus.
+Nascido como um prisioneiro de Guerra, **Valis** era um **Metalóide** que viajava acorrentado para os reinos das Núvens quando sua **Aeronau** fora atacada pela resistência **Metalóide** para livrar seu povo dos grilhões. No processo, a **Aeronau** seria destruída, e **Valis** cairia em **Caldera**, acordando em uma ilha deserta ao sul de **Prismus**.
+
+Contam os diários da **Santa Igreja** que **Valis**, ainda em seus grilhões, teria acidentalmente encontrado um alçapão escondido ao tentar quebrar a casca de uma fruta.
+
+No misterioso Sotão, ele encontraria a lendária **Tábua de Ysanar**, que se fundiria a ele, livrando-o de sua prisão e se transformando nas **Correntes Mágicas de El'gamar**, em homenagem ao nome da pacata Ilha.
+
+Ao receber uma segunda chance pela **Aldrava Primordial**, **Valis** prometeu que utilizaria seu poder para libertar seu povo da invasão dos Reinos das Terras Mediterrâneas, e da repressão dos **Razalans**.
+
+Foi graças a **Valis** que a guerra entre **Metalóides** e **Razalans** teria chego ao fim, resultando em um pacto em que eles seriam reconhecidos e respeitados como uma espécie sensciente, cujos territórios não poderiam mais ser contestados por reinos maiores.
+
+**Valis** velejou por todo o mar e pelo ar libertando e unindo os Reinos **Metalóides** por todas **Terras Místicas**, sendo conhecido como o Avérnico da **Liberdade**, **Justiça** e da **Luta**.
+
+### Ensinamentos
+
+- Lutarás por seus direitos até o últimas consequências.
+- Libertarás os oprimidos e oprimirás os opressores!
+- Tornarás o mundo um lugar mais justo com a sua verdade, e é só nesse mundo que valerá a pena viver.
 
 ## Beremord
 
-Beremord era um aldeão Armadon de família pobre, que sempre passou dificuldades e nunca teve uma oportunidade na vida. Recusando-se a perder sua honra e partir para uma vida de crimes, ele envelheceu sem esperanças, num mundo onde precisava lidar constantemente com a fome, a pobreza e a humilhação. Um certo dia, já no final de sua vida, ele decidiu vagar pelas profundezas da terra, até que acidentalmente encontrou um vasto templo onde o Martelo da Esperança estava localizado. O Machado, de acordo com as lendas, realizaria automaticamente o maior desejo de qualquer um que o empunhasse.
-Por isso, fazê-lo, todo o vasto templo se
+A Era do Sangue havia finalmente chegado ao fim, mas muitas famílias haviam sentido o impacto da fome e da pobreza.
+Beremord era uma dessas pessoas, um aldeão Luminin de família pobre, que sempre passou dificuldades e nunca teve grandes oportunidades na vida.
+
+Recusando-se a perder sua honra e partir para uma vida de crimes, ele envelheceu trabalhando em uma Taverna sem grandes esperanças, num mundo onde precisava lidar constantemente com a fome e a miséria.
+
+Um certo dia, voltando para casa, cansado após um longo dia de trabalho mal remunerado, uma figura esguia escondida em uma capa surge abruptamente de um telhado, e o persegue. Beremord, com medo, corre o mais rápido que pode, mas mesmo com seu corpo em forma, sua idade já não permitia tanta agilidade, e em um certo momento, a figura finalmente o alcança em um beco sem saída.
+
+Por dentro da capa da estranha figura, uma pequena luz pulsava intensamente, penetrando até mesmo fibras do manto escuro da figura misteriosa.
+
+Ela então se revela. Era um Metalóide, mas não um Metalóide qualquer, aquele era **Valis**, o conhecido e lendário Corsário. Já numa idade avançada com sua pele enrrugada e uma longa barba, **Valis** puxa o objeto brilhando de seu manto e o entrega a **Beremord**, é a **Aldrava Primordial**.
+
+"Ela o escolheu." - Ele disse.
+Disse também que a anos procurava um portador, mas que mesmo em seus anos de busca, a **Aldrava** não havia brilhado para ninguém, exceto para o velho **Beremord**.
+
+Assustado, **Beremord** estende sua mão, segurando a Aldrava confuso, e perguntando ao ex-Avérnico: "O que poderei fazer com isso? Eu já estou velho, no fim da minha vida, que lições poderei ensinar?"
+Valis sorriu, e disse que apenas a Aldrava poderia decidir isso.
+
+Em um segundo, o artefato se vinculou a **Beremord**, transformando-se pela primeira vez, não em uma arma, mas em um Jarro, o **Jarro de Beremord**.
+
+"A Era do Sangue trouxe muita tristeza e miséria para o mundo. A Aldrava sabe disso, e ela escolheu você para mudar essa realidade, não a desaponte." - Disse **Valis**.
+
+Num piscar de olhos, **Valis** desaparece, e **Beremord** encara o Cântil mágico curioso. Pela primeira percebe **Beremord** tem um propósito, e um dos bons.
+
+A Magia do Jarro era tão poderosa que podia derramar qualquer líquido, em qualquer quantidade, de forma ininterrupta.
+
+**Beremord**, mesmo em idade avançada, aceita a tarefa da **Aldrava**, levando alimentos, água e cura para soldados e famílias desesperadas por todo mundo.
+
+O **Avérnico** nunca revelou o segredo do **Jarro**, nem fundou igrejas do **Santo Avérnico** e estátuas apenas foram erguidas em seu nome anos depois de seu desaparecimento. Silenciosamente, o Avérnico completou sua missão até o seu último dia.
+
+No dia em que os feitos do Avérnico foram finalmente descobertos, **Beremord** desapareceu sem nunca mais ser visto.
+
+Ele ficou conhecido como o Avérnico da **Fartura**, da **Benevolência** e da **Bondade**.
+
+### Ensinamentos:
+
+- Ajudará aqueles que precisam e lhe ajudarão em dobro.
+- A Bondade será sua palavra, e é nela que você cultivará sua fé.
+- Extirparás o sofrimento do mundo, e estará extirpando o seu próprio.
+
 ## Lazan
 
-Lazan é um herói vastamente conhecido por derrubar uma imensa Ipimera que ameaçou um dos reinos submersos dos Valdari.
-Sua arma, o Tridente do Além-Mar, foi teoricamente criada por Lazan em uma de suas viagens para além do perímetro mapeado do mar de Caldera.
-O Tridente contém um mineral mágico de raridade inconfundível, que nunca havia sido encontrado em nenhuma parte do mundo. Com ele, Lazan derrotou uma Terrível Ípimera que a anos aterrorizava o oceano na região.
+Lazan foi um Aventureiro **Valdari** que viveu a Milênios atrás nos reinos submersos de **Timéria**.
+
+Um dia, numa busca corriqueira por alimentos além dos Domos seguros de seu reino, Lazan foi atacado por um imenso **Ípiro**.
+A criatura estava furiosa, pois havia sido seriamente ferida em alguma luta anterior, e assim que avisou **Lazan**, atacou ferozmente.
+
+Mesmo ferida, **Lazan** sabia que não teria chance contra uma criatura daquele tamanho, então nadou o mais rápido que podia para um Navio naufragada, quando foi subitamente atacado por uma investida do **Ípiro**. Lazan desviou da investida, e a criatura acidentalmente investiu contra um grande tridente de madeira talhado no Navio, causando um tremendo impacto que destruiria o Navio e lançaria seus destroços em alto mar.
+
+Curiosamente, entre os destroços, algo chamou a atenção de **Lazan**, era um curioso Jarro com o símbolo da **Igreja do Avérnico**. Lazan teria encontrado acidentalmente a **Aldrava Primordial**.
+
+Ao tocar o Jarro, a **Aldrava** se vinculou ao Aventureiro, transformando-se imediatamente no **Tridente do Além-mar**.
+
+**Lazan** voltou para seu reino com o Tridente, e rapidamente se tornaria uma lenda. O Tridente lhe forneceria incríveis poderes de locomoção, e foi graças a esses poderes que o Valdari se tornaria uma das lendas Valdarianas de Timéria, tendo tornado-se um Cavaleiro de Giurad e protegido os Reinos Timerianos inúmeras vezes.
+
+Lazan também teria derrotado **Avalagia**, uma **Terrível Ípimera Branca** que a anos aterrorizava o oceano de Timéria.
+
+Lazan ficou conhecido como o **Avérnico** do **Domínio**, do **Poder** e da **Liderança**.
+
+### Ensinamentos
+
+- Com sua lança atravessarás seus mais temidos pesadelos.
+- A força de um Guerreiro está na sua força de vontade, e na sua lealdade com seu povo.
+- Quem empunha o poder empunha o dever.
