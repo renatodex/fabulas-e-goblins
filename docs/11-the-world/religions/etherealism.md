@@ -287,7 +287,7 @@ As **Sementes de Gumera** deram origem a imensas Árvores anciãs, cujas **raíz
 
 Apenas alguns raros avistamento da lendária criatura já foram realizados, e são contados desde os tempos da **Era da Navegação** por antigos exploradores de regiões densamente arborizadas.
 
-Diz a lenda, que **Gumera** não pode ser vista aos olhos nús, mas que haveria um curto período ao **raiar da lua de orvalho** onde a magia de elusão da Deusa seriam anuladas. A **Lua de Orvalho** é uma fase rara da lua de **Karamani**, onde sua luz brilharia num fraco tom ambar por 3 vezes ao ano, um evento considerado muito especial e bastante almejado pelos Povos arbóreos para ocasiões cerimoniais.
+Diz a lenda, que **Gumera** não pode ser vista aos olhos nús, mas que haveria um curto período ao **raiar da lua de orvalho** onde a magia de elusão da Deusa seriam anuladas. A **Lua de Orvalho** é uma fase rara que acontece com as luas de **Piceris** e **Miceris**, onde ambas ficam no estágio da lua cheia, o que faz com que a atmosfera na noite brilhe num fraco tom ambar arroxeado. O Fenômeno acontece apenas algumas vezes ano, um evento considerado muito especial e bastante almejado pelos Povos arbóreos para ocasiões cerimoniais.
 
 **Gumera** é a protetora da floresta e dos animais, e dizem as lendas que ela poderia sentir a destruição de seu domínio, castigando seus invasores com **terríveis maldições**.
 
