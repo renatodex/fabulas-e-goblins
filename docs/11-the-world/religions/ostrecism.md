@@ -5,36 +5,35 @@ slug: /11-the-world/ostrecism
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg
 ---
 
-![Zaratar](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg)
+![Ostrecismo](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1b8d7307-9391-4c49-8030-9ee228c4b9be.jpg)
 
-# Ostrecismo
+# Introdução
 
-Considerada como uma das religiões mais antigas no mundo das Terras Místicas, os Adoradores do Primalismo acreditam na existência de um único Deus, representado frequentemente como um poderoso Leviatã engolindo o mundo com seu poder.
+As Ostres são consideradas divindades primordiais da formação de **Timéria**, e teriam sido, responsáveis, de acordo com os **Valdari**, não só pela criação do **Mar de Caldera**, como chamam os Goblins, mas também pela criação de todas a vida existente nas Terras Místicas.
 
-Essa criatura, conhecida como Zaratar, e o único Autífero dentro do Primalismo responsável pela criação do mundo terreno e de todos os outros mundos.
+No início, havia a **Ode-Ostre**, que à partir do vazio, teria criado o mundo inteiramente imerso em um único bloco de água, sacrificando-se no fim para originar as Quatro Ostres primordiais.
 
-O Primalismo é uma das poucas religiões que aceita a existências de planos paralelos. Para eles, infinitos mundos além das Terras Místicas flutuam no Espaço infinito do Grande Autífero.
+As Ostres por sua vez teriam criado o Ar, a Terra, o Fogo e a Vida.
 
-## Zaratar, o Autífero Primal
+O Ostrecismo é frequentemente venerado na cultura **Timeriana**, e entre os próprios **Valdaris**.
 
-Sendo o primeiro ser a existir no vazio, Zaratar olhou para o horizonte e brilhou seus olhos em uma fração de segundos, criando o Espaço.
+## Conselho dos Saru
 
-Com um segundo movimento, estalaria os dedos, criando os Astros e as Estrelas para ocupar seu domínio.
+Os Saru's são criaturas ancestrais cujo povo foi extinto a milhões de anos atrás.
 
-Com um terceiro movimento, criaria o Calor, e com o Calor, popularia seus incontáveis mundos com as vidas geradas à partir de sua essência.
+Por viverem milhares de anos, os Sarus tendem a ser sábios e carregar um grande conhecimento das eras passadas.
 
-Com um quarto movimento, criou o Tempo, e assim permitira que suas crias pudessem se desenvolver e mostrar a ele do que eram capazes.
+Nos Reinos de Timéria, os Saru são extremamente respeitados, e foi através deles que o Ostrecismo foi inicialmente apresentado.
 
-Sentado no seu trono no vazio, ele observou pacientemente seus mundos recém criados se desenvolverem e tomarem seus próprios rumos nas infinitas linhas do tempo das terras sagradas.
+O próprio conselho dos Sarus estaria situado num local que seria a carcaça remanescente da **Ostre do Ar**, **Kai'mu**.
 
-Quando pela primeira vez ficou insatisfeito com seus filhos, ele engolira toda a criação num movimento de fúria, recomeçando tudo outra vez, até que estivesse satisfeito.
+## A veneração das Ostres
 
-Quando ficou entediado com suas criações, Zaratar criou a Magia, e com ela abençoou seus filhos de forma desiqual, para que uns pudessem temer aos outros, assim como todos deveriam temê-lo.
+Os Valdarianos e os Filhos de Timéria em geral costumam venerar as Ostres primordiais, nas quais acredita-se que toda a vida e materia no mundo teria  sido gerada.
 
-## A veneração de Zaratar
+As Ostres apesar de serem referenciadas pelo seu elemento, também tem nomes próprios na cultura do além-mar:
 
-A veneração a Zaratar é um costume antigo de povos anciãos, principalmente na cultura ancestral do Arquipélago (Filhos das Ilhas).
-
-Dizem os manuscritos do Primalismo que Zaratar teria deixado em seu mundo Fragmentos que provariam para seus filhos a existência de seu Deus soberano, e que aquele que reunisse todos os Fragmentos poderia invocar Zaratar e por ele ser abençoado.
-
-Esses pedaços, conhecidos como Fragmentos de Zaratar podem ser encontrado no corpo de criaturas ancestrais muito antigas, e são considerados artefatos extremamente valiosos com exorbitante quantidade de poder mágico.
+- **Kai'mu**, a Ostre do Ar.
+- **Gon'ki**, a Ostre da Terra.
+- **Ga'mar**, a Ostre do Fogo.
+- **Ca'lar**, a Ostre da Vida.
