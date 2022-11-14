@@ -2,7 +2,10 @@
 id: natural-laws
 title: Leis Naturais
 slug: /11-the-world/natural-laws
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e4b699d-f87f-4ac3-9d77-425dddd7b21b.jpg
 ---
+
+![Saiba mais sobre as Leis Fundamentais do mundo das Terras Místicas.](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e4b699d-f87f-4ac3-9d77-425dddd7b21b.jpg)
 
 Assim como todos os mundos de Fantasia, o Fábulas & Goblins também possui leis fundamentais que regem o Espaço e o Tempo.
 
