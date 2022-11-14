@@ -1,13 +1,13 @@
 ---
-id: primalism
-title: Primalismo
-slug: /11-the-world/primalism
+id: ostrecism
+title: Ostrecismo
+slug: /11-the-world/ostrecism
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg
 ---
 
 ![Zaratar](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C499c52e3-c2c0-417d-b7fb-343264041a2b.jpg)
 
-# Primalismo
+# Ostrecismo
 
 Considerada como uma das religiões mais antigas no mundo das Terras Místicas, os Adoradores do Primalismo acreditam na existência de um único Deus, representado frequentemente como um poderoso Leviatã engolindo o mundo com seu poder.
 

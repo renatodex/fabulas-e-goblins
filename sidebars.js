@@ -159,6 +159,7 @@ const sidebars = {
             'the-world/religions/avernicism',
             'the-world/religions/arzalism',
             'the-world/religions/primalism',
+            'the-world/religions/ostrecism',
           ],
         },
         'the-world/natural-laws',
