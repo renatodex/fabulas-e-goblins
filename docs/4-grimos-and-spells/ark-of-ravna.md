@@ -4,6 +4,9 @@ title: Arca de Ravna
 slug: /4-grimos-and-spells/ark-of-ravna
 ---
 
+@todo:
+- Repensar Feats (melhor usar o que está no livro físico)
+
 Os **Adeptos de Ravna** acreditam que a forma mais pura de manipular a Magia seja através de seus portadores originais, as Criaturas Selvagens.
 Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as criaturas selvagens se unem à magia por **Simbiose Mágica**, e muitas dessas criaturas necessitam da relação de coexistência para sobreviver.
 
