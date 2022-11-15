@@ -44,7 +44,7 @@ Sendo geralmente orgulhosos de sua origem, os Reinos Valdari geralmente vêem co
 
 Grandes Reino Valdarianos como `Baion`, `Cardumia` e `Pomedon` são bastante conhecidos pelo seu poderio e influência religiosa sobre todas as terras submersas.
 
-Também muito influente, o **Conselho dos Saru**, é uma entidade independente conhecida por serem conselheiros dos grandes governadores dos Reinos Valdari, sendo ela composta por Valdaris Ancestrais de grande respeito conhecidos como **Sarunins**.
+Também muito influente, o **Conselho dos Saru**, é uma entidade independente conhecida por serem conselheiros dos grandes governadores dos Reinos Valdari, sendo ela composta por uma espécie extinta conhecida como **Saru's**, além de Valdaris Ancestrais de grande respeito conhecidos como **Sarunins**.
 
 Dentre os poderosos **Sarunins** estão Sacerdotes, Arcanistas e Profetas que são considerados pelos Valdari como pontes para o conhecimento eterno das **Ostres Primordiais**, as quais eles acreditam serem as criadoras do Mar de Caldera.
 

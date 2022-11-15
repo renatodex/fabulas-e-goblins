@@ -164,15 +164,9 @@ const sidebars = {
         },
         'the-world/natural-laws',
         'the-world/magic-items',
+        'the-world/elo-master',
         'the-world/notable-groups',
       ],
-      '12. Appêndice': [
-        'appendix/stereotypes',
-        'appendix/flaws',
-        'appendix/character-sheet',
-        'appendix/types-of-armor',
-        'appendix/modifier-rule',
-      ]
     }
   ]
 }
