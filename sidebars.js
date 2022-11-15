@@ -164,6 +164,7 @@ const sidebars = {
         },
         'the-world/natural-laws',
         'the-world/magic-items',
+        'the-world/elo-master',
         'the-world/notable-groups',
       ],
       '12. Appêndice': [
