@@ -44,8 +44,8 @@ Como os inimigos **não fazem rolagem de dado** (exceto em alguns casos especiai
 :::note Exemplo
 **Nimilus é um Adepto de Allura**, e possui **Defesa Mágica = +3**.<br/>
 Ele será alvo da **Bola de Fogo** de um **Fougrat Mago**, cuja **potência de Ataque é 16**.<br/>
-Nosso Aventureiro então **deve rolar um D20** para determinar se ele conseguirá **absorver** ou **aparar** o ataque do Fougrat.<br/>
-O resultado da **rolagem é 10**. Este resultado é somado à **Defesa Mágica** de Ramón, que é **+3**, conferindo um total de **13 pontos**.<br/>
+Nosso Aventureiro então **deve rolar 2d20** para determinar se ele conseguirá **absorver** ou **aparar** o ataque do Fougrat.<br/>
+Os resultados das **rolagens são 8 e 10**. O resultado maior é somado à **Defesa Mágica** de Ramón, que é **+3**, conferindo um total de **13 pontos**.<br/>
 O resultado de **13 ainda é inferior** à potência da **Bola de Fogo** do **Fougrat Mágo**, **que era 16**. <br/>
 
 Portanto, o **ataque do Fougrat é bem sucedido** e acerta Nimilus.
