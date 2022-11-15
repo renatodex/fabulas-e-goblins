@@ -132,6 +132,13 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | Físico | D12 + 3 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Resiliência |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | Físico | D12 + 3 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Força |
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Pontos em Força.
+- Ser recomendado por um Tutor oficial através de uma **Carta de Recomendação**
+
 ## Poderes do Grimo
 
 ### Especial

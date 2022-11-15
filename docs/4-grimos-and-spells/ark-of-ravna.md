@@ -177,6 +177,14 @@ Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
   </tr>
 </table>
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Ponto de Inteligência.
+- Ter adestrado um animal doméstico por pelo menos 6 meses. (A Guilda irá saber)
+- Passar no teste de afinidade mágica rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+
 ## Poderes do Grimo
 
 ### Especial

@@ -204,6 +204,13 @@ Você pode escolher entre duas armas iniciais:
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Ponto de Sobrevivência ou Agilidade.
+- Para receber o Grimo, você deverá se comprometer a realizar pelo menos 1 contrato da Guilda.
+
 ## Poderes do Grimo
 
 ### Especial

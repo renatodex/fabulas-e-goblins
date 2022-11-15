@@ -90,6 +90,14 @@ O **Grimo de Darian** foi uma relíquia encontrada por um famoso Arqueólogo con
 
 **Darian** passou anos estudando o artefato, mas jamais conseguiu concluir sua pesquisa, deixando para trás apenas um valioso diário com anotações de todas suas descobertas. Mas foi apenas Eras depois, com o advento do Blecaute, que o Diário teria sido recuperado e replicado por Espiritistas ávidos, fundando assim a Academia e **Doutrina de Darian**.
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Ponto de Espírito.
+- Ter realizado pelo menos 1 contato Mediúnico com o Plano Astral ou seus resquícios nos últimos 6 meses (A Guilda irá saber)
+- Passar no teste de afinidade mágica rolando um d100 e somando seu **Espírito * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+
 ## Poderes do Grimo
 
 ### Especial

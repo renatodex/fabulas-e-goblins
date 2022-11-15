@@ -126,6 +126,14 @@ Nos dias de hoje, os **Templos de Ixin** se tornaram locais sagrados para o estu
 
 Ixin documentou com detalhe as doutrinas e procedimentos necessários para domar o Grimo. Seus ricos relatos sobre os Templos, os Fundadores, os segredos do Artefato e a Profecia foram cruciais na disseminnação do conhecimento da Energia Rúnica para as novas gerações pós-Blecaute.
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 de Elo Mágico e 1 de Espírito.
+- Ter entrado em contato com a Energia Rúnica em um templo de poder pelo menos uma vez.
+- Passar no teste prático de resistência à Radiação Rúnica rolando um d100 e somando seu **Resiliência * 5**. (Dificuldade = 75). Caso falhe no teste, você só poderá tentar novamente no ano que vem. Essa cláusula é inegociável por questões de segurança.
+
 ## Poderes do Grimo
 
 ### Especial

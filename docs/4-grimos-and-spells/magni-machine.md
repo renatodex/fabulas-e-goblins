@@ -86,6 +86,14 @@ Com o passar dos anos, especialmente após o `Blecaute`, a **Tecmagi** se tornou
 
 A **Academia de Magni** esta espalhada em diversas localidades do mundo, e hoje é representada e mantida por diversos herdeiros distantes dos **Guximaxi** e **Uaralin** originais.
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Pontos em Elo Mágico.
+- Deve pagar uma Taxa de entrada de 2000 Temirs.
+- Passar no teste de entrada rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+
 ## Poderes do Grimo
 
 ### Especial

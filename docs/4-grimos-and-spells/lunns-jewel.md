@@ -155,6 +155,15 @@ Você pode escolher entre duas armas iniciais:
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Pontos em Elo Mágico ou Espírito.
+- Não pode possuir nenhuma mancha de Malfeitoria na alma. (A Guilda irá saber)
+- Deve possuir pelo menos uma marca de Benfeitoria na alma. (A Guilda irá saber)
+- Deverá se vestir como um Sacerdote. (Roupas de luxo)
+
 ## Poderes do Grimo
 
 ### Especial

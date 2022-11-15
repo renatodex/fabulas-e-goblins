@@ -65,6 +65,14 @@ O artefato teria sido forjado por um misterioso Mestre-Elo conhecido por `Docaer
 
 Por muitos anos essa misteriosa sociedade se mostrou fechada e reclusa, e o conhecimento escasso sobre os seus membros e seus objetivos sempre foram motivo de curiosidade no mundo das Terras Místicas. Mas com o advento do Blecaute, os **Mestres Valaris** passaram a replicar o Grimo original, recrutando guerreiros para aprender seus misteriosos Dogmas, com o objetivo de manter sua integridade como corporação enigmática.
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 2 Pontos de Agilidade.
+- Possuir pelo menos uma mancha negra na Alma ocasionada por má ação. (a Guilda irá saber)
+- Para receber o Grimo, você deverá se comprometer a realizar pelo menos 1 missão da Guilda.
+
 ## Poderes do Grimo
 
 ### Especial

@@ -187,6 +187,15 @@ Você pode escolher entre duas armas iniciais:
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Ponto de Inteligência.
+- Possuir riquezas no valor de 1500 Temirs ou superior.
+- Passar no teste de afinidade mágica rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+- Trajar roupas de luxo. (Dress code)
+
 ## Poderes do Grimo
 
 ### Especial
