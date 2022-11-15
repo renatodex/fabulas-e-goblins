@@ -18,10 +18,10 @@ O objetivo deste site é atuar como o **livro digital** do Fábulas & Goblins, f
 
 Você também verá que ao longo do tempo estaremos fornecendo uma serie de ferramentas para auxiliar na construção dos personagens e no gerenciamento da sessão!
 
-:::warning
+:::info
 ## Este livro está em constante evolução.
 
-Até agora temos cerca de 70% do livro completo, então apesar de você encontrar grande parte do conteúdo do livro jogo aqui, ainda temos uma série de material de Grimos, Compendium, Bestiário e outros ajustes menores para fazer!
+Até agora temos cerca de 90% do livro completo, mas apesar de você encontrar grande parte do conteúdo do livro jogo aqui, ainda temos uma série de material de Grimos, Compendium, Bestiário e outros ajustes menores para fazer!
 
 Todo o processo é realizado por uma pessoa só (no caso o Autor), e é um trabalho enoooooooorrrme! Então a tendência é que seja um pouquinho mais lento que a média.
 
