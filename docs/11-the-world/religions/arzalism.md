@@ -20,7 +20,7 @@ Seu irmão Qabalis, por sua vez, herdando a impulsividade de sua mãe, possuia o
 Juntos, Tronus e Qabalis uniram seus poderes e criaram Zahadia, a morada dos Deuses.
 
 Mas a paz não duraria muito tempo.
-Certa vez, Tronus e Qabalis tiveram um caloroso embate pois ambos se apaixonaram pela Faísca de Água, Kaminir, detentora da beleza suprema de Azanar.
+Certa vez, Tronus e Qabalis tiveram um caloroso embate pois ambos se apaixonaram pela Faísca de Água, Kaminir, detentora da beleza suprema de Arzala.
 Na tentativa de resolver o direito a mão de Kaminir, um embate desolador foi iniciado, culminando na morte do próprio espírito.
 
 Tronus culpou Qabalis pela destruição, e este, orgulhoso, prometeu nunca mais conviver no mesmo solo que o Irmão traidor.
@@ -28,7 +28,7 @@ Qabalis, furioso usou sua energia para se exilar em uma Realidade invertida cria
 
 ## Os filhos de Arzala
 
-Tronus se casaria com Arzala, a Faísca da Luz, gerando seus primeiros filhos: Icaron, o Deus da Consciliação, e Valeon, o Deus Cavaleiro.
+Tronus se casaria com Azanar, a Faísca da Luz, gerando seus primeiros filhos: Icaron, o Deus da Consciliação, e Valeon, o Deus Cavaleiro.
 Qabalis se casaria Dinímia, a Faísca da Terra, gerando seus primeiros filhos: Ludélia, a Deusa da Penumbra, Baranir, o Deus Explorador e Gaélia, a Deusa da Água e da Vida.
 
 Outras sementes como Aypheria, a Deusa da Fartura e Razandibu, o primeiro Dragonóide também brotariam em eras posteriores, dando origem a Heliodes, o Deus do Raio e Taphyria, a Deusa da Matéria.
