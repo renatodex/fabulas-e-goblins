@@ -56,15 +56,14 @@ import shields_purge from './../../data/spells/spells-giurad/tier4/shields_purge
 
 ![giurad.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6b6ede54-1470-4555-9586-1d19a148dbe3.jpg)
 
-A **Academia de Giurad** é o local onde muitos Aventureiros são treinados para se tornarem **Adeptos de Giurad** em diversos reinos do mundo.<br/>
-Diferente de muitas Academias, Os jovens Aventureiros apenas podem ingressar na Academia através de um processo rígido de indicação, onde os **Mestres de Giurad** avaliarão a procedência e legitimidade do indicador.
 
-Durante o processo, o Aventureiro torna-se um Tutelado, que deverá realizar um juramento de proteção a seu Tutor, ou seja, aquele que indicou o Aventureiro.<br/>
-Tutelados devem jurar pela defesa e proteção de seus Tutores, sob o risco de perder publicamente sua Honra, ser Banido permanentemente da **Academia de Giurad**, além de perder o respeito de seu Tutor e sua rede de influência.
+Os **Cavaleiros de Giurad** são guerreiros da Justiça, juramentados por seus Tutores com a missão de trazer o equilíbrio e o balanço ao mundo através da Lei e da Ordem.
 
-Na prática, a **Academia de Giurad** provê os ensinamentos para dominar o **Brasão de Giurad**, artefato mágico criado a partir da consolidação do conhecimento de um antigo herói de Guerra conhecido como **Giurad**.<br/>
-O estilo de luta se benefícia de tecnicas ofensivas e defensivas, visando o controle do combate e retenção do foco de seus inimigos.<br/>
-Devido a seu estilo de combate, os **Adeptos** são treinados na arte do combate com armas de uma mão, rápidas e afiadas. Espadas e Machados de uma mão são constantemente utilizados para este propósito.
+São indivíduos notáveis por sua honra inquebrável, seu senso de dever, justiça e sua lealdade a seu Tutor.
+
+Esses exímios Guerreiros são letrados na arte do combate corpo-a-corpo e proteção, utilizando para isso armas rápidas e afiadas, além de escudos.
+
+Cavaleiros experientes são capazes de atravessar o campo inimigo ilesos, ao mesmo tempo em que desferem ataques poderosos.
 
 ## Criando um Adepto de Giurad
 
@@ -82,7 +81,9 @@ A menos que outra regra diga o contrário, você deverá:
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
 
-## Folego de Herói
+## Virtudes do Grimo
+
+### 1. Folego de Herói
 
 Sua vontade em vencer seus obstáculos seria indescritível para qualquer um sem sua garra e motivação.
 
@@ -96,7 +97,19 @@ Antes de se levantar, como uma **ação livre de interpretação**, você pode n
 
 Essa ação, se bem sucedida, **não gerará um Trauma** para o Personagem.
 
-## Interpretando um Adepto de Giurad
+### 2. Proteger
+
+A qualquer momento, se estiver adjacente a qualquer **alvo fragilizado** você pode usar a ação Proteger.
+
+Essa ação é uma **ação de reação**, e que pode ser usada apenas no momento em que um ataque está sendo feito contra o alvo fragilizado. Você pode declarar o uso de Proteger inclusive **fora do seu turno** de combate. (mas também pode ser usada fora de combate)
+
+**Alvos Fragilizado** são alvos que não podem se defender por sí só, ou que estejam feridos (menos da metade dos P.V)
+
+Ao utilizar **Proteger**, você se impôe a frente do alvo, e o ataque que seria realizado contra a **Defesa Física** ou **Mágica** do alvo agora é realizado contra sua **Defesa Física** ou **Mágica**.
+
+Caso o alvo acerte, ele passa a acertá-lo, ao invés de acertar o alvo.
+
+# Interpretando um Adepto de Giurad
 
 Os Aventureiros treinados pela **Ordem do Cavaleiro** aprendem a ter disciplina para servir e proteger seus tutores.<br/>
 Eles são vistos pelos outros como uma espécie de **Cavaleiro**, cujos objetivos são ditados por seu Tutor.
@@ -106,6 +119,18 @@ A honra desse privilégio é muito bem vista em civilizações do mundo todo, po
 Politicamente, a **Academia de Giurad** é aliado de grandes Reinos, sendo cada academia individual geralmente associada a um único reino ou império.
 
 Os **Adeptos** portanto, são Cavaleiros leais, que possuem objetivos claros e são muitas vezes avistados como Guarda-Costas de Elite de entidades importante no mundo, como Imperadores e Augúrios.
+
+## As Academias de Giurad
+
+É nas **Academias de Giurad** onde esses Cavaleiros são treinados para se tornarem guerreiros exímios da arte do combate tático e corpo-a-corpo.<br/>
+Diferente de muitas Academias, Os jovens Cavaleiros apenas podem ingressar na Academia através de um processo rígido de indicação, onde os **Mestres de Giurad** avaliarão a procedência e legitimidade do Tutor responsável pela indicação.
+
+Assim que é admitido, o **Adepto de Giurad** torna-se um **Tutelado**, que deverá realizar um juramento de proteção a seu Tutor, ou seja, aquele que indicou o Aventureiro.<br/>
+Tutelados devem jurar pela defesa e proteção de seus Tutores, sob o risco de perder publicamente sua Honra, ser Banido permanentemente da **Academia de Giurad**, além de perder o respeito de seu Tutor e sua rede de influência.
+
+Como recompensa, o Aventureiro se torna um Cavaleiro capaz de dominar os ensinamentos do **Brasão de Giurad**, um artefato mágico criado a partir da consolidação do conhecimento de um antigo herói de Guerra conhecido como **Giurad**.
+
+O estilo de luta se benefícia de tecnicas ofensivas e defensivas, visando o controle do combate e retenção do foco de seus inimigos.
 
 ## Origem do Brasão de Giurad
 
