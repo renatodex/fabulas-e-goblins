@@ -4,9 +4,6 @@ title: Arca de Ravna
 slug: /4-grimos-and-spells/ark-of-ravna
 ---
 
-@todo:
-- Repensar Feats (melhor usar o que está no livro físico)
-
 Os **Adeptos de Ravna** acreditam que a forma mais pura de manipular a Magia seja através de seus portadores originais, as Criaturas Selvagens.
 Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as criaturas selvagens se unem à magia por **Simbiose Mágica**, e muitas dessas criaturas necessitam da relação de coexistência para sobreviver.
 
@@ -31,87 +28,48 @@ No primeiro momento essa definição pode ser tão simples como: Meu Mestre cham
 
 Definir seu mentor na criação do seu personagem faz com que o Narrador possa interligar seu passado, seu presente e seu futuro, criando uma história profunda e interessante que pode beneficiar a todos os jogadores.
 
-### 2. O Revés do Caos
-
-A **Arca de Ravna** possui o conhecimento Mágico de criaturas selvagens, e esse tipo de Magia pode ser extremamente instável.
-
-Sempre que o Personagem falhar na conjuração de uma Mágica do Grimo, ele receberá **1x Token de Revés**.
-
-O Token sinaliza um desequilíbrio mágico dentro do Grimo, que representa a dificuldade de domar os Ecos das criaturas contidas dentro dele. Esses Tokens se somam cumulativamente a cada falha adicional do Jogador.
-
-**Os Tokens não possuem validade, e se acumulam indeterminadamente.**
-
-A Mágica que controla a Arca é uma potente concentração do Elemento Caos, o que torna o Grimo ainda mais instável e perigoso, emitindo uma aura de Caos que pode até mesmo desestabilizar as ações de outros jogadores.
-
-Mecanicamente, tanto o **Narrador** quanto o **Jogador** podem "consumi-lo", convertendo o Token num modificador de -2 de penalidade, que pode se aplicar a qualquer rolagem que o Jogador faça, e a qualquer momento. **(O Narrador pode consumir os Tokens a qualquer momento, mas o Jogador pode apenas consumí-lo durante o combate)**
-
-Inicialmente, os **Adeptos de Ravna** podem acumular até 2 Tokens sem penalidade. Quando o Terceiro Token é gerado, o Jogador passa a correr o risco constante de ser atacado pela própria Magia da Arca, recebendo TIER*1d4 de Dano Não-Elemental para cada token Acumulado.
-
-Para cada **ataque bem sucedido** da Arca realizado com 3 ou mais tokens acumulados, o Narrador deverá fazer um teste neutro oculto com dificuldade 10, que deve ocorrer antes da rolagem de dano do Jogador. Se o teste falhar, o Jogador recebe o Dano da penalidade para cada **Token de Revés** Acumulado (`[N# Tokens * TIER] * 1D4`), e sua ação é cancelada. ***(Onde TIER é o TIER atual do Grimo, e não da habilidade utilizada)***
-
-Para cada **ataque mal sucedido** da Arca realizado com 3 ou mais tokens, o jogador não recebe dano, mas acumula 1x Token Adicional, aumentando ainda mais o risco e o perigo de utilizar a Arca.
-
-**Apenas 1 Token pode ser consumido por turno.**
-
-### 3. A Essência Selvagem
-
-Além de um artefato poderoso, a **Arca de Ravna** possui uma Aura mágica que permite capturar a essência de Criaturas selvagens.<br/>
-Normalmente, quando uma criatura selvagem é abatida, sua essência se dissipa pelo ar, retornando ao plano Mágico de onde veio.
-
-Com a **Arca** contudo, essa essência se solidifica magicamente, resultando num Mineral sólido conhecido como **Fragmentos de Zirgônio**.
-
-Normalmente, o Nível de Desafio da Criatura especifica a quantidade de Fragmentos obtidos, mas criaturas individuais podem também especificar seus próprios valores de Fragmentos.
-
-<table>
-  <thead>
-    <tr>
-      <th>Categoria</th>
-      <th>Descrição</th>
-      <th>Fragmentos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Minion</td>
-      <td>Inimigos Fracos, que causam pouco dano.</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Padrão</td>
-      <td>Inimigos Comuns, fornecem um desafio padrão.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>Elite</td>
-      <td>Inimigo Líderes e Inteligentes, exigem mais estratégia.</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>Mini-Chefe</td>
-      <td>Líderes dos Elites, são muito desafiadores e oferecem perigo mesmo sozinhos.</td>
-      <td>100</td>
-    </tr>
-    <tr>
-      <td>Chefe</td>
-      <td>Inimigos extremamente poderosos e desafiadores, exigem atenção completa do Grupo para serem derrotados.</td>
-      <td>300</td>
-    </tr>
-    <tr>
-      <td>Lenda</td>
-      <td>Inimigos Únicos e Lendários, fornecendo o desafio supremo.</td>
-      <td>3000+</td>
-    </tr>
-  </tbody>
-</table>
-
-Após obtidos, Fragmentos podem ser vendidos nos **Templos do Culto de Ravna**, e também utilizado na confecção de Armas e Encantamento de Itens com a propriedade **Zirgoniana**. (utilizadas para causar dano adicional num tipo especifico de inimigo).
-
-### 4. Escolher seus Poderes Iniciais
+### 2. Escolher seus Poderes Iniciais
 
 A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
+
+## Virtudes
+
+### 1. Converter Essência (Custo: Variável)
+
+Quando uma criatura selvagem é abatida em combate, o **Adepto de Ravna** pode fossilizá-la magicamente gerando um **Fragmento de Zirgônio**.
+
+A ação custa **Pontos de Magia** que variam dependendo da categoria da criatura:
+
+| Tipo de Criatura | Pontos de Magia | Quantidade de Fragmentos |
+|------------------|-----------------|--------------------------|
+| Minion           | 2 P.M           | 1/2 Fragmento            |
+| Normal           | 3 P.M           | 1 Fragmento              |
+| Alfa             | 4 P.M           | 3 Fragmentos             |
+| Nemesis          | 6 P.M           | 6 Fragmentos             |
+
+Os **Fragmento de Zirgônio** são muito utilizados na criação de itens mágicos, e podem ser vendido nos grandes reinos por uma média de `TIER * 40 Temirs`.
+
+Fragmentos podem ser vendidos nos **Templos do Culto de Ravna**, e também utilizado na confecção de Armas e Encantamento de Itens com a propriedade **Zirgoniana**. (utilizadas para causar dano ou ter resistência adicional contra um tipo especifico de inimigo).
+
+:::info Tier dos Fragmentos
+É importante ressaltar que cada Fragmento gerado pertence ao **Tier** da criatura abatida.
+Se o conjurador fossilizou 2 (duas) criaturas do **Tier 1**, e logo em seguida passou para o **Tier 2**, esses Fragmentos ainda são considerados **Tier 1**, pois foram adquiridos com criaturas desse Tier.
+:::
+
+### 2. Mimesis (Custo: 1 P.M)
+
+Como uma **ação de reação**, o **Adepto de Ravna** pode memorizar uma habilidade mágica inimiga conjurada por uma criatura. A memorização dura até o final de um combate, e as regras de utilização e dano seguem os mesmos parâmetros do Poder memorizado.
+
+Se a habilidade possuir uma restrição de usos, o **Adepto de Ravna** também deverá respeitar essas restrições, bem como restrições de alcance. **Poderes de Reação** e **Poderes Especiais** não podem ser memorizados.
+
+Como os poderes de criatura não possuem Custo de **Pontos de Magia**, o Custo de conjuração da magia memorizada é de `TIER * 9`, onde **TIER** é o Nível de Desafio da Criatura.
+
+:::info Materialização Mágica
+Se o poder mágico a ser mimetizado utilizar uma das partes da criatura (chifres, garras, etc), essa parte será magicamente materializada no momento da utilização do poder.
+:::
 
 ## Interpretando um Adepto de Ravna
 
