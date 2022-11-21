@@ -6,48 +6,42 @@ slug: /4-grimos-and-spells/qatuns-illusion
 
 Os **Adeptos de Qatun** são treinados na arte de manipular a mente e a matéria, criando ilusões convincentes que podem confundir seus inimigos.
 
-Mestres do Ilusionismo e dominadores da Magia do Caos, esses elegantes Fortunos podem influenciar a mente de seus inimigos através da magia de Hipnose, e são capazes de materializar objetos reais que podem ser utilizados para confundir inimigos.
+Mestres do Ilusionismo e dominadores da Magia do Caos, esses elegantes Fortunos podem influenciar a mente de seus inimigos através da magia de Hipnose, e são capazes de materializar objetos reais que podem ser usados para confundir inimigos.
 
 Alguns os chamam de Fortunos, outro de Ilusionistas, ou até mesmo salafrários, mas seja como for, é inegável que o incrível poder escondido na **Ilusão do Qatun**  é capaz de alterar a percepção da própria realidade, enquanto desafiam a sorte e o destino para desferirem ataques poderosos.
 
-## Criando um Adepto de Magni
+## Criando um Adepto de Qatun
 
 Ao seguir esse caminho, existem algumas coisas que você deve saber:
 
-### 1. Dar vida a objetos inanimados
-
-Como **Adepto de Magni**, você possui o poder controlar objetos inanimados que sejam da mesma categoria de tamanho que você. Com a expansão do seu personagem, essa capacidade pode ser expandida.
-
-Os objetos inanimados podem ser objetos construídos por você através da utilização de materia prima, ou até mesmo itens decorativos ou funcionais, como Mesas, Cadeiras e objetos menores como Tábuas, Caixas e Armas.
-
-Os objetos podem assumir um tipo leve de levitação, apenas para facilitar sua movimentação, que é controlada plenamente pelo **Adepto de Magni**.
-
-Apenas um objeto pode ser controlado dessa forma ao mesmo tempo (ao menos que outra habilidade diga o contrário), e o controle Exige um teste de **Elo Mágico** com Dificuldade 12.
-
-Cada objeto inanimado assume `PV = TIER*10`, e adquirem o mesmo **Valor de Ataque** do Dominador, assim como sua **Resistência Mágica**. Ao serem utilizados em batalha, os Objetos causam `TIER*1D10` de Dano.
-
-O processo não custa **Pontos de Magia**, e pode ser dissolvido a qualquer momento pelo Dominador.
-
-:::note
-Objetos inanimados que podem ser usados como armas recebem um bônus de Ataque de +2 enquanto estiverem sob o seu controle.
-:::
-
-:::note
-Se os objetos a serem inanimados forem itens mágicos, eles perdem suas propriedades mágicas durante o período que forem animados (a menos que alguma outra habilidade diga o contrário).
-:::
-
-### 2. Concentração
-
-Utilizar os **Magnis** em qualquer situação exige uma concentração mínima dos Adeptos, que precisam o tempo todo estar sincronizados com sua criação através de seu **Elo Mágico**.
-
-Sempre que um efeito negativo deixar o seu personagem inconsciente, todos os **Magnis** ou **Objetos Reanimados** serão automaticamente desabilitados, exigindo uma ação extra para reativação.
-
-### 3. Escolher seus Poderes Iniciais
+### 1. Escolher seus Poderes Iniciais
 
 A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
+
+## Virtudes
+
+### 1. Ilusão Conveniente (1 P.M)
+
+Como **Ação de Perícia**, você pode fazer um teste de **Influência** para conjurar um objeto com qualquer forma que sua mente conhecer.
+
+Ao mesmo tempo em que você Materializa o objeto, seu alvo também é afetado por uma Aura de Hipnose, que o leva a acreditar fielmente na veridicidade do objeto materializado.
+
+A **Ação única de Perícia** serve para os dois propósitos simultaneamente: Materializar o Objeto e Hipnotizar o alvo. Caso não seja bem sucedido, pode significar que um dos dois objetivos não foi plenamente atingido.
+
+Se a ação exigir o convencimento de duas ou mais pessoas simultâneas, então ela deverá ser realizada de forma independente para cada alvo.
+
+A Aura de Hipnose também possui um alcance de 2 quadrados em todas as direções à partir do conjurador.
+
+O objeto materializado pode ser dissolvido a qualquer momento.
+
+### 2. Mestre da Barganha
+
+**Adeptos de Qatun** são notáveis por sua excelente capacidade de Barganhar. Dizem que a Aura emitida pelo Grimo de Qatun amolece os corações e torna mais flexível mesmo o mais ferrenho dos negociadores.
+
+Como uma **Ação de Desafio**,
 
 ## Interpretando um Adepto de Magni
 

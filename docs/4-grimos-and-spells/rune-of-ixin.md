@@ -68,8 +68,6 @@ Criaturas **Rúnicas** abatidas liberam **Energia Rúnica** pura, que pode ser a
 
 A absorção é uma **Ação Livre**, mas é preciso **estar adjacente** a uma dessas criaturas **no momento do seu abate** para receber o Bônus.
 
-### 2. Sinergia Rúnica
-
 ## Interpretando
 
 Os **Mestres Ixinianos** acreditam que a Energia Rúnica é a forma evoluída do que os outros chamam de Magia. De acordo com eles, a Magia como conhecemos teria sido um acidente, uma forma rudimentar e contagiosa da verdadeira Energia.
