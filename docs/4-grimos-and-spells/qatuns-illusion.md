@@ -37,11 +37,20 @@ A Aura de Hipnose também possui um alcance de 2 quadrados em todas as direçõe
 
 O objeto materializado pode ser dissolvido a qualquer momento.
 
-### 2. Mestre da Barganha
+### 2. Manipular Mente (6 P.M)
 
-**Adeptos de Qatun** são notáveis por sua excelente capacidade de Barganhar. Dizem que a Aura emitida pelo Grimo de Qatun amolece os corações e torna mais flexível mesmo o mais ferrenho dos negociadores.
+Coloca um alvo em transe temporário, tornando sua mente flexíveis para algumas manipulações simples:
 
-Como uma **Ação de Desafio**,
+1. Você pode fazer com que o Alvo siga uma única ordem sem questionar, desde que essa ordem não gere danos físicos ao alvo.
+2. Você pode implantar verdades falsas ou informações artificiais na mente do alvo, fazendo com que ele acredite nela por alguns instantes.
+3. Você pode fazer com que o Alvo esqueça temporariamente uma informação ou verdade que ele já conhece.
+4. Você pode fazer com que o Alvo entre em uma espécie de transe temporário, tornando-se alheio aos eventos acontecendo ao seu redor.
+
+Em quaisquer um dos casos acima, em caso de sucesso, o Alvo fica temporariamente hipnotizado, permitindo ser manipulado, mas possui consciencia total de suas ações, e saberá que foi hipnotizado pelo conjurador assim que o efeito cessar.
+
+O tempo do efeito varia conforme a quantidade de Influência do alvo. (Tempo = `Influência * 3min`)
+
+Para ser bem sucedido, você deve passar em uma **Ação de Perícia**, rolando sua **Influência**. Caso o Narrador julgue necessário, ele pode especificar um Teste de Desafio contra a resistência do Alvo. (alguns Alvos podem ser mais difíceis de manipular)
 
 ## Interpretando um Adepto de Magni
 
