@@ -29,7 +29,16 @@ Os **Tecmagos** originais acreditavam que mesmo que esses Metais e Armas das civ
 
 Ao seguir esse caminho, existem algumas coisas que você deve saber:
 
-### 1. Dar vida a objetos inanimados
+### 1. Escolher seus Poderes Iniciais
+
+A menos que outra regra diga o contrário, você deverá:
+
+- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 1x (um) Poder Especial.
+
+## Virtudes
+
+### 1. Animar Objetos
 
 Como **Adepto de Magni**, você possui o poder controlar objetos inanimados que sejam da mesma categoria de tamanho que você. Com a expansão do seu personagem, essa capacidade pode ser expandida.
 
@@ -37,32 +46,33 @@ Os objetos inanimados podem ser objetos construídos por você através da utili
 
 Os objetos podem assumir um tipo leve de levitação, apenas para facilitar sua movimentação, que é controlada plenamente pelo **Adepto de Magni**.
 
-Apenas um objeto pode ser controlado dessa forma ao mesmo tempo (ao menos que outra habilidade diga o contrário), e o controle Exige um teste de **Elo Mágico** com Dificuldade 12.
+Apenas um objeto pode ser controlado dessa forma ao mesmo tempo (ao menos que outra habilidade diga o contrário), e o controle Exige sucesso numa **Ação de Perícia**, utilizando **Elo Mágico**.
 
-Cada objeto inanimado assume `PV = TIER*10`, e adquirem o mesmo **Valor de Ataque** do Dominador, assim como sua **Resistência Mágica**. Ao serem utilizados em batalha, os Objetos causam `TIER*1D10` de Dano.
+Cada objeto inanimado assume `PV = TIER*10`, e adquire o mesmo **Ataque Físico** do Dominador, assim como sua **Defesa Física e Mágica**. Ao serem utilizados em batalha, os Objetos causam `TIER*1D10` de Dano.
 
 O processo não custa **Pontos de Magia**, e pode ser dissolvido a qualquer momento pelo Dominador.
-
-:::note
-Objetos inanimados que podem ser usados como armas recebem um bônus de Ataque de +2 enquanto estiverem sob o seu controle.
-:::
 
 :::note
 Se os objetos a serem inanimados forem itens mágicos, eles perdem suas propriedades mágicas durante o período que forem animados (a menos que alguma outra habilidade diga o contrário).
 :::
 
-### 2. Concentração
-
+:::info Concentração
 Utilizar os **Magnis** em qualquer situação exige uma concentração mínima dos Adeptos, que precisam o tempo todo estar sincronizados com sua criação através de seu **Elo Mágico**.
 
 Sempre que um efeito negativo deixar o seu personagem inconsciente, todos os **Magnis** ou **Objetos Reanimados** serão automaticamente desabilitados, exigindo uma ação extra para reativação.
+:::
 
-### 3. Escolher seus Poderes Iniciais
+### 2. Sinergia Mecânica
 
-A menos que outra regra diga o contrário, você deverá:
+O Conjurador passa a possuir **Defesa +2** contra ataques de criaturas **Mecânicas** ou **Constructos**, assim como **Ataque +2** ao combater essas mesmas criaturas.
 
-- Escolher 2x (dois) Poderes do Tier 1.
-- Escolher 1x (um) Poder Especial.
+Além disso, criaturas Mecânicas que forem abatidas no **Campo de Batalha** podem ser reanimadas temporariamente sob o controle do **Magnista**.
+
+Os atributos de **Ataque e Defesa** da criatura animada seguem a mesma regra de **Animar Objetos**, mas os valores de **Pontos de Vida** e **Dano** nesse caso ficam condicionados aos ataques na ficha da Criatura.
+
+:::info Criaturas Lendárias
+Sinergia Mecânica não pode ser usado para reanimar criaturas Lendárias ou Nêmesis.
+:::
 
 ## Interpretando um Adepto de Magni
 
