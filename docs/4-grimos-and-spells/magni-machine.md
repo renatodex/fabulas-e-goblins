@@ -38,7 +38,7 @@ A menos que outra regra diga o contrário, você deverá:
 
 ## Virtudes
 
-### 1. Animar Objetos
+### 1. Animar Objetos (Custo: 0 P.M)
 
 Como **Adepto de Magni**, você possui o poder controlar objetos inanimados que sejam da mesma categoria de tamanho que você. Com a expansão do seu personagem, essa capacidade pode ser expandida.
 
@@ -50,7 +50,7 @@ Apenas um objeto pode ser controlado dessa forma ao mesmo tempo (ao menos que ou
 
 Cada objeto inanimado assume `PV = TIER*10`, e adquire o mesmo **Ataque Físico** do Dominador, assim como sua **Defesa Física e Mágica**. Ao serem utilizados em batalha, os Objetos causam `TIER*1D10` de Dano.
 
-O processo não custa **Pontos de Magia**, e pode ser dissolvido a qualquer momento pelo Dominador.
+Pode ser dissolvido a qualquer momento pelo Dominador.
 
 :::note
 Se os objetos a serem inanimados forem itens mágicos, eles perdem suas propriedades mágicas durante o período que forem animados (a menos que alguma outra habilidade diga o contrário).
@@ -62,11 +62,11 @@ Utilizar os **Magnis** em qualquer situação exige uma concentração mínima d
 Sempre que um efeito negativo deixar o seu personagem inconsciente, todos os **Magnis** ou **Objetos Reanimados** serão automaticamente desabilitados, exigindo uma ação extra para reativação.
 :::
 
-### 2. Sinergia Mecânica
+### 2. Sinergia Mecânica (Passiva/Custo: TIER*4 P.M)
 
 O Conjurador passa a possuir **Defesa +2** contra ataques de criaturas **Mecânicas** ou **Constructos**, assim como **Ataque +2** ao combater essas mesmas criaturas.
 
-Além disso, criaturas Mecânicas que forem abatidas no **Campo de Batalha** podem ser reanimadas temporariamente sob o controle do **Magnista**.
+Além disso, criaturas Mecânicas que forem abatidas no **Campo de Batalha** podem ser reanimadas temporariamente sob o controle do **Magnista** a um custo de `TIER*4 P.M`.
 
 Os atributos de **Ataque e Defesa** da criatura animada seguem a mesma regra de **Animar Objetos**, mas os valores de **Pontos de Vida** e **Dano** nesse caso ficam condicionados aos ataques na ficha da Criatura.
 

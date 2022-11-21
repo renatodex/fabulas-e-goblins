@@ -41,53 +41,34 @@ O Rah é o Pilar que rege a Força do Multi-Verso. Ele é responsável pela conj
 
 Quando um **Adepto de Ixin** escolhe o caminho de **Rah**, ele é treinado para executar o **Castigo de Rah**, uma técnica impiedosa que pode devastar seus inimigos através de **Raios de Energia Templária**
 
-### 2. Interferência Rúnica
-
-Por motivos misteriosos, Templos ancestrais antigos e concentrações mágicas poderosas costumam afetar drasticamente a capacidade de canalização da Energia Templária. Acredita-se que fontes intensas de Magia possam prejudicar em nível microscópico a estabilidade da Energia Rúnica.
-
-Sempre que um **Adepto de Ixin** estiver em um desses locais, ele sentirá a interferência Energética, e deverá realizar um teste de **Elo Mágico** sempre que quiser conjurar um poder do **Grimo de Ixin**.
-
-A dificuldade do teste é definida pelo nível de interferência, cuja intensidade pode variar de acordo com o local e o contexto de jogo.
-Os 3 níveis de interferência Energética são:
-
-- **Fraca**: Dificuldade 8 e -2 nas rolagens.
-- **Moderada**: Dificuldade 12 e -4 nas rolagens.
-- **Forte**: Dificuldade 16 e -6 nas rolagens
-
-<table>
-  <thead>
-    <tr>
-      <td></td>
-      <td>Penalidade Rolagem</td>
-      <td>Dificuldade do Teste (Narrador)</td>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>Fraca</td>
-      <td>-2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Moderada</td>
-      <td>-4</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Forte</td>
-      <td>-6</td>
-      <td>16</td>
-    </tr>
-  </tbody>
-</table>
-
-### 3. Escolher seus Poderes Iniciais
+### 2. Escolher seus Poderes Iniciais
 
 A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial baseado na sua **Especialização Rúnica**.
+
+## Virtudes
+
+### 1. Translocação Natural (1 P.M)
+
+Como uma **Ação de Movimento**, você pode se deslocar de uma coordenada a outra, desde que esteja dentro dos seus **Pontos de Movimento**, e que o local de destino **esteja visível** a olho nú.
+
+Assim como no Movimento, você não pode se **Translocar** para posições ocupadas por **inimigos ou Aliados**.
+
+Pode ser usado também fora de combate.
+
+### 2. Sinergia Rúnica (Passiva)
+
+Estar em locais enriquecidos com **Energia Rúnica** concede a você um Bônus de **+2 em todas as ações**.
+
+Além disso, você tem **+2 de Vantagem** ao Atacar criaturas de constituição Rúnica, e possui **+2 de Defesa** ao se Defender dessas mesmas criaturas.
+
+Criaturas **Rúnicas** abatidas liberam **Energia Rúnica** pura, que pode ser absorvida pelo seu Grimo para lhe conceder **+1d6 de Dano** cumulativamente até o final do combate. Do Tier 3 para cima, o Bônus aumenta para **+1d12 de Dano**.
+
+A absorção é uma **Ação Livre**, mas é preciso **estar adjacente** a uma dessas criaturas **no momento do seu abate** para receber o Bônus.
+
+### 2. Sinergia Rúnica
 
 ## Interpretando
 
