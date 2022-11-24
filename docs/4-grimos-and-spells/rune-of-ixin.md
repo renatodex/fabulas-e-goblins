@@ -16,10 +16,10 @@ Na doutrina de Ixin, três anagramas principais representam representam as artes
 
 Ao escolher esse caminho, você deverá:
 
-### 1. Escolher sua especialização Rúnica
+### 1. Ordem das especializações Rúnica
 
 A complexa Arte Templária pode assumir diversos caminhos, e ser moldada de forma muito flexível por seus dominadores.
-Ao criar um **Adepto de Ixin** você deverá escolher uma única especialização Rúnica:
+Ao criar um **Adepto de Ixin** você deverá escolher 1 a 3 quais são os caminhos
 
 #### A. Caminho do Urt
 
@@ -119,9 +119,35 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
+### Especial
+
+- Arremesso Rúnico: Lança sua arma ao ar, em um poderoso arremesso rúnico em até 7 quadrados. A arma é lançada para o ar, mas crava magicamente em um ponto alvo gerando uma explosão 4x4 que causa `TIER*(d10 + 12)` de dano a todos inimigos na área. Os inimigos também são arremessados 1 quadrado na direção oposta da arma, sendo também derrubados no processo.
+Se o ponto alvo do arremesso for um inimigo, ele também recebe `TIER*1d10` de dano adicional.
+Esse poder funciona como uma **Ação Livre**, logo, o Adepto pode se movimentar e agir normalmente.
+
 ### Habilidades - Tier 1
 
-Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
+- Míssel Rúnico: Conjura uma runa que se transforma em um míssil mágico para atingir o alvo e causar dano.
+
+- Lâmina Rúnica: Encanta a arma com um selo rúnico.
+
+- Armadura Rúnica: Conjura um selo na própria armadura.
+
+- Armadilha Rúnica: Conjura uma armadilha que quando toca um inimigo gera uma explosão de 2x2.
+
+- Salto Rúnico: Conjura uma runa sólida que permite ao conjurador realizar um salto duplo e finalizar com um ataque aéreo que causa dano.
+
+- Velocidade Rúnica: Pode ser usado como uma ação de reação e aumenta sua velocidade em +3. (tem custo de magia)
+
+- Selo Magnético: Conjura um selo 2x2 no chão que atrai qualquer alvo que estiver. É necessário gastar 3 pontos de Movimento para se mover 1 quadrado para fora da área. Alvos adjacentes ao selo são puxados para qualquer espaço livre dentro da área do selo.
+
+- Proteção Rúnica: Conjura um selo em um aliado, que se quebra ao ser atingido, causando metade de dano no aliado e metade no inimigo.
+
+- Runa da Restauração: Conjura uma Runa de restauração em um alvo. Quando este receber dano, cure `1d6` após o dano recebido. Pode ser usado como ação de reação ao exatamente no momento em que se inicia o turno de um inimigo.
+
+- Selo do Retardo: Conjura uma Runa de retardo em um alvo. Quando ele passar pela Runa, receberá -2 de Movimento. Pode ser usado durante o movimento de um inimigo.
+
+- Selo da Repulsão
 
 ### Habilidades - Tier 2
 
