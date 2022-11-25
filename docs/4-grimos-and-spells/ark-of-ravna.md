@@ -149,6 +149,8 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
+1. I
+
 ### Habilidades - Tier 1
 
 1.  Grito da Ravina : Causa dano de vento em volta do personagem
