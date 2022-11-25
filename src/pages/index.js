@@ -151,7 +151,7 @@ function Home() {
             <img width={400} src={useBaseUrl('img/logo.png')}></img>
           </Link>
 
-          <div class="lower">
+          <div className="lower">
             <div className={styles.buttons}>
             </div>
           </div>

@@ -79,48 +79,16 @@ Você não necessariamente deve obrigações a esse **Mentor**, mas de alguma fo
 
 O **Mentor** adiciona novos personagens na história que o `Narrador de Jogo` pode usar para entrelaçar e aprofundar sua história como personagem.
 
-### 2. Escolher uma Descrença
-
-Sua alta devoção a Lunn e seus Dogmas irrefutáveis sobre a verdade do mundo faz com que seja muito difícil acreditar ou respeitar a existência de uma ou mais Divindade/Religião específicas.
-
-Para você, outros ensinamentos além de Lunn seriam equivocados ou até absurdos, e você tem dificuldade para entender o propósito que leva os Adaptos a seguirem essa Divindade/Religião.
-Abaixo, fornecemos uma lista pequena com algumas divindades alternativas:
-
-<table>
-  <thead>
-    <tr>
-      <td>Divindade</td>
-      <td>Descriçao</td>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td>Eterialismo</td>
-      <td>Religião dos Adeptos que acreditam que certas criaturas selvagens lendárias são os Guardiões e criadores do mundo.</td>
-     </tr>
-     <tr>
-      <td>Avernícismo</td>
-      <td>Religião dos Adeptos que não acreditam na existência de um único Deuses onipotente, mas que veneram certos indivíduos do passado por terem realizado ações lendárias que iluminaram o caminho do mundo.</td>
-     </tr>
-      <tr>
-      <td>Arzalismo</td>
-      <td>Religião dos Adeptos que acreditam na Mitologia de Heróis lendários que foram gerados a partir do sacrifício de um ser Primordial.</td>
-     </tr>
-     <tr>
-      <td>Primalismo</td>
-      <td>Religião dos Adeptos que acreditam na existência de Diversos deuses Primais, que teriam sido responsáveis pela criação de todos os mundos.</td>
-     </tr>
-  </tbody>
-</table>
-
-### 3. Escolher seus Poderes Iniciais
+### 2. Escolher seus Poderes Iniciais
 
 A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
 
-## Ações Profanas
+## Virtudes do Grimo
+
+### 1. Ações Iluminadas e Profanas
 
 Como **Sacerdote de Lunn**, você vive sob a Doutrina dele, que espera que você trabalhe para realizar ações de benfeitoria no mundo.
 
@@ -133,6 +101,14 @@ Os Tokens afetam a vida do Sacerdote de várias maneiras:
 - Sacerdotes podem perceber se você realizou muitas **Ações Profanas**, e tratar você de acordo.
 - **Ações Profanas** podem gerar **Efeitos Profanos** em Habilidades.
 - Sua presença será barrada em Templos de Lunn e outros locais sagrados caso você tenha mais de **1 Carga de Ação Profana**.
+
+### 2. Proteção contra o Mal
+
+A Luz do **Grimo de Lunn** protege o Sacerdote contra os caprichos das Trevas.
+
+Reduz em `(TIER*d10)` o dano recebido por **Ataques do Elemento Trevas**.
+
+Sacerdotes Profanos (que possuem mais **Ações Profanas** do que **Ações Iluminadas**) passam a possuuir Proteção contra a **Luz** ao invés das **Trevas**.
 
 ## Interpretando um Sacerdote
 
@@ -154,6 +130,15 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C203894a8-17e4-49b8-b22b-1de705ebb086.PNG" width="80" /> | Cruz do Iniciante + 0 | Físico | D8 + 4 | Cruz inicial do Aventureiro, ataque corpo-a-corpo, já vem benzida. | 3 Cargas | Espírito |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
+
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Pontos em Elo Mágico ou Espírito.
+- Não pode possuir nenhuma mancha de Malfeitoria na alma. (A Guilda irá saber)
+- Deve possuir pelo menos uma marca de Benfeitoria na alma. (A Guilda irá saber)
+- Deverá se vestir como um Sacerdote. (Roupas de luxo)
 
 ## Poderes do Grimo
 

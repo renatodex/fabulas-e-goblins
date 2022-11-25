@@ -148,6 +148,24 @@ A menos que outra regra diga o contrário, você deverá:
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
 
+
+## Virtudes do Grimo
+
+### 1. Resistência, Efeito & Fraqueza
+
+Cada um dos **12 Elementos** está associado a uma **Resistência**, um **Efeito** e uma **Fraqueza Elemental**.
+O **Fogo** por exemplo é forte contra o **Gelo**, pode causar **Queimaduras** e é fraco contra **Água**.
+
+Essas Forças e Fraquezas se traduzem em um **Bônus de Dano** de `Tier*1d12` cada vez que o Personagem recebe ou causa um dano associado à sua **Fraqueza** ou **Resistência**.
+
+### 2. Sinergia Elemental
+
+Quando o conjurador estiver próximo a uma **fonte ativa e latente da magia do seu elemento**, ele receberá **+2 de Ataque** sempre que conjurar feitiços dessa natureza.
+
+Um vulcão ativo por exemplo é considerado uma **fonte de magia latente** do elemento **Fogo**, uma floresta onde as raízes e vinhas ganham vida também é uma **fonte latente** do elemento **Natureza**.
+
+Ja no fundo do mar, a lógica é um pouco diferente. Os elemento **Água** é equivalente ao **Ar**, logo, para receber um Bônus do Elemento **Água** ou **Ar** no fundo do Mar, você deverá estar próximo de uma **forte corrente de água**.
+
 ## Interpretando um Adepto de Allura
 
 Os portadores das **Orbes de Allura** são vistos como exímios Dominadores Elementais, cuja estratégia de combate é primariamente agressiva com alguns traços de controle, possuindo o Dominador um extenso Leque de Habilidades de Ataque e Contenção de inimigos, que pode ser usado para causar grandes quantidades de dano à curta ou longa distância.
@@ -186,6 +204,15 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc8623aa6-2402-42d2-8633-faa7bd679ddd.png" width="80" /> | Cetro do Iniciante + 0 | Físico | D6 + 4 | Cetro inicial do Aventureiro, ataque corpo-a-corpo. | 3 Cargas | Inteligência |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
+
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Ponto de Inteligência.
+- Possuir riquezas no valor de 1500 Temirs ou superior.
+- Passar no teste de afinidade mágica rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+- Trajar roupas de luxo. (Dress code)
 
 ## Poderes do Grimo
 

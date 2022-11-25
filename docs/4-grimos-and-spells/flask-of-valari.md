@@ -16,17 +16,15 @@ A arte da Doutrina Valari favorece o combate ágil corpo-a-corpo, utilizando arm
 
 Ao escolher esse caminho, você deverá:
 
-### 1. A Honra do Damauri
+### 1. Escolher seus Poderes Iniciais
 
-A Palavra Damauri na lingua ancestral significa "Dívida de Vida" *(Dama = Dívida, Uri = Vida)*. A Doutrina dos Valari especifica que eles jamais, sob qualquer circunstância devem negar um pedido amigo de um Irmão da sua Sociedade.
+A menos que outra regra diga o contrário, você deverá:
 
-Negar ajuda a um Valari não apenas tráz vergonha, como também pode resultar no seu banimento permanente como **Membro dos Valari**.
+- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 1x (um) Poder Especial.
 
-A cada indivíduo dessa sociedade não é permitido fazer dois pedidos irrecusáveis a um de seus membros, e fazê-lo também é sinal de vergonha, como também um insulto a cultura de seus membros.
-
-Ao criar um **Adepto de Valari**, você terá o privilégio de fazer um único pedido a cada um dos membros da sua sociedade que você encontrar no jogo. Ao mesmo tempo, eles também poderão fazer qualquer pedido a você, e a este você jamais deverá recusar, sob pena de ser considerado um membro banido e expulso (caso ainda não seja).
-
-### 2. Leitura das Sombras
+## Virtudes
+### 1. Leitura das Sombras (Custo 0 P.M)
 
 Os Valari são exímios Dominadores das Trevas, e utilizam o contato com o mundo Sombrio para aprender sobre as fraquezas de seus inimigos.
 
@@ -36,13 +34,13 @@ Ao criar um **Adepto de Valari**, você começará o jogo com um poder Adicional
 
 Diferente de outras técnicas inseguras, as Sombras não mentem, e sempre revelarão a verdade aos **Adeptos de Valari**.
 
-### 3. Escolher seus Poderes Iniciais
+### 2. Absorver Veneno (Custo 0 P.M)
 
-A menos que outra regra diga o contrário, você deverá:
+Seu Grimo emite uma Aura que lhe concede resistência natural ao Veneno puro.
 
-- Escolher 2x (dois) Poderes do Tier 1.
-- Escolher 1x (um) Poder Especial.
-- Iniciar o jogo com o poder **Leitura das Sombras**
+Se você for afligido por um envenenamento, pode fazer uma **Ação de Perícia** ao cada final de cada turno seu, rolando sua **Resiliência** para tentar absorver o envenenamento.
+
+Caso seja bem sucedido, os efeitos são completamente neutralizados do seu corpo.
 
 ## Interpretando um Adepto de Valari
 
@@ -64,6 +62,14 @@ As canções antigas contam que **Valari** teria invocado a **Noite Sombria**, u
 O artefato teria sido forjado por um misterioso Mestre-Elo conhecido por `Docaeras Tan`, como forma de demonstração de poder e como símbolo Fundador da antiga **Sociedade Valari**.
 
 Por muitos anos essa misteriosa sociedade se mostrou fechada e reclusa, e o conhecimento escasso sobre os seus membros e seus objetivos sempre foram motivo de curiosidade no mundo das Terras Místicas. Mas com o advento do Blecaute, os **Mestres Valaris** passaram a replicar o Grimo original, recrutando guerreiros para aprender seus misteriosos Dogmas, com o objetivo de manter sua integridade como corporação enigmática.
+
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 2 Pontos de Agilidade.
+- Possuir pelo menos uma mancha negra na Alma ocasionada por má ação. (a Guilda irá saber)
+- Para receber o Grimo, você deverá se comprometer a realizar pelo menos 1 missão da Guilda.
 
 ## Poderes do Grimo
 

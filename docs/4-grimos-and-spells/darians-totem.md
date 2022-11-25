@@ -32,40 +32,63 @@ Ao criar um **Adepto de Darian**, você deverá definir um **Mentor**. Esse Ment
 
 A escolha do **Mentor** permitirá ao Narrador aprofundar os vínculos do seu personagem com a história da campanha, e elevar o grau de profundidade das suas conexões com os personagens do mundo das **Terras Místicas**.
 
-### 2. Escolher um Terror Astral
-
-O **Plano Astral** ainda é pouco conhecido pelos estudiosos, mas acredita-se que ele opere com uma certa dualidade, vigiando suas fronteiras e impedindo que forasteiros possam viajar livremente por seus territórios.
-
-Quando um **Adepto de Darian** se conecta com frequência ao **Plano Astral**, ele passa a atrair a atenção dos **Terrores Espirituais**. O Terror é uma figura inquisitiva, cujo objetivo é exterminar o **Eco do Dominador** dentro do Plano dos Espíritos. Acredita-se que esse seja um mecanismo de proteção do próprio **Plano Astral**, cujo objetivo é proteger e manter a estabilidade desse mundo paralelo.
-
-Ao criar um **Adepto de Darian**, você deve escolher uma figura para representar o seu **Terror**. Ela pode ser uma criatura mortal, uma figura do passado ou até mesmo algo abstrato, como sombras ou núvens escuras como as de uma tempestade.
-
-A escolha do **Terror** permitirá ao Narrador explorar melhor as consequências e os motivos utilizados por essa figura sombria dentro da campanha, além de capacitá-lo para criar as cenas e as situações onde o **Terror** será apresentado ao jogador.
-
-Logo a frente, falaremos mais sobre como a Mecânica do Terror é utilizada no jogo e no combate.
-
-### 3. Escolher seus Poderes Iniciais
+### 2. Escolher seus Poderes Iniciais
 
 A menos que outra regra diga o contrário, você deverá:
 
 - Escolher 2x (dois) Poderes do Tier 1.
 - Escolher 1x (um) Poder Especial.
 
-## A Mecânica do Terror
+## Virtudes
 
-Sempre que o jogador acessar o **Plano Astral** para conjurar um poder, ele deverá rolar um **Dado de Terror** (d20).<br/>
-O resultado precisa ser somado ao seu Modificador de Espírito e quaisquer outros Bônus que possuir que sejam específicos para o **Teste de Terror**.
+### 1. Clarividência (Custo: 0 P.M)
 
-A Fórmula de sucesso para este teste é:<br/>
-```D20 + Mod. Espírito + Bônus > Nível de Terror```
+Como uma **Ação de Perícia**, o **Adepto de Darian** pode fazer um teste de **Espírito** para contactar o **Plano Espiritual** na exata localidade em que ele se encontra.
 
-E como saber qual é o **Nível de Terror** ?
+Essa Ação poderá revelar ao **Darianista** vestígios do **Passado** ou do **Futuro**, relacionado a pessoas, animais ou objetos que estavam, estão ou estarão ligados com o local em que ele deseja obter compreensão.
 
-Muitos poderes neste Grimo especificam em sua descrição qual é o **Nível de Terror** que deverá ser testado pelo Dominador.
+Para usar **Clarividência** é importante que o local esteja pacificado, sem tumultos ou grande **concentração de pessoas**. Isso não significa que testar a **Clarividência** nesses locais não seja possível, mas a **dificuldade** certamente será maior. (a ser definida pelo Narrador)
 
-Ao falhar num **Teste de Terror**, significa que o seu **Terror Astral** o alcança durante o seu contato no mundo espiritual. Quando isso acontece, a conexão com o mundo espiritual é selada abruptamente, drenando a energia espiritual do Dominador, e dificultando sua reconexão. Na prática, **para cada falha em um Teste de Terror, você receberá -2 do Atributo Espírito** até que o personagem consiga realizar uma **Meditação**. A penalidade é cumulativa, e pode adquirir patamares negativos.
+O Ritual e pode durar minutos, ou até horas, dependendo do local.
 
-Ao ser bem sucedido num **Teste de Terror**, significa que o **Terror** não localizou a presença Espiritual do seu personagem, e você pode tranquilamente utilizar o poder selecionado sem consequências.
+Em caso de Sucesso, o **Darianista** saberá qual foi a informação revelada, e saberá também em qual plano temporal ela ocorreu (Passado ou Futuro).
+
+:::info Dificuldade do Teste
+Normalmente sugerimos que o teste seja realizado como uma **Ação de Perícia**, cuja dificuldade é fixa.
+
+Porém, no caso de locais tumultuados ou não pacificados, o Narrador pode preferir utilizar uma **Ação de Desafio**, cuja dificuldade poderá ser superior, a depender do local.
+:::
+
+### 2. Andarilho Espiritual (Custo: 5 P.M)
+
+O **Darianista** desprende-se de seu corpo durante sua meditação, assumindo o controle total de seu Espírito na forma de Andarilho.
+
+O Espírito possui os mesmos atributos técnicos da Ficha do **Darianista**, e pode atravessar paredes, flutuar e acessar locais subterrâneos. Enquanto estiver na condição de **Andarilho**, o **Darianista** não pode ser visto por pessoas normais, exceto aquelas que possuam conhecimentos Espirituais, como outros **Darianistas**.
+
+Enquanto estiver na forma de Andarilho, você poderá enxergar outras Auras e presenças Espirituais. Abaixo falamos sobre os 3 tipos de presenças:
+
+1. **Espíritos de Pessoas**: Se o **Espírito** do Darianista entrar em uma Sala com duas pessoas conversando, ele não saberá identificar quem são as pessoas, nem conseguirá identificar suas vozes, mas poderá enxergar seus **Espíritos**, bem como seus **Karmas**, suas **Inclinações para o Bem ou Mal** e suas **Emoções**.
+2. **Espíritos de Criaturas**: Esses também possuem **Espíritos**, e o **Darianista** pode diferenciá-los dos Espíritos de Pessoas, mas não pode saber com precisão de que Criatura se trata.<br/>
+Assim como as Pessoas, o **Dariano** também poderá diferenciar o Espírito de Criaturas mais violentas, mais raivosas ou mais brandas.
+3. **Presenças Mágicas**: Concentrações mágicas poderosas emitem uma Aura própria, sendo distinguíveis de Pessoas e Criaturas.
+
+**Enquanto andarilho, você não pode atacar outros Espíritos atrelados a corpos vivos. A única excessão dessa regra são Espiritos corrompidos, como Assombrações, Fantasmas e criaturas Espirituais.**
+
+Existem apenas duas preocupações que o Dariano precisa ter enquanto estiver na forma de Andarilho:
+
+1. O **Espírito** não poderá se afastar a mais de ```TIER * 20m``` de distância de seu corpo.
+Caso o faça, o **Darianista** quebrará o **Elo Espiritual**, cairá inconsciente em uma espécie de coma, e seu Espírito será enviado ao **Plano Astral**, sendo o **Dariano** incapaz de retomar seus sentidos até que o Espírito encontre o caminho de volta.<br/>
+Conforme chega próximo ao limite do Elo, o **Espírito** pode sentir a tração do **Elo Espiritual**, e o Narrador **deve** informar o Jogador para que ele saiba onde deve parar.
+
+1. O **Espírito** não poderá ficar inconsciente como consequência de um combate com criaturas Espirituais ou Espíritos corrompidos. Caso isso aconteça, o **Elo Espiritual** também é quebrado.
+
+:::info O Plano Astral
+Nos casos onde o **Elo Espiritual** é quebrado, o Personagem fica inconsciente por tempo indeterminado, e seu Espírito é sugado para o **Plano Astral**, um plano onde o Tempo e o Espaço se confundem em infinitas realidades.
+
+O **Espirito** passa a não possui mais acesso fácil à realidade onde seu corpo original se encontra, e precisará encontrar o caminho de volta caso queira retornar ao seu corpo.
+
+Conforme o tempo passa, o **Espírito** vai cada vez mais perdendo sua conexão com a realidade anterior, até que o fraco vínculo com seu corpo original se quebre para sempre. Caberá ao Narrador determinar de quanto será esse tempo;
+:::
 
 ## Interpretando um Adepto de Darian
 
@@ -89,6 +112,14 @@ De acordo com eles, o próprio surgimento dos Augúrios estaria relacionado a he
 O **Grimo de Darian** foi uma relíquia encontrada por um famoso Arqueólogo conhecido como **Darian Nagar**, eras passadas, no Advento das grandes civilzações. A relíquia é frequentemente considerada pelos historiadores como um dos Primeiros Grimos da civilização sensciente, e que parece ter traços de compatibilidade com a antiga Civilização perdida dos **Gudrash**.
 
 **Darian** passou anos estudando o artefato, mas jamais conseguiu concluir sua pesquisa, deixando para trás apenas um valioso diário com anotações de todas suas descobertas. Mas foi apenas Eras depois, com o advento do Blecaute, que o Diário teria sido recuperado e replicado por Espiritistas ávidos, fundando assim a Academia e **Doutrina de Darian**.
+
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Ponto de Espírito.
+- Ter realizado pelo menos 1 contato Mediúnico com o Plano Astral ou seus resquícios nos últimos 6 meses (A Guilda irá saber)
+- Passar no teste de afinidade mágica rolando um d100 e somando seu **Espírito * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
 
 ## Poderes do Grimo
 

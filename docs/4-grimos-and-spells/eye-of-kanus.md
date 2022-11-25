@@ -73,7 +73,16 @@ Uma das grandes vantagens de ser um **Adepto de Kanus** é que vocÊ estará nat
 
 Cada **Adepto** pode possuir até 3 contratos de Caça em seu nome, sendo que cada contrato especifica suas condições de tempo e outros detalhes que podem variar de local para local.
 
-### 2. Especialidade e Temor
+### 2. Escolher seus Poderes Iniciais
+
+A menos que outra regra diga o contrário, você deverá:
+
+- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 1x (um) Poder Especial.
+
+## Virtudes do Grimo
+
+### 1. Especialidade e Temor
 
 Ao criar um personagem nesse caminho, você deve também especificar 2 (dois) tipos de criaturas da *tabela de tipos de criatura*.
 
@@ -84,7 +93,7 @@ Já outra escolha será seu **Temor de Caça**, lhe fornecendo **-2 de Bônus em
 Essas criaturas são o seu pesadelo, uma espécie de trauma que você pode ter adquirido por eventos passados, ou apenas uma má sorte que te parece te acompanhar sempre que você encontra uma criatura dessas em seu caminho.<br/>
 Não importa o quanto você tente, sempre parece mais difícil combater esse tipo de criatura, e essas dificuldades se refletem no campo de batalha.
 
-### Tabela de Tipos de Criatura
+#### 1.a Tabela de Tipos de Criatura
 
 Para sua comodidade, segue a lista de tipos de Criatura:
 
@@ -167,12 +176,24 @@ Para sua comodidade, segue a lista de tipos de Criatura:
   </tbody>
 </table>
 
-### 3. Escolher seus Poderes Iniciais
+### 2. Sinergia Ambiental
 
-A menos que outra regra diga o contrário, você deverá:
+Quando criar seu personagem, escolha um Bioma, você é especialista neste Bioma, e receberá **bônus de +2** em **todas as ações** que realizar enquanto estiver nele.
 
-- Escolher 2x (dois) Poderes do Tier 1.
-- Escolher 1x (um) Poder Especial.
+Você pode escolher entre os seguintes Biomas:
+
+- Floresta
+- Caverna
+- Montanha
+- Pântano
+- Deserto
+- Planície
+- Cerrado
+- Mar (alto-mar)
+- Céu
+- Área Vulcânica
+- Detóxia (planícies ácidas)
+- Polênio (florestas de esporos)
 
 ## Interpretando um Adepto de Kanus
 
@@ -203,6 +224,13 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C06a7be0e-8191-4a21-92f7-8a2512083d9e.png" width="80" /> | Espada do Iniciante + 0 | Físico | D10 + 2 | Adaga inicial do Aventureiro, bem simples e suporta poucos cortes. | 3 Cargas | Agilidade |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
+
+## Requisito de entrada
+
+As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
+
+- Possuir pelo menos 1 Ponto de Sobrevivência ou Agilidade.
+- Para receber o Grimo, você deverá se comprometer a realizar pelo menos 1 contrato da Guilda.
 
 ## Poderes do Grimo
 
