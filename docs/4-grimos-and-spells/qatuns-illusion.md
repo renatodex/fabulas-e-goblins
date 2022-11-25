@@ -58,16 +58,30 @@ Mas mesmo aqueles que ainda não chegaram lá conseguem frequentemente mexer os 
 
 ## Origem do Grimo
 
+Houve um tempo no passado, onde os **Augúrios**, indivíduos dotados de incrível **Elo Mágico** começaram a aparecer aqui e ali, ganhando admiradores no mundo todo.
 
+Esses indivíduos pareciam ter um dom natural de manipular a Magia muito superior a qualquer outro, e rapidamente tornaram-se figuras importantes, como Conselheiros, Mestres da Moeda, servindo frequentemente como braço direito de importantes Reis e figuras da alta sociedade das Terras Místicas.
+
+Mas nem todos ficaram felizes com o surgimento dos Augúrios. Os Nobres comuns, que durante gerações faziam parte das cúpulas mais importantes, começaram a perder seu poder e influência por carecerem do conhecimento mágico avançado que os poderosos Augúrios possuiam.
+
+Foi então que **Faruni Qatun**, um influente **Senhor de Terras** percebeu que era a hora de mudar o jogo, e juntou-se com outros Nobres de igual influência, criando pela primeira vez a **Ilusão de Qatun**.
+
+São muitas as histórias ocultas sobre a origem sangrenta e duvidosa do Grimo, pois seus conhecimentos de certa forma estão alinhados com uma forma de Magia bastante descontrolada e temida: A **Magia do Caos**.
+
+O Grimo concentrava poderes de **ilusionismo, controle e manipulação social**, que poderiam convencer com *verdades frágeis* até o mais cético dos Anciões.
+
+Em pouco temepo, **Faruni** percebeu que outros Nobres também tinham interesse de usufruir do mesmo poder, e foi à partir desse desejo que ele criou seu império: as **Basílicas de Qatun**, imponentes templos onde aqueles com poder, influência e dinheiro seriam capazes de aprender os conhecimentos ocultos do poderoso **Grimo**.
+
+**Faruni** gerenciou pessoalmente as **Abadias** até os seus últimos dias, passando-as para as futuras gerações, que continuaram, e continuam a expandir a influência dos **Adeptos de Qatun** pelo mundo todo.
 
 ## Requisito de entrada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
-- Possuir pelo menos 1 de Influência.
-- Possuir um patrimônio de pelo menos 4000 Temirs.
-- Deve pagar uma Taxa de entrada de 4000 Temirs.
-- Apresentar **Carta de Recomendação** de membro da Guilda.
+- Possuir pelo menos 1 ponto de Influência.
+- Possuir um patrimônio declarado de pelo menos 6000 Temirs.
+- Deve pagar uma Taxa de entrada de 3000 Temirs.
+- Apresentar **Carta de Recomendação** de um **Adepto de Qatun**.
 - Passar no teste escrito rolando um d100 e somando seu **Destino * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 3000 Temirs.
 - Portar Trajes Luxuosos.
 
