@@ -4,13 +4,11 @@ title: Aparato de Magni
 slug: /4-grimos-and-spells/magni-machine
 ---
 
-<!-- Os **Adeptos de Magni** são conhecidos por serem **Tecmatas**, palavra usada no mundo das **Terras Místicas** para descrever os inventores místicos que possuem o poder de aplicar a magia aos Magnis, criando construções inanimadas que podem auxiliá-los em diversas tarefas. -->
+Conhecidos como os *Necromantes das Máquinas*, os **Adeptos de Magni** são poderosos conjuradores não-elementais capazes de dar vida a objetos e transformá-los em **Magnis**
 
-Os **Adeptos de Magni** são conhecidos pela Criação e Dominação dos **Magnis**: Objetos mecânicos animados e controlados por de Magia.
+A arte de animar objetos, conhecida como **Tecmagi**, foi desenvolvida pelos povos antigos, que acreditavam que a **Tecmagi** era a única forma de manipular a magia sem corrompê-la.
 
-O **Grimo de Magni** é o Artefato que acumula o conhecimento da **Tecmagi**, uma arte ancestral desenvolvida por povos antigos que permitia a utilização da Magia para animar construções não-orgânicas, chamadas de **Magnis**.
-
-A **Academia de Treinamento de Magni** ensina um estilo de combate utilitário, que usa os **Magnis** como ajudantes cruciais no campo de Batalha, ao mesmo tempo em que o Dominador se mantém em sincronia com suas criações e dirige o combate como um verdadeiro estrategista.
+Esses **Tecmagos** são treinados no combate utilitário em grandes templos mecânicos conhecidos como **Cubos de Magni**. Lá, eles aprendem a arte da estratégia, animando seus ajudantes de batalha e tornando-se proficientes no uso de **Bombas** como armas e até **Garruchas**.
 
 :::note
 Antigas civilizações do Oriente como os Guximaxi e os Ualarins acreditavam que a **Tecmagi** era uma das formas mais respeitosas de se utilizar a dominação Mágica, uma vez que a magia dessa maneira jamais seria usada com o propósito direto de ferir um ser vivo por intervenção física.
@@ -90,18 +88,19 @@ Esses povos antigos foram os criadores originais da técnica da **Tecmagi**, e e
 
 Diversos artefatos selvagens criados por essas civilizações eram similares aos Grimos modernos em seu funcionamento, e guardavam dentro de si uma grande quantidade de ensinamentos e técnicas antigas para utilização da **Tecmagi**.
 
-`Magni` foi o primeiro a decifrar e traduzir a lingua ancestral desses povos e documentar as diversas Técnicas da poderosa **Tecmagi**. Sendo um Linguista benévolo, toda a pesquisa e conhecimento da Arte de Batalha **Ualarin** e **Guaximagi** fora cuidadosamente registrada no seu Grimo original, o `Aparato de Magni`.
+`Magni` era um descendente distante do povo **Ualarin**, e foi o primeiro a decifrar e traduzir a lingua ancestral desses povos e documentar as diversas Técnicas da poderosa **Tecmagi**. Sendo um Linguista benévolo, toda a pesquisa e conhecimento da Arte de Batalha **Ualarin** e **Guaximagi** fora cuidadosamente registrada no seu Grimo original, o `Aparato de Magni`.
 
 Com o passar dos anos, especialmente após o `Blecaute`, a **Tecmagi** se tornou uma Doutrina popular, e muitos Adeptos agora estudam e difundem os conhecimentos valiosos dessas antigas civilizações.
 
-A **Academia de Magni** esta espalhada em diversas localidades do mundo, e hoje é representada e mantida por diversos herdeiros distantes dos **Guximaxi** e **Uaralin** originais.
+Os **Cubos de Magni** estão espalhada em diversas localidades do mundo, e até hoje são mantidos por diversos herdeiros distantes dos **Guximaxi** e **Uaralin** originais.
 
 ## Requisito de entrada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
-- Possuir pelo menos 1 Pontos em Elo Mágico.
+- Possuir pelo menos 1 Ponto em Elo Mágico.
 - Deve pagar uma Taxa de entrada de 2000 Temirs.
+- Ter usado seus talentos por pelo menos 5 vezes de forma útil para decifrar Máquinas, Constructos ou outros tipos de aparatos mecânicos. (a Guilda irá saber)
 - Passar no teste de entrada rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
 
 ## Poderes do Grimo
