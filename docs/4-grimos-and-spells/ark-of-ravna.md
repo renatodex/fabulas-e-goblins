@@ -201,7 +201,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
 1.   Transferir Instância: Cria um vinculo com o alvo que permite usar os poderes de Instãncia nele. Ao receber dano, o vinculo é quebrado. (Apenas 1 poder de Instância pode ficar ativo)
 2.   Instigar a Besta: Permite usar os poderes da Besta em aliados. (Apenas 1 poder da Besta pode ficar ativo)
-3.   Eclodir: Entra em um casulo mágico com 100PV que se autodestrói em 3 turnos, causando um dano absurdo numa area circular de 50 quadrados. Se estiver com a Pena da Fenix , esse poder causa 5d12 de dano. Se estiver sem a pena da Fenix, esse poder causa 9d20 de Dano.
+3.   Eclodir: Entra em um casulo mágico com 100PV que se autodestrói em 3 turnos, causando um dano absurdo numa area circular de 50 quadrados. Se estiver com a Pena da Fenix , esse poder causa 9d12 de dano. Se estiver sem a pena da Fenix, esse poder causa 9d20 de Dano.
 4.   Penas da Fenix: Uma única pena dourada nasce em seu corpo uma vez ao mês (máximo de uma). Se você sofrer uma morte fatal com a pena, você reviverá imediatamente.
 5.   Instância do Erupto: Estruturas cascudas nas suas costas cospem 2 bolas de fogo a todo turno, que atingem 2 alvos a sua escolha e causam 1d12 de dano.
 6.   Cranio Nuclear: Atira 1 Cranio explosivo em um ponto, causando uma explosão massiva que queima uma area de 8x8.
