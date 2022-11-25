@@ -151,16 +151,57 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 ### Habilidades - Tier 1
 
-Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
+1.  Grito da Ravina : Causa dano de vento em volta do personagem
+2.  Garras de Fogo: Um ataque que conjura garras de fogo em um quadrado a distancia.
+3.  Espinhos : Conjura espinhos contra um unico inimigo
+4.  Laser : Conjura um Laser em uma linha que atinge todos inimigos
+5.  Carapaça de Agua : Absorve uma quantidade fixa de dano
+6.  Florescer: Seu toque floresce mesmo o solo morto, fazendo brotar frutos e crescer raizes. Pode ser usado para crescer pontes improvisadas e estruturas diversas
+7.  Domo das Sombras - Conjura um circulo de sombras em um inimigo impedindo que ele tenha visao
+8.  Força do Bisão: Fornece dano adicional a um Aliado
+9.  Entender Animais: Você pode falar com animais normalmente. Isso permite ao conjurador realizar testes de carisma com criaturas selvagens.
+10. Convocar Transporte: Chama aves enorme para transportar o grupo de um local conhecido para outro.
+11. Instância do Espinhento: Cresce espinhos em seu corpo, de forma que qualquer contato com aliado ou inimigo cause 1d4 de dano extra. Estar engajado com um inimigo faz com que o dano seja causado a todo turno.
+12. Olhar da Besta: Torna o conjurador extremamente sensível, permitindo que ele enxergue a distâncias enormes, veja no escuro total, enxergue rastros, veja sangue em locais que foram limpos, e enxergue ondas de rádio, ou de natureza magnética.
 
 ### Habilidades - Tier 2
 
-Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
+1.   Escudo de Ossos: 5 cargas de ossos que causam dano por turno em alvos adjacentes
+2.   Casco Trazeiro: Conjura um casco trazeiro em si mesmo que absorve danos.
+3.   Sanguessuga: Prende um sanguessuga em um algo que drena vida para si.
+4.   Bolha Ácida: Conjura uma bolha que explode causando dano ácido
+5.   Descarga controlada : Segura o turno para usar em conjunto com outro personagem, potencializa o ataque com uma potente descarga elétrica.
+6.   Jato de Teia : Previne que um inimigo se mova.
+7.   Sopro do Arcano: Bafora uma nuvem de magia arcana em cone.
+8.   Feixe do Elo Elétrico: Conjura um raio a distancia em um inimigo, em seguida, o feixe atinge 2 unidades próximas em cadeia a uma distancia de até 2 quadrados. O Conjurador se torna o próprio raio, teletransportando-se ao final do poder para um quadrado adjacente do último alvo atingido.
+9.   Presa Explosiva: Conjura uma presa explosiva que atinge um inimigo a uma distância de até sete quadrados e explode logo em seguida causando dano numa área de 2X2 quadrados.
+10.  Instância do Venenoso: Cresce orificios na cabeça ou corpo que expelem uma aura de veneno de 1x1 quadrado, que envenenam os inimigos proximos e impede que corram.
+11. Ouvidos da Besta: Torna o conjurador sensível ao som, possibilitando que ele identifique focos de sons através de paredes,  e consiga focalizar a sua volta para escutar sons em qualquer direção. Pode identificar inimigos próximos ouvindo as batidas de seus corações.
 
 ### Habilidades - Tier 3
 
-Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
+1.   Forma Plasmática: Permite ao conjurador atravessar paredes por 1 turno (ou 5 minutos fora de combate)
+2.   Pulso Enlouquecedor: Aterroriza inimigos em uma area de 2 quadrados enquanto os deixa aterrorizados. Os inimigos ficam tão desesperados, que são capazes de se jogar em buracos, pular desfiladeiros e até escalar paredes para se distanciar do conjurador.
+3.   Desarme Ambiental: Um pilar do caos surge em um quadrado, transformando temporariamente a arma do inimigo em um simples graveto encantado. O graveto retorna a sua forma normal no final do próximo turno do alvo. O graveto encantado causa 1d6 e é inquebrável durante esse período.
+4.   Olfato da Besta: o conjurador pode saber a localização exata de qualquer alvo que ele conseguir cheirar através de um objeto ou item pessoal que pertença ao alvo, desde que o alvo esteja a até 1000km de distância.
+5.   Instância do Gárgula: Nascem asas de pedra que lhe permitem alçar voo a até 10 quadrados e atacar inimigos com rajadas de ar (2d12)
+6.   Nébula Sombria: Conjura uma densa névoa das sombras que impede qualquer inimigo em seu interior de enxergar seus alvos. dentro da Área, o conjurador pode atacar dois alvos
+7.   Vinculo de Sangue: Cria uma conexao com um inimigo, dividindo pela metade o dano recebido.
+8.   Curto circuito: Conjura um feixe de eletricidade que atinge até 3 inimigos em uma distância de até dois quadrados. Se o feixe formar um triangulo entre os alvos no máximo uns dos outros, A área interna entre os inimigos se conecta e seu interior explode causando dano em todos os inimigos na área.
+9.   Salto Selvagem : Pula a uma distância impressionante causando um impacto não elemental a todos inimigos adjacentes ao pousar.
+10.  Cogumelos Explosivos: Conjura grandes cogumelos que se explodem quando um inimigo se move a um quadrado adjacente
 
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
+1.   Transferir Instância: Cria um vinculo com o alvo que permite usar os poderes de Instãncia nele. Ao receber dano, o vinculo é quebrado. (Apenas 1 poder de Instância pode ficar ativo)
+2.   Instigar a Besta: Permite usar os poderes da Besta em aliados. (Apenas 1 poder da Besta pode ficar ativo)
+3.   Eclodir: Entra em um casulo mágico com 100PV que se autodestrói em 3 turnos, causando um dano absurdo numa area circular de 50 quadrados. Se estiver com a Pena da Fenix , esse poder causa 5d12 de dano. Se estiver sem a pena da Fenix, esse poder causa 9d20 de Dano.
+4.   Penas da Fenix: Uma única pena dourada nasce em seu corpo uma vez ao mês (máximo de uma). Se você sofrer uma morte fatal com a pena, você reviverá imediatamente.
+5.   Instância do Erupto: Estruturas cascudas nas suas costas cospem 2 bolas de fogo a todo turno, que atingem 2 alvos a sua escolha e causam 1d12 de dano.
+6.   Cranio Nuclear: Atira 1 Cranio explosivo em um ponto, causando uma explosão massiva que queima uma area de 8x8.
+7.   Forma da Besta: Se transforma em uma criatura assustadora, aumentando seus pontos de movimento, ataque , defesa, vida e tamanho em 2x2.
+8.   Fossilizar: Permite usar a Ação de Fossilizar contra criaturas selvagens vivas. Inimigos Fossilizados morrem automaticamente (d100, 10% de chance, funciona contra qualquer inimigo. Só pode usar 1 vez por dia e gasta toda a Magia)
+9.   Comandar a Besta: Permite controlar uma criatura selvagem utilizando o Grimo de Ravna. Ação de Perícia, Elo Mágico, não funciona em Nemesis. Só uma pode ser controlada ao mesmo tempo.
+10.  Ovo Elemental: Conjura um ovo explosivo que ao colidir, conjura uma explosão elemental, cujo elemento é dicidido ao se rolar 1d12. (Seguir ordem do Grimo de Allura) (Atinge inimigos e aliados)
