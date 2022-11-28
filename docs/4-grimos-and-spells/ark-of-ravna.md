@@ -206,6 +206,8 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 ### Habilidades - Tier 1
 
+<SpellFromJson expanded={false} spellData={ravine_scream} />
+
 1.  Grito da Ravina: Causa dano de vento em volta do personagem
 2.  Garras de Fogo: Um ataque que conjura garras de fogo em um quadrado a distancia.
 3.  Espinhos : Conjura espinhos contra um unico inimigo
