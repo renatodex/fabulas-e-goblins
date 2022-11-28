@@ -4,6 +4,57 @@ title: Arca de Ravna
 slug: /4-grimos-and-spells/ark-of-ravna
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import savage_connection from './../../data/spells/spells-ravna/ultimates/savage_connection.json'
+
+import bison_strength from './../../data/spells/spells-ravna/tier1/bison_strength.json'
+import bloom from './../../data/spells/spells-ravna/tier1/bloom.json'
+import conjure_transport from './../../data/spells/spells-ravna/tier1/conjure_transport.json'
+import eye_of_the_beast from './../../data/spells/spells-ravna/tier1/eye_of_the_beast.json'
+import fire_claws from './../../data/spells/spells-ravna/tier1/fire_claws.json'
+import lazer from './../../data/spells/spells-ravna/tier1/lazer.json'
+import prickly_instance from './../../data/spells/spells-ravna/tier1/prickly_instance.json'
+import ravine_scream from './../../data/spells/spells-ravna/tier1/ravine_scream.json'
+import shadow_dome from './../../data/spells/spells-ravna/tier1/shadow_dome.json'
+import spikes from './../../data/spells/spells-ravna/tier1/spikes.json'
+import tallk_to_animals from './../../data/spells/spells-ravna/tier1/tallk_to_animals.json'
+import water_carapace from './../../data/spells/spells-ravna/tier1/water_carapace.json'
+
+import bone_shield from './../../data/spells/spells-ravna/tier2/bone_shield.json'
+import breath_of_the_arcane from './../../data/spells/spells-ravna/tier2/breath_of_the_arcane.json'
+import controlled_discharge from './../../data/spells/spells-ravna/tier2/controlled_discharge.json'
+import ear_of_the_beast from './../../data/spells/spells-ravna/tier2/ear_of_the_beast.json'
+import eletric_link_beam from './../../data/spells/spells-ravna/tier2/eletric_link_beam.json'
+import explosive_horn from './../../data/spells/spells-ravna/tier2/explosive_horn.json'
+import leech from './../../data/spells/spells-ravna/tier2/leech.json'
+import rear_shell from './../../data/spells/spells-ravna/tier2/rear_shell.json'
+import venomous_instance from './../../data/spells/spells-ravna/tier2/venomous_instance.json'
+import web_jet from './../../data/spells/spells-ravna/tier2/web_jet.json'
+
+import blood_bound from './../../data/spells/spells-ravna/tier3/blood_bound.json'
+import dark_nebula from './../../data/spells/spells-ravna/tier3/dark_nebula.json'
+import environmental_disarm from './../../data/spells/spells-ravna/tier3/environmental_disarm.json'
+import explosive_toads from './../../data/spells/spells-ravna/tier3/explosive_toads.json'
+import gargoyle_instance from './../../data/spells/spells-ravna/tier3/gargoyle_instance.json'
+import maddening_pulse from './../../data/spells/spells-ravna/tier3/maddening_pulse.json'
+import nose_of_the_beast from './../../data/spells/spells-ravna/tier3/nose_of_the_beast.json'
+import plasmatic_shape from './../../data/spells/spells-ravna/tier3/plasmatic_shape.json'
+import savage_jump from './../../data/spells/spells-ravna/tier3/savage_jump.json'
+import short_circuit from './../../data/spells/spells-ravna/tier3/short_circuit.json'
+
+import command_the_beast from './../../data/spells/spells-ravna/tier4/command_the_beast.json'
+import elemental_egg from './../../data/spells/spells-ravna/tier4/elemental_egg.json'
+import erupt_instance from './../../data/spells/spells-ravna/tier4/erupt_instance.json'
+import fenix_feather from './../../data/spells/spells-ravna/tier4/fenix_feather.json'
+import fossilize from './../../data/spells/spells-ravna/tier4/fossilize.json'
+import hatch from './../../data/spells/spells-ravna/tier4/hatch.json'
+import instigate_beast from './../../data/spells/spells-ravna/tier4/instigate_beast.json'
+import nuclear_skull from './../../data/spells/spells-ravna/tier4/nuclear_skull.json'
+import shape_of_the_beast from './../../data/spells/spells-ravna/tier4/shape_of_the_beast.json'
+import transfer_instance from './../../data/spells/spells-ravna/tier4/transfer_instance.json'
+
+
 Os **Adeptos de Ravna** acreditam que a forma mais pura de manipular a Magia seja através de seus portadores originais, as Criaturas Selvagens.
 Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as criaturas selvagens se unem à magia por **Simbiose Mágica**, e muitas dessas criaturas necessitam da relação de coexistência para sobreviver.
 
@@ -155,7 +206,7 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 ### Habilidades - Tier 1
 
-1.  Grito da Ravina : Causa dano de vento em volta do personagem
+1.  Grito da Ravina: Causa dano de vento em volta do personagem
 2.  Garras de Fogo: Um ataque que conjura garras de fogo em um quadrado a distancia.
 3.  Espinhos : Conjura espinhos contra um unico inimigo
 4.  Laser : Conjura um Laser em uma linha que atinge todos inimigos
