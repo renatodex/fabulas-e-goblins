@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Garras de Fogo",
+  "magic_cost": "3 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Corpo-a-Corpo",
+  "range_amount": "1",
+  "icon": "GiPointySword",
+  "element": "fire",
+  "caption": "Conjura enormes garras de fogo que atingem um inimigo próximo.",
+  "description": "<p>O poder precisa ser usado em um alvo adjacente, causando <code>2d10+6</code> de dano do Elemento Fogo. Não causa queimaduras no inimigo.</p>",
+  "tags": ["grimo","ravna"]
 }

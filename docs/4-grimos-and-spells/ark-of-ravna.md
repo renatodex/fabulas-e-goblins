@@ -208,18 +208,22 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 <SpellFromJson expanded={false} spellData={ravine_scream} />
 
-1.  Grito da Ravina: Causa dano de vento em volta do personagem
-2.  Garras de Fogo: Um ataque que conjura garras de fogo em um quadrado a distancia.
-3.  Espinhos : Conjura espinhos contra um unico inimigo
-4.  Laser : Conjura um Laser em uma linha que atinge todos inimigos
-5.  Carapaça de Agua : Absorve uma quantidade fixa de dano
-6.  Florescer: Seu toque floresce mesmo o solo morto, fazendo brotar frutos e crescer raizes. Pode ser usado para crescer pontes improvisadas e estruturas diversas
-7.  Domo das Sombras - Conjura um circulo de sombras em um inimigo impedindo que ele tenha visao
-8.  Força do Bisão: Fornece dano adicional a um Aliado
-9.  Entender Animais: Você pode falar com animais normalmente. Isso permite ao conjurador realizar testes de carisma com criaturas selvagens.
-10. Convocar Transporte: Chama aves enorme para transportar o grupo de um local conhecido para outro.
-11. Instância do Espinhento: Cresce espinhos em seu corpo, de forma que qualquer contato com aliado ou inimigo cause 1d4 de dano extra. Estar engajado com um inimigo faz com que o dano seja causado a todo turno.
-12. Olhar da Besta: Torna o conjurador extremamente sensível, permitindo que ele enxergue a distâncias enormes, veja no escuro total, enxergue rastros, veja sangue em locais que foram limpos, e enxergue ondas de rádio, ou de natureza magnética.
+<SpellFromJson expanded={false} spellData={fire_claws} />
+
+<SpellFromJson expanded={false} spellData={spikes} />
+
+<SpellFromJson expanded={false} spellData={lazer} />
+
+<SpellFromJson expanded={false} spellData={water_carapace} />
+
+1.  Carapaça de Agua : Absorve uma quantidade fixa de dano
+2.  Florescer: Seu toque floresce mesmo o solo morto, fazendo brotar frutos e crescer raizes. Pode ser usado para crescer pontes improvisadas e estruturas diversas
+3.  Domo das Sombras - Conjura um circulo de sombras em um inimigo impedindo que ele tenha visao
+4.  Força do Bisão: Fornece dano adicional a um Aliado
+5.  Entender Animais: Você pode falar com animais normalmente. Isso permite ao conjurador realizar testes de carisma com criaturas selvagens.
+6.  Convocar Transporte: Chama aves enorme para transportar o grupo de um local conhecido para outro.
+7.  Instância do Espinhento: Cresce espinhos em seu corpo, de forma que qualquer contato com aliado ou inimigo cause 1d4 de dano extra. Estar engajado com um inimigo faz com que o dano seja causado a todo turno.
+8.  Olhar da Besta: Torna o conjurador extremamente sensível, permitindo que ele enxergue a distâncias enormes, veja no escuro total, enxergue rastros, veja sangue em locais que foram limpos, e enxergue ondas de rádio, ou de natureza magnética.
 
 ### Habilidades - Tier 2
 
