@@ -55,15 +55,15 @@ import shape_of_the_beast from './../../data/spells/spells-ravna/tier4/shape_of_
 import transfer_instance from './../../data/spells/spells-ravna/tier4/transfer_instance.json'
 
 
+![ravnabanner.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ceae0b53c-a0bf-4f9a-bfb3-a0fceb6a3471.png)
+
 Os **Adeptos de Ravna** acreditam que a forma mais pura de manipular a Magia seja através de seus portadores originais, as Criaturas Selvagens.
 Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as criaturas selvagens se unem à magia por **Simbiose Mágica**, e muitas dessas criaturas necessitam da relação de coexistência para sobreviver.
 
 A **Arca de Ravna** é artefato especial que contém dentro de si os echos de diversas criaturas selvagens que viveram no passado.
 E é através da comunhão com a essência dessas criaturas, que os dominadores podem acessar o conhecimento de combate delas e utilizá-lo para desferir ataques poderosos no campo de batalha.
 
-Os Adeptos que querem aprender mais sobre os ensinamentos do Grimo devem ingressar nos **Templos de Ravna**, onde os dogmas e doutrinas para dominar a **Arca de Ravna** são repassados aos **Adeptos iniciantes**.
-
-Através desse conhecimento, os dominadores da Arca podem utilizar técnicas que vão muito além da Dominação Elemental bruta, manipulando as armas naturais dessas criaturas e desferindo ataques que podem mudar o rumo de um combate.
+Além de conjurar a poderosa magia selvagem das Criaturas, os adeptos aprendem a combater seus inimigos com **Garras** e **Estilingues mágicos**, que atingem seus inimigos a uma enorme distância.
 
 ## Criando um Adepto de Ravna
 
@@ -185,6 +185,17 @@ Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
     <td>Acredita-se que os K'gons eram os Knerotraco pré-históricos, manipulando múltiplos elementos e possuindo o poder de controlar a <b>Dualidade Elemental</b>. Os K'gons não apenas  misturavam elementos opostos, como também podiam criar conjurações de natureza quântica, que permitiam elementos opostos como o Fogo e a Água a co-existir no mesmo espaço, sem se anularem.</td>
   </tr>
 </table>
+
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
+| ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C91a10937-bcf7-4572-8f9a-3b8ffdff5a6c.png" width="80" /> | Garras do Iniciante + 0 | Mágico | D4 + 4 | Orbe inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas | Elo Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D6 + 4 | Cetro inicial do Aventureiro, ataque corpo-a-corpo. | 3 Cargas | Inteligência |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
 
 ## Requisito de entrada
 
