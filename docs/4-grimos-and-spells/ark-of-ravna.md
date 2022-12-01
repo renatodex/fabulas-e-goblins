@@ -239,6 +239,8 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 <SpellFromJson expanded={false} spellData={water_carapace} />
 
+<SpellFromJson expanded={false} spellData={bloom} />
+
 1.  Carapaça de Agua : Absorve uma quantidade fixa de dano
 2.  Florescer: Seu toque floresce mesmo o solo morto, fazendo brotar frutos e crescer raizes. Pode ser usado para crescer pontes improvisadas e estruturas diversas
 3.  Domo das Sombras - Conjura um circulo de sombras em um inimigo impedindo que ele tenha visao

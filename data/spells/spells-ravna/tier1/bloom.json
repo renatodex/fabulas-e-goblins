@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Florescer",
+  "magic_cost": "2 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Circular",
+  "range_amount": "3",
+  "icon": "GiHealing",
+  "element": "nature",
+  "caption": "Seu toque floresce mesmo o solo morto, fazendo brotar frutos e crescer raizes.",
+  "description": "<p>Ao ser conjurado, faz florescer uma vegetação em uma área circular de até 3 quadrados em volta de sí mesmo. É possível extender raízes e utiliza-las para formar estruturas sólidas de baixa complexidade.</p><p>O poder exige uma <b>Ação de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p>Pode ser usado para crescer pontes pequenas improvisadas e estruturas diversas.</p>",
+  "tags": ["grimo","ravna"]
 }
