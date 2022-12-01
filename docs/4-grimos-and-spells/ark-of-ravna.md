@@ -63,7 +63,7 @@ Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as
 A **Arca de Ravna** é artefato especial que contém dentro de si os echos de diversas criaturas selvagens que viveram no passado.
 E é através da comunhão com a essência dessas criaturas, que os dominadores podem acessar o conhecimento de combate delas e utilizá-lo para desferir ataques poderosos no campo de batalha.
 
-Além de conjurar a poderosa magia selvagem das Criaturas, os adeptos aprendem a combater seus inimigos com **Garras** e **Estilingues mágicos**, que atingem seus inimigos a uma enorme distância.
+Além de conjurar a poderosa magia selvagem das Criaturas, os adeptos aprendem a combater seus inimigos com **Essências de Criatura** e **Estilingues mágicos**, que atingem seus inimigos a uma enorme distância.
 
 ## Criando um Adepto de Ravna
 
@@ -188,14 +188,26 @@ Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
 
 ## Armas Iniciais
 
-Você pode escolher entre duas armas iniciais:
+Você pode escolher entre duas armas iniciais:s
 
 | Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
 | ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C91a10937-bcf7-4572-8f9a-3b8ffdff5a6c.png" width="80" /> | Garras do Iniciante + 0 | Mágico | D4 + 4 | Orbe inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas | Elo Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D6 + 4 | Cetro inicial do Aventureiro, ataque corpo-a-corpo. | 3 Cargas | Inteligência |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd3396a29-68f5-4b88-94a6-b902e8d420ee.png" width="80" /> | Essência do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D6 + 6 | Estilingue que dispara um projétil mágico não-elemental à distância. | 3 Cargas | Intelecto |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
+
+## Essências de Criatura
+
+Dentre os itens iniciais do **Adepto de Ravna**, um deles, a **Essência do Iniciante**, merece ser detalhada.
+
+Esse item pertence a uma categoria de Armas mágicas conhecidas como **"Essências de criatura"**. As **Essências** podem variar em sua forma, desde Cajados, Cetros, e até Anéis, mas o que eles tem em comum não é seu potencial de dano físico, mas o que eles armazenam.
+
+Quando ativadas, as **Essências de criatura selvagem** desferem um **único ataque mimetizado** de uma criatura. Por exemplo, a **Essência do Iniciante** conjura uma **mordida mágica** que aflige um alvo adjacente, mas outros itens de maior qualidade podem conjurar ataques mais poderosos, como ataques Elementais, e podem até afetar múltiplos alvos.
+
+Esse ataque é conjurado de forma mágica através do **Elo Mágico** do Conjurador, e quase sempre efetuam um ataque corpo-a-corpo em um alvo.
+
+As **Essências** são armas nobres, frequentemente forjadas na forma de Cajados, Cetros e Anéis, e são identificadas pela escultura característica da Essência do animal aprisionado.
 
 ## Requisito de entrada
 
