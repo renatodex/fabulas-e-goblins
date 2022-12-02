@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Sopro do Arcano",
+  "magic_cost": "6 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Cone",
+  "range_amount": "3",
+  "icon": "GiSunbeams",
+  "element": "arcane",
+  "caption": "Bafora uma nuvem de magia arcana que afeta vários inimigos.",
+  "description": "<p>O Sopro causa <code>2d12+10</code> de Dano Arcano em uma área em cone a partir da posição do personagem de dano e causa <b>Silêncio 1T</b>. (atinge apenas inimigos)</p><p>Ao final do poder, o Personagem será rotacionado para a direção escolhida.</p>",
+  "tags": ["grimo","ravna"]
 }

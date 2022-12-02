@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
-  "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "name": "Ouvidos da Besta",
+  "magic_cost": "6 P.M",
+  "duration_time": "1 hora",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
+  "range_amount": null,
+  "icon": "GiAwareness",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Transmuta seus ouvidos para o ouvido da Besta, tornando-se super sensível ao som.",
+  "description": "<p>Torna o conjurador sensível ao som, possibilitando que ele identifique focos de sons através de paredes, e consiga focalizar a sua volta para escutar sons em qualquer direção. Pode identificar a coordenada e as características de seres vivos próximos ouvindo as batidas de seus corações.</p><p>O conjurador pode dissolver o poder a qualquer momento, e apenas 1 Poder da Besta pode estar ativo ao mesmo tempo.Caso o conjurador não dissolve o poder, o mesmo durará por 1 hora.</p><p>Enquanto estiver usando os <b>Ouvidos da Besta</b>, o conjurador receberá <code>1d12</code> de dano adicional para qualquer poder Sônico ou de Som. Sons ensurdecedores também causarão <code>Atordoar 1T</code>.</p>",
+  "tags": ["grimo","ravna"]
 }

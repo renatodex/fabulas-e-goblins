@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
-  "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "name": "Casco Trazeiro",
+  "magic_cost": "4 P.M",
+  "duration_time": "1 hora",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
+  "range_amount": null,
+  "icon": "GiWingedShield",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Conjura um casco trazeiro em si mesmo que absorve danos.",
+  "description": "<p>O Casco é conjurado como um escudo de proteção em suas costas, e qualquer dano recebido dessa forma é reduzido em <code>3d12</code>.</p><p>O Casco também se desfaz após receber dano proveniente de um ataque dorsal, e apenas um casco pode ser conjurado ao mesmo tempo.</p><p>O conjurador pode desfazer a proteção a qualquer momento, mas caso não o faça, ela pode durar até 1 hora.</p>",
+  "tags": ["grimo","ravna"]
 }

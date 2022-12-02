@@ -31,6 +31,7 @@ import leech from './../../data/spells/spells-ravna/tier2/leech.json'
 import rear_shell from './../../data/spells/spells-ravna/tier2/rear_shell.json'
 import venomous_instance from './../../data/spells/spells-ravna/tier2/venomous_instance.json'
 import web_jet from './../../data/spells/spells-ravna/tier2/web_jet.json'
+import acid_bubble from './../../data/spells/spells-ravna/tier2/acid_bubble.json'
 
 import blood_bound from './../../data/spells/spells-ravna/tier3/blood_bound.json'
 import dark_nebula from './../../data/spells/spells-ravna/tier3/dark_nebula.json'
@@ -257,17 +258,23 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 <SpellFromJson expanded={false} spellData={bone_shield} />
 
-1.   Escudo de Ossos: 5 cargas de ossos que causam dano por turno em alvos adjacentes
-2.   Casco Trazeiro: Conjura um casco trazeiro em si mesmo que absorve danos.
-3.   Sanguessuga: Prende um sanguessuga em um algo que drena vida para si.
-4.   Bolha Ácida: Conjura uma bolha que explode causando dano ácido
-5.   Descarga controlada : Segura o turno para usar em conjunto com outro personagem, potencializa o ataque com uma potente descarga elétrica.
-6.   Jato de Teia : Previne que um inimigo se mova.
-7.   Sopro do Arcano: Bafora uma nuvem de magia arcana em cone.
-8.   Feixe do Elo Elétrico: Conjura um raio a distancia em um inimigo, em seguida, o feixe atinge 2 unidades próximas em cadeia a uma distancia de até 2 quadrados. O Conjurador se torna o próprio raio, teletransportando-se ao final do poder para um quadrado adjacente do último alvo atingido.
-9.   Presa Explosiva: Conjura uma presa explosiva que atinge um inimigo a uma distância de até sete quadrados e explode logo em seguida causando dano numa área de 2X2 quadrados.
-10.  Instância do Venenoso: Cresce orificios na cabeça ou corpo que expelem uma aura de veneno de 1x1 quadrado, que envenenam os inimigos proximos e impede que corram.
-11. Ouvidos da Besta: Torna o conjurador sensível ao som, possibilitando que ele identifique focos de sons através de paredes,  e consiga focalizar a sua volta para escutar sons em qualquer direção. Pode identificar inimigos próximos ouvindo as batidas de seus corações.
+<SpellFromJson expanded={false} spellData={controlled_discharge} />
+
+<SpellFromJson expanded={false} spellData={breath_of_the_arcane} />
+
+<SpellFromJson expanded={false} spellData={eletric_link_beam} />
+
+<SpellFromJson expanded={false} spellData={venomous_instance} />
+
+<SpellFromJson expanded={false} spellData={acid_bubble} />
+
+<SpellFromJson expanded={false} spellData={web_jet} />
+
+<SpellFromJson expanded={false} spellData={rear_shell} />
+
+<SpellFromJson expanded={false} spellData={leech} />
+
+<SpellFromJson expanded={false} spellData={ear_of_the_beast} />
 
 ### Habilidades - Tier 3
 

@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Descarga Caótica",
+  "magic_cost": "6 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Reação",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRingedBeam",
+  "element": "chaos",
+  "caption": "Segura o turno para lançar uma potente descarga elétrica combinada com o ataque de um aliado.",
+  "description": "<p>Ao conjurar a <b>Descarga Caótica</b>, você começa a acumular uma pequena tempestade compactada, segurando-a com suas mãos até o momento em que um aliado realiza um ataque a um inimigo.</p><p>Quando seu aliado atacar, você deve rolar contra a <b>Defesa Mágica</b> do inimigo alvo.</p><p>Caso você e seu aliado sejam bem sucedidos no teste, sua descarga se junta ao ataque aliado, potencializando seu dano e permitindo que seu aliado cause um adicional de <code>4d8+12</code> de dano.</p><p>Caso você falhe, seu aliado sofrerá <code>1d12</code> de dano de Caos.</p>",
+  "tags": ["grimo","ravna"]
 }

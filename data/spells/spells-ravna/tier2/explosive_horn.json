@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Presa Explosiva",
+  "magic_cost": "6 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiSunbeams",
+  "element": "fire",
+  "caption": "Conjura uma presa explosiva que causa dano mágico vários inimigos.",
+  "description": "<p>Presa Explosiva: Conjura uma presa explosiva que atinge um inimigo a uma distância de até sete quadrados e explode logo em seguida causando dano numa área de 2X2 quadrados.</p>",
+  "tags": ["grimo","ravna"]
 }
