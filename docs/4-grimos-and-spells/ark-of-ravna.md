@@ -10,7 +10,7 @@ import savage_connection from './../../data/spells/spells-ravna/ultimates/savage
 
 import bison_strength from './../../data/spells/spells-ravna/tier1/bison_strength.json'
 import bloom from './../../data/spells/spells-ravna/tier1/bloom.json'
-import conjure_transport from './../../data/spells/spells-ravna/tier1/conjure_transport.json'
+import sticky_slime from './../../data/spells/spells-ravna/tier1/sticky_slime.json'
 import eye_of_the_beast from './../../data/spells/spells-ravna/tier1/eye_of_the_beast.json'
 import fire_claws from './../../data/spells/spells-ravna/tier1/fire_claws.json'
 import lazer from './../../data/spells/spells-ravna/tier1/lazer.json'
@@ -18,7 +18,7 @@ import prickly_instance from './../../data/spells/spells-ravna/tier1/prickly_ins
 import ravine_scream from './../../data/spells/spells-ravna/tier1/ravine_scream.json'
 import shadow_dome from './../../data/spells/spells-ravna/tier1/shadow_dome.json'
 import spikes from './../../data/spells/spells-ravna/tier1/spikes.json'
-import tallk_to_animals from './../../data/spells/spells-ravna/tier1/tallk_to_animals.json'
+import talk_to_animals from './../../data/spells/spells-ravna/tier1/talk_to_animals.json'
 import water_carapace from './../../data/spells/spells-ravna/tier1/water_carapace.json'
 
 import bone_shield from './../../data/spells/spells-ravna/tier2/bone_shield.json'
@@ -188,26 +188,26 @@ Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
 
 ## Armas Iniciais
 
-Você pode escolher entre duas armas iniciais:s
+Você pode escolher entre duas armas iniciais:
 
 | Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
 | ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd3396a29-68f5-4b88-94a6-b902e8d420ee.png" width="80" /> | Essência do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd3396a29-68f5-4b88-94a6-b902e8d420ee.png" width="80" /> | Urna do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D6 + 6 | Estilingue que dispara um projétil mágico não-elemental à distância. | 3 Cargas | Intelecto |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
-## Essências de Criatura
+## Urnas Mágicas
 
-Dentre os itens iniciais do **Adepto de Ravna**, um deles, a **Essência do Iniciante**, merece ser detalhada.
+Dentre os itens iniciais do **Adepto de Ravna**, um deles, a **Urna do Iniciante**, merece ser detalhada.
 
-Esse item pertence a uma categoria de Armas mágicas conhecidas como **"Essências de criatura"**. As **Essências** podem variar em sua forma, desde Cajados, Cetros, e até Anéis, mas o que eles tem em comum não é seu potencial de dano físico, mas o que eles armazenam.
+Esse item pertence a uma categoria de Armas mágicas conhecidas como **"Urnas de Essência"**, que armazenam a essência de uma única criatura selvagem.
 
-Quando ativadas, as **Essências de criatura selvagem** desferem um **único ataque mimetizado** de uma criatura. Por exemplo, a **Essência do Iniciante** conjura uma **mordida mágica** que aflige um alvo adjacente, mas outros itens de maior qualidade podem conjurar ataques mais poderosos, como ataques Elementais, e podem até afetar múltiplos alvos.
+Quando ativadas, as **Urnas** desferem um **único ataque mimetizado** de uma criatura. Por exemplo, a **Urna do Iniciante** conjura uma **mordida mágica** que aflige um alvo adjacente, mas outros itens de maior qualidade podem conjurar ataques mais poderosos, como ataques Elementais, e podem até afetar múltiplos alvos.
 
 Esse ataque é conjurado de forma mágica através do **Elo Mágico** do Conjurador, e quase sempre efetuam um ataque corpo-a-corpo em um alvo.
 
-As **Essências** são armas nobres, frequentemente forjadas na forma de Cajados, Cetros e Anéis, e são identificadas pela escultura característica da Essência do animal aprisionado.
+As **Urnas** são armas nobres, exigem pelo menos uma mão para serem manipuladas e podem ser facilmente acopladas ao corpo do conjurador.
 
 ## Requisito de entrada
 
@@ -229,6 +229,12 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 ### Habilidades - Tier 1
 
+<SpellFromJson expanded={false} spellData={bloom} />
+
+<SpellFromJson expanded={false} spellData={bison_strength} />
+
+<SpellFromJson expanded={false} spellData={talk_to_animals} />
+
 <SpellFromJson expanded={false} spellData={ravine_scream} />
 
 <SpellFromJson expanded={false} spellData={fire_claws} />
@@ -239,18 +245,17 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 <SpellFromJson expanded={false} spellData={water_carapace} />
 
-<SpellFromJson expanded={false} spellData={bloom} />
+<SpellFromJson expanded={false} spellData={shadow_dome} />
 
-1.  Carapaça de Agua : Absorve uma quantidade fixa de dano
-2.  Florescer: Seu toque floresce mesmo o solo morto, fazendo brotar frutos e crescer raizes. Pode ser usado para crescer pontes improvisadas e estruturas diversas
-3.  Domo das Sombras - Conjura um circulo de sombras em um inimigo impedindo que ele tenha visao
-4.  Força do Bisão: Fornece dano adicional a um Aliado
-5.  Entender Animais: Você pode falar com animais normalmente. Isso permite ao conjurador realizar testes de carisma com criaturas selvagens.
-6.  Convocar Transporte: Chama aves enorme para transportar o grupo de um local conhecido para outro.
-7.  Instância do Espinhento: Cresce espinhos em seu corpo, de forma que qualquer contato com aliado ou inimigo cause 1d4 de dano extra. Estar engajado com um inimigo faz com que o dano seja causado a todo turno.
-8.  Olhar da Besta: Torna o conjurador extremamente sensível, permitindo que ele enxergue a distâncias enormes, veja no escuro total, enxergue rastros, veja sangue em locais que foram limpos, e enxergue ondas de rádio, ou de natureza magnética.
+<SpellFromJson expanded={false} spellData={sticky_slime} />
+
+<SpellFromJson expanded={false} spellData={prickly_instance} />
+
+<SpellFromJson expanded={false} spellData={eye_of_the_beast} />
 
 ### Habilidades - Tier 2
+
+<SpellFromJson expanded={false} spellData={bone_shield} />
 
 1.   Escudo de Ossos: 5 cargas de ossos que causam dano por turno em alvos adjacentes
 2.   Casco Trazeiro: Conjura um casco trazeiro em si mesmo que absorve danos.

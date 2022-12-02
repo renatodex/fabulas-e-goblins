@@ -1,0 +1,15 @@
+{
+  "name": "Falar com Animais",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBeamsAura",
+  "element": "nature",
+  "caption": "Seu Grimo lhe concede o poder para entender e falar com animais.",
+  "description": "<p>Esse poder é separado em duas capacidades, a de entender, e a de falar.</p><p>Para interagir com animais, você deverá usar a mesma intensidade e estilo de vocalização da criatura que está interagindo com você.</p><p>Para isso, sempre que quiser interagir com animais, você deverá passar em uma <code>Ação de Perícia</code> do atributo <b>Influência</b>.</p>Caso você falhe em uma ação de influência, poderá escolher se isso afetará a sua fala, ou se isso afetará o seu entendimento do que a criatura está falando.</p><p>Afetar a sua fala significa que talvez você não consiga se comunicar propriamente com a criatura, ou troque as palavras de forma acidental. Já se a ação afetar o seu entendimento, significa que você talvez não consiga entender com precisão o que a criatura está querendo te dizer. Ficará a cargo do Narrador entender a intensidade dessa falha no momento da interação.</p>",
+  "tags": ["grimo","ravna"]
+}

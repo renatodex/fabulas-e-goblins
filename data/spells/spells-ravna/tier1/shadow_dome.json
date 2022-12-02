@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Domo das Sombras",
+  "magic_cost": "2 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiMucousPillar",
+  "element": "darkness",
+  "caption": "Conjura um domo de sombras em um único quadrado, bloqueando a visão do inimigo",
+  "description": "<p>O Domo ocupa apenas um quadrado e impede a visão de qualquer um que esteja no espaço do Domo.</p><p>A visão através do Domo também é bloqueada, então o Domo também serve como uma espécie de obstáculo transpassável que bloqueia a visão.</p><p>Para conjurar o Domo, você deverá passar em uma <b>Ação de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p>Apenas 2 Domos podem ser conjurados ao mesmo tempo. O Domo dura até o final do dia, ou até que o conjurador decida dissipá-lo.</p>",
+  "tags": ["grimo","ravna"]
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
-  "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "name": "Olho da Besta",
+  "magic_cost": "4 P.M",
+  "duration_time": "1 hora",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
+  "range_amount": null,
+  "icon": "GiBeamsAura",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "O Conjurador transmuta seus próprios olhos para os <b>Olho da Besta</b>, sendo capaz de enxergar a enormes distâncias.",
+  "description": "<p>Com duração de 1 hora. Esse poder altera os olhos do conjurador para os <b>Olhos da Besta</b>, aumentando sua visão e tornando-a extremamente sensível, permitindo que ele enxergue a distâncias enormes, veja no escuro total, enxergue rastros, detecte sangue mesmo em locais que foram limpos, e enxergue ondas de rádio, ou até de natureza magnética.</p><p>Este poder não é considerado como uma Instância, podendo ser usado em combate e ser dissolvido a qualquer momento pelo conjurador.</p>",
+  "tags": ["grimo","ravna"]
 }
