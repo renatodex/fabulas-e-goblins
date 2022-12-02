@@ -64,7 +64,7 @@ Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as
 A **Arca de Ravna** é artefato especial que contém dentro de si os echos de diversas criaturas selvagens que viveram no passado.
 E é através da comunhão com a essência dessas criaturas, que os dominadores podem acessar o conhecimento de combate delas e utilizá-lo para desferir ataques poderosos no campo de batalha.
 
-Além de conjurar a poderosa magia selvagem das Criaturas, os adeptos aprendem a combater seus inimigos com **Essências de Criatura** e **Estilingues mágicos**, que atingem seus inimigos a uma enorme distância.
+Além de conjurar a poderosa magia selvagem das Criaturas, os adeptos aprendem a combater seus inimigos com **Urnas** e **Estilingues** mágicos, que atingem seus inimigos a uma enorme distância.
 
 ## Criando um Adepto de Ravna
 
