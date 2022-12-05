@@ -119,7 +119,7 @@ export function Spell ({
   })
 
   let mode = 'light';
-  if (element == 'eletric' || element == 'acid' || element == 'chaos') {
+  if (element == 'eletric'  || element == 'chaos') {
     mode = 'dark'
   }
 

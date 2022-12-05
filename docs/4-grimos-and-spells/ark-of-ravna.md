@@ -72,7 +72,7 @@ Para criar um **Adepto de Ravna**, você deverá saber de algumas coisas:
 
 ### 1. Escolha um Mentor
 
-É praticamente impossível desvendar sozinho os segredos da **Arca de Ravna**, e a maioria dos **Adeptos** iniciou seus ensinos através da ajuda de um **Mestre Ocultista**. A história, personalidade e contexto para escolher esse Mestre depende do histórico do Jogador, e pode variar imensamente.
+É praticamente impossível desvendar sozinho os segredos da **Arca de Ravna**, e a maioria dos **Adeptos** iniciou seus ensinos através da ajuda de um **Mestre de Criaturas**. A história, personalidade e contexto para escolher esse Mestre depende do histórico do Jogador, e pode variar imensamente.
 
 De qualquer forma, quando você criar um **Adepto de Ravna**, deverá indicar na sua história quem foi o seu Mentor.
 
@@ -104,7 +104,7 @@ A ação custa **Pontos de Magia** que variam dependendo da categoria da criatur
 
 Os **Fragmento de Zirgônio** são muito utilizados na criação de itens mágicos, e podem ser vendido nos grandes reinos por uma média de `TIER * 40 Temirs`.
 
-Fragmentos podem ser vendidos nos **Templos do Culto de Ravna**, e também utilizado na confecção de Armas e Encantamento de Itens com a propriedade **Zirgoniana**. (utilizadas para causar dano ou ter resistência adicional contra um tipo especifico de inimigo).
+Fragmentos podem ser vendidos nos **Templos de Ravna**, e também utilizado na confecção de Armas e Encantamento de Itens com a propriedade **Zirgoniana**. (utilizadas para causar dano ou ter resistência adicional contra um tipo especifico de inimigo).
 
 :::info Tier dos Fragmentos
 É importante ressaltar que cada Fragmento gerado pertence ao **Tier** da criatura abatida.
@@ -193,7 +193,7 @@ Você pode escolher entre duas armas iniciais:
 
 | Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
 | ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd3396a29-68f5-4b88-94a6-b902e8d420ee.png" width="80" /> | Urna do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C78b9ce5f-493f-4ea7-98e0-83521cb80da8.PNG" width="80" /> | Urna do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D6 + 6 | Estilingue que dispara um projétil mágico não-elemental à distância. | 3 Cargas | Intelecto |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
@@ -231,49 +231,29 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 ### Habilidades - Tier 1
 
 <SpellFromJson expanded={false} spellData={bloom} />
-
 <SpellFromJson expanded={false} spellData={bison_strength} />
-
 <SpellFromJson expanded={false} spellData={talk_to_animals} />
-
 <SpellFromJson expanded={false} spellData={ravine_scream} />
-
 <SpellFromJson expanded={false} spellData={fire_claws} />
-
 <SpellFromJson expanded={false} spellData={spikes} />
-
 <SpellFromJson expanded={false} spellData={lazer} />
-
 <SpellFromJson expanded={false} spellData={water_carapace} />
-
 <SpellFromJson expanded={false} spellData={shadow_dome} />
-
 <SpellFromJson expanded={false} spellData={sticky_slime} />
-
 <SpellFromJson expanded={false} spellData={prickly_instance} />
-
 <SpellFromJson expanded={false} spellData={eye_of_the_beast} />
 
 ### Habilidades - Tier 2
 
 <SpellFromJson expanded={false} spellData={bone_shield} />
-
 <SpellFromJson expanded={false} spellData={controlled_discharge} />
-
 <SpellFromJson expanded={false} spellData={breath_of_the_arcane} />
-
 <SpellFromJson expanded={false} spellData={eletric_link_beam} />
-
 <SpellFromJson expanded={false} spellData={venomous_instance} />
-
 <SpellFromJson expanded={false} spellData={acid_bubble} />
-
 <SpellFromJson expanded={false} spellData={web_jet} />
-
 <SpellFromJson expanded={false} spellData={rear_shell} />
-
 <SpellFromJson expanded={false} spellData={leech} />
-
 <SpellFromJson expanded={false} spellData={ear_of_the_beast} />
 
 ### Habilidades - Tier 3
