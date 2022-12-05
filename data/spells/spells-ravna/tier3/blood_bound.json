@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Vinculo de Sangue",
+  "magic_cost": "7 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiLinkedRings",
+  "element": "chaos",
+  "caption": "Uma corrente de sangue conecta o conjurador com um alvo, divindo com ele o dano recebido.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b> se for um inimigo. Se for bem sucedido, uma corrente de sangue  passa a conectar você e o inimigo, podendo ser transpassada por qualquer um sem qualquer consequência.</p><p>A corrente portanto, pode ser atacada com um ataque físico ou mágico bem sucedido para ser quebrada. O vínculo também é quebrado caso o inimigo se mova a mais de 5 quadrados de distância do conjurador.</p><p>Enquanto estiver ativa, qualquer dano que o conjurador receber será dividido pela metade e aplicado também ao alvo conectado em forma de Dano do elemento Caos. Esse dano não pode ser reduzido por nenhum feitiço ou aura de redução de dano.</p>",
+  "tags": ["grimo","ravna"]
 }

@@ -278,18 +278,29 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
 ### Habilidades - Tier 3
 
-1.   Forma Plasmática: Permite ao conjurador atravessar paredes por 1 turno (ou 5 minutos fora de combate)
-2.   Pulso Enlouquecedor: Aterroriza inimigos em uma area de 2 quadrados enquanto os deixa aterrorizados. Os inimigos ficam tão desesperados, que são capazes de se jogar em buracos, pular desfiladeiros e até escalar paredes para se distanciar do conjurador.
-3.   Desarme Ambiental: Um pilar do caos surge em um quadrado, transformando temporariamente a arma do inimigo em um simples graveto encantado. O graveto retorna a sua forma normal no final do próximo turno do alvo. O graveto encantado causa 1d6 e é inquebrável durante esse período.
-4.   Olfato da Besta: o conjurador pode saber a localização exata de qualquer alvo que ele conseguir cheirar através de um objeto ou item pessoal que pertença ao alvo, desde que o alvo esteja a até 1000km de distância.
-5.   Instância do Gárgula: Nascem asas de pedra que lhe permitem alçar voo a até 10 quadrados e atacar inimigos com rajadas de ar (2d12)
-6.   Nébula Sombria: Conjura uma densa névoa das sombras que impede qualquer inimigo em seu interior de enxergar seus alvos. dentro da Área, o conjurador pode atacar dois alvos
-7.   Vinculo de Sangue: Cria uma conexao com um inimigo, dividindo pela metade o dano recebido.
-8.   Curto circuito: Conjura um feixe de eletricidade que atinge até 3 inimigos em uma distância de até dois quadrados. Se o feixe formar um triangulo entre os alvos no máximo uns dos outros, A área interna entre os inimigos se conecta e seu interior explode causando dano em todos os inimigos na área.
-9.   Salto Selvagem : Pula a uma distância impressionante causando um impacto não elemental a todos inimigos adjacentes ao pousar.
-10.  Cogumelos Explosivos: Conjura grandes cogumelos que se explodem quando um inimigo se move a um quadrado adjacente
+<SpellFromJson expanded={false} spellData={blood_bound} />
+<SpellFromJson expanded={false} spellData={maddening_pulse} />
+<SpellFromJson expanded={false} spellData={environmental_disarm} />
+<SpellFromJson expanded={false} spellData={nose_of_the_beast} />
+<SpellFromJson expanded={false} spellData={dark_nebula} />
+<SpellFromJson expanded={false} spellData={gargoyle_instance} />
+<SpellFromJson expanded={false} spellData={explosive_toads} />
+<SpellFromJson expanded={false} spellData={plasmatic_shape} />
+<SpellFromJson expanded={false} spellData={savage_jump} />
+<SpellFromJson expanded={false} spellData={short_circuit} />
 
 ### Habilidades - Tier 4
+
+<SpellFromJson expanded={false} spellData={command_the_beast} />
+<SpellFromJson expanded={false} spellData={elemental_egg} />
+<SpellFromJson expanded={false} spellData={erupt_instance} />
+<SpellFromJson expanded={false} spellData={fenix_feather} />
+<SpellFromJson expanded={false} spellData={fossilize} />
+<SpellFromJson expanded={false} spellData={hatch} />
+<SpellFromJson expanded={false} spellData={instigate_beast} />
+<SpellFromJson expanded={false} spellData={nuclear_skull} />
+<SpellFromJson expanded={false} spellData={shape_of_the_beast} />
+<SpellFromJson expanded={false} spellData={transfer_instance} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

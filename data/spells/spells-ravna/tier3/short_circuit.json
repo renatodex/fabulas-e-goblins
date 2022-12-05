@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Curto Circuito",
+  "magic_cost": "8 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "3",
+  "icon": "GiBoltSpellCast",
+  "element": "eletric",
+  "caption": "Conjura um feixe de eletricidade que atinge vários inimigos podendo causar uma explosão de curto circuito.",
+  "description": "<p>Escolha 3 inimigos a uma distância de até <code>4 espaços</code> (sem contar diagonal) entre sí.</p><p>Faça um teste contra a <b>Defesa Mágica</b> de cada inimigo na ordem em que serão atingidos pelo feixe.</p><p>Você Conjura um feixe de eletricidade que atinge consecutivamente cada um dos inimigos que falharem, causando <code>3d12+6</code> de <b>Dano Elétrico</b>.</p><p>Se algum teste falhar, o feixe é interrompido imediatamente e nenhum dos inimigos consecutivos recebe dano.</p><p>No entanto, se todos os inimigos falharem na Defesa e o feixe elétrico formar um triangulo de até <b>4 espaços de distância</b> entre os alvos, a <b>área interna</b> do triangulo entre os inimigos atingidos se conecta e uma grande explosão é causada na área interior, causando <code>5d12+6</code> de Dano Elétrico em todos os inimigos dentro da área. (nesse caso, os inimigos que formaram o triangulo não recebem esse segundo dano)</p>",
+  "tags": ["grimo","ravna"]
 }
