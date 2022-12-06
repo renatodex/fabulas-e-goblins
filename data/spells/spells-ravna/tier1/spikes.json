@@ -1,0 +1,15 @@
+{
+  "name": "Espinhos",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Circular",
+  "range_amount": "1",
+  "icon": "GiBeamsAura",
+  "element": "materia",
+  "caption": "Conjura espinhos ao seu redor que atingem todos inimigos adjacentes.",
+  "description": "<p>Faça um teste de ataque mágico para cada inimigo adjacente, o ataque causa <code>4d4+4</code> a todos inimigos próximos.</p>",
+  "tags": ["grimo","ravna"]
+}

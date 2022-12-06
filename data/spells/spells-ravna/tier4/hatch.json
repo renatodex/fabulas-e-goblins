@@ -1,0 +1,15 @@
+{
+  "name": "Eclodir",
+  "magic_cost": null,
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Circular",
+  "range_amount": "50",
+  "icon": "GiSunbeams",
+  "element": "fire",
+  "caption": "Conjurando o poder máximo do Grimo de Ravna, você se isola em um casulo poderoso, sacrificando-se e gerando uma explosão de proporções lendárias.",
+  "description": "<p>Você entra em um casulo de fogo com <code>100PV</code> que se autodestrói em <b>3 turnos</b>, causando <code>20d20+250</code> de dano de Fogo numa area circular de <b>50 quadrados</b>.</p><p>Ao eclodir, sua essência é consumida no processo, <b>sacrificando seu personagem permanentemente</b>.</p><p>Se estiver com a Pena da Fenix, esse poder causa apenas <code>4d20+100</code> de dano de fogo.</p><p>Caso o casulo seja destruído, a explosão ocorre da mesma maneira, mas o dano é dividido pelo <b>número de turnos restantes</b> para eclodir.</p>",
+  "tags": ["grimo","ravna","sacrifice"]
+}

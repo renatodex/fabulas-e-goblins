@@ -1,0 +1,15 @@
+{
+  "name": "Gosma Pegajosa",
+  "magic_cost": "4 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1-2",
+  "icon": "GiAwareness",
+  "element": "acid",
+  "caption": "Arremessa uma gosma ácida pegajosa em dois alvos adjacentes, impedindo que se movam e ainda recebam dano.",
+  "description": "<p>Esse poder pode ser usado em 1 ou 2 alvos, desde que estejam adjacentes um do outro.</p><p>Assim como todo poder mágico, você deverá testar contra a <code>Defesa Mágica</code> de cada alvo. Cada alvo acertado passa a ser afetado pelo ácido da Gosma por <code>3 Turnos</code>, e recebe <code>TIER*1d8</code> de dano a cada turno.</p><p>Se for bem sucedido e acertar 2 alvos adjacentes, esses não poderão se mover.</p><p>Cada alvo só pode ser afetado por 1 única instância da Gosma ao mesmo tempo.</p>",
+  "tags": ["grimo","ravna"]
+}

@@ -4,15 +4,67 @@ title: Arca de Ravna
 slug: /4-grimos-and-spells/ark-of-ravna
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import savage_connection from './../../data/spells/spells-ravna/ultimates/savage_connection.json'
+
+import bison_strength from './../../data/spells/spells-ravna/tier1/bison_strength.json'
+import bloom from './../../data/spells/spells-ravna/tier1/bloom.json'
+import sticky_slime from './../../data/spells/spells-ravna/tier1/sticky_slime.json'
+import eye_of_the_beast from './../../data/spells/spells-ravna/tier1/eye_of_the_beast.json'
+import fire_claws from './../../data/spells/spells-ravna/tier1/fire_claws.json'
+import lazer from './../../data/spells/spells-ravna/tier1/lazer.json'
+import prickly_instance from './../../data/spells/spells-ravna/tier1/prickly_instance.json'
+import ravine_scream from './../../data/spells/spells-ravna/tier1/ravine_scream.json'
+import shadow_dome from './../../data/spells/spells-ravna/tier1/shadow_dome.json'
+import spikes from './../../data/spells/spells-ravna/tier1/spikes.json'
+import talk_to_animals from './../../data/spells/spells-ravna/tier1/talk_to_animals.json'
+import water_carapace from './../../data/spells/spells-ravna/tier1/water_carapace.json'
+
+import bone_shield from './../../data/spells/spells-ravna/tier2/bone_shield.json'
+import breath_of_the_arcane from './../../data/spells/spells-ravna/tier2/breath_of_the_arcane.json'
+import controlled_discharge from './../../data/spells/spells-ravna/tier2/controlled_discharge.json'
+import ear_of_the_beast from './../../data/spells/spells-ravna/tier2/ear_of_the_beast.json'
+import eletric_link_beam from './../../data/spells/spells-ravna/tier2/eletric_link_beam.json'
+import explosive_horn from './../../data/spells/spells-ravna/tier2/explosive_horn.json'
+import leech from './../../data/spells/spells-ravna/tier2/leech.json'
+import rear_shell from './../../data/spells/spells-ravna/tier2/rear_shell.json'
+import venomous_instance from './../../data/spells/spells-ravna/tier2/venomous_instance.json'
+import web_jet from './../../data/spells/spells-ravna/tier2/web_jet.json'
+import acid_bubble from './../../data/spells/spells-ravna/tier2/acid_bubble.json'
+
+import blood_bound from './../../data/spells/spells-ravna/tier3/blood_bound.json'
+import dark_nebula from './../../data/spells/spells-ravna/tier3/dark_nebula.json'
+import environmental_disarm from './../../data/spells/spells-ravna/tier3/environmental_disarm.json'
+import explosive_toads from './../../data/spells/spells-ravna/tier3/explosive_toads.json'
+import gargoyle_instance from './../../data/spells/spells-ravna/tier3/gargoyle_instance.json'
+import maddening_pulse from './../../data/spells/spells-ravna/tier3/maddening_pulse.json'
+import nose_of_the_beast from './../../data/spells/spells-ravna/tier3/nose_of_the_beast.json'
+import plasmatic_shape from './../../data/spells/spells-ravna/tier3/plasmatic_shape.json'
+import savage_jump from './../../data/spells/spells-ravna/tier3/savage_jump.json'
+import short_circuit from './../../data/spells/spells-ravna/tier3/short_circuit.json'
+
+import command_the_beast from './../../data/spells/spells-ravna/tier4/command_the_beast.json'
+import elemental_egg from './../../data/spells/spells-ravna/tier4/elemental_egg.json'
+import erupt_instance from './../../data/spells/spells-ravna/tier4/erupt_instance.json'
+import fenix_feather from './../../data/spells/spells-ravna/tier4/fenix_feather.json'
+import fossilize from './../../data/spells/spells-ravna/tier4/fossilize.json'
+import hatch from './../../data/spells/spells-ravna/tier4/hatch.json'
+import instigate_beast from './../../data/spells/spells-ravna/tier4/instigate_beast.json'
+import nuclear_skull from './../../data/spells/spells-ravna/tier4/nuclear_skull.json'
+import shape_of_the_beast from './../../data/spells/spells-ravna/tier4/shape_of_the_beast.json'
+import transfer_instance from './../../data/spells/spells-ravna/tier4/transfer_instance.json'
+
+
+![ravnabanner.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ceae0b53c-a0bf-4f9a-bfb3-a0fceb6a3471.png)
+
 Os **Adeptos de Ravna** acreditam que a forma mais pura de manipular a Magia seja através de seus portadores originais, as Criaturas Selvagens.
 Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as criaturas selvagens se unem à magia por **Simbiose Mágica**, e muitas dessas criaturas necessitam da relação de coexistência para sobreviver.
 
 A **Arca de Ravna** é artefato especial que contém dentro de si os echos de diversas criaturas selvagens que viveram no passado.
 E é através da comunhão com a essência dessas criaturas, que os dominadores podem acessar o conhecimento de combate delas e utilizá-lo para desferir ataques poderosos no campo de batalha.
 
-Os Adeptos que querem aprender mais sobre os ensinamentos do Grimo devem ingressar nos **Templos de Ravna**, onde os dogmas e doutrinas para dominar a **Arca de Ravna** são repassados aos **Adeptos iniciantes**.
-
-Através desse conhecimento, os dominadores da Arca podem utilizar técnicas que vão muito além da Dominação Elemental bruta, manipulando as armas naturais dessas criaturas e desferindo ataques que podem mudar o rumo de um combate.
+Além de conjurar a poderosa magia selvagem das Criaturas, os adeptos aprendem a combater seus inimigos com **Urnas** e **Estilingues** mágicos, que atingem seus inimigos a uma enorme distância.
 
 ## Criando um Adepto de Ravna
 
@@ -20,7 +72,7 @@ Para criar um **Adepto de Ravna**, você deverá saber de algumas coisas:
 
 ### 1. Escolha um Mentor
 
-É praticamente impossível desvendar sozinho os segredos da **Arca de Ravna**, e a maioria dos **Adeptos** iniciou seus ensinos através da ajuda de um **Mestre Ocultista**. A história, personalidade e contexto para escolher esse Mestre depende do histórico do Jogador, e pode variar imensamente.
+É praticamente impossível desvendar sozinho os segredos da **Arca de Ravna**, e a maioria dos **Adeptos** iniciou seus ensinos através da ajuda de um **Mestre de Criaturas**. A história, personalidade e contexto para escolher esse Mestre depende do histórico do Jogador, e pode variar imensamente.
 
 De qualquer forma, quando você criar um **Adepto de Ravna**, deverá indicar na sua história quem foi o seu Mentor.
 
@@ -37,7 +89,7 @@ A menos que outra regra diga o contrário, você deverá:
 
 ## Virtudes
 
-### 1. Converter Essência (Custo: Variável)
+### 1. Fossilizar (Custo: Variável)
 
 Quando uma criatura selvagem é abatida em combate, o **Adepto de Ravna** pode fossilizá-la magicamente gerando um **Fragmento de Zirgônio**.
 
@@ -52,7 +104,7 @@ A ação custa **Pontos de Magia** que variam dependendo da categoria da criatur
 
 Os **Fragmento de Zirgônio** são muito utilizados na criação de itens mágicos, e podem ser vendido nos grandes reinos por uma média de `TIER * 40 Temirs`.
 
-Fragmentos podem ser vendidos nos **Templos do Culto de Ravna**, e também utilizado na confecção de Armas e Encantamento de Itens com a propriedade **Zirgoniana**. (utilizadas para causar dano ou ter resistência adicional contra um tipo especifico de inimigo).
+Fragmentos podem ser vendidos nos **Templos de Ravna**, e também utilizado na confecção de Armas e Encantamento de Itens com a propriedade **Zirgoniana**. (utilizadas para causar dano ou ter resistência adicional contra um tipo especifico de inimigo).
 
 :::info Tier dos Fragmentos
 É importante ressaltar que cada Fragmento gerado pertence ao **Tier** da criatura abatida.
@@ -84,24 +136,22 @@ E por isso, os **Adeptos** devem utilizar seu poder para estudar as criaturas do
 
 ## Origem do Grimo
 
-**Ravna Damagun** já era popular entre **Cultistas** por ter sido a primeira **Orácula** a explorar a extração de conhecimento Mágico das Criaturas selvagens.
-Entre os seus ensinamentos, espalhados pelos reinos que passou, sempre houve a sugestão de que ela teria trabalhado num Artefato que seria capaz de controlar o Poder do Caos de forma intensa.
+**Ravna Damagan** já era popular entre **Cultistas** por ter sido a primeira **Orácula** a explorar a extração de conhecimento Mágico das Criaturas selvagens.
+Entre os seus ensinamentos, espalhados pelos reinos que passou, sempre houve a sugestão de que ela teria trabalhado num Artefato que seria capaz de controlar o Poder da Magia Selvagem de forma intensa.
 
 A existência do Artefato porém, nunca havia sido comprovada, até então.
 
-Foi quase dois Séculos após o Blecaute que uma estranha **Arca** teria sido recuperada pelos **Valdari** numa embarcação naufragada ao norte de **Caldera**.
-Após anos sendo vendida como velharia no **Mercado Negro** de **Penhores**, a **Arca de Ravna** foi encontrada e adquirida por um de seus Adeptos, **Kalef Jadar**.
+Aproximadamente dois Séculos antes o Blecaute, uma estranha **Arca** teria sido recuperada pelos **Valdari** numa embarcação naufragada ao norte de **Caldera**.
+Após anos sendo vendida como velharia no **Mercado Negro** de **Penhores**, a **Arca de Ravna** foi encontrada e adquirida por um de seus mais ávidos admiradores, o Metalóide **Kalef Jadar**.
 
-A **Arca**, que possui o formato de um Octáculo, que consiste basicamente em um objeto com 8 lados, onde cada lado representa um esteriótipo do Plano Caótico.
+A **Arca** possui um compartimento sólido de cor vermelha, com uma fechadura entalhada que sugeriria a existência de uma chave, mas que por sua vez nunca foi encontrada.
 
-Não demorou muito até que o **Grimo** começasse a se comunicar com **Kalef**, fazendo perguntas sobre o mundo e compartilhando conhecimentos especificos com o **Cultista**.
-Com o tempo, **Kalef** aprendeu seus mistérios e passou a ter controle pleno sobre a **Arca**, que agora a considerava seu portador.
+Com o tempo, Kalef aprendeu os mistérios da Arca e passou a conjurar a misteriosa essência mágica das criaturas selvagens contidas nela, utilizando-as como arma, e  tornando-se o primeiro <b>Mestre de Ravna</b>.
 
 Os boatos sobre a Arca e seu Culto se espalharam rapidamente, e foi apenas quando **Kalef** foi atacado por um grupo de mercenários em busca da **Arca** que sentiu que era perigoso ficar isolado com tanto poder.
-**Kalef** reuniu seus Adeptos mais fieis, e passou a replicar o **Grimo de Ravna** através da ajuda de Mestre-Elos. <br/>
-Os Grimos foram entregues aos seus Cultistas mais fieis, resultando na fundação do **Culto de Ravna**.
 
-Não se sabe exatamente como a Arca foi criada, mas sabe-se que além dos conhecimentos de **Ravna**, o Grimo também armazena o conhecimento Mágico de criaturas selvagens de origem mágica, e acredita-se que essa é a fonte de seu verdadeiro poder. Os métodos utilizados por **Ravna** para aprisonar a Magia selvagem ainda são obscuros, mas tudo indica que o procedimento também envolveria um poderoso Ritual Mágico de origem Caótica, onde a essência mágica de monstros poderia teoricamente ter sido inserida na **Arca** no momento de sua construção.
+**Kalef** reuniu seus Aliados mais fieis, e passou a replicar o **Grimo de Ravna** através da ajuda de Mestre-Elos. <br/>
+Adeptos com interesse em estudar o poder das artes selvagem começaram a surgir de todos os cantos, resultando na fundação dos **Templos de Ravna**.
 
 ## Os Ecos da Arca
 
@@ -116,24 +166,47 @@ Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
 
   <tr>
     <td>Aburodon</td>
-    <td>Descrito como o Eco de um enorme Aburu pre-histórico que é conhecido por ser o precursor dos Aburus modernos. O Aburudon é uma criatura lendária extinta, sendo conhecido por possuir incríveis poderes sônicos.</td>
+    <td>Descrito como o Eco de um enorme Aburu pre-histórico que é conhecido por ser o precursor dos Aburus modernos. O Aburudon é uma criatura lendária extinta, sendo conhecido por possuir incríveis poderes sônicos e de fogo.</td>
   </tr>
 
   <tr>
     <td>Gamoru</td>
-    <td>Descrito como uma enorme besta bípedde, o Gamoru é a versão ancestral dos Gamor modernos, descrito nos livros antigos como uma besta capaz de carregar arvores com uma única garra e manipular a terra.</td>
+    <td>Descrito como uma enorme besta bípedde, o Gamoru é a versão ancestral dos Gamor modernos, descrito nos livros antigos como uma besta com poderes curativos capaz de carregar arvores com uma única garra e manipular a própria essência da Terra.</td>
   </tr>
 
   <tr>
     <td>Luzibal</td>
-    <td>Ainda venerado pelos Luzibs modernos como sua Divindade, os historiadores veem Luzibal como um lendário Réptil que andou pelas Terras Místicas em eras passadas. Seu curioso veneno inflamável era capaz de corroer florestas inteiras e transformar biomas vivos em verdadeiros desertos.</td>
+    <td>Ainda venerado pelos Luzibs modernos como sua Divindade, os historiadores veem Luzibal como um lendário Réptil que andou pelas Terras Místicas em eras passadas. Seu curioso veneno inflamável e sua magia do Caos era capaz de corroer florestas inteiras e transformar biomas vivos em verdadeiros desertos.</td>
   </tr>
 
   <tr>
-    <td>K'gon</td>
-    <td>Acredita-se que os K'gons eram os Knerotraco pré-históricos, manipulando múltiplos elementos e possuindo o poder de controlar a <b>Dualidade Elemental</b>. Os K'gons não apenas  misturavam elementos opostos, como também podiam criar conjurações de natureza quântica, que permitiam elementos opostos como o Fogo e a Água a co-existir no mesmo espaço, sem se anularem.</td>
+    <td>Thek'gon</td>
+    <td>Acredita-se que os Thek'gon eram os Knerotracos pré-históricos, sendo capazes de manipular todos elementos naturais. Por isso, os Thek'gon fazem parte do raro grupo de criaturas lendárias consideradas Dodecágonos Elementais. Os Thek'gons não apenas misturavam elementos diversos, como também podiam criar conjurações de natureza quântica, que permitiam  elementos opostos como o Fogo e a Água a co-existir no mesmo espaço, sem se anularem.</td>
   </tr>
 </table>
+
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
+| ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C78b9ce5f-493f-4ea7-98e0-83521cb80da8.PNG" width="80" /> | Urna do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D6 + 6 | Estilingue que dispara um projétil mágico não-elemental à distância. | 3 Cargas | Intelecto |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
+## Urnas Mágicas
+
+Dentre os itens iniciais do **Adepto de Ravna**, um deles, a **Urna do Iniciante**, merece ser detalhada.
+
+Esse item pertence a uma categoria de Armas mágicas conhecidas como **"Urnas de Essência"**, que armazenam a essência de uma única criatura selvagem.
+
+Quando ativadas, as **Urnas** desferem um **único ataque mimetizado** de uma criatura. Por exemplo, a **Urna do Iniciante** conjura uma **mordida mágica** que aflige um alvo adjacente, mas outros itens de maior qualidade podem conjurar ataques mais poderosos, como ataques Elementais, e podem até afetar múltiplos alvos.
+
+Esse ataque é conjurado de forma mágica através do **Elo Mágico** do Conjurador, e quase sempre efetuam um ataque corpo-a-corpo em um alvo.
+
+As **Urnas** são armas nobres, exigem pelo menos uma mão para serem manipuladas e podem ser facilmente acopladas ao corpo do conjurador.
 
 ## Requisito de entrada
 
@@ -149,18 +222,60 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
+1. Conexão Selvagem: Enraiza até 5 criaturas selvagens. Cada inimigo enraizado receberá 1 de dano para cada 1 ponto de dano selvagem que qualquer um dos inimigos enraizados receber.
+Ex: Se você enraizar 3 inimigos, e usar um ataque em área que cause 40 de dano aos 3 inimigos, cada inimigo sofrerá um total de 120 pontos de dano.
+A conexão é quebrada conforme os monstros recebem dano Selvagem.
+
 ### Habilidades - Tier 1
 
-Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
+<SpellFromJson expanded={false} spellData={bloom} />
+<SpellFromJson expanded={false} spellData={bison_strength} />
+<SpellFromJson expanded={false} spellData={talk_to_animals} />
+<SpellFromJson expanded={false} spellData={ravine_scream} />
+<SpellFromJson expanded={false} spellData={fire_claws} />
+<SpellFromJson expanded={false} spellData={spikes} />
+<SpellFromJson expanded={false} spellData={lazer} />
+<SpellFromJson expanded={false} spellData={water_carapace} />
+<SpellFromJson expanded={false} spellData={shadow_dome} />
+<SpellFromJson expanded={false} spellData={sticky_slime} />
+<SpellFromJson expanded={false} spellData={prickly_instance} />
+<SpellFromJson expanded={false} spellData={eye_of_the_beast} />
 
 ### Habilidades - Tier 2
 
-Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
+<SpellFromJson expanded={false} spellData={bone_shield} />
+<SpellFromJson expanded={false} spellData={controlled_discharge} />
+<SpellFromJson expanded={false} spellData={breath_of_the_arcane} />
+<SpellFromJson expanded={false} spellData={eletric_link_beam} />
+<SpellFromJson expanded={false} spellData={venomous_instance} />
+<SpellFromJson expanded={false} spellData={acid_bubble} />
+<SpellFromJson expanded={false} spellData={web_jet} />
+<SpellFromJson expanded={false} spellData={rear_shell} />
+<SpellFromJson expanded={false} spellData={leech} />
+<SpellFromJson expanded={false} spellData={ear_of_the_beast} />
 
 ### Habilidades - Tier 3
 
-Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
+<SpellFromJson expanded={false} spellData={blood_bound} />
+<SpellFromJson expanded={false} spellData={maddening_pulse} />
+<SpellFromJson expanded={false} spellData={environmental_disarm} />
+<SpellFromJson expanded={false} spellData={nose_of_the_beast} />
+<SpellFromJson expanded={false} spellData={dark_nebula} />
+<SpellFromJson expanded={false} spellData={gargoyle_instance} />
+<SpellFromJson expanded={false} spellData={explosive_toads} />
+<SpellFromJson expanded={false} spellData={plasmatic_shape} />
+<SpellFromJson expanded={false} spellData={savage_jump} />
+<SpellFromJson expanded={false} spellData={short_circuit} />
 
 ### Habilidades - Tier 4
 
-Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+<SpellFromJson expanded={false} spellData={command_the_beast} />
+<SpellFromJson expanded={false} spellData={instigate_beast} />
+<SpellFromJson expanded={false} spellData={transfer_instance} />
+<SpellFromJson expanded={false} spellData={elemental_egg} />
+<SpellFromJson expanded={false} spellData={shape_of_the_beast} />
+<SpellFromJson expanded={false} spellData={erupt_instance} />
+<SpellFromJson expanded={false} spellData={hatch} />
+<SpellFromJson expanded={false} spellData={fenix_feather} />
+<SpellFromJson expanded={false} spellData={fossilize} />
+<SpellFromJson expanded={false} spellData={nuclear_skull} />

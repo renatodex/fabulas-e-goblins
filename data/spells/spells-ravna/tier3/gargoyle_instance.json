@@ -1,0 +1,15 @@
+{
+  "name": "Instância: Asas de O'Gallag",
+  "magic_cost": "7 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiBeamsAura",
+  "element": "darkness",
+  "caption": "Das suas costas nascem asas das trevas que lhe permitem alçar voo a até 5 quadrados e atacar inimigos com rajadas de ar.",
+  "description": "<p>As Asas de O'Gallag permitem que o conjurador se movimente em qualquer coordenada no eixo Z até o máximo de <code>5 quadrados</code> durante o tempo de atividade dessa Instância.</p><p>Não é necessário realizar testes.</p><p>Se o conjurador for abatido no ar, cada quadrado de distância do chão representa uma instância de dano de <code>d20</code> adicional. O alvo morrerá instantâneamente caso sofra mais de <code>60 pontos de dano</code> dessa forma. (a menos se sua queda for evitada)</p><p>Assim como as outras instâncias, o conjurador pode dissolver a qualquer momento, mas apenas 1 Instância pode estar ativa ao mesmo tempo.</p><p>As Asas também garantem ao conjurador a possibilidade de realizar um ataque com as asas, causando <code>2d20+10</code> de dano.</p>",
+  "tags": ["grimo","ravna"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Instância: Espinhento",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Instância",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiAwareness",
+  "element": "materia",
+  "caption": "Espinhos se materializam em seu corpo, dificultando a vida de seus inimigos.",
+  "description": "<p>Cresce espinhos em seu corpo, de forma que qualquer contato com aliado ou inimigo cause <code>1d4</code> de dano extra. Estar engajado com outros aliados/inimigos fazem com que o dano seja causado a todo turno.</p><p>Esse poder custa <code>5 P.M</code> para ser conjurado, mas não exige testes e pode ser dissolvido a qualquer momento pelo conjurador.</p><p>Apenas 1 poder do tipo <b>Instância</b> pode estar ativo ao mesmo tempo.",
+  "tags": ["grimo","ravna","instance"]
+}

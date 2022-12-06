@@ -1,0 +1,31 @@
+{
+	// Place your fabulas-e-goblins workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+	// Placeholders with the same ids are connected.
+	// Example:
+	"Generate Spell": {
+		"scope": "json",
+		"prefix": "spelljson",
+		"body": [
+			"{",
+			"\t\"name\": \"${1:Poder}\",",
+			"\t\"magic_cost\": ${2|null,\"0 P.M\",\"1 P.M\",\"2 P.M\",\"3 P.M\",\"4 P.M\",\"5 P.M\",\"6 P.M\",\"7 P.M\",\"8 P.M\",\"9 P.M\",\"10 P.M\",\"12 P.M\",\"14 P.M\",\"16 P.M\",\"18 P.M\",\"20 P.M\"|},",
+			"\t\"duration_time\": ${3|null,\"0\",\"1\",\"2\",\"3\",\"4\",\"5\"|},",
+			"\t\"attack_logic\": ${4|null,\"Físico\",\"Mágico\"|},",
+			"\t\"action_type\": \"${5|Passiva,Ativa,Reação,Instância|}\",",
+			"\t\"cast_distance\": ${6|null,\"12\",\"10\",\"9\",\"8\",\"7\",\"6\",\"5\",\"4\",\"3\",\"2\",\"1\",\"0\"|},",
+			"\t\"range_type\": ${7|null,\"Ponto\",\"Alvo\",\"Área\",\"Linha\",\"Circular\",\"Cone\",\"Corpo-a-Corpo\",\"Sí mesmo\",\"Variado\",\"Poligonal\",\"Global\"|},",
+			"\t\"range_amount\": ${8|null,\"1\",\"2\",\"3\",\"1x2\",\"2x2\",\"3x3\",\"4x4\",\"5x5\",\"6x6\",\"7x7\",\"8x8\",\"9x9\",\"10x10\"|},",
+			"\t\"icon\": \"${9|GiBoltSpellCast,GiRingedBeam,GiSunbeams,GiBeamsAura,GiMagicPalm,GiHealing,GiArmoredPants,GiWingedShield,GiPointySword,GiHabitatDome,GiMucousPillar,GiAwareness,GiLinkedRings,GiInvisible|}\",",
+			"\t\"element\": ${10|null,\"fire\",\"water\",\"wind\",\"eletric\",\"materia\",\"ice\",\"holy\",\"darkness\",\"arcane\",\"chaos\",\"acid\",\"nature\"|},",
+			"\t\"caption\": \"\",",
+			"\t\"description\": \"<p>Mechanic</p>\",",
+			"\t\"tags\": [\"${12|grimo,enemy|}\",\"${14:nomegrimooumonstro}\"]",
+			"}",
+		],
+		"description": "Template for generating a new Spell"
+	}
+}

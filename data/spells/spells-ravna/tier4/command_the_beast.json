@@ -1,0 +1,15 @@
+{
+  "name": "Comandar a Besta",
+  "magic_cost": "12 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBoltSpellCast",
+  "element": null,
+  "caption": "Você empunha o poder do Grimo de Ravna, obrigando uma criatura selvagem a seguir suas ordens.",
+  "description": "<p>Escolha uma criatura <b>não-Nemesis</b>. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p>Se for bem sucedido, você passará a controlar a criatura utilizando o Grimo de Ravna, podendo <b>controlar a unidade</b> em seu turno e realizando suas ações de movimento e ataque normalmente.</p><p>Até <code>3 criaturas</code> podem ser controladas com este poder. O conjurador pode dissipar este poder a qualquer momento, mas caso não o faça, o controle tem duração de no máximo <b>1 hora</b> (tempo do mundo de jogo).</p>",
+  "tags": ["grimo","ravna"]
+}

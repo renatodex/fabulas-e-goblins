@@ -1,0 +1,15 @@
+{
+  "name": "Instância: Erupto",
+  "magic_cost": "9 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": 7,
+  "range_type": "Alvo",
+  "range_amount": "2",
+  "icon": "GiBeamsAura",
+  "element": "fire",
+  "caption": "Orifícios de obsidiana crescem em suas costas, atirando bolas de fogo nos inimigos.",
+  "description": "<p>A instância não exige testes para ser ativada. Quando utilizada, pedras cascudas de obsidiana crescem nas costas do conjurador, e cospem <code>2 bolas de fogo</code> a todo turno como uma <b>Ação Livre</b>.</p>Cada <b>Bola de Fogo</b> pode atingir 1 alvo a escolha do conjurador, causando <code>1d12</code> de dano de Fogo cada.</p><p>Elas podem ser arremessadas a uma distância de até <b>7 espaços</b>.</p><p>Assim como as outras instâncias, o conjurador pode dissolver a qualquer momento, mas apenas 1 Instância pode estar ativa ao mesmo tempo.</p>",
+  "tags": ["grimo","ravna"]
+}

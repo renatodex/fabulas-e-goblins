@@ -1,0 +1,15 @@
+{
+  "name": "Sanguesuga",
+  "magic_cost": "8 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiHealing",
+  "element": null,
+  "caption": "Prende um sanguessuga em um algo que drena vida para o conjurador.",
+  "description": "<p>Escolha um alvo, e role contra a <b>Defesa Mágica</b> dele. Se for bem sucedido, você conjura um verme mágico que se sacrifica para drenar a vida do alvo para você.</p><p>O alvo sofre <code>3d6+4</code> de dano e você recupera <code>3d6+4</code> P.V.</p>",
+  "tags": ["grimo","ravna"]
+}

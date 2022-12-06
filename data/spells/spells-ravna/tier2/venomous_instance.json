@@ -1,0 +1,15 @@
+{
+  "name": "Instância: Venenoso",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Circular",
+  "range_amount": "1",
+  "icon": "GiSunbeams",
+  "element": "acid",
+  "caption": "Cresce orificios na cabeça ou corpo que expelem uma aura de veneno em volta do conjurador.",
+  "description": "<p>Cresce orificios na cabeça ou corpo que expelem uma aura circular de veneno de 1x1 quadrado em torno do Conjurador. A aura envenena os inimigos adjacentes e impede que corram enquanto estiverem envenenados.</p><p>Todos inimigos que tocam a Aura recebem <code>Envenenar D10 T3</code>. O número de turnos que a vítima precisa para se livrar do Veneno apenas começa a contar se a Vítima estiver fora da área do veneno.</p><p>Se a vítima retornar a área do Veneno, ela estará novamente envenenada por 3 Turnos.</p><p>Assim como as outras instâncias, o conjurador pode dissolver a qualquer momento, mas apenas 1 Instância pode estar ativa ao mesmo tempo.</p>",
+  "tags": ["grimo","ravna"]
+}

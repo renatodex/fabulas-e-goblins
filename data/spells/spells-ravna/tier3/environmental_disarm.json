@@ -1,0 +1,15 @@
+{
+  "name": "Desarme Ambiental",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "6",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMucousPillar",
+  "element": "nature",
+  "caption": "Desarma um inimigo temporariamente, transformando sua arma em um simples graveto.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p>Caso seja bem sucedido, um pilar de magia natural surge no espaço que o alvo ocupa, transformando temporariamente a arma do inimigo em um simples graveto encantado. O graveto retorna a sua forma normal no final do próximo turno do alvo. O graveto encantado causa <code>1d6 de dano</code>, é inquebrável durante esse período e perde todas suas propriedades mágicas temporariamente, caso possua.</p>",
+  "tags": ["grimo","ravna"]
+}

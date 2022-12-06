@@ -1,0 +1,15 @@
+{
+  "name": "Jato de Teias",
+  "magic_cost": "6 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "4",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMucousPillar",
+  "element": null,
+  "caption": "Conjura um jato de teias em um alvo, previnindo que ele se mova.",
+  "description": "<p>Escolha um alvo e teste contra a <b>Defesa Mágica</b> dele. Se for bem sucedido, ele é atingido por seu jato de teias pegajosas, sendo impedido de se mover por 3 turnos, ou até que seja liberto por um aliado ou inimigo.</p><p>O alvo ainda pode atacar e usar itens normalmente.</p><p>O poder pode afetar inimigos de tamanho Grande, <b>caindo para 1</b> o número de turnos imobilizado, mas não tem efeito em alvos de tamanho Gigante ou superior.",
+  "tags": ["grimo","ravna"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Loucura Sussurante",
+  "magic_cost": "9 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Circular",
+  "range_amount": "3",
+  "icon": "GiSunbeams",
+  "element": "wind",
+  "caption": "Você emite um pulso de vento enlouquecedor que sussura mensagens aterrorizantes em inimigos próximos fazendo com que fujam em desespero.",
+  "description": "<p>Faça um teste contra a <b>Defesa Mágica</b> de todos os alvos numa área circular de 3 quadrados em volta de sí. Todos inimigos que falharem no teste serão afetados por um profundo Terror, fazendo com que fujam em desespero do conjurador, mesmo que para isso tenham de se jogar em buracos, pular de desfiladeiros ou escalar paredes.</p><p>O Terror consome um turno de cada alvo afetado, sendo que nesse tempo eles não poderão usar poderes ou atacar, mesmo que esses poderes ou ataques pudessem facilitar sua fuga.</p><p>Cada alvo deve obrigatoriamente usar ao máximo sua ação de movimento para obter a maior distância possível do conjurador.</p>",
+  "tags": ["grimo","ravna"]
+}

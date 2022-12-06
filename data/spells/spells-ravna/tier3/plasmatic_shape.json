@@ -1,0 +1,15 @@
+{
+  "name": "Forma Plasmática",
+  "magic_cost": "7 P.M",
+  "duration_time": "1 turno / 5 minutos",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiInvisible",
+  "element": "arcane",
+  "caption": "Seu corpo se transmuta em uma espécie de plasma mágico que o permite atravessar paredes.",
+  "description": "<p>Esse poder não precisa de testes, e tem duração de 5 minutos ou 1 turno em um combate. Só pode ser usado no próprio conjurador.</p><p>O corpo do conjurador fica muito frágil enquanto estiver usando <b>Forma Plasmática</b>, logo, caso sofra um ataque, o dano será duplicado.</p><p>Para que seja possível atravessar uma parede em combate, os pontos de movimento do conjurador precisam ser suficientes para atravessar completamente a parede em questão.</p><p>Caso o feitiço de <b>Forma Plasmática</b> acabe e o conjurador ainda esteja dentro de uma parede sólida, seu corpo será desfeito, ocasionando em morte certa, sem chance de recuperação. Da mesma forma, qualquer parte do corpo será perdida de forma permanente caso ainda esteja em contato com uma parede concreta quando o poder acabar.</p>",
+  "tags": ["grimo","ravna"]
+}

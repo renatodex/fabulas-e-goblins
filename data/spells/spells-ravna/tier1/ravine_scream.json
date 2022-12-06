@@ -1,0 +1,15 @@
+{
+  "name": "Grito da Ravina",
+  "magic_cost":  "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiRingedBeam",
+  "element": "wind",
+  "caption": "Conjura um grito sônico que causa dano mágico em um alvo.",
+  "description": "<p>O grito é um poder a distância que só pode ser usado sem obstrução física. Um alvo atrás de uma pedra por exemplo não receberá dano do Grito da Ravina, mas talvez o poder possa destruir o obstáculo (a critério do Narrador).</p><p>O alvo sofre <code>3d6+1</code> de dano do Elemento Ar e é empurrado em 1 quadrado.</p>",
+  "tags": ["grimo","ravna"]
+}

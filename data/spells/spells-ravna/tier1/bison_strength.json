@@ -1,0 +1,15 @@
+{
+  "name": "Força do Bisão",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiHealing",
+  "element": "nature",
+  "caption": "O Grimo emite uma aura que concede a força do Bisão a um aliado.",
+  "description": "<p>Quando conjurado em um alvo, concede um bônus de <code>+2d12</code> no próximo ataque.</p>",
+  "tags": ["grimo","ravna"]
+}

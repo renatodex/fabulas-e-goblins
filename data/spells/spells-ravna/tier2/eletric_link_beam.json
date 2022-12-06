@@ -1,0 +1,15 @@
+{
+  "name": "Feixe do Elo Elétrico",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "4",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBoltSpellCast",
+  "element": "eletric",
+  "caption": "",
+  "description": "<p>Conjura um raio a distância em um <b>inimigo alvo</b>. Teste contra a <b>Defesa Mágica</b> desse alvo.</p>Se for bem sucedido, o feixe atingirá o alvo e fluirá para mais 2 unidades próximas em cadeia a uma distancia de até 2 quadrados entre unidades.</p><p>Essas unidades atingidas em cadeia não podem se defender do ataque, e sofrem dano diretamente.</p><p>Ao atingir o último alvo, o Conjurador se torna o próprio raio, teletransportando-se ao final do poder para um quadrado adjacente do último alvo atingido.</p><p>Causa <code>3d6+8</code> de dano Elétrico em cada alvo.</p>",
+  "tags": ["grimo","ravna"]
+}

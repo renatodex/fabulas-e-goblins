@@ -1,0 +1,15 @@
+{
+  "name": "Nébula Sombria",
+  "magic_cost": "9 P.M",
+  "duration_time": "2",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Sí mesmo",
+  "range_amount": "3x3",
+  "icon": "GiMoon",
+  "element": "darkness",
+  "caption": "Conjura uma densa névoa das sombras em volta de sí que aguça seus sentidos enquanto ofusca seus inimigos.",
+  "description": "<p>Um domo de escuridão massiva será conjurado por 2 turnos (além desse) a partir de sua posição por <b>3 quadrados</b> em todas as direções. (A Nébula se dissipará no final do segundo turno do conjurador).</p><p>Todos os inimigos que estiverem na área perderão toda a visão, e sofrerão automaticamente <code>-5 de penalidade de ataque e defesa</code> enquanto estiverem dentro da Nébula.</p><p>Aqueles que estão fora da Nébula não podem enxergar o que está dentro, e aqueles que estão dentro não podem enxergar o que está fora. Com excessão do próprio conjurador, que pode enxergar normalmente.</p><p>Enquanto estiver dentro da Nébula, o conjurador e apenas ele tem os sentidos aguçados, podendo enxergar normalmente através.</p><p>Inimigos que podem ver no escuro absoluto e inimigos que não dependem da visão para enxergar seus inimigos não são afetados pela Nébula.<br/><i>Por exemplo: Criaturas espirituais, fantasmas e algumas criaturas Astrais podem enxergar a alma de seus inimigos, e portanto não são afetados pela escuridão da Nébula.</i></p>",
+  "tags": ["grimo","nomegrimooumonstro"]
+}

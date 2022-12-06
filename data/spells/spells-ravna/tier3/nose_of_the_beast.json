@@ -1,0 +1,15 @@
+{
+  "name": "Nariz da Besta",
+  "magic_cost": "7 P.M",
+  "duration_time": "1 hora",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiAwareness",
+  "element": null,
+  "caption": "Transmuta seu nariz para o Nariz da Besta, tornando-o super sensível aos odores a sua volta.",
+  "description": "<p>Torna o conjurador sensível a odores, possibilitando que ele identifique criaturas ou pessoas por seus cheiros através de paredes, podendo também seguir o rastro de um odor a dezenas de metros de distância. Pode identificar e  destrinchar cada um dos elementos que compõem um determinado aroma, como uma poção, sendo capaz de identificar o nível de perigo de uma mistura.</p><p>O conjurador pode dissolver o poder a qualquer momento, e apenas 1 Poder da Besta pode estar ativo ao mesmo tempo. Caso o conjurador não dissolva o poder, o mesmo durará por 1 hora.</p><p>Enquanto estiver usando os <b>Nariz da Besta</b>, o conjurador receberá <code>1d12</code> de dano adicional ao se aproximar de odores de teor intenso como decomposição. Odores dessa natureza também causarão <code>Atordoar 1T</code>.</p>",
+  "tags": ["grimo","ravna"]
+}

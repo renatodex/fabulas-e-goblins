@@ -1,0 +1,15 @@
+{
+  "name": "Penas de Nagu",
+  "magic_cost": "16 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiHealing",
+  "element": "holy",
+  "caption": "O conjurador destrava os segredos das criaturas mais poderosas de Ravna, passando a receber a benção das Penas Douradas de Nagu",
+  "description": "<p>Uma única Pena Dourada nasce em seu corpo uma vez ao mês (máximo de uma). Se você sofrer uma morte fatal com a pena, você reviverá imediatamente. A Pena também poder ser usada para evitar <b>Traumas</b></p><p><i>Nagu é uma ave sensciente rara venerada pelos povos antigos por possuir o poder da ressureição. Suas penas viram pó ao se desprender de seu corpo, mas muitas são as histórias de Nagu's que salvaram grandes herói entregando de boa vontade uma de suas penas como presente. De alguma forma, os Mestres de Ravna aprenderam a masterizar a benção dos Nagu's e armazená-la no Grimo.</i></p>",
+  "tags": ["grimo","ravna"]
+}

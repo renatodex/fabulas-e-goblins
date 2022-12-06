@@ -1,0 +1,15 @@
+{
+  "name": "Laser Arcano",
+  "magic_cost": "6 P.M",
+  "duration_time": "0~4 turnos",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Linha",
+  "range_amount": "5",
+  "icon": "GiRingedBeam",
+  "element": "arcane",
+  "caption": "Conjura um poderoso Laser arcano que perfura o alvo e causa dano mágico continuo enquanto estiver conjurado.",
+  "description": "<p>O Laser é conjurado de forma adjacente em uma direção que o conjurador escolher, formando um feixe contínuo de 5 quadrados. A cada turno que estiver ativo, o Laser causa <code>2d6+4</code> em todos inimigos em uma linha de 5. O Conjurador pode manter a conjuração por até 4 turnos, e a cada novo turno do conjurador, todos inimigos receberão novamente o dano causado por este poder.</p><p>Enquanto estão sob efeito do poder, os inimigos possuem penalidade de -2 de Ataque Físico e Mágico para atacar alvos no raio do poder.</p><p>Enquanto estiver conjurando Laser Perfurante, o conjurador não pode se mover, receber dano ou realizar outras ações que não sejam Ações Livres (desde que não sejam ações de combate), caso contrário encerrará a conjuração automaticamente.</p><p>Já os inimigos afetados podem se mover normalmente para fora da área do efeito.</p><p>O poder afeta inimigos e aliados na área.</p>",
+  "tags": ["grimo","ravna"]
+}

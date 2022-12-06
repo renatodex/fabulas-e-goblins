@@ -1,0 +1,15 @@
+{
+  "name": "Meteoro Ácido",
+  "magic_cost": "12 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "10",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiSunbeams",
+  "element": "acid",
+  "caption": "Conjura um poderoso Meteoro Ácido que atinge um único inimigo.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p>Se for bem sucedido, você conjura um enorme <b>Meteoro Ácido</b> que cai em direção ao inimigo, causando <code>6d20+40</code> de dano Ácido.</p>",
+  "tags": ["grimo","ravna"]
+}

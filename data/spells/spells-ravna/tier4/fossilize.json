@@ -1,0 +1,15 @@
+{
+  "name": "Fossilizar",
+  "magic_cost": "100% P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "10",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBoltSpellCast",
+  "element": "arcane",
+  "caption": "Canaliza o poder supremo do Grimo para canalizar uma criatura ainda viva.",
+  "description": "<p>Escolha uma criatura de qualquer categoria. Faça um teste contra a <b>Defesa Mágica</b> dela. Se for bem sucedido, você poderá tentar Fossilizá-la ainda viva.</p><p>Para isso role <code>1d100</code>, se tirar qualquer resultado acima de <b>90</b>, você Fossiliza a Criatura instantâneamente, que morre automaticamente. (funciona mesmo contra criaturas de tier Gigante ou superior.).</p><p>Esse poder consome todos os P.M e só pode ser usado 1 vez por dia.</p><p>Lembrando que o poder apenas gasta os Pontos de Magia se o conjurador for bem sucedido no teste contra a Defesa Mágica.</p><p>Após Fossilizar uma criatura com sucesso, você também coleta os <b>Fragmentos de Zirgônia</b>.",
+  "tags": ["grimo","ravna"]
+}

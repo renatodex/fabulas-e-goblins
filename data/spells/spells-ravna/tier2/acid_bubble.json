@@ -1,0 +1,15 @@
+{
+  "name": "Bolha Ácida",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiRingedBeam",
+  "element": "acid",
+  "caption": "Conjura uma bolha que explode causando dano ácido em área.",
+  "description": "<p>Escolha um ponto do mapa a uma distância de até 7 quadrados.</p><p>A bolha ácida é conjurada adjacente ao personagem no ponto mais próximo ao destino possível.</p><p>A cada turno, a bolha andará 1 quadrado em direção ao destino escolhido. Ela <b>sempre percorrá o caminho direto mais eficiente ao destino, sem realizar quaisquer desvios</b>.</p><p>Se no meio do caminho a bolha atingir um obstáculo sólido (aliado, inimigo, parede, grandes pedregulhos, etc), ela explodirá automaticamente, causando <code>2d8+12</code> de dano ácido a todos os alvos numa <code>área de 2x2</code> escolhida pelo conjurador de forma que faça uma intersecção com o quadrado que o alvo colidido ocupa. (4 combinações possíveis)</p><p>Se ao chegar no final do trajeto, a bolha não colidir com nenhum aliado, inimigo ou objeto, ela explodirá seguindo a mesma regra do parágrafo anterior.</p><p>Durante o trajeto da bolha, o conjurador pode se mover e agir normalmente, mas não pode conjurar outra bolha enquanto uma estiver ativa.</p>",
+  "tags": ["grimo","ravna"]
+}

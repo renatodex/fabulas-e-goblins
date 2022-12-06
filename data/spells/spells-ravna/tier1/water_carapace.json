@@ -1,0 +1,15 @@
+{
+  "name": "Carapaça Líquida",
+  "magic_cost": "2 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Alvo",
+  "range_amount": null,
+  "icon": "GiHabitatDome",
+  "element": "water",
+  "caption": "Um escudo líquido que se molda perfeitamente à forma física do alvo, protegendo-o contra ataques mágicos.",
+  "description": "<p>A Carapaça é uma espécie de escudo mágico que concede ao alvo +2 de Defesa Mágica contra o próximo ataque de origem mágica.</p><p>O escudo não se desfaz contra ataques físicos, mas também não fornece nenhuma proteção contra eles. A Carapaça Líquida pode durar até o final do dia, desde que o conjurador se mantenha próximo e em estado de consciencia plena.</p><p>Sofrer efeitos negativos que deixam o conjurador inconsciente faz com que todos os escudos conjurados sejam dissolvidos.</p><p>Além disso, se o alvo do escudo ficar inconsciente, a Carapaça também se desfaz.</p>",
+  "tags": ["grimo","ravna"]
+}
