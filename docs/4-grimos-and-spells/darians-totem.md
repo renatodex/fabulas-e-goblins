@@ -2,6 +2,7 @@
 id: darians-totem
 title: Tótem de Darian
 slug: /4-grimos-and-spells/darians-totem
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbc4cda2-fe19-4913-a4ee-90ef7780d68a.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -54,6 +55,7 @@ import supreme_dome from './../../data/spells/spells-darian/tier4/supreme_dome.j
 import transcend from './../../data/spells/spells-darian/tier4/transcend.json'
 import trauma_master from './../../data/spells/spells-darian/tier4/trauma_master.json'
 
+![Os Adeptos dee Darian são respeitados Xamãs espirituais que podem navegar pelo plano Astral e se conectar com os espíritos...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbc4cda2-fe19-4913-a4ee-90ef7780d68a.png)
 
 Estudiosos das antigas civilizações, os **Adeptos de Darian** se especializaram nas artes místicas de manipular o **Plano Astral**.
 
