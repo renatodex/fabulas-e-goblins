@@ -1,0 +1,15 @@
+{
+  "name": "Poder",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBoltSpellCast",
+  "element": null,
+  "caption": "",
+  "description": "<p>Mechanic</p>",
+  "tags": ["grimo","darian"]
+}

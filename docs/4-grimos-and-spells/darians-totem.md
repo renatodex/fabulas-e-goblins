@@ -4,6 +4,57 @@ title: Tótem de Darian
 slug: /4-grimos-and-spells/darians-totem
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import astral_seal from './../../data/spells/spells-darian/tier1/astral_seal.json'
+import cross_walls from './../../data/spells/spells-darian/tier1/cross_walls.json'
+import drain_essence from './../../data/spells/spells-darian/tier1/drain_essence.json'
+import dual_shackles from './../../data/spells/spells-darian/tier1/dual_shackles.json'
+import ethereal_bound from './../../data/spells/spells-darian/tier1/ethereal_bound.json'
+import ethereal_presence from './../../data/spells/spells-darian/tier1/ethereal_presence.json'
+import fortify_soul from './../../data/spells/spells-darian/tier1/fortify_soul.json'
+import helping from './../../data/spells/spells-darian/tier1/helping.json'
+import spirit_barrier from './../../data/spells/spells-darian/tier1/spirit_barrier.json'
+import torpor_seal from './../../data/spells/spells-darian/tier1/torpor_seal.json'
+import willowhisp_canon from './../../data/spells/spells-darian/tier1/willowhisp_canon.json'
+import willowhisp_fire from './../../data/spells/spells-darian/tier1/willowhisp_fire.json'
+
+import burning_willowhisp from './../../data/spells/spells-darian/tier2/burning_willowhisp.json'
+import call_of_the_deep from './../../data/spells/spells-darian/tier2/call_of_the_deep.json'
+import ethereal_dome from './../../data/spells/spells-darian/tier2/ethereal_dome.json'
+import heal_trauma from './../../data/spells/spells-darian/tier2/heal_trauma.json'
+import pacify_spirit from './../../data/spells/spells-darian/tier2/pacify_spirit.json'
+import postponement_seal from './../../data/spells/spells-darian/tier2/postponement_seal.json'
+import spiritual_growth from './../../data/spells/spells-darian/tier2/spiritual_growth.json'
+import summon_soldier from './../../data/spells/spells-darian/tier2/summon_soldier.json'
+import triple_ethereal_bound from './../../data/spells/spells-darian/tier2/triple_ethereal_bound.json'
+import weapon_of_eternal_flame from './../../data/spells/spells-darian/tier2/weapon_of_eternal_flame.json'
+
+import call_of_the_deep_enhanced from './../../data/spells/spells-darian/tier3/call_of_the_deep_enhanced.json'
+import condemn_spirit from './../../data/spells/spells-darian/tier3/condemn_spirit.json'
+import ethereal_canon_double from './../../data/spells/spells-darian/tier3/ethereal_canon_double.json'
+import ethereal_redirect from './../../data/spells/spells-darian/tier3/ethereal_redirect.json'
+import expanded_dome from './../../data/spells/spells-darian/tier3/expanded_dome.json'
+import heal_trauma_enhanced from './../../data/spells/spells-darian/tier3/heal_trauma_enhanced.json'
+import reach_soul from './../../data/spells/spells-darian/tier3/reach_soul.json'
+import restoring_flames from './../../data/spells/spells-darian/tier3/restoring_flames.json'
+import spiritual_banishment from './../../data/spells/spells-darian/tier3/spiritual_banishment.json'
+import summon_ethereal_best from './../../data/spells/spells-darian/tier3/summon_ethereal_best.json'
+
+import call_of_the_deep_master from './../../data/spells/spells-darian/tier4/call_of_the_deep_master.json'
+import ethereal_canon from './../../data/spells/spells-darian/tier4/ethereal_canon.json'
+import ethereal_shape from './../../data/spells/spells-darian/tier4/ethereal_shape.json'
+import interethereal_portal from './../../data/spells/spells-darian/tier4/interethereal_portal.json'
+import ressurect from './../../data/spells/spells-darian/tier4/ressurect.json'
+import restoring_flames_master from './../../data/spells/spells-darian/tier4/restoring_flames_master.json'
+import soul_army from './../../data/spells/spells-darian/tier4/soul_army.json'
+import summon_ethereal_terror from './../../data/spells/spells-darian/tier4/summon_ethereal_terror.json'
+import supreme_banishment from './../../data/spells/spells-darian/tier4/supreme_banishment.json'
+import supreme_dome from './../../data/spells/spells-darian/tier4/supreme_dome.json'
+import transcend from './../../data/spells/spells-darian/tier4/transcend.json'
+import trauma_master from './../../data/spells/spells-darian/tier4/trauma_master.json'
+
+
 Estudiosos das antigas civilizações, os **Adeptos de Darian** se especializaram nas artes místicas de manipular o **Plano Astral**.
 
 Com a ajuda do Grimo, o **Elo Mágico** destes habilidosos dominadores é capaz de penetrar nas camadas mais densas do mundo Espiritual, permitindo-os acessar conhecimentos antigos, que são carregados pela própria *essência do mundo*, sendo descritos por seu criador como **Ecos do Passado** que reverberam o conhecimento dos antigos através do tempo e do espaço.
@@ -131,14 +182,111 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
+<SpellFromJson expanded={false} spellData={astral_seal} />
+<SpellFromJson expanded={false} spellData={cross_walls} />
+<SpellFromJson expanded={false} spellData={drain_essence} />
+<SpellFromJson expanded={false} spellData={dual_shackles} />
+<SpellFromJson expanded={false} spellData={ethereal_bound} />
+<SpellFromJson expanded={false} spellData={ethereal_presence} />
+<SpellFromJson expanded={false} spellData={fortify_soul} />
+<SpellFromJson expanded={false} spellData={helping} />
+<SpellFromJson expanded={false} spellData={spirit_barrier} />
+<SpellFromJson expanded={false} spellData={torpor_seal} />
+<SpellFromJson expanded={false} spellData={willowhisp_canon} />
+<SpellFromJson expanded={false} spellData={willowhisp_fire} />
+
+1. Seta Astral: Conjura uma seta não elemental que causa 1d6 de dano em criaturas e 3d6 de dano em humanóides.
+2. Fogo Fátuo: Transforma temporariamente o alvo e todo seu domínio (roupas e pertences) em um fogo fátuo etéreo que não pode atacar ou ser atacado ou atingido por magias até seu próximo turno.
+3. Vínculo Etéreo: Vincula dois inimigos. Se um tomar dano, o outro toma também e o laço se quebra.
+4. Drenar Essência: Drena a essencia de um inimigo, e transfere esse valor de dano a um aliado como cura.
+5. Canhão Fatuo: Conjura um canhão etéreo que dispara um único projétil de fogo fátuo contra um inimigo.
+6. Presença Etérea: Leve um objeto que pertencia a alguém em uma area para se conectar com o plano astral e visualizar os últimos momentos dessa pessoa.
+7. Selo Etéreo do Torpor: Conjura um selo no chao, se um inimigo passar, ele sofre uma dor incontrolável, seu turno é interrompido e não consegue se mover ou atacar no proximo turno. Cada inimigo só pode ser afetado pelo selo 1 vez.
+8. Ajudante Etéreo: Conjura um fantasma no campo de batalha. Ele não ataca, não pode ser atacado mas tem visão no escuro, pode ser mover através de paredes e compartilha a visão com o conjurador. O fantasma age por ultimo e não tem ações de ataque.
+9. Atravessar Paredes: Pode conjurar um portal etéreo em uma parede para atravessa-la. A parede precisa ser fina, caso contrário o feitiço falha automaticamente.
+10. Fortalecer Alma: Conjura um selo etéreo em um aliado, que faz com que ele resista ao próximo efeito negativo.
+11. Barreira Etérea: Conjura uma barreira de até 1x3 de comprimento. A Barreira se quebra ao receber certa qt de dano.
+12. Grilhão Duplo: Prende um alvo a outro. A corrente pode ser destruída ao receber muito dano. Os alvos podem atacar e conjurar normalmente, mas não podem estar mais do que 1 quadrado de distância um do outro.
+
+
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
+
+<SpellFromJson expanded={false} spellData={burning_willowhisp} />
+<SpellFromJson expanded={false} spellData={call_of_the_deep} />
+<SpellFromJson expanded={false} spellData={ethereal_dome} />
+<SpellFromJson expanded={false} spellData={heal_trauma} />
+<SpellFromJson expanded={false} spellData={pacify_spirit} />
+<SpellFromJson expanded={false} spellData={postponement_seal} />
+<SpellFromJson expanded={false} spellData={spiritual_growth} />
+<SpellFromJson expanded={false} spellData={summon_soldier} />
+<SpellFromJson expanded={false} spellData={triple_ethereal_bound} />
+<SpellFromJson expanded={false} spellData={weapon_of_eternal_flame} />
+
+1. Vínculo Etéreo Triplo: Evolui o poder Vinculo etéreo para conectar 3 alvos ao invés de 2.
+2. Domo Etéreo: Evolui o poder Barreira Etérea, e passa permitir a Criação de um Domo de 3x3 numa área.
+3. Soldado Etéreo: Conjura um Soldado Etéreo que luta ao seu lado. O turno do soldado é sempre ao final.
+4. Fogo Fátuo Ardente: Evolui o poder Fogo Fatuo para uma versão mais poderosa. Que agora causa dano enquanto prende o alvo.
+5. Chama das Profundezas: Uma area de 2x2 encandesce com o Fogo Fatuo, causando dano continuo a todos inimigos que permanecerem na area.
+6. Selo da Postergação: Concede ao aliado uma poderosa proteção que o previne de ficar inconsciente caso chegue a 0 de vida. A proteção dura 1 turno depois do aliado ter chegado a 0 de vida.
+7. Crescimento Espiritual: Aumenta passivamente seu Espirito em +1.
+8. Curar Trauma: Pode curar um Trauma através de um ritual espiritual. O teste é uma ação comum, e o processo requer que o Dariano jogue 3 dados e tire 3 sucessos. Se falhar, o trauma não é curado e o Conjurador só poderá repetir o teste nesse Personagem em uma semana (mesmo que seja para outro Trauma).
+9. Arma de chama eterna: Conjura a Chama Eterna temporariamente em uma arma. A potencia da arma aumenta, causando mais dano e dando desvantagem ao alvo para se defender de poderes espirituais.
+10. Pacificar Espirito: O alvo é tocado pelo conjurador e tem seu espirito renovado, sentindo subitamente uma paz incomparável . Pode ser usado para pacificar alvos furiosos. Não tem efeito em combate, a menos que se usado para diplomacia e pacificação.
 
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
+<SpellFromJson expanded={false} spellData={call_of_the_deep_enhanced} />
+<SpellFromJson expanded={false} spellData={condemn_spirit} />
+<SpellFromJson expanded={false} spellData={ethereal_canon_double} />
+<SpellFromJson expanded={false} spellData={ethereal_redirect} />
+<SpellFromJson expanded={false} spellData={expanded_dome} />
+<SpellFromJson expanded={false} spellData={heal_trauma_enhanced} />
+<SpellFromJson expanded={false} spellData={reach_soul} />
+<SpellFromJson expanded={false} spellData={restoring_flames} />
+<SpellFromJson expanded={false} spellData={spiritual_banishment} />
+<SpellFromJson expanded={false} spellData={summon_ethereal_best} />
+
+1. Condenar Espirito: O alvo é tocado pelo conjurador, sentindo a culpa e tristeza de mil almas atormentadas. Muitos alvos desabariam com esse toque, mas alvos enfurecidos tornam-se ainda mais violentos. Em combate não tem efeito a menos que o conjurador possa justificar seu uso.
+2. Domo Expandido: Expande o Domo Etereo, podendo chegar a até 4x4 quadrados.
+3. Canhão Etereo Duplo: Permite ao Canhão Etéreo realizar dois disparos ao mesmo tempo.
+4. Curar Trauma Aprimorado: Aumenta os dados pra 4 ao invés de 3.
+5. Chama das Profundezas Expandida: Aumenta a area de efeito para 3x3 quadrados.
+6.
+Conjurar Besta Etérea: Conjura uma Besta Eterea que luta ao lado do conjurador.
+7. Alcançar Espirito: Permite ao conjurador realizar ataques e ações fisicas diretamente no espírito do alvo. Alvos que tem seu espirito tocado sentem um terror Paralizante, por isso, esse poder pode ser usado como ferramenta de demonstração de poder e intimidação. No combate agarrar o espirito do alvo causa dano e Terror simultaneos.
+8. Redirecionamento Ethereo: Abre dois portais de energia eterea, que podem redirecionar um projetil magico em outra direcao. O projetil não pode ser fisico, como flechas por exemplo. O alvo precisa fazer um teste de defesa contra seu próprio valor de ataque.
+9. Chamas Restauradoras: Conjura 3 Fogo Fatuos restauradores. A qualquer momento, como uma ação de reação, escolha um alvo e envie o fogo fatuo a ele para cura-lo.
+10. Banimento Etereo: Envia um inimigo não-Nemesis para a dimensão Eterea. Inimigos enviados pra lá são removidos do combate e não retornam mais. Esse poder só pode ser usado uma vez por dia.
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
+<SpellFromJson expanded={false} spellData={call_of_the_deep_master} />
+<SpellFromJson expanded={false} spellData={ethereal_canon} />
+<SpellFromJson expanded={false} spellData={ethereal_shape} />
+<SpellFromJson expanded={false} spellData={interethereal_portal} />
+<SpellFromJson expanded={false} spellData={ressurect} />
+<SpellFromJson expanded={false} spellData={restoring_flames_master} />
+<SpellFromJson expanded={false} spellData={soul_army} />
+<SpellFromJson expanded={false} spellData={summon_ethereal_terror} />
+<SpellFromJson expanded={false} spellData={supreme_banishment} />
+<SpellFromJson expanded={false} spellData={supreme_dome} />
+<SpellFromJson expanded={false} spellData={transcend} />
+<SpellFromJson expanded={false} spellData={trauma_master} />
+
+1.  Mestre do Trauma: Aumenta os dados para curar Trauma de 3 para 6. Só pode ser usado uma vez por dia.
+2.  Canhão Etereo: Aumenta o Dano e transforma o poder em uma magia de area.
+3.  Banimento Supremo: Envia qualquer inimigo para a Dimensão Eterea. Sacrifica-se no processo. Em inimigos normais é instantanea, em Nemesis leva 3 turnos.
+4.  Conjurar Terror Etereo: Conjura uma besta Ererea poderosa.
+5.  Chama das Profundezas: Aumenta area para 10x10.
+6.  Domo Supremo: Inquebravel, dura 5 turnos.
+7.  Chamas restauradoras: Aumenta para 5.
+8.  Reviver: Reanima o espirito de  um Aliado, curando o 100%.
+9.  Transcender: Aumenta Espirito em +3
+10.  Conjurar Exercito: Conjura o exercito dos mortos. (10 portais surgem)
+11.  Portal Interetéreo: Abre portal para outro plano.
+12.  Forma Eterea: Fica imune a danos
