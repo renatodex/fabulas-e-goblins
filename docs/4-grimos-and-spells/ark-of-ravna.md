@@ -2,6 +2,7 @@
 id: ark-of-ravna
 title: Arca de Ravna
 slug: /4-grimos-and-spells/ark-of-ravna
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ceae0b53c-a0bf-4f9a-bfb3-a0fceb6a3471.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
