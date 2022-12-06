@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Instigar a Besta",
+  "magic_cost": "10 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBoltSpellCast",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Transfere temporariamente os poderes da Besta a um aliado.",
+  "description": "<p>Escolha um alvo (não é necessário fazer testes).</p><p>Em seguida, <b>escolha um poder da Besta</b> e conjure-o no alvo pagando ao invés disso o <b>custo</b> deste poder.</p><p><b>Apenas 1 poder da Besta pode ficar ativo ao mesmo tempo.</b></p>",
+  "tags": ["grimo","ravna"]
 }

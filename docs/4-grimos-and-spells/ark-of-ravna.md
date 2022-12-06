@@ -89,7 +89,7 @@ A menos que outra regra diga o contrário, você deverá:
 
 ## Virtudes
 
-### 1. Converter Essência (Custo: Variável)
+### 1. Fossilizar (Custo: Variável)
 
 Quando uma criatura selvagem é abatida em combate, o **Adepto de Ravna** pode fossilizá-la magicamente gerando um **Fragmento de Zirgônio**.
 
@@ -136,24 +136,22 @@ E por isso, os **Adeptos** devem utilizar seu poder para estudar as criaturas do
 
 ## Origem do Grimo
 
-**Ravna Damagun** já era popular entre **Cultistas** por ter sido a primeira **Orácula** a explorar a extração de conhecimento Mágico das Criaturas selvagens.
-Entre os seus ensinamentos, espalhados pelos reinos que passou, sempre houve a sugestão de que ela teria trabalhado num Artefato que seria capaz de controlar o Poder do Caos de forma intensa.
+**Ravna Damagan** já era popular entre **Cultistas** por ter sido a primeira **Orácula** a explorar a extração de conhecimento Mágico das Criaturas selvagens.
+Entre os seus ensinamentos, espalhados pelos reinos que passou, sempre houve a sugestão de que ela teria trabalhado num Artefato que seria capaz de controlar o Poder da Magia Selvagem de forma intensa.
 
 A existência do Artefato porém, nunca havia sido comprovada, até então.
 
-Foi quase dois Séculos após o Blecaute que uma estranha **Arca** teria sido recuperada pelos **Valdari** numa embarcação naufragada ao norte de **Caldera**.
-Após anos sendo vendida como velharia no **Mercado Negro** de **Penhores**, a **Arca de Ravna** foi encontrada e adquirida por um de seus Adeptos, **Kalef Jadar**.
+Aproximadamente dois Séculos antes o Blecaute, uma estranha **Arca** teria sido recuperada pelos **Valdari** numa embarcação naufragada ao norte de **Caldera**.
+Após anos sendo vendida como velharia no **Mercado Negro** de **Penhores**, a **Arca de Ravna** foi encontrada e adquirida por um de seus mais ávidos admiradores, o Metalóide **Kalef Jadar**.
 
-A **Arca**, que possui o formato de um Octáculo, que consiste basicamente em um objeto com 8 lados, onde cada lado representa um esteriótipo do Plano Caótico.
+A **Arca** possui um compartimento sólido de cor vermelha, com uma fechadura entalhada que sugeriria a existência de uma chave, mas que por sua vez nunca foi encontrada.
 
-Não demorou muito até que o **Grimo** começasse a se comunicar com **Kalef**, fazendo perguntas sobre o mundo e compartilhando conhecimentos especificos com o **Cultista**.
-Com o tempo, **Kalef** aprendeu seus mistérios e passou a ter controle pleno sobre a **Arca**, que agora a considerava seu portador.
+Com o tempo, Kalef aprendeu os mistérios da Arca e passou a conjurar a misteriosa essência mágica das criaturas selvagens contidas nela, utilizando-as como arma, e  tornando-se o primeiro <b>Mestre de Ravna</b>.
 
 Os boatos sobre a Arca e seu Culto se espalharam rapidamente, e foi apenas quando **Kalef** foi atacado por um grupo de mercenários em busca da **Arca** que sentiu que era perigoso ficar isolado com tanto poder.
-**Kalef** reuniu seus Adeptos mais fieis, e passou a replicar o **Grimo de Ravna** através da ajuda de Mestre-Elos. <br/>
-Os Grimos foram entregues aos seus Cultistas mais fieis, resultando na fundação do **Culto de Ravna**.
 
-Não se sabe exatamente como a Arca foi criada, mas sabe-se que além dos conhecimentos de **Ravna**, o Grimo também armazena o conhecimento Mágico de criaturas selvagens de origem mágica, e acredita-se que essa é a fonte de seu verdadeiro poder. Os métodos utilizados por **Ravna** para aprisonar a Magia selvagem ainda são obscuros, mas tudo indica que o procedimento também envolveria um poderoso Ritual Mágico de origem Caótica, onde a essência mágica de monstros poderia teoricamente ter sido inserida na **Arca** no momento de sua construção.
+**Kalef** reuniu seus Aliados mais fieis, e passou a replicar o **Grimo de Ravna** através da ajuda de Mestre-Elos. <br/>
+Adeptos com interesse em estudar o poder das artes selvagem começaram a surgir de todos os cantos, resultando na fundação dos **Templos de Ravna**.
 
 ## Os Ecos da Arca
 
@@ -168,22 +166,22 @@ Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
 
   <tr>
     <td>Aburodon</td>
-    <td>Descrito como o Eco de um enorme Aburu pre-histórico que é conhecido por ser o precursor dos Aburus modernos. O Aburudon é uma criatura lendária extinta, sendo conhecido por possuir incríveis poderes sônicos.</td>
+    <td>Descrito como o Eco de um enorme Aburu pre-histórico que é conhecido por ser o precursor dos Aburus modernos. O Aburudon é uma criatura lendária extinta, sendo conhecido por possuir incríveis poderes sônicos e de fogo.</td>
   </tr>
 
   <tr>
     <td>Gamoru</td>
-    <td>Descrito como uma enorme besta bípedde, o Gamoru é a versão ancestral dos Gamor modernos, descrito nos livros antigos como uma besta capaz de carregar arvores com uma única garra e manipular a terra.</td>
+    <td>Descrito como uma enorme besta bípedde, o Gamoru é a versão ancestral dos Gamor modernos, descrito nos livros antigos como uma besta com poderes curativos capaz de carregar arvores com uma única garra e manipular a própria essência da Terra.</td>
   </tr>
 
   <tr>
     <td>Luzibal</td>
-    <td>Ainda venerado pelos Luzibs modernos como sua Divindade, os historiadores veem Luzibal como um lendário Réptil que andou pelas Terras Místicas em eras passadas. Seu curioso veneno inflamável era capaz de corroer florestas inteiras e transformar biomas vivos em verdadeiros desertos.</td>
+    <td>Ainda venerado pelos Luzibs modernos como sua Divindade, os historiadores veem Luzibal como um lendário Réptil que andou pelas Terras Místicas em eras passadas. Seu curioso veneno inflamável e sua magia do Caos era capaz de corroer florestas inteiras e transformar biomas vivos em verdadeiros desertos.</td>
   </tr>
 
   <tr>
-    <td>K'gon</td>
-    <td>Acredita-se que os K'gons eram os Knerotraco pré-históricos, manipulando múltiplos elementos e possuindo o poder de controlar a <b>Dualidade Elemental</b>. Os K'gons não apenas  misturavam elementos opostos, como também podiam criar conjurações de natureza quântica, que permitiam elementos opostos como o Fogo e a Água a co-existir no mesmo espaço, sem se anularem.</td>
+    <td>Thek'gon</td>
+    <td>Acredita-se que os Thek'gon eram os Knerotracos pré-históricos, sendo capazes de manipular todos elementos naturais. Por isso, os Thek'gon fazem parte do raro grupo de criaturas lendárias consideradas Dodecágonos Elementais. Os Thek'gons não apenas misturavam elementos diversos, como também podiam criar conjurações de natureza quântica, que permitiam  elementos opostos como o Fogo e a Água a co-existir no mesmo espaço, sem se anularem.</td>
   </tr>
 </table>
 
@@ -272,25 +270,12 @@ A conexão é quebrada conforme os monstros recebem dano Selvagem.
 ### Habilidades - Tier 4
 
 <SpellFromJson expanded={false} spellData={command_the_beast} />
+<SpellFromJson expanded={false} spellData={instigate_beast} />
+<SpellFromJson expanded={false} spellData={transfer_instance} />
 <SpellFromJson expanded={false} spellData={elemental_egg} />
+<SpellFromJson expanded={false} spellData={shape_of_the_beast} />
 <SpellFromJson expanded={false} spellData={erupt_instance} />
+<SpellFromJson expanded={false} spellData={hatch} />
 <SpellFromJson expanded={false} spellData={fenix_feather} />
 <SpellFromJson expanded={false} spellData={fossilize} />
-<SpellFromJson expanded={false} spellData={hatch} />
-<SpellFromJson expanded={false} spellData={instigate_beast} />
 <SpellFromJson expanded={false} spellData={nuclear_skull} />
-<SpellFromJson expanded={false} spellData={shape_of_the_beast} />
-<SpellFromJson expanded={false} spellData={transfer_instance} />
-
-Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
-
-1.   Transferir Instância: Cria um vinculo com o alvo que permite usar os poderes de Instãncia nele. Ao receber dano, o vinculo é quebrado. (Apenas 1 poder de Instância pode ficar ativo)
-2.   Instigar a Besta: Permite usar os poderes da Besta em aliados. (Apenas 1 poder da Besta pode ficar ativo)
-3.   Eclodir: Entra em um casulo mágico com 100PV que se autodestrói em 3 turnos, causando um dano absurdo numa area circular de 50 quadrados. Se estiver com a Pena da Fenix , esse poder causa 9d12 de dano. Se estiver sem a pena da Fenix, esse poder causa 9d20 de Dano.
-4.   Penas da Fenix: Uma única pena dourada nasce em seu corpo uma vez ao mês (máximo de uma). Se você sofrer uma morte fatal com a pena, você reviverá imediatamente.
-5.   Instância do Erupto: Estruturas cascudas nas suas costas cospem 2 bolas de fogo a todo turno, que atingem 2 alvos a sua escolha e causam 1d12 de dano.
-6.   Cranio Nuclear: Atira 1 Cranio explosivo em um ponto, causando uma explosão massiva que queima uma area de 8x8.
-7.   Forma da Besta: Se transforma em uma criatura assustadora, aumentando seus pontos de movimento, ataque , defesa, vida e tamanho em 2x2.
-8.   Fossilizar: Permite usar a Ação de Fossilizar contra criaturas selvagens vivas. Inimigos Fossilizados morrem automaticamente (d100, 10% de chance, funciona contra qualquer inimigo. Só pode usar 1 vez por dia e gasta toda a Magia)
-9.   Comandar a Besta: Permite controlar uma criatura selvagem utilizando o Grimo de Ravna. Ação de Perícia, Elo Mágico, não funciona em Nemesis. Só uma pode ser controlada ao mesmo tempo.
-10.  Ovo Elemental: Conjura um ovo explosivo que ao colidir, conjura uma explosão elemental, cujo elemento é dicidido ao se rolar 1d12. (Seguir ordem do Grimo de Allura) (Atinge inimigos e aliados)

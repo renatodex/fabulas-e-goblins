@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Transferir Instância",
+  "magic_cost": "14 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_amount": null,
-  "range_type": null,
-  "icon": "GiArmoredPants",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBoltSpellCast",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Cria um vínculo com um alvo e permite que você use os poderes de Instância nele.",
+  "description": "<p>Escolha um alvo. Você cria um <b>vinculo mágico</b> que permite que os poderes de Instância sejam usados no alvo escolhido.</p><p>Se você receber dano, o <b>vinculo é quebrado</b> e o alvo <b>perde</b> o benefício da Instância até que você conjure novamente.</p><p>Enquanto o Alvo estiver usufruindo da Instância, você não poderá usá-la em sí mesmo a menos que dissolva o vínculo com o alvo.</p>",
+  "tags": ["grimo","ravna"]
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
-  "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "name": "Forma da Besta",
+  "magic_cost": "24 P.M",
+  "duration_time": "1 hora",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_amount": null,
   "range_type": null,
-  "icon": "GiArmoredPants",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "range_amount": null,
+  "icon": "GiAwareness",
+  "element": "chaos",
+  "caption": "Transmuta sua forma para uma enorme Besta demoníaca, tornando-se extremamente forte e resistente.",
+  "description": "<p>Não necessita testes.</p><p>Consome uma ação para transformar o corpo do conjurador na Besta de Ravna, uma criatura demoníaca, com chifres de Zizagu, patas de Crabegon, cascos de Bungan, espinhos de Aburu e corpo coberto pela lendária armadura do Kaymon.</p><p>Todas criaturas não-Nemesis que presenciarem a transformação numa área de 7 quadrados precisarão ser bem sucedidas em um teste de <b>Defesa Mágica</b> que será realizado pelo conjurador. Os que falharem, também serão afetados por <code>Terror 5M -8P</code> por 1 turno.</p><p>Enquanto estiver usando a <b>Forma da Besta</b>, o conjurador receberá um Bônus de <code>+5 de <b>Defesa Física e Mágica</b></code>, e receberá um Bônus de <code>+40 P.V</code> temporários, além de causar <code>+30</code> de Dano Adicional em todos os ataques.</p><p>Além disso, o conjurador poderá usar armas e escudos normalmente, além de continuar recebendo o Bônus de sua armadura e outros acessórios mágicos.</p>",
+  "tags": ["grimo","ravna"]
 }
