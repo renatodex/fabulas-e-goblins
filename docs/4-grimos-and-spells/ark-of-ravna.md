@@ -56,7 +56,7 @@ import shape_of_the_beast from './../../data/spells/spells-ravna/tier4/shape_of_
 import transfer_instance from './../../data/spells/spells-ravna/tier4/transfer_instance.json'
 
 
-![ravnabanner.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ceae0b53c-a0bf-4f9a-bfb3-a0fceb6a3471.png)
+![Saiba mais sobre os Adeptos de Ravna, conjuradores poderosos capazes de empunhar a magia selvagem das criaturas.](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ceae0b53c-a0bf-4f9a-bfb3-a0fceb6a3471.png)
 
 Os **Adeptos de Ravna** acreditam que a forma mais pura de manipular a Magia seja através de seus portadores originais, as Criaturas Selvagens.
 Diferente das espécies senscientes que utilizam a Magia como uma ferramenta, as criaturas selvagens se unem à magia por **Simbiose Mágica**, e muitas dessas criaturas necessitam da relação de coexistência para sobreviver.
