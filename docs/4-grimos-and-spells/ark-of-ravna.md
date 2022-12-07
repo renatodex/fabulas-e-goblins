@@ -223,10 +223,6 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
-1. Conexão Selvagem: Enraiza até 5 criaturas selvagens. Cada inimigo enraizado receberá 1 de dano para cada 1 ponto de dano selvagem que qualquer um dos inimigos enraizados receber.
-Ex: Se você enraizar 3 inimigos, e usar um ataque em área que cause 40 de dano aos 3 inimigos, cada inimigo sofrerá um total de 120 pontos de dano.
-A conexão é quebrada conforme os monstros recebem dano Selvagem.
-
 <SpellFromJson expanded={false} spellData={savage_connection} />
 
 ### Habilidades - Tier 1
