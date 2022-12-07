@@ -193,7 +193,7 @@ Você pode escolher entre duas armas iniciais:
 | Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
 | ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C78b9ce5f-493f-4ea7-98e0-83521cb80da8.PNG" width="80" /> | Urna do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D6 + 6 | Estilingue que dispara um projétil mágico não-elemental à distância. | 3 Cargas | Intelecto |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D8 + 6 | Estilingue que dispara um projétil mágico não-elemental à distância. | 3 Cargas | Intelecto |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
