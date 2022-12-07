@@ -10,6 +10,6 @@
   "icon": "GiBeamsAura",
   "element": "materia",
   "caption": "Conjura espinhos ao seu redor que atingem todos inimigos adjacentes.",
-  "description": "<p>Faça um teste de ataque mágico para cada inimigo adjacente, o ataque causa <code>4d4+4</code> a todos inimigos próximos.</p>",
+  "description": "<p>Faça um teste de ataque mágico para cada inimigo adjacente, o ataque causa <code>TIER*(2d8+8)</code> de Dano de Matéria a todos inimigos próximos.</p>",
   "tags": ["grimo","ravna"]
 }

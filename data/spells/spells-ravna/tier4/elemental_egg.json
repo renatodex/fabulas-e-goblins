@@ -10,6 +10,6 @@
   "icon": "GiSunbeams",
   "element": null,
   "caption": "Empunha o poder do Grimo de Ravna para conjurar um Ovo elemental explosivo que atinge múltiplos inimigos.",
-  "description": "<p>Escolha uma área de <b>3x3</b> a uma distância de até <b>7 espaços</b>. Você conjura um Ovo misterioso que explode ao ser arremessado, gerando uma explosão elemental aleatória.</p><p>Teste contra a <b>Defesa Mágica</b> de todos inimigos na área. O Ovo causa <code>4d12+30</code> de dano a todos os alvos  que falharem.</p><p>O elemento e o tipo do dano é dicidido ao se rolar um <code>1d12</code>. (Seguir tabela de elementos do Grimo de Allura).</p>",
+  "description": "<p>Escolha uma área de <b>3x3</b> a uma distância de até <b>7 espaços</b>. Você conjura um Ovo misterioso que explode ao ser arremessado, gerando uma explosão elemental aleatória.</p><p>Teste contra a <b>Defesa Mágica</b> de todos inimigos na área. O Ovo causa <code>4d20+40</code> de dano a todos os alvos  que falharem.</p><p>O elemento e o tipo do dano é dicidido ao se rolar um <code>1d12</code>. (Seguir tabela de elementos do Grimo de Allura).</p>",
   "tags": ["grimo","ravna"]
 }

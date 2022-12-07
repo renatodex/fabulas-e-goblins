@@ -10,6 +10,6 @@
   "icon": "GiHealing",
   "element": "nature",
   "caption": "O Grimo emite uma aura que concede a força do Bisão a um aliado.",
-  "description": "<p>Quando conjurado em um alvo, concede um bônus de <code>+2d12</code> no próximo ataque.</p>",
+  "description": "<p>Quando conjurado em um alvo, concede um bônus de <code>TIER*d12</code> de Dano no próximo ataque.</p>",
   "tags": ["grimo","ravna"]
 }

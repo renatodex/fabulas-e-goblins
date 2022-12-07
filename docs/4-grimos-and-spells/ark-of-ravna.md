@@ -227,6 +227,8 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 Ex: Se você enraizar 3 inimigos, e usar um ataque em área que cause 40 de dano aos 3 inimigos, cada inimigo sofrerá um total de 120 pontos de dano.
 A conexão é quebrada conforme os monstros recebem dano Selvagem.
 
+<SpellFromJson expanded={false} spellData={savage_connection} />
+
 ### Habilidades - Tier 1
 
 <SpellFromJson expanded={false} spellData={bloom} />

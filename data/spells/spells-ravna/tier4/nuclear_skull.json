@@ -1,6 +1,6 @@
 {
   "name": "Meteoro Ácido",
-  "magic_cost": "12 P.M",
+  "magic_cost": "16 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Ativa",

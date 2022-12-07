@@ -1,5 +1,5 @@
 {
-  "name": "Domo das Sombras",
+  "name": "Pilar das Sombras",
   "magic_cost": "2 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
@@ -9,7 +9,7 @@
   "range_amount": "1",
   "icon": "GiMucousPillar",
   "element": "darkness",
-  "caption": "Conjura um domo de sombras em um único quadrado, bloqueando a visão do inimigo",
-  "description": "<p>O Domo ocupa apenas um quadrado e impede a visão de qualquer um que esteja no espaço do Domo.</p><p>A visão através do Domo também é bloqueada, então o Domo também serve como uma espécie de obstáculo transpassável que bloqueia a visão.</p><p>Para conjurar o Domo, você deverá passar em uma <b>Ação de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p>Apenas 2 Domos podem ser conjurados ao mesmo tempo. O Domo dura até o final do dia, ou até que o conjurador decida dissipá-lo.</p>",
+  "caption": "Conjura um pilar de sombras em um único quadrado, bloqueando a visão do inimigo",
+  "description": "<p>O Pilar ocupa apenas um espaço e impede a visão de qualquer um que esteja no espaço do pilar.</p><p>A visão através do Pilar também é bloqueada, então o Pilar também serve como uma espécie de obstáculo transpassável que bloqueia a visão.</p><p>Para conjurar o Pilar, você deverá passar em uma <b>Ação de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p>Apenas 2 Pilares podem ser conjurados ao mesmo tempo. O Pilar dura até o final do dia, ou até que o conjurador decida dissipá-lo.</p>",
   "tags": ["grimo","ravna"]
 }

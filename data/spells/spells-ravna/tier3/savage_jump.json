@@ -10,6 +10,6 @@
   "icon": "GiPointySword",
   "element": "ice",
   "caption": "Pula a uma distância impressionante causando um impacto de gelo a todos inimigos adjacentes ao pousar.",
-  "description": "<p>Esse poder usa simultaneamente uma ação de ataque e uma de movimento.</p><p>Escolha um ponto dentro dos limites do seu movimento, você poderá saltar no ar através de uma acrobacia auxiliado pela sua magia. Ao pousar, você conjura um Iceberg de Gelo que causa <code>6d8+10</code> de dano em todos inimigos adjacentes ao ponto escolhido.</p><p>Você deve testar contra a <b>Defesa Mágica</b> de todos inimigos. Os que falharem, também serão afetados por uma Névoa de gelo que causa <code>Congelar M3 T1</code>. Os inimigos que passarem na <b>Defesa Mágica</b> receberão metade do dano.</p>",
+  "description": "<p>Esse poder usa simultaneamente uma ação de ataque e uma de movimento.</p><p>Escolha um ponto dentro dos limites do seu movimento, você poderá saltar no ar através de uma acrobacia auxiliado pela sua magia. Ao pousar, você conjura um Iceberg de Gelo que causa <code>TIER*(d8+20)</code> <b>(o dado aumenta para D20 no Tier 4)</b> de dano em todos inimigos adjacentes ao ponto escolhido.</p><p>Você deve testar contra a <b>Defesa Mágica</b> de todos inimigos. Os que falharem, também serão afetados por uma Névoa de gelo que causa <code>Congelar M3 T1</code>. Os inimigos que passarem na <b>Defesa Mágica</b> receberão metade do dano.</p>",
   "tags": ["grimo","ravna"]
 }

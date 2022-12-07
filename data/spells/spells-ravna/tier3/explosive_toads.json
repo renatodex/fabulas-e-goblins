@@ -10,6 +10,6 @@
   "icon": "GiSunbeams",
   "element": "fire",
   "caption": "Conjura grandes cogumelos que se explodem quando um inimigo se move a um quadrado adjacente.",
-  "description": "<p>Escolha um ponto a até 7 espaços de distância, e conjure o Cogumelo nessa posição.</p><p>Qualquer criatura que se mover de forma adjacente ao cogumelo gerará uma explosão de <code>2x2</code> quadrados posicionada em intersecção com o ponto onde o Cogumelo se encontra.</p><p>Apenas inimigos sofrem com a explosão, recebendo <code>3d10+15</code> de dano de Fogo.</p>",
+  "description": "<p>Escolha um ponto a até 7 espaços de distância, e conjure o Cogumelo nessa posição.</p><p>Qualquer criatura que se mover de forma adjacente ao cogumelo gerará uma explosão de <code>2x2</code> quadrados posicionada em intersecção com o ponto onde o Cogumelo se encontra.</p><p>Apenas inimigos sofrem com a explosão, recebendo <code>TIER*(d10+15)</code> de dano de Fogo.</p>",
   "tags": ["grimo","ravna"]
 }
