@@ -57,16 +57,17 @@ import trauma_master from './../../data/spells/spells-darian/tier4/trauma_master
 
 ![Os Adeptos dee Darian são respeitados Xamãs espirituais que podem navegar pelo plano Astral e se conectar com os espíritos...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbc4cda2-fe19-4913-a4ee-90ef7780d68a.png)
 
-Estudiosos das antigas civilizações, os **Adeptos de Darian** se especializaram nas artes místicas de manipular o **Plano Astral**.
 
-Com a ajuda do Grimo, o **Elo Mágico** destes habilidosos dominadores é capaz de penetrar nas camadas mais densas do mundo Espiritual, permitindo-os acessar conhecimentos antigos, que são carregados pela própria *essência do mundo*, sendo descritos por seu criador como **Ecos do Passado** que reverberam o conhecimento dos antigos através do tempo e do espaço.
+Aqueles que portam o **Tótem de Darian** são **Xamãs espirituais**, mestres na arte de se comunicar com o plano **Astral** e mediúnicos por natureza, sendo capazes de chavear sua presença entre diversos planos e se comunicar com os seres extra-materiais.
 
-O **Grimo de Darian** é um aparato mágico "criado" por `Darian Nagar`. Ele contém os conhecimentos Mágicos das **Artes Esquecidas**, que ensinam o poder de se comunicar e extrair o poder da **Magia Astral**.
+Sua jornada se inicia com a ajuda de um Mentor, que testa a mediunidade do Xamã e o guia desde o início de seu aprendizado. O Mentor ensina o **Dariano** a navegar pelo Plano Astral, utilizando para isso o poder residual dos **Gravetos** e **Tábuas Mágicas**.
 
-O Estilo de Combate deste Grimo não utiliza o poder dos Elementos. Ao invés disso, ele funciona despertando presenças etéreas que auxiliam o Dominador no campo de batalha.
+Os **Xamãs de Darian** são capazes de projetar sua presença para outros planos, comunicando-se com espíritos sábios e almas incompletas, conhecidas como **Ecos do Passado**. Os Darianos meditam para entender esses seres, pois apenas eles possuem as respostas para os mistérios antigos, enterrados e esquecidos no início dos tempos.
+
+O Grimo prioriza o combate utilitário, que pode alternar entre auxiliar aliados e desferir ataques poderosos utilizando a magia Etérea.
 
 :::note O Plano Astral
-A **Magia Astral**, assim como a **Magia Elemental**, opera em um plano similar, protegido do **Caos Elemental** do **Plano Mágico**, O plano Astral é descrito como um grande Templo tranquilo e silencioso, que funciona como uma espécie de *espaço transitório*, onde as essências vitais e as consciências de seres que viveram ou que ainda irão viver podem transitar de forma temporária e compartilhar conhecimentos com outros viajantes do plano ou até mesmo com indivíduos do **Plano Material**.
+O plano Astral é descrito como um grande Templo tranquilo e silencioso, que funciona como uma espécie de *espaço transitório*, onde as essências vitais e as consciências de seres que viveram ou que ainda irão viver podem transitar de forma temporária e compartilhar conhecimentos com outros viajantes do plano ou até mesmo com indivíduos do **Plano Material**.
 
 Diferente da **Magia Elemental**, que é extraída diretamente do **Plano Mágico** através do **Elo Mágico** de um Dominador, a **Magia Astral** pode extrair ou materializar temporariamente a **Presença Etérea** de um indivíduo ou entidade do **Plano Astral**, sendo também muitas vezes utilizadas como meio para se comunicar e absorver conhecimentos dos indivíduos que habitam este plano.
 :::
@@ -145,26 +146,26 @@ Conforme o tempo passa, o **Espírito** vai cada vez mais perdendo sua conexão 
 
 ## Interpretando um Adepto de Darian
 
-Os Adeptos de Darian são vistos frequentemente como indivíduos serenos, e dotados de grande sabedoria.<br/>
+Os Adeptos de Darian são indivíduos serenos, e dotados de grande sabedoria.<br/>
 A Doutrina dos Darians ensina em primeiro lugar que aquele que passa a vida buscando os conhecimentos do mundo material, jamais o encontrará até que possa primeiro conhecer os segredos de sí mesmo.
 
-O Auto-conhecimento e a sabedoria interior são os pilares que regem a doutrina **Darianista**, e os Adeptos costumam deixar o templo onde são treinados com muito mais perguntas do que respostas. Essas perguntas só poderão ser respondidas com a ajuda de seus mentores Espiritual, cuja missão é auxiliar e trilhar essa jornada de Auto-conhecimento junto com seu Elo no mundo Material (no caso, você).
+O Auto-conhecimento e a sabedoria interior são os pilares que regem a doutrina **Darianista**, e os Adeptos costumam deixar o templo onde são treinados com muito mais perguntas do que respostas. Essas perguntas só poderão ser respondidas com a ajuda de seus mentores espirituais, cuja missão é auxiliar e trilhar essa jornada de auto-conhecimento junto com seu Elo no mundo Material (no caso, você).
 
 Por isso, cada um dos Adeptos enfrentará desafios completamente diferentes, e precisará trilhar um caminho distinto.
 
-Os **Templos dos Darian** não visam fornecer as respostas para o destino do Dominador, nem sequer direcionar os indivíduos para um determinado objetivo, pois os **Templos Espirituais** dos Darians são completamente desassociados de qualquer influência política ou local, não pertencendo a qualquer nação, ou defendendo qualquer lei, a não ser a do **Plano Astral**.
+Da mesma forma, os **Templos dos Darian** são locais sagrados que não visam fornecer respostas para o destino do Darianista, nem sequer direcionar os indivíduos para um determinado objetivo, pois os **Templos Espirituais** dos Darians são completamente desassociados de qualquer influência política ou local, não pertencendo a qualquer nação, ou defendendo qualquer lei, a não ser a do **Plano Astral**.  Mesmo assim, os Templos servem como verdadeiros *amplificadores da conexão espiritual*, fornecendo ao Xamã a tranquilidade e a aura mediúnica perfeita para que ele busque as respostas que precisa por sí mesmo.
 
-Vistos frequentemente como uma espécie de Feiticeiros Monges, esses indivíduos são profundamente respeitados em todas as civilizações por seu poder e por sua conexão única com os Espíritos.
+Os **Darianos** são profundamente respeitados e requisitados em todas as civilizações por seu habilidade de conversar com as almas que se foram e por sua conexão única com o plano dos espíritos.
 
 ## Origem do Grimo
 
-Antigos manuscritos derivados das civilizações Gudrash e Lunir já revelavam que os primeiros Goblins que habitavam as terras místicas, antes mesmo do surgimento da civilização como conhecemos hoje, já utlilizavam a Magia de forma primitiva. O Elo Mágico destes povos com o Plano da Magia é considerado pelos estudiosos de Darian como a forma de conexão mais Pura que pode existir.
+Antigos manuscritos derivados das civilizações Gudrash e Lunir já revelavam que os primeiros Goblins que habitavam as terras místicas, antes mesmo do surgimento da civilização como conhecemos hoje, já buscavam formas de se conectar com seus ancestrais. O Elo Mágico destes povos com o Plano da Magia é considerado pelos estudiosos de Darian como a forma de conexão mais pura que pode existir.
 
-De acordo com eles, o próprio surgimento dos Augúrios estaria relacionado a herança espiritual de determinados indivíduos com Povos antigos, como os Gobolur e os Lunir.
+De acordo com eles, o próprio surgimento dos Augúrios estaria relacionado a herança espiritual de determinados indivíduos com Povos antigos, como os **Gobolur** e os **Lu'nir**.
 
-O **Grimo de Darian** foi uma relíquia encontrada por um famoso Arqueólogo conhecido como **Darian Nagar**, eras passadas, no Advento das grandes civilzações. A relíquia é frequentemente considerada pelos historiadores como um dos Primeiros Grimos da civilização sensciente, e que parece ter traços de compatibilidade com a antiga Civilização perdida dos **Gudrash**.
+O **Tótem de Darian** foi uma relíquia encontrada por um famoso Arqueólogo conhecido como **Darian Nagar**, eras passadas, no Advento das grandes civilzações. A relíquia é frequentemente considerada pelos historiadores como um dos Primeiros Grimos da civilização sensciente, e que parece ter traços de compatibilidade com a antiga Civilização perdida dos **Gudrash**.
 
-**Darian** passou anos estudando o artefato, mas jamais conseguiu concluir sua pesquisa, deixando para trás apenas um valioso diário com anotações de todas suas descobertas. Mas foi apenas Eras depois, com o advento do Blecaute, que o Diário teria sido recuperado e replicado por Espiritistas ávidos, fundando assim a Academia e **Doutrina de Darian**.
+**Darian** passou anos estudando o artefato, mas jamais conseguiu concluir sua pesquisa, deixando para trás apenas um valioso diário com anotações de todas suas descobertas. Mas foi apenas Eras depois, que o Diário teria sido recuperado e replicado por Espiritistas ávidos, fundando assim os primeiros **Templos e a Doutrina de Darian**.
 
 ## Requisito de entrada
 
