@@ -19,7 +19,7 @@
 			"\t\"cast_distance\": ${6|null,\"12\",\"10\",\"9\",\"8\",\"7\",\"6\",\"5\",\"4\",\"3\",\"2\",\"1\",\"0\"|},",
 			"\t\"range_type\": ${7|null,\"Ponto\",\"Alvo\",\"Área\",\"Linha\",\"Circular\",\"Cone\",\"Corpo-a-Corpo\",\"Sí mesmo\",\"Variado\",\"Poligonal\",\"Global\"|},",
 			"\t\"range_amount\": ${8|null,\"1\",\"2\",\"3\",\"1x2\",\"2x2\",\"3x3\",\"4x4\",\"5x5\",\"6x6\",\"7x7\",\"8x8\",\"9x9\",\"10x10\"|},",
-			"\t\"icon\": \"${9|GiBoltSpellCast,GiRingedBeam,GiSunbeams,GiBeamsAura,GiMagicPalm,GiHealing,GiArmoredPants,GiWingedShield,GiPointySword,GiHabitatDome,GiMucousPillar,GiAwareness,GiLinkedRings,GiInvisible|}\",",
+			"\t\"icon\": \"${9|GiBoltSpellCast,GiRingedBeam,GiSunbeams,GiBeamsAura,GiMagicPalm,GiHealing,GiArmoredPants,GiWingedShield,GiPointySword,GiHabitatDome,GiMucousPillar,GiAwareness,GiLinkedRings,GiInvisible,GiGhost|}\",",
 			"\t\"element\": ${10|null,\"fire\",\"water\",\"wind\",\"eletric\",\"materia\",\"ice\",\"holy\",\"darkness\",\"arcane\",\"chaos\",\"acid\",\"nature\"|},",
 			"\t\"caption\": \"\",",
 			"\t\"description\": \"<p>Mechanic</p>\",",

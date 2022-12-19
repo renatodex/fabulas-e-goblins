@@ -7,12 +7,14 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbc
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
+import acclaim_souls from './../../data/spells/spells-darian/ultimates/acclaim_souls.json'
+
 import astral_seal from './../../data/spells/spells-darian/tier1/astral_seal.json'
 import cross_walls from './../../data/spells/spells-darian/tier1/cross_walls.json'
 import drain_essence from './../../data/spells/spells-darian/tier1/drain_essence.json'
 import dual_shackles from './../../data/spells/spells-darian/tier1/dual_shackles.json'
 import ethereal_bound from './../../data/spells/spells-darian/tier1/ethereal_bound.json'
-import ethereal_presence from './../../data/spells/spells-darian/tier1/ethereal_presence.json'
+import memento from './../../data/spells/spells-darian/tier1/memento.json'
 import fortify_soul from './../../data/spells/spells-darian/tier1/fortify_soul.json'
 import helping from './../../data/spells/spells-darian/tier1/helping.json'
 import spirit_barrier from './../../data/spells/spells-darian/tier1/spirit_barrier.json'
@@ -167,6 +169,17 @@ O **Tótem de Darian** foi uma relíquia encontrada por um famoso Arqueólogo co
 
 **Darian** passou anos estudando o artefato, mas jamais conseguiu concluir sua pesquisa, deixando para trás apenas um valioso diário com anotações de todas suas descobertas. Mas foi apenas Eras depois, que o Diário teria sido recuperado e replicado por Espiritistas ávidos, fundando assim os primeiros **Templos e a Doutrina de Darian**.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
+| ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cef8883db-8f88-45d5-bf53-a85a41d3eed6.PNG" width="80" /> | Tábua do Iniciante + 0 | Mágico | 2D6 + 4 | Conjura um feixe espiritual a distância de um inimigo. | 3 Cargas | Espírito |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6d56889-b581-4a66-bfe2-d5b268ffc1f9.PNG" width="80" /> | Graveto do Iniciante + 0 | Físico | 3d6 + 2 | Um graveto sólido, usado para atacar inimigos adjacentes. | 3 Cargas | Intelecto |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
 ## Requisito de entrada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
@@ -181,6 +194,8 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
+<SpellFromJson expanded={false} spellData={acclaim_souls} />
+
 ### Habilidades - Tier 1
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
@@ -190,27 +205,13 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={drain_essence} />
 <SpellFromJson expanded={false} spellData={dual_shackles} />
 <SpellFromJson expanded={false} spellData={ethereal_bound} />
-<SpellFromJson expanded={false} spellData={ethereal_presence} />
+<SpellFromJson expanded={false} spellData={memento} />
 <SpellFromJson expanded={false} spellData={fortify_soul} />
 <SpellFromJson expanded={false} spellData={helping} />
 <SpellFromJson expanded={false} spellData={spirit_barrier} />
 <SpellFromJson expanded={false} spellData={torpor_seal} />
 <SpellFromJson expanded={false} spellData={willowhisp_canon} />
 <SpellFromJson expanded={false} spellData={willowhisp_fire} />
-
-1. Seta Astral: Conjura uma seta não elemental que causa 1d6 de dano em criaturas e 3d6 de dano em humanóides.
-2. Fogo Fátuo: Transforma temporariamente o alvo e todo seu domínio (roupas e pertences) em um fogo fátuo etéreo que não pode atacar ou ser atacado ou atingido por magias até seu próximo turno.
-3. Vínculo Etéreo: Vincula dois inimigos. Se um tomar dano, o outro toma também e o laço se quebra.
-4. Drenar Essência: Drena a essencia de um inimigo, e transfere esse valor de dano a um aliado como cura.
-5. Canhão Fatuo: Conjura um canhão etéreo que dispara um único projétil de fogo fátuo contra um inimigo.
-6. Presença Etérea: Leve um objeto que pertencia a alguém em uma area para se conectar com o plano astral e visualizar os últimos momentos dessa pessoa.
-7. Selo Etéreo do Torpor: Conjura um selo no chao, se um inimigo passar, ele sofre uma dor incontrolável, seu turno é interrompido e não consegue se mover ou atacar no proximo turno. Cada inimigo só pode ser afetado pelo selo 1 vez.
-8. Ajudante Etéreo: Conjura um fantasma no campo de batalha. Ele não ataca, não pode ser atacado mas tem visão no escuro, pode ser mover através de paredes e compartilha a visão com o conjurador. O fantasma age por ultimo e não tem ações de ataque.
-9. Atravessar Paredes: Pode conjurar um portal etéreo em uma parede para atravessa-la. A parede precisa ser fina, caso contrário o feitiço falha automaticamente.
-10. Fortalecer Alma: Conjura um selo etéreo em um aliado, que faz com que ele resista ao próximo efeito negativo.
-11. Barreira Etérea: Conjura uma barreira de até 1x3 de comprimento. A Barreira se quebra ao receber certa qt de dano.
-12. Grilhão Duplo: Prende um alvo a outro. A corrente pode ser destruída ao receber muito dano. Os alvos podem atacar e conjurar normalmente, mas não podem estar mais do que 1 quadrado de distância um do outro.
-
 
 ### Habilidades - Tier 2
 

@@ -1,0 +1,15 @@
+{
+  "name": "Memento",
+  "magic_cost": "5 P.M",
+  "duration_time": "30 minutos",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBeamsAura",
+  "element": null,
+  "caption": "Leve um objeto em uma area para se conectar com o plano astral e vivenciar as visões das interações passadas com ele.",
+  "description": "<p>Escolha um objeto. Você deve levá-lo a um local tranquilo e pacificado, e realizar uma sessão de meditação onde você deverá rolar <b>3 (três) Ações de Perícia</b> do atributo <b>Espírito</b>.</p><p>A quantidade de sucessos dirá ao Narrador quantas informações você pode obter deste objeto e a veracidade dessas informações. Obter mais falhas do que sucessos pode significar obter informações inverídicas ou imprecisas.</p><p>Para isso, recomendamos que o jogador faça as rolagens de uma forma que apenas o Narrador possa saber o resultado. (se o jogador preferir, pode pedir para que o Narrador faça as rolagens escondidas.)</p><p>As sessões de Memento costumam durar 30 minutos.</p><p>Caso o jogador faça as Meditações em conjunto com outro Dariano, ele receberá <b>+1 de Bônus por cada Dariano adicional, até um limite de +3</b>. Além disso, se estiver dentro de um <b>Templo de Darian</b>, sua mediunidade será amplificada, concedendo um <code>bônus de +5 de Espírito</code> nas 3 rolagens.</p>",
+  "tags": ["grimo","darian"]
+}
