@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Crescimento Espiritual",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiBeamsAura",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Sua conexão com o Grimo é mais forte, desbloqueando novos níveis de mediunidade.",
+  "description": "<p>Aumenta passivamente seu Espirito em +1.</p>",
   "tags": ["grimo","darian"]
 }

@@ -228,17 +228,6 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={triple_ethereal_bound} />
 <SpellFromJson expanded={false} spellData={weapon_of_eternal_flame} />
 
-1. Vínculo Etéreo Triplo: Evolui o poder Vinculo etéreo para conectar 3 alvos ao invés de 2.
-2. Domo Etéreo: Evolui o poder Barreira Etérea, e passa permitir a Criação de um Domo de 3x3 numa área.
-3. Soldado Etéreo: Conjura um Soldado Etéreo que luta ao seu lado. O turno do soldado é sempre ao final.
-4. Fogo Fátuo Ardente: Evolui o poder Fogo Fatuo para uma versão mais poderosa. Que agora causa dano enquanto prende o alvo.
-5. Chama das Profundezas: Uma area de 2x2 encandesce com o Fogo Fatuo, causando dano continuo a todos inimigos que permanecerem na area.
-6. Selo da Postergação: Concede ao aliado uma poderosa proteção que o previne de ficar inconsciente caso chegue a 0 de vida. A proteção dura 1 turno depois do aliado ter chegado a 0 de vida.
-7. Crescimento Espiritual: Aumenta passivamente seu Espirito em +1.
-8. Curar Trauma: Pode curar um Trauma através de um ritual espiritual. O teste é uma ação comum, e o processo requer que o Dariano jogue 3 dados e tire 3 sucessos. Se falhar, o trauma não é curado e o Conjurador só poderá repetir o teste nesse Personagem em uma semana (mesmo que seja para outro Trauma).
-9. Arma de chama eterna: Conjura a Chama Eterna temporariamente em uma arma. A potencia da arma aumenta, causando mais dano e dando desvantagem ao alvo para se defender de poderes espirituais.
-10. Pacificar Espirito: O alvo é tocado pelo conjurador e tem seu espirito renovado, sentindo subitamente uma paz incomparável . Pode ser usado para pacificar alvos furiosos. Não tem efeito em combate, a menos que se usado para diplomacia e pacificação.
-
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.

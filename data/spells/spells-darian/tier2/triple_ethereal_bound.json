@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Vincular Almas: Triplo",
+  "magic_cost": "6 P.M",
   "duration_time": null,
   "attack_logic": null,
-  "action_type": "Passiva",
+  "action_type": "Aprimoramento",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiUpgrade",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Evolui o poder Vincular Almas para conectar 3 alvos ao invés de 2.",
+  "description": "<p>Aprimora o poder Vincular Almas, que agora passa a conectar 3 alvos ao invés de 2. O Custo de Pontos de Magia aumenta para <code>6 P.M</code>.</p>",
   "tags": ["grimo","darian"]
 }
