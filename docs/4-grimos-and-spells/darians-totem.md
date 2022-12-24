@@ -245,8 +245,6 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={reveal_trauma} />
 <SpellFromJson expanded={false} spellData={possession} />
 <SpellFromJson expanded={false} spellData={disembody} />
-<SpellFromJson expanded={false} spellData={spiritual_banishment} />
-<SpellFromJson expanded={false} spellData={summon_ethereal_best} />
 
 ### Habilidades - Tier 4
 
