@@ -1,0 +1,15 @@
+{
+  "name": "Possessão",
+  "magic_cost": "20 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ritual",
+  "cast_distance": null,
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiAwareness",
+  "element": null,
+  "caption": "Seu enorme poder espiritual permite assuma a alma de um alvo por um curto período de tempo.",
+  "description": "<p>Escolha um Alvo a qualquer distância. Para realizar a Possessão, você deverá estar em posse de: <ul><li>Um <b>objeto de grande valor sentimental ao alvo.</b></li><li>Uma <b>Gota Espiritual (se consome no processo).</b></li></ul></p><p>O Dariano ejeta sua alma para fora de sí, buscando o corpo do alvo. Assim que encontrá-lo, você força sua entrada em seu corpo, sendo obrigado a realizar um <b>Teste de Ataque Mágico</b> contra a <b>Defesa Mágica</b> do Alvo.</p><p><b>Se for bem sucedido</b>, você suprime temporariamente a própria alma do alvo assumindo o controle do corpo.</p><p><b>Se for mal sucedido</b>, sua alma é espelida, e retorna violentamente ao corpo do conjurador, fazendo com que você receba <code>2d12 + 20</code> de Dano mágico inegável e incancelável.</p><p>Enquanto estiver possuindo o alvo, você sofre com as interferências da alma original, devendo realizar <b>1 teste de Espírito (Ação de Perícia)</b> em momentos cruciais conforme a vontade do Narrador.</p><p>Enquanto estiver possuindo, seu corpo original fica exposto e inerte em um estado de transe, sem poder realizar quaisquer movimentos.</p><p>Você pode possuir a alma do alvo durante <b>1 dia</b> para cada <b>2 Pontos de Espírito</b>. No início de cada novo dia, você é obrigado a repetir o teste de Possessão inicial <b>(Defesa Mágica)</b>, caso contrário, é expulso do corpo.</p><p>O Alvo fica consciente da possessão durante todo o tempo que for possuído, mas não consegue identificar quem o possuiu. <b>Darianos</b> de <b>Tier 3 ou superior</b> podem enxergar através da Posessão, e desfazê-la rolando um <b>teste resistido</b> contra a sua <b>Defesa Mágica</b>.</p>",
+  "tags": ["grimo","darian"]
+}

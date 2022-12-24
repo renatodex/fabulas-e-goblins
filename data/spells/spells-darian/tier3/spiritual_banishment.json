@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Banimento Espiritual [DRAFT]",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -10,6 +10,6 @@
   "icon": "GiBoltSpellCast",
   "element": null,
   "caption": "",
-  "description": "<p>Mechanic</p>",
+  "description": "<p>Envia um inimigo não-Nemesis para a dimensão Eterea. Inimigos enviados pra lá são removidos do combate e não retornam mais. Esse poder só pode ser usado uma vez por dia.</p>",
   "tags": ["grimo","darian"]
 }

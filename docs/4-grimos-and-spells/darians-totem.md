@@ -37,12 +37,15 @@ import call_of_the_deep_enhanced from './../../data/spells/spells-darian/tier3/c
 import condemn_spirit from './../../data/spells/spells-darian/tier3/condemn_spirit.json'
 import ethereal_canon_double from './../../data/spells/spells-darian/tier3/ethereal_canon_double.json'
 import ethereal_redirect from './../../data/spells/spells-darian/tier3/ethereal_redirect.json'
-import expanded_dome from './../../data/spells/spells-darian/tier3/expanded_dome.json'
+import powerful_astral_bolt from './../../data/spells/spells-darian/tier3/powerful_astral_bolt.json'
 import heal_trauma_enhanced from './../../data/spells/spells-darian/tier3/heal_trauma_enhanced.json'
-import reach_soul from './../../data/spells/spells-darian/tier3/reach_soul.json'
+import ask_soul from './../../data/spells/spells-darian/tier3/ask_soul.json'
 import restoring_flames from './../../data/spells/spells-darian/tier3/restoring_flames.json'
 import spiritual_banishment from './../../data/spells/spells-darian/tier3/spiritual_banishment.json'
 import summon_ethereal_best from './../../data/spells/spells-darian/tier3/summon_ethereal_best.json'
+import reveal_trauma from './../../data/spells/spells-darian/tier3/reveal_trauma.json'
+import possession from './../../data/spells/spells-darian/tier3/possession.json'
+import disembody from './../../data/spells/spells-darian/tier3/disembody.json'
 
 import call_of_the_deep_master from './../../data/spells/spells-darian/tier4/call_of_the_deep_master.json'
 import ethereal_canon from './../../data/spells/spells-darian/tier4/ethereal_canon.json'
@@ -236,24 +239,15 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={condemn_spirit} />
 <SpellFromJson expanded={false} spellData={ethereal_canon_double} />
 <SpellFromJson expanded={false} spellData={ethereal_redirect} />
-<SpellFromJson expanded={false} spellData={expanded_dome} />
+<SpellFromJson expanded={false} spellData={powerful_astral_bolt} />
 <SpellFromJson expanded={false} spellData={heal_trauma_enhanced} />
-<SpellFromJson expanded={false} spellData={reach_soul} />
-<SpellFromJson expanded={false} spellData={restoring_flames} />
+<SpellFromJson expanded={false} spellData={ask_soul} />
+<SpellFromJson expanded={false} spellData={reveal_trauma} />
+<SpellFromJson expanded={false} spellData={possession} />
+<SpellFromJson expanded={false} spellData={disembody} />
 <SpellFromJson expanded={false} spellData={spiritual_banishment} />
 <SpellFromJson expanded={false} spellData={summon_ethereal_best} />
 
-1. Condenar Espirito: O alvo é tocado pelo conjurador, sentindo a culpa e tristeza de mil almas atormentadas. Muitos alvos desabariam com esse toque, mas alvos enfurecidos tornam-se ainda mais violentos. Em combate não tem efeito a menos que o conjurador possa justificar seu uso.
-2. Domo Expandido: Expande o Domo Etereo, podendo chegar a até 4x4 quadrados.
-3. Canhão Etereo Duplo: Permite ao Canhão Etéreo realizar dois disparos ao mesmo tempo.
-4. Curar Trauma Aprimorado: Aumenta os dados pra 4 ao invés de 3.
-5. Chama das Profundezas Expandida: Aumenta a area de efeito para 3x3 quadrados.
-6.
-Conjurar Besta Etérea: Conjura uma Besta Eterea que luta ao lado do conjurador.
-7. Alcançar Espirito: Permite ao conjurador realizar ataques e ações fisicas diretamente no espírito do alvo. Alvos que tem seu espirito tocado sentem um terror Paralizante, por isso, esse poder pode ser usado como ferramenta de demonstração de poder e intimidação. No combate agarrar o espirito do alvo causa dano e Terror simultaneos.
-8. Redirecionamento Ethereo: Abre dois portais de energia eterea, que podem redirecionar um projetil magico em outra direcao. O projetil não pode ser fisico, como flechas por exemplo. O alvo precisa fazer um teste de defesa contra seu próprio valor de ataque.
-9. Chamas Restauradoras: Conjura 3 Fogo Fatuos restauradores. A qualquer momento, como uma ação de reação, escolha um alvo e envie o fogo fatuo a ele para cura-lo.
-10. Banimento Etereo: Envia um inimigo não-Nemesis para a dimensão Eterea. Inimigos enviados pra lá são removidos do combate e não retornam mais. Esse poder só pode ser usado uma vez por dia.
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.

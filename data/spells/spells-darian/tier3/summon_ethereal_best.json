@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Conjurar Besta [DRAFT]",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -10,6 +10,6 @@
   "icon": "GiBoltSpellCast",
   "element": null,
   "caption": "",
-  "description": "<p>Mechanic</p>",
+  "description": "<p>Conjura uma Besta Eterea que luta ao lado do conjurador.</p>",
   "tags": ["grimo","darian"]
 }

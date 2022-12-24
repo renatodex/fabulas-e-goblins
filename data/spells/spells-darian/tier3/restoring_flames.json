@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Chamas Restauradoras [DRAFT]",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -9,7 +9,7 @@
   "range_amount": null,
   "icon": "GiBoltSpellCast",
   "element": null,
-  "caption": "",
+  "caption": "Conjura 3 Fogo Fatuos restauradores. A qualquer momento, como uma ação de reação, escolha um alvo e envie o fogo fatuo a ele para cura-lo.",
   "description": "<p>Mechanic</p>",
   "tags": ["grimo","darian"]
 }

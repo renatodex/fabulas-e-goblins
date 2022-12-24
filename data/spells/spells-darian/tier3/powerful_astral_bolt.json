@@ -1,0 +1,15 @@
+{
+  "name": "Seta Astral Poderosa",
+  "magic_cost": "12 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Aprimoramento",
+  "cast_distance": "10",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRingedBeam",
+  "element": null,
+  "caption": "Aprimora a Seta Astral, aumentando o seu alcance e o dano causado.",
+  "description": "<p>A Seta Astral agora passa a causar <code>TIER * 5</code> de dano adicional.</p><p>Com este aprimoramento, você também passa a poder  canalizar a seta Astral por <code>1 turno</code>. Ao final da canalização, sua Seta causa o <b>dobro de dano</b> além de um adicional de <code>+30 de Dano Mágico</code>, aplicado ao final do cálculo. (após dobrar o dano)</p>",
+  "tags": ["grimo","darian"]
+}
