@@ -54,7 +54,6 @@ import interethereal_portal from './../../data/spells/spells-darian/tier4/intere
 import ressurect from './../../data/spells/spells-darian/tier4/ressurect.json'
 import restoring_flames_master from './../../data/spells/spells-darian/tier4/restoring_flames_master.json'
 import soul_army from './../../data/spells/spells-darian/tier4/soul_army.json'
-import summon_ethereal_terror from './../../data/spells/spells-darian/tier4/summon_ethereal_terror.json'
 import supreme_banishment from './../../data/spells/spells-darian/tier4/supreme_banishment.json'
 import supreme_dome from './../../data/spells/spells-darian/tier4/supreme_dome.json'
 import transcend from './../../data/spells/spells-darian/tier4/transcend.json'
@@ -257,21 +256,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={ressurect} />
 <SpellFromJson expanded={false} spellData={restoring_flames_master} />
 <SpellFromJson expanded={false} spellData={soul_army} />
-<SpellFromJson expanded={false} spellData={summon_ethereal_terror} />
 <SpellFromJson expanded={false} spellData={supreme_banishment} />
 <SpellFromJson expanded={false} spellData={supreme_dome} />
 <SpellFromJson expanded={false} spellData={transcend} />
 <SpellFromJson expanded={false} spellData={trauma_master} />
-
-1.  Mestre do Trauma: Aumenta os dados para curar Trauma de 3 para 6. Só pode ser usado uma vez por dia.
-2.  Canhão Etereo: Aumenta o Dano e transforma o poder em uma magia de area.
-3.  Banimento Supremo: Envia qualquer inimigo para a Dimensão Eterea. Sacrifica-se no processo. Em inimigos normais é instantanea, em Nemesis leva 3 turnos.
-4.  Conjurar Terror Etereo: Conjura uma besta Ererea poderosa.
-5.  Chama das Profundezas: Aumenta area para 10x10.
-6.  Domo Supremo: Inquebravel, dura 5 turnos.
-7.  Chamas restauradoras: Aumenta para 5.
-8.  Reviver: Reanima o espirito de  um Aliado, curando o 100%.
-9.  Transcender: Aumenta Espirito em +3
-10.  Conjurar Exercito: Conjura o exercito dos mortos. (10 portais surgem)
-11.  Portal Interetéreo: Abre portal para outro plano.
-12.  Forma Eterea: Fica imune a danos

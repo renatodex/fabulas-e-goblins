@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Forma Etérea",
+  "magic_cost": "18 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
+  "range_type": "Sí mesmo",
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiInvisible",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Você atinge o auge da sua forma etérea, tornando-se imune a danos físicos por 3 turnos.",
+  "description": "<p>Dura 3 turnos e não exige testes para ser usado. Enquanto estiver na forma Etérea, você será imune a qualquer Dano de natureza física.</p><p>A <b>Forma Etérea</b> não lhe torna invisível. Ao invés disso, as pessoas podem enxergar uma certa translucência em seu corpo, acompanhada de um sutil brilho púrpura.</p><p>Magias atingem seu corpo normalmente, sem qualquer penalidade.</p><p>Enquanto estiver na <b>Forma Etérea</b>, a gravidade se aplica normalmente a você, e não é possível atravessar obstáculos ou objetos materiais estando nessa forma.</p>",
   "tags": ["grimo","darian"]
 }

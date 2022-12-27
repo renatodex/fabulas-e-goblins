@@ -71,8 +71,8 @@ Uma das características de balanceamento mais importantes deste sistema é o qu
 |------|---------------------|-----------------------|
 | Tier 1 | Entre 15 e 30     | Entre 6 e 12          |
 | Tier 2 | Entre 30 e 60     | Entre 12 e 24         |
-| Tier 3 | Entre 60 e 120    | Entre 24 e 48         |
-| Tier 4 | 120 ou mais       | 48 ou mais            |
+| Tier 3 | Entre 60 e 90     | Entre 24 e 48         |
+| Tier 4 | Entre 90 e 150    | 48 ou mais            |
 
 É através dessa **tabela de referência simples** que conseguimos fazer todo o **Balanceamento do combate**.
 

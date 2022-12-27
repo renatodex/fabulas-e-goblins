@@ -144,19 +144,19 @@ Pode ser difícil para um Narrador iniciante no Sistema do Fábulas & Goblins de
 
 Para todas essas perguntas, temos uma seção interessante dedicada exclusivamente ao [balanceamento de Personagens](/docs/10-the-guide/evolving-characters), mas aqui podemos prover uma tabela simples para te auxiliar nessa progressão:
 
-As colunas abaixo mostram os **valores comuns** que **Itens nesses níveis** devem **prover aos personagens** para que eles se mantenham desafiadores aos Inimigos.
+As colunas abaixo mostram os **valores máximos** de **ataque e defesa** que **Itens nesses níveis** devem **prover aos personagens** para que eles se mantenham desafiadores aos Inimigos.
 
-| Tier | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica | Expectativa de Dano |
-|------|---------------|---------------|---------------|---------------|---------------------|
-| 1    | +2            | +2            | +2            | +2            | 15                  |
-| 2    | +4            | +4            | +4            | +4            | 30                  |
-| 3    | +8            | +8            | +8            | +8            | 60                  |
-| 4    | +16           | +16           | +16           | +16           | 120                 |
+| Tier | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica | Expectativa de Dano | Números de Ouro <br/>(média de dano) |
+|------|---------------|---------------|---------------|---------------|---------------------|---------------------------|
+| 1    | entre +0 e +2            | entre +0 e +2            | entre +0 e +2            | entre +0 e +2            | entre 15 e 30                  | 25   |
+| 2    | entre +2 e +4            | entre +2 e +4            | entre +2 e +4            | entre +2 e +4            | entre 30 e 60                  | 45   |
+| 3    | entre +4 e +8            | entre +4 e +8            | entre +4 e +8            | entre +4 e +8            | entre 60 e 90                 | 75   |
+| 4    | entre +8 e +16           | entre +8 e +16           | entre +8 e +16           | entre +8 e +16           | entre 90 e 150                | 120  |
 
 Esses valores **podem variar para menos ou para mais**, dependendo do **nível real** do Personagem e da Aventura.
 
 :::note Os Números de Ouro
-**Todos os Grimos**, **Monstros** e **Itens** do Sistema do *Fábulas & Goblins* são criados com base nesses 4 números que chamamos de **"Expectativa de Dano"**.
+**Todos os Grimos**, **Monstros** e **Itens** do Sistema do *Fábulas & Goblins* são criados com base nesses 4 números que chamamos de **"Expectativa Média de Dano"**.
 
 Eles representam o quanto nós, **Game Designers**, esperamos que, **EM MÉDIA**, os Personagens vão **causar de Dano** com **um único ataque bem sucedido** em um **inimigo do seu mesmo nível**.
 

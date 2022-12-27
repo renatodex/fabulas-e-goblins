@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Mestre das Chamas das Profundezas",
+  "magic_cost": "20 P.M",
   "duration_time": null,
   "attack_logic": null,
-  "action_type": "Passiva",
+  "action_type": "Aprimoramento",
   "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "range_type": "Área",
+  "range_amount": "10x10",
+  "icon": "GiUpgrade",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Aumenta sua conexão com o Grimo, masterizando a Chama das Profundezas",
+  "description": "<p>Aprimora o poder <b>Chama das Profundezas</b>, fazendo com que a área de efeito se expanda para <b>10x10 quadrados</b>, e a fórmula de dano aumente para <code>TIER*(2d12 + 10)</code>. <i>(exige que o Dariano tenha aprendido todos aprimoramentos anteriores).</i></p>",
   "tags": ["grimo","darian"]
 }

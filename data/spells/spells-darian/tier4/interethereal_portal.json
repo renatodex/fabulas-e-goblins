@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
-  "duration_time": null,
+  "name": "Portal Interetéreo",
+  "magic_cost": "160 P.M",
+  "duration_time": "30 segundos",
   "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Ponto",
+  "range_amount": "1x3",
+  "icon": "GiMagicPortal",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","darian"]
+  "caption": "Canaliza uma quantidade absurda de magia para conjurar temporariamente um portal para o <b>Plano Astral</b>",
+  "description": "<p>Escolha 3 pontos formando uma linha.</p><p>Você deverá ser bem sucedido em <b>5 (cinco) Ações de Perícia</b> do atributo <b>Espírito</b>, sendo que qualquer <b>Triunfo</b> a qualquer momento conjura o portal instantaneamente, e qualquer <b>Desastre</b> implode o portal, causando <code>5d12 + 20</code> a <b>todos os alvos</b> numa <b>área de 5x5</b> em volta do portal</b>.</p><p>O portal só ficará aberto durante 30 segundos, portanto, seja lá qual for seu objetivo, seja rápido.</p>",
+  "tags": ["grimo","nomegrimooumonstro"]
 }

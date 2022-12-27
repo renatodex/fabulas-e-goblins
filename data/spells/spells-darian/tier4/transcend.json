@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Transcender",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiAwareness",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Seu entendimento do plano espiritual se expande, tornando-o mais poderoso.",
+  "description": "<p>Essa passiva aumenta seu Atributo <b>Espírito</b> em <code>+3 permanentemente</code>.</p><p>Por consequência, essa passiva também aumenta sua <b>Defesa Mágica</b>.</p>",
   "tags": ["grimo","darian"]
 }
