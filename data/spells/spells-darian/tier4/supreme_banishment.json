@@ -4,12 +4,12 @@
   "duration_time": "3",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": "12",
+  "cast_distance": "20",
   "range_type": "Alvo",
   "range_amount": "1",
   "icon": "GiMucousPillar",
   "element": null,
   "caption": "Uma enorme esfera de energia espiritual se forma em suas mãos, e que tem o poder de banir permanentemente um inimigo para a <b>dimensão Etérea</b>.",
-  "description": "<p>Escolha um alvo a até <code>12 espaços</code> de distância.</p><p><b>Se o alvo for um inimigo do tipo Líder ou Nêmesis</b>, esse poder precisa de <code>3 turnos</code> de canalização. Em cada turno o conjurador deve ser bem sucedido em uma <b>Ação de Perícia</b> do atributo <b>Espírito</b>, caso contrário, a conjuração é desestabilizada, e o poder falha.</p><p><b>Se o inimigo for um inimigo normal</b>, a conjuração é instantânea. Nesse caso, o Dariano só precisa ser bem sucedido num teste de <b>Ataque Mágico</b> contra a <b>Defesa Mágica</b> do alvo.</p><p>Caso precise canalizar, o conjurador não pode receber nenhuma fonte de dano nem realizar nenhuma ação, ou a canalização será interrompida.</p><p>Os Pontos de Magia são consumidos mesmo se a canalização falhar.</p><p>O <b>Banimento Etéreo</b> só pode ser canalizado uma única vez por dia.</p>",
-  "tags": ["grimo","darian"]
+  "description": "<p>Escolha um alvo a até <code>20 espaços</code> de distância.</p><p><b>Se o inimigo for um inimigo normal</b>, a conjuração é instantânea. Nesse caso, o Dariano só precisa ser bem sucedido num teste de <b>Ataque Mágico</b> contra a <b>Defesa Mágica</b> do alvo, e o mesmo será banido para o plano Etéreo instantaneamente, sendo removido do combate.</p><p><b>Se o alvo for um inimigo do tipo Líder ou Nêmesis (mesmo que seja um inimigo Lendário)</b>, nesse caso o Dariano precisará usar todo o seu poder, <b>sacrificando sua própria alma num processo</b> que exigirá uma canalização de <code>1 turno</code> para cada <code>1000 P.V</code> do alvo.</p><p>O Narrador <b>não tem obrigação</b> de revelar <b>quantos turnos</b> serão necessários para banir o alvo. Para efeito de interpretação, o número de turnos representa a dificuldade do Dariano em subjulgar a alma do inimigo.</p><p>Em cada turno depois da canalização, o conjurador deverá ser bem sucedido em uma <b>Ação de Perícia</b> do atributo <b>Espírito</b>, caso contrário, a conjuração é desestabilizada, e o poder falha. No caso de falha, o Dariano tem seus P.V e P.M totalmente exauridos, mas continua vivo.</p><p>Já se o Dariano sofrer dano de qualquer fonte ou realizar uma ação adicional durante o processo, a canalização será interrompida (exceto Ação Livre), mas o Dariano continuará em combate, sem reduzir seus Pontos de Vida ou Magia.</p><p>O custo desse poder é descontado mesmo se a canalização falhar ou for interrompida.</p><p>O <b>Banimento Etéreo</b> só pode ser canalizado uma única vez por dia.</p>",
+  "tags": ["grimo","darian","sacrifice"]
 }
