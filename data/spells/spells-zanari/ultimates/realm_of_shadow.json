@@ -1,0 +1,15 @@
+{
+  "name": "Reino das Sombras",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBoltSpellCast",
+  "element": null,
+  "caption": "",
+  "description": "<p>Não faço a menor idéia do que isso faz</p>",
+  "tags": ["grimo","zanari"]
+}
