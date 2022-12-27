@@ -1,0 +1,15 @@
+{
+  "name": "Domo Astral",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "Evolui o poder Barreira Astral, e passa a conjurar um Domo em numa área ao invés de uma Barreira.",
+  "description": "<p>O poder Barreira Etérea agora passa conjurar um <b>Domo de 3x3</b> numa área. O alcance continua o mesmo do poder original, o Custo de Magia aumenta para 6 P.M, e a resistência ao dano passa a ser <code>TIER * 50</code>.</p>",
+  "tags": ["grimo","darian"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Sumo Domo",
+  "magic_cost": "15 P.M",
+  "duration_time": "5",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Circular",
+  "range_amount": "5x5",
+  "icon": "GiHabitatDome",
+  "element": null,
+  "caption": "Conjura um poderoso Domo translúcido instransponível que absorve ataques físicos e mágicos.",
+  "description": "<p>O Domo cobre uma área de até <code>5x5</code>, <b>não exige testes</b> para ser conjurado, e pode ser <b>dissipado</b> pelo conjurador a qualquer momento até um máximo de <code>5 turnos</code>.</p><p><b>A cada turno adicional</b> que o Domo se mantiver ativo, o conjurador deve gastar <code>5 P.M</code> extras além do custo inicial caso o Domo tenha recebido qualquer fonte de dano na rodada anterior.</p><p>O Domo é <b>incrivelmente resistente</b>, mas não é exatamente inquebrável, possuindo <code>1d100 * 5</code> de P.V.</p>",
+  "tags": ["grimo","darian"]
+}

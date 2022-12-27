@@ -1,0 +1,15 @@
+{
+  "name": "Selo da Postergação",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiHealing",
+  "element": null,
+  "caption": "Concede ao aliado uma poderosa proteção que o previne de ficar inconsciente caso chegue a 0 de vida.",
+  "description": "<p>Escolha um aliado. Você conjura uma poderosa proteção que o previne de ficar inconsciente caso chegue a 0 de vida.</p><p>A proteção dura até que o aliado tenha chegado a 0 de vida (ou até o fim do combate).</p>",
+  "tags": ["grimo","darian"]
+}

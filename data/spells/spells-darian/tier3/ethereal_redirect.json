@@ -1,0 +1,15 @@
+{
+  "name": "Redirecionamento Etéreo",
+  "magic_cost": "12 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Reação",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMagicPalm",
+  "element": null,
+  "caption": "",
+  "description": "<p>Como uma <b>Ação de Reação</b> a um ataque inimigo, você pode abrir <b>dois portais etéreos</b>, que podem redirecionar um projétil magico a até 7 espaços em outra direcao.</p><p>O projetil não pode ser físico, como flechas por exemplo. Se um inimigo for receber o ataque do projétil como consequência dessa ação, você deve fazer um <b>teste contra a defesa mágica dele</b>.</p>",
+  "tags": ["grimo","darian"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Banimento Supremo",
+  "magic_cost": "15 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "12",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMucousPillar",
+  "element": null,
+  "caption": "Uma enorme esfera de energia espiritual se forma em suas mãos, e que tem o poder de banir permanentemente um inimigo para a <b>dimensão Etérea</b>.",
+  "description": "<p>Escolha um alvo a até <code>12 espaços</code> de distância.</p><p><b>Se o alvo for um inimigo do tipo Líder ou Nêmesis</b>, esse poder precisa de <code>3 turnos</code> de canalização. Em cada turno o conjurador deve ser bem sucedido em uma <b>Ação de Perícia</b> do atributo <b>Espírito</b>, caso contrário, a conjuração é desestabilizada, e o poder falha.</p><p><b>Se o inimigo for um inimigo normal</b>, a conjuração é instantânea. Nesse caso, o Dariano só precisa ser bem sucedido num teste de <b>Ataque Mágico</b> contra a <b>Defesa Mágica</b> do alvo.</p><p>Caso precise canalizar, o conjurador não pode receber nenhuma fonte de dano nem realizar nenhuma ação, ou a canalização será interrompida.</p><p>Os Pontos de Magia são consumidos mesmo se a canalização falhar.</p><p>O <b>Banimento Etéreo</b> só pode ser canalizado uma única vez por dia.</p>",
+  "tags": ["grimo","darian"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Atravessar Paredes",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "1",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiMagicPalm",
+  "element": null,
+  "caption": "Canaliza a energia do Tótem para conjurar uma passagem etérea em uma parede que conecta duas salas.",
+  "description": "<p>Escolha um ponto em uma parede ao alcance de suas mãos. Realize uma Ação de Perícia do atributo <b>Espírito</b>. Se for bem sucedido, você pode conjurar uma passagem etérea que permite que você e outras pessoas atravessem para uma sala adjacente a essa parede.</p><p>A parede não pode ser excepcionalmente espessa, caso contrário o feitiço pode falhar automaticamente (a cargo do Narrador).</p><p>Caso o ponto da parede escolhida não se conecte imediatamente com outra sala, o feitiço falha automaticamente, mesmo em caso de Triunfo.</p>",
+  "tags": ["grimo","darian"]
+}

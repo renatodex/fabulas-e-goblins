@@ -1,0 +1,15 @@
+{
+  "name": "Mestre dos Traumas",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "Sua conexão com o Grimo atinge seu ápice, tornando-o um verdadeiro Mestre da cura dos Traumas.",
+  "description": "<p>Aumenta os dados para curar Traumas de <code>3 dados</code> para <code>6 dados</code>.</p><p>O poder continua podendo ser usado apenas 1 vez por dia.</p>",
+  "tags": ["grimo","darian"]
+}

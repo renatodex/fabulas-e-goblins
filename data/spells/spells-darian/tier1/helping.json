@@ -1,0 +1,15 @@
+{
+  "name": "Conjurar Ajudante I",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiGhost",
+  "element": null,
+  "caption": "Conjura o espírito de um fantasma etéreo.",
+  "description": "<p>Escolha um ponto vazio. Você pode conjurar o espírito de um fantasma nesse ponto.</p><p>A entidade <b>não pode atacar</b>, <b>nem ser atacada</b> (exceto por outras entidades etéreas), mas tem <b>visão no escuro</b>, pode se mover <b>através de paredes</b> e <b>compartilha a visão</b> com o conjurador. O fantasma age <b>por ultimo</b>, não tem ações de ataque e <i>possui os mesmos pontos de movimento do Dariano</i>. Caso o fantasma ocupe o mesmo espaço de uma unidade inimiga, o Dariano receberá <code>+2 de Bônus</code> em ataques Etéreos contra o alvo.</p><p>Caso receba dano de uma outra entidade etérea, o espírito é automaticamente dissolvido.</p><p>Apenas o Dariano e outras entidades mediúnicas podem avistar o espírito.</p><p>O espírito não pode se distanciar o equivalente a mais de 15 espaços do conjurador (sem contar diagonais), caso contrário, será dissolvido.</p>",
+  "tags": ["grimo","darian"]
+}

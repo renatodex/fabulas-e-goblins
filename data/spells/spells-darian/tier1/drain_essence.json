@@ -1,0 +1,15 @@
+{
+  "name": "Drenar Essência",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiHealing",
+  "element": null,
+  "caption": "Drena a essencia de um inimigo, e transfere esse valor de dano a um aliado como cura",
+  "description": "<p>Escolha um alvo. Faça um teste de <b>Ataque Mágico</b> contra ele. Caso seja bem sucedido, você conjura um feixe astral que envolve o corpo do inimigo, absorvendo parte de sua essência vital para você, e curando o equivalente a <code>TIER * 1d10</code> P.V.</p>",
+  "tags": ["grimo","darian"]
+}

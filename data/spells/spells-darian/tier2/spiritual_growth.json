@@ -1,0 +1,15 @@
+{
+  "name": "Crescimento Espiritual",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBeamsAura",
+  "element": null,
+  "caption": "Sua conexão com o Grimo é mais forte, desbloqueando novos níveis de mediunidade.",
+  "description": "<p>Aumenta passivamente seu Espirito em +1.</p>",
+  "tags": ["grimo","darian"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Curar Trauma Aprimorado",
+  "magic_cost": "20 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "Suas habilidades mediúnicas se intensificam, permitindo que você cure Traumas de forma mais eficiente.",
+  "description": "<p>Aumenta os dados de cura do Trauma pra 4 ao invés de 3.</p>",
+  "tags": ["grimo","darian"]
+}

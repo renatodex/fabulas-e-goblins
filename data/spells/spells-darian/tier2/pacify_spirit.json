@@ -1,0 +1,15 @@
+{
+  "name": "Pacificar",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Corpo-a-Corpo",
+  "range_amount": null,
+  "icon": "GiHealing",
+  "element": null,
+  "caption": "O alvo é tocado pelo conjurador e tem seu espirito renovado, sentindo subitamente uma paz incomparável.",
+  "description": "<p>Ao tocar um alvo, role seu <b>Ataque Mágico</b>. Se for bem sucedido contra a <b>Defesa Mágica</b> do alvo, os ânimos do alvo são apaziguados, e qualquer fúria, ódio ou rancor que ele possua são temporariamente reprimidos.</p><p>Não tem efeito em combate, mas pode ser usado pré-combate em situações de diplomacia e pacificação para evitar um conflito. Não tem efeito em criaturas.</p><p><i>(mecanicamente, evitar um conflito concede aos Jogadores a mesma experiência que receberiam caso tivessem vencido o conflito armado)</i></p>",
+  "tags": ["grimo","darian"]
+}

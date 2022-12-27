@@ -1,0 +1,15 @@
+{
+  "name": "Canhão Fátuo",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRingedBeam",
+  "element": null,
+  "caption": "Conjura um canhão etéreo que dispara um único projétil de fogo fátuo contra um inimigo.",
+  "description": "<p>Escolha um alvo. Faça um teste de <b>Ataque Mágico</b> contra ele. Se for bem sucedido, você dispara uma esfera de puro fogo fátuo contra um alvo, causando <code>TIER * (3d6 + 10)</code> de dano.</p><p>No Tier 4, esse poder causa um adicional de <code>+20 de dano</code>.</p>",
+  "tags": ["grimo","darian"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Condenar",
+  "magic_cost": "15 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Corpo-a-corpo",
+  "range_amount": "1",
+  "icon": "GiMagicPalm",
+  "element": null,
+  "caption": "O alvo é tocado pelo conjurador, sentindo a culpa e tristeza de mil almas atormentadas.",
+  "description": "<p>Escolha um alvo. Teste contra a <b>Defesa Mágica</b> dele. Se for bem sucedido, você infere um tormento espiritual, que faz com que o alvo sofra <code>Exaurir 6</code> durante suas próximas <code>3 Ações</code>.</p>",
+  "tags": ["grimo","darian"]
+}

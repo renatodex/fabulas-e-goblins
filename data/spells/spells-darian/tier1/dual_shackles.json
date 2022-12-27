@@ -1,0 +1,15 @@
+{
+  "name": "Grilhão Duplo",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "2",
+  "icon": "GiBeamsAura",
+  "element": null,
+  "caption": "Prende dois alvos em uma corrente de magia astral, impedindo que se movam muito distantes um do outro.",
+  "description": "<p>Escolha dois alvos. Faça um teste de <b>Ataque Mágico</b> contra os dois. Caso seja bem sucedido em ambos os testes, os alvos ficam presos em uma corrente etérea que concede a ambos <b>resistência a puxões e empurrões</b>. (exceto em casos extremos, como Furacões).</p><p>A corrente pode ser destruída ao receber muito dano. Os alvos podem atacar e conjurar normalmente, mas não podem estar mais do que <b>1 espaço</b> de distância um do outro.</p>",
+  "tags": ["grimo","darian"]
+}

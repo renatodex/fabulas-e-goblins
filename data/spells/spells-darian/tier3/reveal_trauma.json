@@ -1,0 +1,15 @@
+{
+  "name": "Revelar Trauma",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "4",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMagicPalm",
+  "element": null,
+  "caption": "Sua conexão com o Grimo te fornece o poder do terceiro olho, podendo enxergar os Traumas das pessoas.",
+  "description": "<p>Escolha um Alvo a até <b>4 espaços de distância</b> de sua posição. Faça um teste contra sua <b>Defesa Mágica</b>. Esse teste acontece de forma invisível, sem que o alvo saiba que está sendo testado.</p><p>Se for bem sucedido, você pode visualizar os detalhes sobre <b>um único Trauma do Alvo</b>. Os detalhes do Trauma envolvem visões sobre o momento relacionado a ele, bem como sua intensidade e efeitos no alvo.</p><p>Pode ser usado como ferramenta interpretativa e até como diplomacia de combates.</p><p>Se o alvo não possuir Traumas, este poder pode revelar outras brechas da psiquê do alvo, como seus temores e medos.",
+  "tags": ["grimo","darian"]
+}

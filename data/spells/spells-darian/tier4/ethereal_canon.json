@@ -1,0 +1,15 @@
+{
+  "name": "Canhão Fátuo Supremo",
+  "magic_cost": "17 P.M.",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiStrikingClamps",
+  "element": null,
+  "caption": "Seu Canhão Fátuo se torna mais forte, disparando dois poderosos projéteis simultâneos de puro fogo fátuo.",
+  "description": "<p>Aprimora o poder <b>Canhão Fátuo Duplo</b>, que agora pode disparar <b>três projéteis simultâneos</b> que passam a causar <code>2d20 + 30</code> para cada projétil.</p><p>Você precisa testar o acerto de cada projétil individualmente contra a <b>Defesa Mágica</b> do alvo. Os projéteis também podem ser direcionados a alvos diferentes.</p>",
+  "tags": ["grimo","darian"]
+}

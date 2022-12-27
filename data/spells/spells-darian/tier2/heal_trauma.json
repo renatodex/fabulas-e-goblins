@@ -1,0 +1,15 @@
+{
+  "name": "Curar Trauma",
+  "magic_cost": "10 P.M",
+  "duration_time": "120 minutos",
+  "attack_logic": "Mágico",
+  "action_type": "Ritual",
+  "cast_distance": null,
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiHealing",
+  "element": null,
+  "caption": "O Dariano pode curar um Trauma através de um ritual espiritual.",
+  "description": "<p>Pode curar um Trauma através de um ritual espiritual. O Ritual deve ser executado em um local pacificado e silencioso e exige a presença do alvo que será curado e do Dariano.</p><p>Para curar o Trauma, o conjurador precisa ser bem sucedido em <b>3x Ações de Perícia</b> do atributo <b>Espírito</b>.</p><p>Se falhar em algum teste, o trauma não é curado e o Conjurador só poderá repetir o teste nesse Personagem em uma semana (mesmo que seja para outro Trauma).</p><p>Esse procedimento só pode ser realizado por um único Dariano ao mesmo tempo e tem duração de aproximadamente 3 horas. Se for realizado em um <b>Templo de Darian</b>, o Dariano receberá +1 de Bônus em cada teste.</p>",
+  "tags": ["grimo","darian"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Chamas Supremas",
+  "magic_cost": "20 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiFlameSpin",
+  "element": null,
+  "caption": "Conjura 5 Fogo Fatuos restauradores capazes de curar e causar dano.",
+  "description": "<p>Não exige testes. Você conjura 5 chamas de Fogo Fátuo que orbitam em torno de seu corpo.</p><p>A qualquer momento (inclusive no mesmo turno que as chamas foram conjuradas), você pode gastar uma chama para curar ou causar dano a um alvo a até 7 espaços de distância.</p><p><b>Se você escolher curar,</b> o alvo recebe <code>3d12</code> de P.V.<br/>Se o alvo for um humanóide sensciente, cure <code>20 pontos</code> de vida adicionais.</p><p><b>Se você escolher causar dano,</b> o alvo sofre <code>1d100</code> de dano mágico.<br/>Se o alvo for um humanóide sensciente, cause <code>40 pontos</code> de dano mágico adicional.</p><p>Apenas 1 chama pode ser usada por turno.",
+  "tags": ["grimo","darian"]
+}

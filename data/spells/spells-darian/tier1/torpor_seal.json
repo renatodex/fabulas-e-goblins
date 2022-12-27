@@ -1,0 +1,15 @@
+{
+  "name": "Selo do Torpor",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiAwareness",
+  "element": null,
+  "caption": "Conjura uma armadilha etérea que causa dor e interrompe o inimigo.",
+  "description": "<p>Escolha um ponto não-ocupado a uma distância de até 7 espaços de você.</p><p>Um selo etéreo invisível é conjurado nessa posição, e <b>qualquer um que passar por ele</b> sofre uma dor incontrolável, recebendo <code>TIER * 20</code> de dano mágico e <b>interrompendo seu turno imediatamente</b>, sendo incapaz de realizar ações de ataque.</p>",
+  "tags": ["grimo","darian"]
+}
