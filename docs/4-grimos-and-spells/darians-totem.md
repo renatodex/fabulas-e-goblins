@@ -59,7 +59,7 @@ import supreme_dome from './../../data/spells/spells-darian/tier4/supreme_dome.j
 import transcend from './../../data/spells/spells-darian/tier4/transcend.json'
 import trauma_master from './../../data/spells/spells-darian/tier4/trauma_master.json'
 
-![Os Adeptos dee Darian são respeitados Xamãs espirituais que podem navegar pelo plano Astral e se conectar com os espíritos...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbc4cda2-fe19-4913-a4ee-90ef7780d68a.png)
+![Os Adeptos de Darian são respeitados Xamãs espirituais que podem navegar pelo plano Astral e se conectar com os espíritos...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbc4cda2-fe19-4913-a4ee-90ef7780d68a.png)
 
 
 Aqueles que portam o **Tótem de Darian** são **Xamãs espirituais**, mestres na arte de se comunicar com o plano **Astral** e mediúnicos por natureza, sendo capazes de chavear sua presença entre diversos planos e se comunicar com os seres extra-materiais.
