@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Iniciar em vantagem",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiWalkingBoot",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Fortunados são aqueles que agem antes de seus inimigos.",
+  "description": "<p>Você recebe um <b>Bônus passivo de iniciativa de +2</b>.</p>",
   "tags": ["grimo","zanari"]
 }

@@ -17,7 +17,7 @@ import shadow_walk from './../../data/spells/spells-zanari/tier1/shadow_walk.jso
 import smokescreen from './../../data/spells/spells-zanari/tier1/smokescreen.json'
 import sniper from './../../data/spells/spells-zanari/tier1/sniper.json'
 import stab from './../../data/spells/spells-zanari/tier1/stab.json'
-import surprise_blade from './../../data/spells/spells-zanari/tier1/surprise_blade.json'
+import eyes_of_the_darkness from './../../data/spells/spells-zanari/tier1/eyes_of_the_darkness.json'
 import thirsty_instance from './../../data/spells/spells-zanari/tier1/thirsty_instance.json'
 import venomous_blade from './../../data/spells/spells-zanari/tier1/venomous_blade.json'
 
@@ -53,6 +53,8 @@ import shadow_dome_master from './../../data/spells/spells-zanari/tier4/shadow_d
 import shadow_orbs from './../../data/spells/spells-zanari/tier4/shadow_orbs.json'
 import summon_domolor_king from './../../data/spells/spells-zanari/tier4/summon_domolor_king.json'
 import summon_sombrimar from './../../data/spells/spells-zanari/tier4/summon_sombrimar.json'
+
+![Zanari.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd1228abf-a02d-4b6d-8a35-ebc7663ad446.png)
 
 Conhecidos como Assassinos das Trevas, os **Zanari** manipulam as Sombras para ocultar sua presença, movendo-se sorrateiramente enquanto embanham suas lâminas com **venenos mortais**, derrotando seus inimigos com ataques rápidos, furtivos e precisos.
 
@@ -116,6 +118,18 @@ O artefato teria sido forjado por um misterioso Mestre-Elo conhecido por `Docaer
 
 Por muitos anos essa misteriosa sociedade se mostrou fechada e reclusa, e o conhecimento escasso sobre os seus membros e seus objetivos sempre foram motivo de curiosidade no mundo das Terras Místicas. Mas com o advento do Blecaute, os **Mestres Zanaris** passaram a replicar o Grimo original, recrutando guerreiros para aprender seus misteriosos Dogmas, com o objetivo de manter sua integridade como corporação enigmática.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Tipo de Dano | Dano | Descrição | Durabilidade | Atributo |
+| ------ | ---- | --------- | ------------ | ------------ | ------| ----- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C91dcd6d8-ac98-4f71-a293-b5020bcc5783.PNG" width="80" /> | Katar do Iniciante + 0 | Físico | D8 + 2 | Katar inicial, um tipo especial de adaga que pode ser usada em conjunto para **dobrar o dano**. | 3 Cargas | Sobrevivência |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd392a55e-0ee7-4899-a30e-4048a2248bae.png" width="80" /> | Dardos Venenosos + 0 | Físico | D6 + 3 | Dardos de veneno que causam **Envenenar D2 T3**. | 1 Carga | Agilidade |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbebdcce-d7e5-4d0b-9b4b-3ef4c1131266.PNG" width="80" /> | Punhal do Iniciante + 0 | Físico | D10 + 3 | Punhal inicial do Aventureiro, tem uma ponta afiada e é bem estiloso. | 3 Cargas | Agilidade |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
 ## Requisito de entrada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
@@ -136,31 +150,18 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
+<SpellFromJson expanded={false} spellData={initiate_in_advantage1} />
 <SpellFromJson expanded={false} spellData={communicate_through_shadows} />
 <SpellFromJson expanded={false} spellData={haunt} />
 <SpellFromJson expanded={false} spellData={hide_in_shadows} />
-<SpellFromJson expanded={false} spellData={initiate_in_advantage1} />
 <SpellFromJson expanded={false} spellData={night_vision} />
 <SpellFromJson expanded={false} spellData={shadow_walk} />
 <SpellFromJson expanded={false} spellData={smokescreen} />
 <SpellFromJson expanded={false} spellData={sniper} />
 <SpellFromJson expanded={false} spellData={stab} />
-<SpellFromJson expanded={false} spellData={surprise_blade} />
+<SpellFromJson expanded={false} spellData={eyes_of_the_darkness} />
 <SpellFromJson expanded={false} spellData={thirsty_instance} />
 <SpellFromJson expanded={false} spellData={venomous_blade} />
-
-1.  Andar das sombras: Como acao de movimento, ande nas sombras sem que ninguém possa lhe ver. Não funciona em lugares a luz do dia. você termina seu movimento oculto na visão dos inimigos.
-2.  Apunhalae: Ataca um inimigo que não está te atento a sua localização, causando dano adicional. Você não pode estar engajado. Se o inimigo estiver engajado, você pode ataca-lo pelas costas. Se não estiver, você precisa estar oculto nas sombras.
-3.  Atirador oculto: Faz um ataque a distancia e faz um teste de Agilidade para se camufla nas sombras, impedindo que o inimigo saiba sua localização. Não pode se movimentar depois.
-4.  Lamina Surpresa: Atacar diretamente das sombras causa dano adicional.
-5.  Lamina venenosa: Escalda sua arma com veneno, sendo que o proximo ataque causa Envenenado.
-6.  Esconder nas Sombras: Camufla-se na sombra inimiga, substituindo sua forma. Não pode causar dano.
-7.  Assombrar: Força a sombra do alvo a agarra-lo, paralizando-o até seu proximo turno.
-8.  Cortina de Fumaça: Fabrica uma cortina de 2x2 quadrados onde inimigos não enxergam.
-9.  Largar em Vantagem : Bônus passivo de  iniciativa de +2
-10.  Instância da Sede: Quando abater um alvo, receba 1d6 de dano extra no proximo ataque.
-11.  Comunicar Pelas Sombras: Envia uma mensagem mental a um alvo através de sua sombra. A mensagem pode ser ouvida de forma clara e sutil, e o alvo não consegue saber quem conversou com ele, a menos que possua alto intelecto.
-12.  Visão Noturna: Seus olhos despertam para o poder das sombras, e você passa a poder enxergar mesmo na escuridão absoluta.
 
 ### Habilidades - Tier 2
 

@@ -56,7 +56,7 @@ import abbots_hand from './../../data/spells/spells-lunn/tier4/abbots_hand.json'
 import ultimatum from './../../data/spells/spells-lunn/tier4/ultimatum.json'
 import lunns_command from './../../data/spells/spells-lunn/tier4/lunns_command.json'
 
-![lunn.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6fce0b58-d6d6-43b7-8d14-c1168fb3a8b8.jpg)
+![Poderosos Sacerdotes devotos ao culto de Lunn, são especialistas em canalizar o poder de sua divindade para suportar seus aliados...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cec64c19f-1952-4ee1-a992-750c8c36014c.png)
 
 A Igreja de Lunn é essencialmente uma religião que dedica sua veneração ao Deus Lunn, um suposto Goblin que teria chegado nas Terras Místicas eras atrás, e que teria sido responsável pelo advento dos Goblins no mundo.<br/>
 O alcance da devoção a Lunn se extende a diversos continentes, sendo seu símbolo adorado por inúmeras Civilizações e Espécies distintas.<br/>

@@ -54,8 +54,7 @@ import powerful_duel from './../../data/spells/spells-giurad/tier4/powerful_duel
 import reflex_master from './../../data/spells/spells-giurad/tier4/reflex_master.json'
 import shields_purge from './../../data/spells/spells-giurad/tier4/shields_purge.json'
 
-![giurad.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6b6ede54-1470-4555-9586-1d19a148dbe3.jpg)
-
+![Os Guerreiros de Giurad são cavaleiros da justiça, juramentados por seus tutores com a missão de trazer o equilíbrio e o balanço ao mundo...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C43c7657b-30a2-40f3-b289-5f39646c7e20.png)
 
 Os **Cavaleiros de Giurad** são guerreiros da Justiça, juramentados por seus Tutores com a missão de trazer o equilíbrio e o balanço ao mundo através da Lei e da Ordem.
 

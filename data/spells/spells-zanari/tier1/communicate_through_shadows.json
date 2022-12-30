@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Comunicar pelas Sombras",
+  "magic_cost": "1 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "12",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiAwareness",
+  "element": "darkness",
+  "caption": "Envia uma mensagem mental a um alvo através de sua sombra.",
+  "description": "<p>Não requer testes.</p><p>Escolha um alvo. Você <b>envia uma mensagem</b> que pode ser ouvida de <b>forma clara e sutil</b> como se você estivesse verbalizando para o alvo. O alvo só consegue saber que foi você que enviou a mensagem caso ele <b>reconheça sua voz</b>. (ou caso possua algum tipo de identificação de origem mágica)</p>",
+  "tags": ["grimo","zanari"]
 }
