@@ -54,7 +54,7 @@ import shadow_orbs from './../../data/spells/spells-zanari/tier4/shadow_orbs.jso
 import summon_domolor_king from './../../data/spells/spells-zanari/tier4/summon_domolor_king.json'
 import summon_sombrimar from './../../data/spells/spells-zanari/tier4/summon_sombrimar.json'
 
-![Zanari.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd1228abf-a02d-4b6d-8a35-ebc7663ad446.png)
+![Conhecidos como Assassinos das Trevas, os guerreiros Zanari manipulam as sombras e embanham suas lâminas com venenos mortais para derrotar seus inimigos...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd1228abf-a02d-4b6d-8a35-ebc7663ad446.png)
 
 Conhecidos como Assassinos das Trevas, os **Zanari** manipulam as Sombras para ocultar sua presença, movendo-se sorrateiramente enquanto embanham suas lâminas com **venenos mortais**, derrotando seus inimigos com ataques rápidos, furtivos e precisos.
 
