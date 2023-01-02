@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Domo de Fumaça",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": "5x5",
+  "icon": "GiUpgrade",
+  "element": "darkness",
+  "caption": "Aprimora o poder <b>Cortina de Fumaça</b>, aumentando sua área de efeito.",
+  "description": "<p>Você passa a poder conjurar o poder <b>Cortina de Fumaça</b> como um domo que ocupa <code>5x5</code> espaços.</p>",
+  "tags": ["grimo","zanari"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Iniciar em vantagem III",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "Fortunados são aqueles que agem antes de seus inimigos.",
+  "description": "<p>Você recebe mais um <b>Bônus passivo de iniciativa de +2</b>.</p>",
+  "tags": ["grimo","zanari"]
+}

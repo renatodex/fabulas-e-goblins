@@ -1,0 +1,15 @@
+{
+  "name": "Sombras do Abate",
+  "magic_cost": "2 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Reação",
+  "cast_distance": "3",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBeamWake",
+  "element": "darkness",
+  "caption": "Sua sede de sangue nunca está saciada, e ao abater um alvo, você pode consumir as sombras dele para atacar um alvo secundário.",
+  "description": "<p>Não exige testes para ativar.</p><p>Ao <b>abater um inimigo</b>, você pode usar essa <b>Ação de Reação</b> para extrair a sombra do alvo e conjurar uma seta elemental, que <b>ataca imediatamente</b> um <b>alvo secundário</b> a até <code>3 espaços</code> de distância de você.</p><p>Após escolher o alvo, você deve passar numa <b>Ação de Desafio</b> contra a <b>Defesa Mágica</b> do alvo.</p><p><b>Se falhar,</b> você perde o controle das sombras e o poder falha.</p><p><b>Se for bem sucedido,</b>, você dispara uma seta de sombras que causa <code>TIER*(d6 + 8)</code> de dano no alvo secundário.</p>",
+  "tags": ["grimo","zanari"]
+}

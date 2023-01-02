@@ -1,0 +1,15 @@
+{
+  "name": "Consumir Sombra",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiWildfires",
+  "element": "darkness",
+  "caption": "Consome a sombra de um alvo, recebendo um <b>bonus de dano</b> ate o fim do combate.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido</b>, você consome a sombra do alvo, recebendo <code>1d12</code> de dano sombrio adicional até o final do encontro.</p><p><b>Se for mal sucedido</b>, o poder falha sem nenhum revés.</p>",
+  "tags": ["grimo","zanari"]
+}

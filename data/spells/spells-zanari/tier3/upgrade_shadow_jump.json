@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Andar pelas Sombras",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiUpgrade",
+  "element": "darkness",
+  "caption": "Aprimora o <b>Andar pelas Sombras</b> permitindo que você realiza um ataque imediatamente após se translocar.",
+  "description": "<p>Com esse aprimoramento, além de se teleportar à coordenada do inimigo, você agora pode, como uma <b>Ação Extra</b>, realizar uma <b>Ação Maior de ataque físico</b>.</p>",
+  "tags": ["grimo","zanari"]
+}
