@@ -2,6 +2,7 @@
 id: flask-of-zanari
 title: Frasco de Zanari
 slug: /4-grimos-and-spells/flask-of-zanari
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd1228abf-a02d-4b6d-8a35-ebc7663ad446.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
