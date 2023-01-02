@@ -2,6 +2,7 @@
 id: lunns-jewel
 title: Jóia de Lunn
 slug: /4-grimos-and-spells/lunns-jewel
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cec64c19f-1952-4ee1-a992-750c8c36014c.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'

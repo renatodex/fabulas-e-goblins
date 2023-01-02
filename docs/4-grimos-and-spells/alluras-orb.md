@@ -2,7 +2,7 @@
 id: alluras-orb
 title: Orbe de Allura
 slug: /4-grimos-and-spells/alluras-orb
-image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C5f3d693b-c138-4c37-abee-a930c3059681.jpg
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C8548fbf5-72f8-43bd-b97f-dc516719a265.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'

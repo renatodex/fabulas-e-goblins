@@ -2,6 +2,7 @@
 id: giurads-crest
 title: Brasão de Giurad
 slug: /4-grimos-and-spells/giurads-crest
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C43c7657b-30a2-40f3-b289-5f39646c7e20.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'

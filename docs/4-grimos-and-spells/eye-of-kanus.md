@@ -2,6 +2,7 @@
 id: eye-of-kanus
 title: Olho de Kanus
 slug: /4-grimos-and-spells/eye-of-kanus
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C20e7b68e-e4ab-49e2-9cd1-8240cd9be936.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
