@@ -24,11 +24,11 @@ import venomous_blade from './../../data/spells/spells-zanari/tier1/venomous_bla
 import empale_with_shadow from './../../data/spells/spells-zanari/tier2/empale_with_shadow.json'
 import extinguish_light from './../../data/spells/spells-zanari/tier2/extinguish_light.json'
 import initiate_in_advantage2 from './../../data/spells/spells-zanari/tier2/initiate_in_advantage.json'
+import darkness_predator from './../../data/spells/spells-zanari/tier2/darkness_predator.json'
+import early_attack from './../../data/spells/spells-zanari/tier2/early_attack.json'
 import instance_of_shadow_bolt from './../../data/spells/spells-zanari/tier2/instance_of_shadow_bolt.json'
-import predator_attack from './../../data/spells/spells-zanari/tier2/predator_attack.json'
-import shadow_block from './../../data/spells/spells-zanari/tier2/shadow_block.json'
 import shadow_jump from './../../data/spells/spells-zanari/tier2/shadow_jump.json'
-import shadow_pillar from './../../data/spells/spells-zanari/tier2/shadow_pillar.json'
+import summon_shadow from './../../data/spells/spells-zanari/tier2/summon_shadow.json'
 import suffocate from './../../data/spells/spells-zanari/tier2/suffocate.json'
 import summon_sombrizir from './../../data/spells/spells-zanari/tier2/summon_sombrizir.json'
 
@@ -167,27 +167,16 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
+<SpellFromJson expanded={false} spellData={initiate_in_advantage2} />
 <SpellFromJson expanded={false} spellData={empale_with_shadow} />
 <SpellFromJson expanded={false} spellData={extinguish_light} />
-<SpellFromJson expanded={false} spellData={initiate_in_advantage2} />
+<SpellFromJson expanded={false} spellData={darkness_predator} />
+<SpellFromJson expanded={false} spellData={early_attack} />
 <SpellFromJson expanded={false} spellData={instance_of_shadow_bolt} />
-<SpellFromJson expanded={false} spellData={predator_attack} />
-<SpellFromJson expanded={false} spellData={shadow_block} />
 <SpellFromJson expanded={false} spellData={shadow_jump} />
-<SpellFromJson expanded={false} spellData={shadow_pillar} />
+<SpellFromJson expanded={false} spellData={summon_shadow} />
 <SpellFromJson expanded={false} spellData={suffocate} />
 <SpellFromJson expanded={false} spellData={summon_sombrizir} />
-
-1.  Saltar pelas Sombras: Você se envolve em um manto de sombras, teleportando-se para a sombra alvo. Faça isso como uma ação de movimento.
-2.  Pilar de Sombra: Conjura um Pilar de Sombra  Densa em qualquer coordenada visível. O pilar possui 50cm de Diâmetro, e se mantém ativo até que seja dissolvido, ou até ser tocado por uma fonte de luz. Inimigos atacando de dentro de pilares, ou atacando alvos dentro do pilar recebem -3 de Penalidade de ataque. Pode ser dissolvido por uma fonte de luz.
-3.  Largar em Vantagem : Bônus passivo de  iniciativa de +2
-4.  Ataque do Predador: Se você for o primeiro na iniciativa, seu primeiro ataque causa TIER*d12 de dano adicionais.
-5.  Empalar pela Sombra: Conjura uma estaca semi densa em forma de cone que atravessa um alvo do chao, causando dano.
-6.  Bloqueio das Sombras: Conjura um bloqueio de sombras que atenua o dano do ataque inimigo.
-7.  Conjurar Sombrizir: Transforma sua sombra em um humanóide de sombras controlado por você. O humanoide entra no final da iniciativa, e causa dano e pv. Pode ser dissolvido pela luz. Sua sombra só retorna quando o Sombrizir for dissolvido.
-8.  Extinguir a Luz: Cobre uma pequena fonte de luz móvel ou estática com um manto de sombras densa.
-9.  Sufocar: Um pilar de Luz ativo sufoca qualquer alvo dentro dele, causando um dano enorme.
-10.  Instância da Seta de Sombra: Ao abater um inimigo, você pode usar essa ação de reação para conjurar a sombra de sua alma para atacar um alvo secundário.
 
 ### Habilidades - Tier 3
 
