@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
+  "name": "Sombra Inimiga",
   "magic_cost": null,
   "duration_time": null,
-  "attack_logic": null,
+  "attack_logic": "Mágico",
   "action_type": "Passiva",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "icon": "GiAwareness",
+  "element": "darkness",
+  "caption": "Permite converter as sombras de um inimigo em um <b>Sombrizir</b>.",
+  "description": "<p>Esse poder passivo permite que você conjure um <b>Sombrizir</b> à partir de <b>qualquer sombra</b> que não seja necessariamente a sua.</p><p>As sombras são <b>convertidas permanentemente no combate</b>, e não podem ser utilizadas novamente no mesmo encontro e no mesmo dia.</p><p>Se você se tornar inconsciente, todas os <b>Sombrizir</b> em jogo serão dispersos.</p>",
   "tags": ["grimo","zanari"]
 }

@@ -205,32 +205,5 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={scythe_of_shadow} />
 <SpellFromJson expanded={false} spellData={shadow_dome_master} />
 <SpellFromJson expanded={false} spellData={shadow_orbs} />
-<SpellFromJson expanded={false} spellData={summon_domolor_king} />
 <SpellFromJson expanded={false} spellData={summon_sombrimar} />
-
-1.  Mestre do Domo: Aprimora o Domo das Sombras para um poder de 8x8 de area.
-2.  Tornar-se a Sombra: Transforma-se em uma sombra temporariamente: Adquirindo velocidade, dano e vida excepcionais.
-3.  Instância do Sombrio: Pode utilizar múltiplos efeitos de Instancia simultaneamente.
-4.  Conjurar Sombrimar: Conjura um grande espirito das sombras pra te auxiliar no combate. Substitui os outros poderes de conjuração.
-5.  Foice das Sombras: Extende a sua arma numa grande foice, causando dano gigantesco a um inimigo.
-6.  Mestre dos Pilares: Pode conjurar 4 Pilares em espiral, que atraem inimigos que encerram seus movimentos adjacentes a um Pilar. Também causam dano contínuo e agora possuem area de 2x2.
-7.  Sombra Inimiga: Cria um Doppelganger de sombra a partir da sombra inimiga. Não pode ser usado em Nemesis. O Doppel possui a mesma ficha do inimigo.
-8.  Orbes da Sombra: Conjura 3 Orbes das Sombras. Cada orbe gira em torno do conjurador, causando dano a qualquer inimigo que tocar. Inimigos que falharem no teste de Defesa mAgica recebem 3 instancias de dano, uma de cada orbe.
-9.  Conjurar Rei Demolor: Abre um enorme portal a partir do conjurador, consumindo-o no processo e conjurando a presença de um enorme Demolor, uma criatura Leviatã de 8x8 que entra no campo de batalha controlada pelo Conjurador.
-10.  Consumir Sombra: Consome a sombra de um alvo, recebendo um bonus de dano ate o fim do combate.
-
-
-
-
-
-
-**- Instância do Camaleão**
-
-Você pode utilizar metade da sua ação de movimento para se mover de forma praticamente invisível em biomas selvagens, ocultando-se de forma sutil nos elementos.
-Caso um inimigo esteja engajado com você, ele perde o engajamento sem poder realizar ataques de oportunidade.
-
-Também é exigido um teste de Sobrevivência para que ele possa lhe localizar novamente. (pelo menos enquanto a Instância Camaleão estiver ativada).
-
-A Instância é dissolvida quando você ataca um inimigo. O Ataque realizado na Instância Camaleão é considerado como um ataque surpresa, e concede +2 de Ataque.
-
-Você pode utilizar a Instância do Camaleão e atacar no mesmo turno, recebendo normalmente os bônus de ataque.
+<SpellFromJson expanded={false} spellData={summon_domolor_king} />

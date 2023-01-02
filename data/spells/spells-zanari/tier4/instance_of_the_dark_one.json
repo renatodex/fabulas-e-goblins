@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
+  "name": "Mestre Zanariano",
   "magic_cost": null,
   "duration_time": null,
-  "attack_logic": null,
+  "attack_logic": "Mágico",
   "action_type": "Passiva",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "icon": "GiIciclesAura",
+  "element": "darkness",
+  "caption": "Você se torna um só com a sombra, podendo explorar todas as suas virtudes.",
+  "description": "<p>Você passa a poder ativar <b>múltiplas instâncias</b> de Zanari ao mesmo tempo, sem restrição.</p>",
   "tags": ["grimo","zanari"]
 }
