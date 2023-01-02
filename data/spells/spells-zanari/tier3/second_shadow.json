@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
+  "name": "Segunda Sombra",
   "magic_cost": null,
   "duration_time": null,
-  "attack_logic": null,
+  "attack_logic": "Mágico",
   "action_type": "Passiva",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "icon": "GiGhost",
+  "element": "darkness",
+  "caption": "Você passa a ter duas sombras sobrepostas, que pode usar para conjurar multiplos Sombrizir.",
+  "description": "<p>Seu personagem passa a ter secretamente uma segunda sombra sobreposta, e pode usá-la para qualquer poder que <b>exija uma sombra</b>, ou para conjurar um <b>segundo Sombrizir</b>.</p>",
   "tags": ["grimo","zanari"]
 }

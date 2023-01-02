@@ -37,7 +37,7 @@ import exploit_poisoned from './../../data/spells/spells-zanari/tier3/exploit_po
 import initiate_in_advantage3 from './../../data/spells/spells-zanari/tier3/initiate_in_advantage.json'
 import second_shadow from './../../data/spells/spells-zanari/tier3/second_shadow.json'
 import shadow_dome from './../../data/spells/spells-zanari/tier3/shadow_dome.json'
-import shadow_pillar_upgrade from './../../data/spells/spells-zanari/tier3/shadow_pillar_upgrade.json'
+import poison from './../../data/spells/spells-zanari/tier3/poison.json'
 import shadow_spiral from './../../data/spells/spells-zanari/tier3/shadow_spiral.json'
 import state_of_alert from './../../data/spells/spells-zanari/tier3/state_of_alert.json'
 import upgrade_shadow_jump from './../../data/spells/spells-zanari/tier3/upgrade_shadow_jump.json'
@@ -182,28 +182,16 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
-<SpellFromJson expanded={false} spellData={blood_instance} />
-<SpellFromJson expanded={false} spellData={exploit_poisoned} />
 <SpellFromJson expanded={false} spellData={initiate_in_advantage3} />
+<SpellFromJson expanded={false} spellData={blood_instance} />
 <SpellFromJson expanded={false} spellData={second_shadow} />
 <SpellFromJson expanded={false} spellData={shadow_dome} />
-<SpellFromJson expanded={false} spellData={shadow_pillar_upgrade} />
 <SpellFromJson expanded={false} spellData={shadow_spiral} />
 <SpellFromJson expanded={false} spellData={state_of_alert} />
 <SpellFromJson expanded={false} spellData={upgrade_shadow_jump} />
 <SpellFromJson expanded={false} spellData={upgrade_sombrizir} />
-
-1.  Segunda Sombra: Você passa a ter duas sombras sobrepostas, que pode usar para conjurar multiplos Sombrizir.
-2.  Largar em Vantagem : Bônus passivo de  iniciativa de +2
-3.  Pilares das Sombras: Permite conjurar um segundo Pilar das Sombras.
-4.  Espiral das Sombras: Um poderoso ataque giratório utilizando o poder das sombras, dando dano a todos inimigos adjacentes.
-5.  Explorar Envenenado: Atacar um alvo envenenado causa dano extra.
-6.  Aprimorar Sombrizir: Aprimora a forma do Sombrizir, tornando-se maior e mais forte.
-7.  Aprimorar Salto: O salto das sombras continua como ação de movimento, mas agora também realiza um ataque extra ao final.
-8.  Estado de Alerta: Inimigos que se movem por aliados tambem concedem a você ataques de oportunidade através de suas sombras.
-9.  Domo das Sombras: Conjura um Domo de Sombras numa area  circular de 3x3. Dentro dessa area, você está permanentemente invisível, e seus inimigos não conseguem enxergar. O Domo se dispersa se você sair da área.
-10.
-Instância do Sangue: Quando abater um inimigo, pode drenar 1d12 de dano a partir de seu sangue.
+<SpellFromJson expanded={false} spellData={exploit_poisoned} />
+<SpellFromJson expanded={false} spellData={poison} />
 
 ### Habilidades - Tier 4
 
@@ -211,8 +199,8 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
 <SpellFromJson expanded={false} spellData={become_shadow} />
 <SpellFromJson expanded={false} spellData={consume_shadow} />
-<SpellFromJson expanded={false} spellData={enemy_shadow} />
 <SpellFromJson expanded={false} spellData={instance_of_the_dark_one} />
+<SpellFromJson expanded={false} spellData={enemy_shadow} />
 <SpellFromJson expanded={false} spellData={master_of_the_shadow_pillar} />
 <SpellFromJson expanded={false} spellData={scythe_of_shadow} />
 <SpellFromJson expanded={false} spellData={shadow_dome_master} />

@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Instância de Sangue",
+  "magic_cost": "4 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "icon": "GiHealing",
+  "element": "darkness",
+  "caption": "Ativa uma aura de sangue que drena a vida de inimigos abatidos.",
+  "description": "<p>Não exige testes para ativar.</p><p>Uma vez ativa, sempre que você abatar um inimigo, você poderá drenar <code>1d12 P.V</code> para sí próprio, uma vez por inimigo abatido.</p><p>Para poder drenar, é imprescindível que o último dano tenha sido seu. O Zanariano pode desfazer a instância a qualquer momento.</p><p>Apenas <b>1 (um) poder de Instância</b> pode estar ativo ao mesmo tempo.</p>",
   "tags": ["grimo","zanari"]
 }
