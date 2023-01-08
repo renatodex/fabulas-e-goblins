@@ -120,6 +120,7 @@ const config = {
       'docusaurus-plugin-sass',
       './plugins/spells-to-static',
       './plugins/enemies-to-static',
+      './plugins/tables-to-static',
       async function myPlugin(context, options) {
         return {
           name: "docusaurus-tailwindcss",
