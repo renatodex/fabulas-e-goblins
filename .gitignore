@@ -24,7 +24,7 @@ newrelic_agent.log
 /temp
 
 /static/*.json
-/static/tabelas/*.json
+/static/tables/*.json
 /static/spells.json
 /static/enemies.json
 
