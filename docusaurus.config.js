@@ -2,6 +2,7 @@ const version = require('./version.json');
 const revision = require('child_process')
   .execSync('git rev-parse HEAD')
   .toString().trim().substring(0,7)
+const path = require('path')
 let buildVersion = version.version.replace('{commit}', revision)
 
 // @ts-check
@@ -132,6 +133,18 @@ const config = {
           },
         };
       },
+      [
+        path.resolve(__dirname, './plugins/dynamic-routes'),
+        { // this is the options object passed to the plugin
+            routes: [
+                { // using Route schema from react-router
+                    path: '/tabelas',
+                    exact: false, // this is needed for sub-routes to match!
+                    component: '/src/pages/tabelas/app.js'
+                }
+            ]
+        }
+      ],
     ]
 };
 

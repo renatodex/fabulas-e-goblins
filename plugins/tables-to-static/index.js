@@ -20,6 +20,7 @@ function tablesToStatic(context, options) {
     async contentLoaded({content}) {
       const { tables } = content
       generateFile({ filename: '../../static/tables.json', data: tables})
+      tables.map(table => generateFile({ filename: `../../static/tables/${table.id}.json`, data: table}))
     },
   };
 };
