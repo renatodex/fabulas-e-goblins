@@ -1,0 +1,15 @@
+{
+  "name": "Sufocar",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiWingedShield",
+  "element": "darkness",
+  "caption": "Sombras de todos os lados surgem do chão, sufocando seu inimigo e causando dano.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> as sombras envolvem e sufocam o alvo, causando <code>5d6 + 20</code> <i>(o dado aumenta para d12 no Tier 3 e d20 no Tier 4)</i></p><p><b>Se for mal sucedido,</b> o poder é parcialmente efetivo, causando <b>metade do dano</b>.</p>",
+  "tags": ["grimo","zanari"]
+}

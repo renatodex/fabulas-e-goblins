@@ -1,0 +1,15 @@
+{
+  "name": "Assombrar",
+  "magic_cost": "2 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "8",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiShadowGrasp",
+  "element": "darkness",
+  "caption": "Força a sombra do alvo a agarra-lo, paralizando-o até seu proximo turno.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p>Se for bem sucedido, a sombra do alvo se descola, atacando-o e causando <code>TIER*(1d12 + 15)</code> de dano <b>Sombrio</b>.</p>",
+  "tags": ["grimo","zanari"]
+}

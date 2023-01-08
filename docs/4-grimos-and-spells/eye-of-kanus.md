@@ -2,6 +2,7 @@
 id: eye-of-kanus
 title: Olho de Kanus
 slug: /4-grimos-and-spells/eye-of-kanus
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C20e7b68e-e4ab-49e2-9cd1-8240cd9be936.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -53,7 +54,7 @@ import judgment_arrow from './../../data/spells/spells-kanus/tier4/judgment_arro
 
 import letal_shot from './../../data/spells/spells-kanus/ultimates/letal_shot.json'
 
-![kanus.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C12a3c9f2-dd51-4991-b051-baece5bd86e1.jpg)
+![Os Adeptos de Kanus são caçadores letrados na arte da sobrevivência e da caça...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C20e7b68e-e4ab-49e2-9cd1-8240cd9be936.png)
 
 A Guilda de Kanus é conhecida por formar exímios sobreviventes letrados na arte da Caça. Diversos Eremitas e Viajantes distantes procuram a Guilda todos os dias para buscar aprender os conhecimentos necessários para se viver e viajar pelo mundo de forma independente e segura.
 

@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Conjurar Sombrizir",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Aprimoramento",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiUpgrade",
+  "element": "darkness",
+  "caption": "Seu vínculo com o Grimo aprimora sua conexão com as Sombras, fortalecendo seu Sombrizir.",
+  "description": "<p>Com este aprimoramento, seu Sombrizir se torna mais forte, papssando a causar <code>TIER*1d12</code> de dano.</p>",
+  "tags": ["grimo","zanari"]
+}

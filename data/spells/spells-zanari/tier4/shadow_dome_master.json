@@ -1,0 +1,15 @@
+{
+  "name": "Noite infinita",
+  "magic_cost": "8 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "12",
+  "range_type": "Global",
+  "range_amount": null,
+  "icon": "GiHabitatDome",
+  "element": "darkness",
+  "caption": "Com um estalar dos dedos, você conjura a noite infinita, trazendo a escuridão para o campo de batalha.",
+  "description": "<p>Não exige testes.</p><p>Todo o campo de batalha é coberto pela escuridão da noite. Essa escuridão é diferente do <b>Corruptor da Noite</b>, pois <b>não elimina o campo de visão</b> dos inimigos, mas faz com que qualquer ataque de qualquer posição do campo de batalha seja considerado como <b>vindo da escuridão</b>.</p><p>Poderes de Zanari que consideram ataques <b>vindos da escuridão</b> podem ser considerados livremente aqui.</p><p>O poder dura até o final do combate ou até que o conjurador deseje dissipar.</p>",
+  "tags": ["grimo","zanari"]
+}

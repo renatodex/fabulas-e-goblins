@@ -1,0 +1,15 @@
+{
+  "name": "Instância da Sombra",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiDevilMask",
+  "element": "darkness",
+  "caption": "Transforma-se em uma sombra: Adquirindo velocidade, e imunidade a dano físico, ao custo de fragilidade mágica.",
+  "description": "<p>Não exige testes.</p><p>Ao ativar a instância, seu corpo é envolto por <b>poderosas sombras</b>, que lhe conferem <code>+5 Pontos de Movimento</code> além de <code>Imunidade a Dano Físico</code>.</p><p>Enquanto estiver na <b>Instância da Sombra</b>, qualquer ataque mágico causará <b><code>2d12 de dano mágico</code> adicional</b>.</p><p>Apenas 1 (uma) instância pode estar ativa ao mesmo tempo.</p>",
+  "tags": ["grimo","zanari"]
+}

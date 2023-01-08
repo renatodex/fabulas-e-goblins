@@ -1,0 +1,15 @@
+{
+  "name": "Avatar de Azarog",
+  "magic_cost": "20 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ritual",
+  "cast_distance": null,
+  "range_type": "Global",
+  "range_amount": null,
+  "icon": "GiMagicPortal",
+  "element": "darkness",
+  "caption": "Sacrifica sua essência para conjurar o Avatar da terrível criatura das trevas conhecida como Azarog.",
+  "description": "<p>Esse poder é um Ritual de sacrifício com tempo de conjuração de <code>3 turnos</code>.</p><p>O Zanariano expande suas sombras para abrir um <b>enorme portal das trevas</b>.</p><p>Ao final de <b>3 turnos</b>, o conjurador comandará o <b>Avatar de Azarog</b> mentalmente a <b>derrotar uma criatura de sua escolha</b>, e após isso, a essência do próprio <b>Zanariano</b> será consuminda no processo, conjurando uma única vez a presença de <b>Azarog, o Demônio de mil sombras</b>.</p><p>O Avatar da criatura é apenas uma representação material limitada desta criatura lendária, e que mesmo assim entra no campo de batalha como um <b>Leviatã de tamanho 8x8</b> com <code>1000 P.V</code>, além de <code>+20 de Ataque e Defesa Mágica</code>.</p><p><b>Azarog</b> entra campo de batalha controlado pelo Conjurador.</p><p>Enquanto controlar <b>Azarog</b>, você estará livre para utilizar qualquer poder do <b>Grimo de Zanari</b> (exceto este), e qualquer ataque que você realizar com <b>Azarog</b> causará <code>5 * 5d100</code> de dano sombrio a <b>todos inimigos</b>. <i>(como jogador, sinta-se a vontade para sugerir poderosos ataques sombrios de Azarog aqui)</i></p><p>A fúria do Avatar da criatura também causará uma <b>intensiva destruição</b> nos entornos do campo, e deverá ser considerada antes que esse poder seja utilizado.</p><p>Após derrotar a criatura ordenada, o <b>Azarog</b> retornará às sombras, mas não antes de eclodir poderosos <b>Tentáculos de Trevas</b>, que causam <code>30 * d100</code> de dano Sombrio a <b>todos inimigos e aliados</b> numa área de <code>1000x1000</code> (1km quadrado)</p>",
+  "tags": ["grimo","zanari"]
+}

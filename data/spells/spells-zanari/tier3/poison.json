@@ -1,0 +1,15 @@
+{
+  "name": "Envenenar",
+  "magic_cost": "4 P.M",
+  "duration_time": "0",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Corpo-a-Corpo",
+  "range_amount": "1",
+  "icon": "GiPointySword",
+  "element": "acid",
+  "caption": "Encanta sua arma com um veneno poderoso que afeta um inimigo.",
+  "description": "<p>Não exige testes.</p><p>Você pode usar esse poder como uma <b>Ação Menor</b> no lugar de sua <b>Ação de Movimento</b> para poder <b>Encantar</b> e atacar no mesmo turno.</p><p>Você encanta sua arma com a propriedade <code>Envenenar D=(TIER*5)</code>. Repare que esse <i>Envenenar</i> aqui neste poder não especifica um número de turnos.</p><p>É porque esse veneno é tão poderoso que <b>dura até o final do combate</b> ou até que seja explicitamente curado.</p>",
+  "tags": ["grimo","zanari"]
+}

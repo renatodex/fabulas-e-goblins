@@ -1,0 +1,15 @@
+{
+  "name": "Conjurar Sombrimar",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiTentaclesSkull",
+  "element": "darkness",
+  "caption": "Permite fundir 3 Sombrizirs em uma versão bestial, maior e muito mais poderosa, conhecida como Sombrimar.",
+  "description": "<p>Escolha <b>3 Sombrizirs</b> conjurados. (não precisa ser necessariamente por você.)</p><p>Você cria um poderoso vórtice de trevas que suga os 3 Sombrizir, numa fusão que resulta em um enorme <b>Sombrimar</b>.</p><p>O <b>Sombrimar</b> também possui <b>imunidade física</b>, mas é uma criatura de tamanho <b>Gigante</b>, com <code>100 P.V</code>, e cujo único ataque é o <b>Trovão de Trevas</b>, que atinge um único alvo e causa <code>1d100 + 50</code> de dano <b>sombrio e elétrico</b>.</p><p>Diferente dos <b>Sombrizir</b>, a cada turno adicional que o Sombrimar estiver em combate, o Zanariano deve gastar um adicional de <code>5 P.M</code> para mantê-lo.</p>",
+  "tags": ["grimo","zanari"]
+}

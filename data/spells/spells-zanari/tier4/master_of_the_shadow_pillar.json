@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Corruptor da Luz",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "12",
+  "range_type": "Área",
+  "range_amount": "3x3",
+  "icon": "GiHabitatDome",
+  "element": "darkness",
+  "caption": "Aprimora o poder <b>Extinguir Luz</b>, transformando-o em um poder em área.",
+  "description": "<p>Você agora pode utilizar o poder <b>Extinguir Luz</b> em área arbitrária, consumindo até <code>3x3</code> espaços <i>(1x1, 1x2, 1x3, 2x2, 3x3, etc..)</i>.</p><p>Assim como em <b>Extinguir Luz</b> a escuridão que ocupa a luz que foi consumida não pode ser dispersada pelo Zanariano, e nem re-iluminada por qualquer fonte natural ou artificial de luz. (pode ser eliminada por luz mágica).</p>",
+  "tags": ["grimo","zanari"]
+}

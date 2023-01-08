@@ -1,0 +1,15 @@
+{
+  "name": "Ataque Inaugural",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiDivingDagger",
+  "element": "darkness",
+  "caption": "Seus sentidos aguçados estão frescos e lhe conferem um primeiro ataque mais forte.",
+  "description": "<p>Se você for o primeiro na <b>ordem de iniciativa</b>, seu <b>primeiro ataque</b> em um combate causará <code>TIER*d12</code> de dano adicionais.</p>",
+  "tags": ["grimo","zanari"]
+}
