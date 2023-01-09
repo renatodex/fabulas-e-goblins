@@ -60,13 +60,11 @@ export default function ShowDicetable () {
 
   return (
     <Layout {...layoutProps}>
-      <BreakpointProvider>
-        <main className='tailwindpage'>
-          <div className="2xl:m-auto 2xl:w-[1536px]">
-            <Dicetable dicetable={diceTable} />
-          </div>
-        </main>
-      </BreakpointProvider>
+      <main className='tailwindpage'>
+        <div className="2xl:m-auto 2xl:w-[1536px]">
+          <Dicetable dicetable={diceTable} />
+        </div>
+      </main>
     </Layout>
   )
 }
