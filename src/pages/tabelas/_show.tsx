@@ -21,7 +21,7 @@ function Dicetable ({ dicetable }) {
           </thead>
           <tbody>
             {dicetable.rolls.map(roll => (
-              <tr>
+              <tr key={roll.dice_roll}>
                 <td className='border'>{roll.dice_roll}</td>
                 <td className='border'>{roll.description}</td>
               </tr>
