@@ -1,3 +1,6 @@
 module.exports = {
-  presets: [require.resolve('@docusaurus/core/lib/babel/preset')],
+  presets: [
+    "@babel/preset-typescript",
+    require.resolve('@docusaurus/core/lib/babel/preset')
+  ],
 };

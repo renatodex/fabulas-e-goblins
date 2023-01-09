@@ -1,0 +1,30 @@
+{
+  "title": "6 coisas exóticas para encontrar em uma masmorra",
+  "banner": "https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca7e8268d-8d21-4cbc-9a76-e36d78085fb7.jpg",
+  "rolls": [
+    {
+      "dice_roll": 1,
+      "description": "Um poço com um líquido perolado e viscoso capaz de estancar sangramentos mas que causa espasmos no membro em que o líquido for aplicado."
+    },
+    {
+      "dice_roll": 2,
+      "description": "Um azeite que sai do veio das pedras e que transforma o sabor até de alimentos apodrecidos em um verdadeiro banquete."
+    },
+    {
+      "dice_roll": 3,
+      "description": "Dezenas de corpos com o mesmo amuleto que, ao ser retirado, devolve a vida ao cadáver."
+    },
+    {
+      "dice_roll": 4,
+      "description": "Em meio a monstros irracionais, uma sala com decoração elegante e chá quente na mesa de centro."
+    },
+    {
+      "dice_roll": 5,
+      "description": "Um caleidoscópio que aponta novos caminhos, mas se for usado muitas vezes, te leva sempre ao ponto inicial."
+    },
+    {
+      "dice_roll": 6,
+      "description": "Uma concha acústica que permite que você se comunique com qualquer ser, mas sua voz se torna muito aguda."
+    }
+  ]
+}
