@@ -1,7 +1,5 @@
 import React from 'react';
 import { useEffect, useState } from 'react';
-import Layout from '@theme/Layout'
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import  { Breakpoint, BreakpointProvider } from 'react-socks';
 import {useLocation} from '@docusaurus/router';
 
@@ -34,13 +32,6 @@ function Dicetable ({ dicetable }) {
 }
 
 export default function ShowDicetable () {
-  const context = useDocusaurusContext();
-
-  const layoutProps = {
-    title: context.siteConfig.title,
-    description: "Um Sistema de RPG onde Goblins dominam o mundo e humanos não existem."
-  }
-
   const location = useLocation();
   const tableId = new URLSearchParams(location.search).get("table_id")
 
@@ -59,12 +50,10 @@ export default function ShowDicetable () {
   if (diceTable == null) return <div>Loading...</div>
 
   return (
-    <Layout {...layoutProps}>
-      <main className='tailwindpage'>
-        <div className="2xl:m-auto 2xl:w-[1536px]">
-          <Dicetable dicetable={diceTable} />
-        </div>
-      </main>
-    </Layout>
+    <main className='tailwindpage'>
+      <div className="2xl:m-auto 2xl:w-[1536px]">
+        <Dicetable dicetable={diceTable} />
+      </div>
+    </main>
   )
 }

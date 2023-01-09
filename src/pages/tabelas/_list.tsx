@@ -1,7 +1,5 @@
 import React from 'react';
 import { useEffect, useState } from 'react';
-import Layout from '@theme/Layout'
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import  { Breakpoint, BreakpointProvider } from 'react-socks';
 import { Fragment } from 'react';
 
@@ -34,7 +32,6 @@ function ListTables ({ tables } : { tables: Dicetable[] }) {
 
 export default function Dicetables () {
   const [tables, setTables] = useState<Dicetable[]|null>(null)
-  const context = useDocusaurusContext();
 
   useEffect(() => {
     const loadTables = async () => {
@@ -48,31 +45,24 @@ export default function Dicetables () {
 
   if (tables == null) return <div>Loading...</div>
 
-  const layoutProps = {
-    title: context.siteConfig.title,
-    description: "Um Sistema de RPG onde Goblins dominam o mundo e humanos não existem."
-  }
-
   return (
-    <Layout {...layoutProps}>
-      <BreakpointProvider>
-        <main className='tailwindpage'>
-          <div className="p-5 2xl:m-auto 2xl:w-[1536px]">
-            <h1 className='text-5xl font-extrabold'>Tabelas</h1>
-            <div className='mt-7'>
-              <Breakpoint medium up>
-                <div className='grid grid-cols-4 gap-5'>
-                  <ListTables tables={tables} />
-                </div>
-              </Breakpoint>
-
-              <Breakpoint small down>
+    <BreakpointProvider>
+      <main className='tailwindpage'>
+        <div className="p-5 2xl:m-auto 2xl:w-[1536px]">
+          <h1 className='text-5xl font-extrabold'>Tabelas</h1>
+          <div className='mt-7'>
+            <Breakpoint medium up>
+              <div className='grid grid-cols-4 gap-5'>
                 <ListTables tables={tables} />
-              </Breakpoint>
-            </div>
+              </div>
+            </Breakpoint>
+
+            <Breakpoint small down>
+              <ListTables tables={tables} />
+            </Breakpoint>
           </div>
-        </main>
-      </BreakpointProvider>
-    </Layout>
+        </div>
+      </main>
+    </BreakpointProvider>
   )
 }
