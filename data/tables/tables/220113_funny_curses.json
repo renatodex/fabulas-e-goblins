@@ -1,0 +1,30 @@
+{
+  "title": "6 maldições hilárias que você pode pegar de um mago louco.",
+  "banner": "https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ce9940330-c013-4b9b-be8f-e1c2d8f1a485.png",
+  "rolls": [
+    {
+      "dice_roll": 1,
+      "description": "Você tem literalmente um rabo invisível. Sempre que estiver engajado em combate, faça um teste de agilidade para desviar seu rabo invisível ou receba 1d8 de dano."
+    },
+    {
+      "dice_roll": 2,
+      "description": "Seus dedos se transformaram em minhocas falantes, e sempre que quiser segurar objetos (incluindo sua arma), você deve convencê-las (teste de Influência) para que façam isso."
+    },
+    {
+      "dice_roll": 3,
+      "description": "Pessoas feias são completamente invisíveis para você, assim como qualquer pertence que elas carreguem. Você pode ouvir o som que elas emitem, e sentir o calor de seus corpos, mas seus olhos não poderão vê-las. Também se aplica a criaturas hediondas."
+    },
+    {
+      "dice_roll": 4,
+      "description": "Algo mudou a forma como você fala, e as pessoas não entendem mais coisas que você disser na primeira vez. Você sempre precisará repetir. Esse comportamento te concede -2 de Influência em ações sociais."
+    },
+    {
+      "dice_roll": 5,
+      "description": "Animais selvagens passam a ser estranhamente atraídos pelo seu cheiro, e você será sempre priorizado como alvo sempre que estiver lutando contra criaturas em um combate."
+    },
+    {
+      "dice_roll": 6,
+      "description": "Você passa a ter uma vontade insana de se coçar de tempos em tempos em momentos aleatórios. A coceira causa 1d4 de dano e consome 1 turno inteiro. O Narrador recebe 1d6 fichas por sessão que ele pode usar para despertar a coceira em você até que a maldição seja curada."
+    }
+  ]
+}

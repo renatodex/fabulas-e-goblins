@@ -1,0 +1,30 @@
+{
+  "title": "6 traumas que vão deixar seu personagem de cabeça pra baixo",
+  "banner": "https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C59690b77-9316-4212-b461-8f9d227cdcb9.png",
+  "rolls": [
+    {
+      "dice_roll": 1,
+      "description": "Seu último combate no ninho de aranhas deixou marcas. Sempre que encontrar teias de aranha ou quaisquer indícios desses pequenos artrópodes, você deverá fazer um teste de Resiliência, caso contrário receberá -4 em todos os testes até deixar o local."
+    },
+    {
+      "dice_roll": 2,
+      "description": "As visões daquela aldeia incendiada pelo terrível Knerotraco de fogo não saem da sua cabeça. Sempre que receber um ataque do elemento fogo, você deverá um teste de Resiliência antes que possa se defender. Falhar deixará seu corpo em estado de choque, incapaz de se mover."
+    },
+    {
+      "dice_roll": 3,
+      "description": "O ataque da lâmina do Cavaleiro Necromante quase significou seu fim, mas você sobreviveu. A partir desse dia, a imagem do elmo negro permeia os seus sonhos, fazendo com que você tenha pesadelos horríveis e recupere apenas metade dos seus P.V e P.M."
+    },
+    {
+      "dice_roll": 4,
+      "description": "Você lutou contra a invasão Camags até cair, e graças aos seus amigos, sobreviveu. Após dias apagado você abre os olhos tranquilizando a todos. Infelizmente, sua perna sofreu um sério ferimento de farpa de madeira dos Camags. Você recebe uma penalidade permanente de -2 de Movimento."
+    },
+    {
+      "dice_roll": 5,
+      "description": "Você avisou que enfrentar o Ogon na escuridão da caverna seria uma idéia ruim. Foi questão de segundos até que tudo se apagasse pra você de vez.  A partir desse dia o Escuro te desperta medos tão profundos que você não poderá realizar qualquer ação na ausencia de luz."
+    },
+    {
+      "dice_roll": 6,
+      "description": "O encontro com o Gonshu das profundezas do mar teria lhe custado a vida se o resgate não chegasse a tempo. Desde esse dia, mergulhar nas profundezas de Timéria desperta um pavor incontrolável, que só pode ser superado com um teste difícil de Resiliência (> 20)."
+    }
+  ]
+}
