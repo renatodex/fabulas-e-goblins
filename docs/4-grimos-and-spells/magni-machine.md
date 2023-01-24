@@ -4,6 +4,57 @@ title: Aparato de Magni
 slug: /4-grimos-and-spells/magni-machine
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import triad from './../../data/spells/spells-magni/ultimates/triad.json'
+
+import driving_spring from './../../data/spells/spells-magni/tier1/driving_spring.json'
+import fabricate from './../../data/spells/spells-magni/tier1/fabricate.json'
+import flaming_module from './../../data/spells/spells-magni/tier1/flaming_module.json'
+import improvise_art from './../../data/spells/spells-magni/tier1/improvise_art.json'
+import laser_module from './../../data/spells/spells-magni/tier1/laser_module.json'
+import overcharge from './../../data/spells/spells-magni/tier1/overcharge.json'
+import remote_control from './../../data/spells/spells-magni/tier1/remote_control.json'
+import repair_magni from './../../data/spells/spells-magni/tier1/repair_magni.json'
+import repair_master from './../../data/spells/spells-magni/tier1/repair_master.json'
+import short_circuit from './../../data/spells/spells-magni/tier1/short_circuit.json'
+import shove_module from './../../data/spells/spells-magni/tier1/shove_module.json'
+import solder_module from './../../data/spells/spells-magni/tier1/solder_module.json'
+
+import artillery_module from './../../data/spells/spells-magni/tier2/artillery_module.json'
+import auto_destruction from './../../data/spells/spells-magni/tier2/auto_destruction.json'
+import automatize from './../../data/spells/spells-magni/tier2/automatize.json'
+import barrier_integration from './../../data/spells/spells-magni/tier2/barrier_integration.json'
+import fire_cross from './../../data/spells/spells-magni/tier2/fire_cross.json'
+import hull_reinforcement from './../../data/spells/spells-magni/tier2/hull_reinforcement.json'
+import laser_integration from './../../data/spells/spells-magni/tier2/laser_integration.json'
+import magni_float_device from './../../data/spells/spells-magni/tier2/magni_float_device.json'
+import saw_module from './../../data/spells/spells-magni/tier2/saw_module.json'
+import timely_backup from './../../data/spells/spells-magni/tier2/timely_backup.json'
+
+import amplify_bomb from './../../data/spells/spells-magni/tier3/amplify_bomb.json'
+import auto_repair_module from './../../data/spells/spells-magni/tier3/auto_repair_module.json'
+import concentration_shot from './../../data/spells/spells-magni/tier3/concentration_shot.json'
+import independent_systems from './../../data/spells/spells-magni/tier3/independent_systems.json'
+import internal_storage from './../../data/spells/spells-magni/tier3/internal_storage.json'
+import magni_beam from './../../data/spells/spells-magni/tier3/magni_beam.json'
+import magni_priority from './../../data/spells/spells-magni/tier3/magni_priority.json'
+import missile_module from './../../data/spells/spells-magni/tier3/missile_module.json'
+import reanimate_constructor from './../../data/spells/spells-magni/tier3/reanimate_constructor.json'
+import triad_laser_integration from './../../data/spells/spells-magni/tier3/triad_laser_integration.json'
+
+import coordinated_attack from './../../data/spells/spells-magni/tier4/coordinated_attack.json'
+import explosive_death from './../../data/spells/spells-magni/tier4/explosive_death.json'
+import fifth_element from './../../data/spells/spells-magni/tier4/fifth_element.json'
+import instant_fabrication from './../../data/spells/spells-magni/tier4/instant_fabrication.json'
+import magnific_armor from './../../data/spells/spells-magni/tier4/magnific_armor.json'
+import magnizord from './../../data/spells/spells-magni/tier4/magnizord.json'
+import nuclear_destruction from './../../data/spells/spells-magni/tier4/nuclear_destruction.json'
+import super_missile_module from './../../data/spells/spells-magni/tier4/super_missile_module.json'
+import syncronized_install from './../../data/spells/spells-magni/tier4/syncronized_install.json'
+import syncronized_repair from './../../data/spells/spells-magni/tier4/syncronized_repair.json'
+import ultra_resistent_shell from './../../data/spells/spells-magni/tier4/ultra_resistent_shell.json'
+
 ![Magni.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca5225d62-9e7e-41ed-aa22-9bf7da0aa99b.png)
 
 Os **Adeptos de Magni** originais acreditavam que a Magia se corrompe sempre que é manipulada diretamente contra seus inimigos. Ao invés disso, eles desenvolveram os **Magnis**: Construtos inanimados controlados magicamente por seu portador através de **Tecmagi**, um tipo de Tecnologia aliada à Magia.
@@ -109,7 +160,22 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
+<SpellFromJson expanded={false} spellData={triad} />
+
 ### Habilidades - Tier 1
+
+<SpellFromJson expanded={false} spellData={driving_spring} />
+<SpellFromJson expanded={false} spellData={fabricate} />
+<SpellFromJson expanded={false} spellData={flaming_module} />
+<SpellFromJson expanded={false} spellData={improvise_art} />
+<SpellFromJson expanded={false} spellData={laser_module} />
+<SpellFromJson expanded={false} spellData={overcharge} />
+<SpellFromJson expanded={false} spellData={remote_control} />
+<SpellFromJson expanded={false} spellData={repair_magni} />
+<SpellFromJson expanded={false} spellData={repair_master} />
+<SpellFromJson expanded={false} spellData={short_circuit} />
+<SpellFromJson expanded={false} spellData={shove_module} />
+<SpellFromJson expanded={false} spellData={solder_module} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
@@ -130,6 +196,17 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
+<SpellFromJson expanded={false} spellData={artillery_module} />
+<SpellFromJson expanded={false} spellData={auto_destruction} />
+<SpellFromJson expanded={false} spellData={automatize} />
+<SpellFromJson expanded={false} spellData={barrier_integration} />
+<SpellFromJson expanded={false} spellData={fire_cross} />
+<SpellFromJson expanded={false} spellData={hull_reinforcement} />
+<SpellFromJson expanded={false} spellData={laser_integration} />
+<SpellFromJson expanded={false} spellData={magni_float_device} />
+<SpellFromJson expanded={false} spellData={saw_module} />
+<SpellFromJson expanded={false} spellData={timely_backup} />
+
 •  Cruz de Fogo: Essa armadilha consiste em uma engenhoca de 4 canos que se conectam em uma fonte de fogo, soprando uma linha de 1x3 de fogo em 4 direções. Pode ser conjurada em um unico ponto e é ativada apenas uma vez pelo conjurador, quebrando logo em seguida.
 •  Modulo Artilharia: Atira um projetil explosivo que causa dano para cada espaço de distancia que o Magni está do alvo.
 •  Backup Oportuno: Como uma ação de reação a um ataque inimigo, o Magni se desmonta em pleno ar e adere a um aliado formando uma armadura para absorver um ataque iminente. O Magni é destruído após o processo.
@@ -145,6 +222,17 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
+<SpellFromJson expanded={false} spellData={amplify_bomb} />
+<SpellFromJson expanded={false} spellData={auto_repair_module} />
+<SpellFromJson expanded={false} spellData={concentration_shot} />
+<SpellFromJson expanded={false} spellData={independent_systems} />
+<SpellFromJson expanded={false} spellData={internal_storage} />
+<SpellFromJson expanded={false} spellData={magni_beam} />
+<SpellFromJson expanded={false} spellData={magni_priority} />
+<SpellFromJson expanded={false} spellData={missile_module} />
+<SpellFromJson expanded={false} spellData={reanimate_constructor} />
+<SpellFromJson expanded={false} spellData={triad_laser_integration} />
+
 •  Prioridade Magni: Pode trocar seu próprio turno pelo turno de um Magni.
 •  Integração Triade Laser: Conecta 3 Magnis para formar um triangulo laser e causa dano a todos inimigos na area interna.
 •  Tiro concentrado: Sacrifica N Magnis extraindo sua Magia pra efetuar um poderoso Tiro concentrado.
@@ -159,6 +247,18 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
+<SpellFromJson expanded={false} spellData={coordinated_attack} />
+<SpellFromJson expanded={false} spellData={explosive_death} />
+<SpellFromJson expanded={false} spellData={fifth_element} />
+<SpellFromJson expanded={false} spellData={instant_fabrication} />
+<SpellFromJson expanded={false} spellData={magnific_armor} />
+<SpellFromJson expanded={false} spellData={magnizord} />
+<SpellFromJson expanded={false} spellData={nuclear_destruction} />
+<SpellFromJson expanded={false} spellData={super_missile_module} />
+<SpellFromJson expanded={false} spellData={syncronized_install} />
+<SpellFromJson expanded={false} spellData={syncronized_repair} />
+<SpellFromJson expanded={false} spellData={ultra_resistent_shell} />
 
 •  Modulo Super Missil: Aprimora mais ainda a arma de um Magni (triplo?)
 •  Instalação Sincronizada: Modulos instalam simultaneamente em todos Magni.
