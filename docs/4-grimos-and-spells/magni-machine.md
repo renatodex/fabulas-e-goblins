@@ -115,14 +115,6 @@ Sempre que um efeito negativo deixar o seu personagem inconsciente, todos os **M
 
 O Conjurador passa a possuir **Defesa +2** contra ataques de criaturas **Mecânicas** ou **Constructos**, assim como **Ataque +2** ao combater essas mesmas criaturas.
 
-Além disso, criaturas Mecânicas que forem abatidas no **Campo de Batalha** podem ser reanimadas temporariamente sob o controle do **Magnista** a um custo de `TIER*4 P.M`.
-
-Os atributos de **Ataque e Defesa** da criatura animada seguem a mesma regra de **Animar Objetos**, mas os valores de **Pontos de Vida** e **Dano** nesse caso ficam condicionados aos ataques na ficha da Criatura.
-
-:::info Criaturas Lendárias
-Sinergia Mecânica não pode ser usado para reanimar criaturas Lendárias ou Nêmesis.
-:::
-
 ## Interpretando um Adepto de Magni
 
 **Adeptos de Magni** costumam ser vistos como indivíduos inteligentes e criativos, mas isso não é necessariamente uma regra. Esses indivíduos são muito cobiçados quando o assunto é trabalho, pois sua habilidade com a **Tecmagi** tem sido cada vez mais útil e exigida nos diversos Reinos das **Terras Místicas**.
@@ -145,6 +137,17 @@ Com o passar dos anos, especialmente após o `Blecaute`, a **Tecmagi** se tornou
 
 Com o passar do tempo, enormes **templos de metal** conhecidos como  **Cubos de Magni** surgiram especificamente para formar **Adeptos** através da prática da antiga **Tecmagi**, e hoje esses templos estão espalhados em diversas localidades do mundo. Dizem que muitos mestres supremos da arte **Magni** são herdeiros distantes dos **Guximaxi** e **Ualarin** originais.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo |
+| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e74fe53-1a59-4a12-b983-03853213d10f.PNG" width="80" /> | Bomba Comum + 0 | Mágico | D4 + 3 | Bomba mágica que atinge alvos em uma área 2x2 escolhida pelo usuário. **(custo: 1 P.M)** | 3 Cargas | Inteligência |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd9486c94-ac8f-4532-88e6-a055603c35a0.PNG" width="80" /> | Garrucha Comum + 0 | Físico | D10 + 2 | Garrucha comum que atira um projétil afiado de chumbo. **(custo: 1 P.M)** | 3 Cargas | Inteligência |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
 ## Requisito de entrada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
@@ -155,6 +158,13 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 - Passar no teste de entrada rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
 
 ## Poderes do Grimo
+
+
+:::info Poderes de Modulo
+Alguns poderes podem conter a palavra "Módulo" no nome. Essas poderes são considerados como habilidades de instância, que apenas podem ser instalados um de cada vez em apenas um Magni ativo.
+
+Conforme você evolui, você passa a ter acesso a algumas habilidades avançadas que permitem a você instalar módulos em mais de um Magni, ou até mesmo instalar múltiplos módulos em um mesmo Magni.
+:::
 
 ### Especial
 
@@ -240,6 +250,15 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 •  Sistemas Independentes: Os Magnis não se desfazem mais quando o conjurador fica inconsciente, ou dorme.
 •  Armazenamento Interno: Cada Magni pode carregar 1 item adicional. Ao ser desmontado, o item pode ser recuperado do Magni, mas será considerado perdido caso o jogador esqueça.
 •  Reanimar Constructo: Criaturas Mecânicas que forem abatidas no Campo de Batalha podem ser reanimadas temporariamente sob o controle do Magnista a um custo de TIER*4 P.M.
+
+Além disso, criaturas Mecânicas que forem abatidas no **Campo de Batalha** podem ser reanimadas temporariamente sob o controle do **Magnista** a um custo de `TIER*4 P.M`.
+
+Os atributos de **Ataque e Defesa** da criatura animada seguem a mesma regra de **Animar Objetos**, mas os valores de **Pontos de Vida** e **Dano** nesse caso ficam condicionados aos ataques na ficha da Criatura.
+
+:::info Criaturas Lendárias
+Sinergia Mecânica não pode ser usado para reanimar criaturas Lendárias ou Nêmesis.
+:::
+
 •  Feixo Magni: Dispara um feixo canalizado que atinge um Magni. No seu próximo turno, fora do turno do Magni alvo, você pode disparar um tiro poderoso em um alvo inimigo. Cada Magni adicional que for conectado com esse tiro causa 150 de dano.
 •  Modulo Auto Reparo: O Magni pode usar seu turno para se reparar recuperando 20 PV.
 •  Modulo Missel: Aprimora a arma de um magni, aumentando seu dano. (Dobro?)
