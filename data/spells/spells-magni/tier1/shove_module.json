@@ -3,7 +3,7 @@
   "magic_cost": "3 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
-  "action_type": "Ativa",
+  "action_type": "Instância",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,

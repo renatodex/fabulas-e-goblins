@@ -31,6 +31,7 @@ Aqui, preparamos uma tabela com as legendas dessas Notações.
 | (C)             | Alguns Efeitos não passam com o tempo, e exigem que o jogador faça uma rolagem bem sucedida contra um **Valor de Desafio**. A letra (C) representa a **Dificuldade deste Desafio**. Em outras palavras, é o ****número mínimo**** que o personagem precisa tirar no Dado para **anular o Efeito**. Como exemplo, `Controle 15` significa que o personagem será Controlado **durante todos os seus turnos**, até que consiga **tirar 15 ou mais** num **teste de Resiliência**.
 | (P)            | Representa uma Penalidade negativa, pois alguns efeitos fazem com que o personagem tenha mais dificuldade de realizar certas ações. Como exemplo, `Exaurir 5` significa que o alvo receberá **-5 de Penalidade em todos os testes que realizar.**
 | (M)             | Essa notação é utilizada para representar o **número de quadrados** no **Grid de Combate** relacionado ao efeito. Como exemplo, `Empurrar 4` significa que o Personagem será **empurrado 4 quadrados** da sua localização atual. |
+| (F)             | Essa notação é utilizada para representar a **fórmula ou dado** relacionado ao efeito. Como exemplo, `Morte d12` significa que o Personagem será instantaneamente morto caso o dado saia o número máximo.  |
 
 ## Tipos de Efeitos
 
@@ -53,5 +54,6 @@ Aqui, preparamos uma tabela com as legendas dessas Notações.
 | Cegueira   (T)           | Alvos cegos **falham automaticamente** em testes que exigem visão, como ataques à distância e ações de precisão. Ações de Ataque e Defesa também são realizadas **com desvantagem**. A Cegueira dura (T) turnos. |
 | Petrificar (T)         | Personagens petrificados **não podem realizar nenhum tipo de ação** por (T) turnos e não possuem qualquer noção sensorial sobre os seus arredores. Atacar um personagem petrificado **causa dano diretamente em seus P.V**. Qualquer condição que esteja afetando o personagem **antes da petrificação** é **temporariamente suspensa**, **até que ele retorne** ao estado normal. |
 | Adormecer  (T)          | O personagem cai no chão e fica subitamente inconsciente por (T) turnos, até que seja atacado ou acordado. Enquanto estiver inconsciente, ele falha automaticamente em testes de Defesa. |
+| Morte (F)               | O alvo é instantaneamente abatido caso (F) resulte no número máximo. |
 | Expurgar               | O Expurgo elimina instantaneamente criaturas Decrépitas como Mortos-Vivos, Fantasmas, Aparições, Maldições e Demônios. Não funciona contra inimigos líderes ou superior. |
 | Derrubar               | O alvo cai no chão, e precisa se levantar se quiser se mover. Alvos no chão recebem **desvantagem** em testes de Defesa. |
