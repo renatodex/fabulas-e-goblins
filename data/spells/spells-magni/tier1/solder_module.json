@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Módulo de Solda",
+  "magic_cost": "1 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiSolderingIron",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Ativa o módulo de solda, permitindo que seu Magni solde qualquer objeto, porta ou passagem.",
+  "description": "<p>Seu Magni pode utilizar essa ação para soldar um objeto, porta ou passagem. A solda do Magni é feita com um metal viscoso, que se adere literalmente a qualquer superfície e só pode ser desfeito uma fonte intensa de calor.</p><p>Além de portas, você também pode utilizar este poder para juntar objetos em um só.</p><p>A soldagem leva <code>1 turno</code> para <b>objetos pequenos</b>, <code>2 turnos</code> para <b>portas normais</b>, mas pode demorar proporcionalmente mais tempo para objetos ou portas maiores. Pode ser usado em outras ocasiões, ou até mesmo em combate, desde que o objeto que será afetado esteja completamente imóvel e sem capacidade de reagir por pelo menos <code>1 turno adicional</code> além do tempo da solda.</p>",
+  "tags": ["grimo","magni"]
 }
