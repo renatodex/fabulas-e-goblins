@@ -203,7 +203,7 @@ Você pode escolher entre duas armas iniciais:
 | Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
 | ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C176956f9-2502-452c-963e-181799550369.png" width="80" /> | Orbe do Iniciante + 0 | Mágico | D4 + 4 | Orbe inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas | Elo Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc8623aa6-2402-42d2-8633-faa7bd679ddd.png" width="80" /> | Cetro do Iniciante + 0 | Físico | D6 + 4 | Cetro inicial do Aventureiro, ataque corpo-a-corpo. | 3 Cargas | Inteligência |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc8623aa6-2402-42d2-8633-faa7bd679ddd.png" width="80" /> | Cetro do Iniciante + 0 | Físico | D6 + 4 | Cetro inicial do Aventureiro, ataque corpo-a-corpo. | 3 Cargas | Intelecto |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
@@ -211,9 +211,9 @@ Você pode escolher entre duas armas iniciais:
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
-- Possuir pelo menos 1 Ponto de Inteligência.
+- Possuir pelo menos 1 Ponto de Intelecto.
 - Possuir riquezas no valor de 1500 Temirs ou superior.
-- Passar no teste de afinidade mágica rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+- Passar no teste de afinidade mágica rolando um d100 e somando sua **Intelecto * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
 - Trajar roupas de luxo. (Dress code)
 
 ## Poderes do Grimo

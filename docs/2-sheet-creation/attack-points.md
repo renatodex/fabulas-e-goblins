@@ -40,11 +40,11 @@ Esse atributo geralmente está especificado no próprio nome da arma: Ex: **Mach
 No quadro abaixo mostramos um exemplo dos **Pontos de Ataque** sendo utilizados em um Ataque com uma **Orbe Rúnica**:
 
 :::note Dica
-Mirana é uma **Adepta de Allura** com **+2 de Inteligência**.<br/>
+Mirana é uma **Adepta de Allura** com **+2 de Intelecto**.<br/>
 
-Mirana está equipando uma **Orbe Rúnica +2 (Bonus de Ataque)**. O Atributo da Orbe Rúnica é **Inteligência**, portanto, para calcular seu ataque com a Orbe Mirana deverá fazer a seguinte conta:
+Mirana está equipando uma **Orbe Rúnica +2 (Bonus de Ataque)**. O Atributo da Orbe Rúnica é **Intelecto**, portanto, para calcular seu ataque com a Orbe Mirana deverá fazer a seguinte conta:
 
-<code>P.A = 2 (Inteligência) + 2 (Ataque da Arma) = +4</code>
+<code>P.A = 2 (Intelecto) + 2 (Ataque da Arma) = +4</code>
 
 <br/><br/>Portanto, ao atacar um inimigo com <b>16 Pontos de Defesa</b>, Mirana deverá rolar um D20 e <b>somar +4</b> ao seu resultado. Neste caso, ela <b>apenas acertará</b> o inimigo se <b>tirar pelo menos 12 no Dado</b> (pois <code>12 + 4 >= 16</code>)
 

@@ -10,6 +10,6 @@
   "icon": "GiDigHole",
   "element": null,
   "caption": "Sua intimidade com seu elemento permite manipulá-lo em pequena quantidade.",
-  "description": "<p>Você pode mover ou dissolver uma manifestação elemental do seu elemento com as mãos. O Custo para essa ação é de <b>1 P.M</b>, e o jogador apenas pode Manipular o equivalente a <i>1 metro cúbico</i> do elemento de cada vez. Se Manipular Elemento for usado como forma de ataque, exige um teste difícil de Concentração que pode ser testado com Inteligência. O dano causado nesse caso é o mesmo do <b>Rajada de Aprendiz</b>.</p>",
+  "description": "<p>Você pode mover ou dissolver uma manifestação elemental do seu elemento com as mãos. O Custo para essa ação é de <b>1 P.M</b>, e o jogador apenas pode Manipular o equivalente a <i>1 metro cúbico</i> do elemento de cada vez. Se Manipular Elemento for usado como forma de ataque, exige um teste difícil de Concentração que pode ser testado com Intelecto. O dano causado nesse caso é o mesmo do <b>Rajada de Aprendiz</b>.</p>",
   "tags": ["grimo", "allura"]
 }

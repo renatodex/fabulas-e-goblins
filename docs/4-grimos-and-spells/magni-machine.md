@@ -143,8 +143,8 @@ Você pode escolher entre duas armas iniciais:
 
 | Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo |
 | ------ | ------------ | ---- | --------- | ------------ | -------- | ---- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e74fe53-1a59-4a12-b983-03853213d10f.PNG" width="80" /> | Bomba Comum + 0 | Mágico | D4 + 3 | Bomba mágica que atinge alvos em uma área 2x2 escolhida pelo usuário. **(custo: 1 P.M)** | 3 Cargas | Inteligência |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd9486c94-ac8f-4532-88e6-a055603c35a0.PNG" width="80" /> | Garrucha Comum + 0 | Físico | D10 + 2 | Garrucha comum que atira um projétil afiado de chumbo. **(custo: 1 P.M)** | 3 Cargas | Inteligência |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e74fe53-1a59-4a12-b983-03853213d10f.PNG" width="80" /> | Bomba Comum + 0 | Mágico | D4 + 3 | Bomba mágica que atinge alvos em uma área 2x2 escolhida pelo usuário. **(custo: 1 P.M)** | 3 Cargas | Intelecto |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd9486c94-ac8f-4532-88e6-a055603c35a0.PNG" width="80" /> | Garrucha Comum + 0 | Físico | D10 + 2 | Garrucha comum que atira um projétil afiado de chumbo. **(custo: 1 P.M)** | 3 Cargas | Intelecto |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
@@ -155,7 +155,7 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 - Possuir pelo menos 1 Ponto em Elo Mágico.
 - Deve pagar uma Taxa de entrada de 2000 Temirs.
 - Ter usado seus talentos por pelo menos 5 vezes de forma útil para decifrar Máquinas, Constructos ou outros tipos de aparatos mecânicos. (a Guilda irá saber)
-- Passar no teste de entrada rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+- Passar no teste de entrada rolando um d100 e somando sua **Intelecto * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
 
 ## Poderes do Grimo
 

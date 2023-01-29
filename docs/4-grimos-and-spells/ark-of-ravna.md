@@ -213,9 +213,9 @@ As **Urnas** são armas nobres, exigem pelo menos uma mão para serem manipulada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
-- Possuir pelo menos 1 Ponto de Inteligência.
+- Possuir pelo menos 1 Ponto de Intelecto.
 - Ter adestrado um animal doméstico por pelo menos 6 meses. (A Guilda irá saber)
-- Passar no teste de afinidade mágica rolando um d100 e somando sua **Inteligência * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
+- Passar no teste de afinidade mágica rolando um d100 e somando sua **Intelecto * 5**. (Dificuldade = 75). Caso falhe no teste, você não poderá tentar novamente no mesmo mês, a menos que pague uma taxa adicional de 1000 Temirs.
 
 ## Poderes do Grimo
 
