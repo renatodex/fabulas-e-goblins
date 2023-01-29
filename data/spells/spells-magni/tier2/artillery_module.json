@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Módulo Artilharia",
+  "magic_cost": "5 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "attack_logic": "Mágico",
+  "action_type": "Instância",
+  "cast_distance": "12",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRingedBeam",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Instala uma arma de artilharia que causa dano para cada espaço de distancia que o Magni está do alvo.",
+  "description": "<p>Instala e usa o modulo escolhido.</p><p>Cada ataque normal do Magni ou seu (dependendo de quem foi instalado) agora pode ser realizado a até <b>12 espaços de distância</b>, além de causar um adicional de <code>TIER * 1</code> de <b>dano físico</b> para <b>cada espaço de distância do alvo</b> dentro do <b>alcance de ataque</b>.</p>",
+  "tags": ["grimo","magni"]
 }
