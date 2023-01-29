@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": "Alvo",
   "range_amount": "1",
-  "icon": "GiCircularSaw",
+  "icon": "GiMicrochip",
   "element": null,
   "caption": "Instala um módulo no Magni que expõe laminas afiadas que rotacionam em volta dele causando dano a todos inimigos próximos.",
-  "description": "<p><b>Este módulo só pode ser instalado em um Magni</b></p><p>Escolha um Magni. Você instala um <b>módulo de lâminas giratórias</b>, que causam <b>dano continuo</b> a qualquer inimigo que <b>termine o turno adjacente</b> a ele. Causa <code>TIER * 1d8</code> de <b>dano físico</b> e inflige <code>Sangramento TIER*2</code>.</p>",
+  "description": "<p><b>Este módulo só pode ser instalado em um Magni.</b></p><p>Escolha um Magni. Você instala um <b>módulo de lâminas giratórias</b>, que causam <b>dano continuo</b> a qualquer inimigo que <b>termine o turno adjacente</b> a ele. Causa <code>TIER * 1d8</code> de <b>dano físico</b> e inflige <code>Sangramento TIER*2</code>.</p>",
   "tags": ["grimo","magni"]
 }

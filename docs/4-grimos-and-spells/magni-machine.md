@@ -2,6 +2,7 @@
 id: magni-machine
 title: Aparato de Magni
 slug: /4-grimos-and-spells/magni-machine
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca5225d62-9e7e-41ed-aa22-9bf7da0aa99b.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -55,7 +56,7 @@ import syncronized_install from './../../data/spells/spells-magni/tier4/syncroni
 import syncronized_repair from './../../data/spells/spells-magni/tier4/syncronized_repair.json'
 import ultra_resistent_shell from './../../data/spells/spells-magni/tier4/ultra_resistent_shell.json'
 
-![Magni.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca5225d62-9e7e-41ed-aa22-9bf7da0aa99b.png)
+![Conhecidos como os Necromantes das máquinas, podendo controlar mentalmente múltiplos aparatos mecânicos conhecidos como Magnis](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca5225d62-9e7e-41ed-aa22-9bf7da0aa99b.png)
 
 Os **Adeptos de Magni** originais acreditavam que a Magia se corrompe sempre que é manipulada diretamente contra seus inimigos. Ao invés disso, eles desenvolveram os **Magnis**: Construtos inanimados controlados magicamente por seu portador através de **Tecmagi**, um tipo de Tecnologia aliada à Magia.
 
@@ -161,7 +162,9 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 
 
 :::info Poderes de Modulo
-Alguns poderes podem conter a palavra "Módulo" no nome. Essas poderes são considerados como habilidades de instância, que apenas podem ser instalados um de cada vez em apenas um Magni ativo.
+Alguns poderes podem conter a palavra "Módulo" no nome. Essas são poderes especiais do **Grimo de Magni** que podem ser utilizados como <b>Ações Menores</b>. Cada Módulo apenas pode ser instalado em um Magni ativo por vez. Além disso, cada Módulo instalado, por padrão **remove qualquer outro módulo ativo**.
+
+Alguns Módulos podem ser instalados no próprio conjurador, outros exigem que a instalação seja feita em um **Magni ativo**. Nos casos onde o Módulo é instalado no próprio conjurador, ele pode ser **instalado** e **ativado** no mesmo turno, caso o conjurador opte por **não realizar uma ação de movimento**.
 
 Conforme você evolui, você passa a ter acesso a algumas habilidades avançadas que permitem a você instalar módulos em mais de um Magni, ou até mesmo instalar múltiplos módulos em um mesmo Magni.
 :::
@@ -179,13 +182,13 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={driving_spring} />
 <SpellFromJson expanded={false} spellData={fabricate} />
 <SpellFromJson expanded={false} spellData={improvise_art} />
-<SpellFromJson expanded={false} spellData={laser_module} />
 <SpellFromJson expanded={false} spellData={overcharge} />
 <SpellFromJson expanded={false} spellData={remote_control} />
 <SpellFromJson expanded={false} spellData={repair_magni} />
 <SpellFromJson expanded={false} spellData={repair_master} />
 <SpellFromJson expanded={false} spellData={shove_module} />
 <SpellFromJson expanded={false} spellData={solder_module} />
+<SpellFromJson expanded={false} spellData={laser_module} />
 <SpellFromJson expanded={false} spellData={flaming_module} />
 <SpellFromJson expanded={false} spellData={short_circuit} />
 
@@ -193,16 +196,16 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
-<SpellFromJson expanded={false} spellData={artillery_module} />
-<SpellFromJson expanded={false} spellData={auto_destruction} />
 <SpellFromJson expanded={false} spellData={automatize} />
+<SpellFromJson expanded={false} spellData={hull_reinforcement} />
+<SpellFromJson expanded={false} spellData={magni_float_device} />
+<SpellFromJson expanded={false} spellData={timely_backup} />
+<SpellFromJson expanded={false} spellData={artillery_module} />
+<SpellFromJson expanded={false} spellData={saw_module} />
+<SpellFromJson expanded={false} spellData={laser_integration} />
 <SpellFromJson expanded={false} spellData={barrier_integration} />
 <SpellFromJson expanded={false} spellData={fire_cross} />
-<SpellFromJson expanded={false} spellData={hull_reinforcement} />
-<SpellFromJson expanded={false} spellData={laser_integration} />
-<SpellFromJson expanded={false} spellData={magni_float_device} />
-<SpellFromJson expanded={false} spellData={saw_module} />
-<SpellFromJson expanded={false} spellData={timely_backup} />
+<SpellFromJson expanded={false} spellData={auto_destruction} />
 
 ### Habilidades - Tier 3
 
