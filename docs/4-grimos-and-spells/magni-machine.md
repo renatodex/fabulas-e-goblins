@@ -6,7 +6,7 @@ slug: /4-grimos-and-spells/magni-machine
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
-import triad from './../../data/spells/spells-magni/ultimates/triad.json'
+import pulse_cannon from './../../data/spells/spells-magni/ultimates/pulse_cannon.json'
 
 import driving_spring from './../../data/spells/spells-magni/tier1/driving_spring.json'
 import fabricate from './../../data/spells/spells-magni/tier1/fabricate.json'
@@ -170,37 +170,24 @@ Conforme você evolui, você passa a ter acesso a algumas habilidades avançadas
 
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
-<SpellFromJson expanded={false} spellData={triad} />
+<SpellFromJson expanded={false} spellData={pulse_cannon} />
 
 ### Habilidades - Tier 1
 
+Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
+
 <SpellFromJson expanded={false} spellData={driving_spring} />
 <SpellFromJson expanded={false} spellData={fabricate} />
-<SpellFromJson expanded={false} spellData={flaming_module} />
 <SpellFromJson expanded={false} spellData={improvise_art} />
 <SpellFromJson expanded={false} spellData={laser_module} />
 <SpellFromJson expanded={false} spellData={overcharge} />
 <SpellFromJson expanded={false} spellData={remote_control} />
 <SpellFromJson expanded={false} spellData={repair_magni} />
 <SpellFromJson expanded={false} spellData={repair_master} />
-<SpellFromJson expanded={false} spellData={short_circuit} />
 <SpellFromJson expanded={false} spellData={shove_module} />
 <SpellFromJson expanded={false} spellData={solder_module} />
-
-Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
-
-•  Sobrecarga: Funciona apenas em droides, conjura um feixe elétrico que causa dano gigantesco em droids.
-•  Mestre dos Reparos: Você é capaz de realizar reparos simples de forma magica em um mecanismo,  apetrecho ou aparato defeituoso sem precisar de peças de reposição.
-•  Arte do Improviso: Você pode re-rolar um teste falhado de reparo ou mecânica de qualquer tipo, mas não funciona se a falha tiver sido um Desastre.
-•  Controle-Remoto: Tome controle de um mecanismo simples remotamente.
-•  Módulo Flamejante: Instala um módulo no seu ajudante que permite que ele cause dano de fogo adicional. Poderes de módulo só podem ser instalados um de cada vez.
-•  Módulo de Solda: Você utiliza seu Magni para soldar uma porta. A soldagem leva 2 turnos para portas normais, mas pode demorar proporcionalmente mais tempo para portas maiores. Pode ser usado em outras ocasiões.
-•  Mola Propulsora: Você pode arremessar um item ou bomba no seu ajudante para que ele o impulsione a um espaço equivalente aos seus pontos de movimento. (Permitindo que você dobre o alcance do seu ataque ou arremesse itens mais distante).
-•  Curto-Circuito: Desabilita um Grimo temporariamente durante 3 turnos.
-•  Fabricar: Permite que seus Magnis imprimam um objeto utilizando seus próprios materiais ou material externo.
-•  Reparar Magni: Cura o seu Magni instantaneamente fazendo um reparo telecinético.
-•  Modulo Lazer: Permite ao Magni fazer um ataque Lazer que causa dano e cega um inimigo.
-•  Modulo Encontrão: Permite ao seu Magni obter impulso e se atirar contra um alvo, recebendo e causando dano ao mesmo tempo.
+<SpellFromJson expanded={false} spellData={flaming_module} />
+<SpellFromJson expanded={false} spellData={short_circuit} />
 
 ### Habilidades - Tier 2
 

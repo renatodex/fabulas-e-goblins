@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Curto-Circuito",
+  "magic_cost": "3 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiLightningSpanner",
+  "element": "eletric",
+  "caption": "Gera uma carga elétrica que desabilita um Grimo temporariamente.",
+  "description": "<p>Escolha um Grimo alvo que você possa ver. Faça um teste contra a <b>Defesa Mágica</b> do portador do Grimo.</p><p>Se for bem sucedido, o Grimo em questão é desabilitado durante <code>1 turno</code>, não podendo ser ativado pelo seu portador. <i>(também desabilita poderes passivos, mas apenas se forem de natureza mágica)</i></p>",
+  "tags": ["grimo","magni"]
 }
