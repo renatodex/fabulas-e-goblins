@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Proteger, agora!",
+  "magic_cost": "6 P.M",
   "duration_time": null,
   "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "action_type": "Reação",
+  "cast_distance": "4",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiMetalPlate",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Um Magni rapidamente desmonta-se em pleno ar, formando uma barreira metálica que protege um aliado de um ataque.",
+  "description": "<p>A qualquer momento, escolha um Aliado que esteja <b>recebendo dano</b> a até <code>4 espaços</code> de distância de um <b>Magni ativo</b>.</p><p>Ele <b>formará</b> em uma <b>placa metálica</b> que servirá de <b>proteção</b> para o aliado, entrando na frente do ataque e absorvendo o dano em até <code>TIER * 1d20</code>, seja ele Físico ou Mágico.</p><p>O <b>Magni</b> se desfaz completamente após o ataque.</p>",
+  "tags": ["grimo","magni"]
 }

@@ -204,17 +204,6 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={saw_module} />
 <SpellFromJson expanded={false} spellData={timely_backup} />
 
-•  Cruz de Fogo: Essa armadilha consiste em uma engenhoca de 4 canos que se conectam em uma fonte de fogo, soprando uma linha de 1x3 de fogo em 4 direções. Pode ser conjurada em um unico ponto e é ativada apenas uma vez pelo conjurador, quebrando logo em seguida.
-•  Modulo Artilharia: Atira um projetil explosivo que causa dano para cada espaço de distancia que o Magni está do alvo.
-•  Backup Oportuno: Como uma ação de reação a um ataque inimigo, o Magni se desmonta em pleno ar e adere a um aliado formando uma armadura para absorver um ataque iminente. O Magni é destruído após o processo.
-•  Automatizar: Transforma um dispositivo manual em um dispositivo automático controlado pelo Grimo. Pode ser usado em portas, alavancas, botões e outras engenhocas. O conjurador pode controlar apenas um dispositivo dessa forma ao mesmo tempo.
-•  Modulo Serra: Instala um modulo no Magni que expõe 4 laminas afiadas que rotacionam causando dano a todos inimigos próximos.
-•  Prancha Magni: Sacrifica um Magni para transformá-lo em uma prancha flutuante que pode erguer o conjurador a até 1 metro do chão.
-•  Reforço de Casco: Aumenta os PV dos seus Magni em TIER*3
-•  Auto-destruição: Ordena ao seu ajudante que entre no modo auto-destruição, explodindo após 3 turnos e causando dano a todos inimigos.
-•  Integração Laser: Dois Magnis se conectam por um Lazer, rotacionando 360 graus e causando dano a todos inimigos na area.
-•  Integração Barreira: Dois Magnis se conectam para formar uma barreira de 2m de altura não elemental intranspassável. A barreira possui 50 PV por Tier.
-
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
