@@ -73,9 +73,9 @@ const sidebars = {
         'grimos-and-spells/darians-totem',
         'grimos-and-spells/flask-of-zanari',
         'grimos-and-spells/magni-machine',
+        'grimos-and-spells/rune-of-ixin',
         {
           '[Em desenvolvimento]': [
-            'grimos-and-spells/rune-of-ixin',
             'grimos-and-spells/qatuns-illusion'
           ]
         }

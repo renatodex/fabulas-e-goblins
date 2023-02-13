@@ -4,6 +4,8 @@ title: Selo de Ixin
 slug: /4-grimos-and-spells/rune-of-ixin
 ---
 
+![Ixin.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png)
+
 Os **Adeptos de Ixin** são lutadores corpo-a-corpo que utilizam a **Energia Rúnica** para desferir ataques Ofensivos e de Controle do tempo e espaço.
 
 Utilizando as **Runas Templárias** eles são capazes de materializar **Feixes de Luzes** poderosos, **Linhas Etéreas**, **Selos** e uma série de combinações Ofensivas e utilitárias.
