@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Módulo de Auto-Reparo",
+  "magic_cost": "5 P.M",
   "duration_time": null,
   "attack_logic": null,
-  "action_type": "Passiva",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiMicrochip",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "O Magni pode usar sua Ação Maior para se auto-reparar.",
+  "description": "<p><b>Só pode ser instalado em Magnis ativos</b>.</p><p>Custa <code>5 P.M</code> para ser instalado.</p><p>Como uma <b>Ação Maior</b>, um <b>Magni</b> que possua o módulo de Auto-Reparo instalado pode ativá-lo para regenerar <code>1d20 P.V</code> sem gastar <b>Pontos de Magia</b> do conjurador.</p><p>Se você tiver aprendido <b>Casco Ultra Resistente</b>, o <b>Módulo de Auto-Reparo</b> passa a regenerar <code>2d20 P.V</code>.</p>",
+  "tags": ["grimo","magni"]
 }

@@ -27,24 +27,24 @@ import auto_destruction from './../../data/spells/spells-magni/tier2/auto_destru
 import automatize from './../../data/spells/spells-magni/tier2/automatize.json'
 import barrier_integration from './../../data/spells/spells-magni/tier2/barrier_integration.json'
 import fire_cross from './../../data/spells/spells-magni/tier2/fire_cross.json'
+import internal_storage from './../../data/spells/spells-magni/tier2/internal_storage.json'
 import hull_reinforcement from './../../data/spells/spells-magni/tier2/hull_reinforcement.json'
-import laser_integration from './../../data/spells/spells-magni/tier2/laser_integration.json'
 import magni_float_device from './../../data/spells/spells-magni/tier2/magni_float_device.json'
 import saw_module from './../../data/spells/spells-magni/tier2/saw_module.json'
 import timely_backup from './../../data/spells/spells-magni/tier2/timely_backup.json'
 
 import amplify_bomb from './../../data/spells/spells-magni/tier3/amplify_bomb.json'
 import auto_repair_module from './../../data/spells/spells-magni/tier3/auto_repair_module.json'
-import concentration_shot from './../../data/spells/spells-magni/tier3/concentration_shot.json'
+import motherboard from './../../data/spells/spells-magni/tier3/motherboard.json'
 import independent_systems from './../../data/spells/spells-magni/tier3/independent_systems.json'
-import internal_storage from './../../data/spells/spells-magni/tier3/internal_storage.json'
+import laser_integration from './../../data/spells/spells-magni/tier3/laser_integration.json'
 import magni_beam from './../../data/spells/spells-magni/tier3/magni_beam.json'
 import magni_priority from './../../data/spells/spells-magni/tier3/magni_priority.json'
-import missile_module from './../../data/spells/spells-magni/tier3/missile_module.json'
 import reanimate_constructor from './../../data/spells/spells-magni/tier3/reanimate_constructor.json'
-import triad_laser_integration from './../../data/spells/spells-magni/tier3/triad_laser_integration.json'
+import load_balancer from './../../data/spells/spells-magni/tier3/load_balancer.json'
+import missile_module from './../../data/spells/spells-magni/tier3/missile_module.json'
 
-import coordinated_attack from './../../data/spells/spells-magni/tier4/coordinated_attack.json'
+import magnimancer_master from './../../data/spells/spells-magni/tier4/magnimancer_master.json'
 import explosive_death from './../../data/spells/spells-magni/tier4/explosive_death.json'
 import fifth_element from './../../data/spells/spells-magni/tier4/fifth_element.json'
 import instant_fabrication from './../../data/spells/spells-magni/tier4/instant_fabrication.json'
@@ -88,28 +88,26 @@ A menos que outra regra diga o contrário, você deverá:
 
 ## Virtudes
 
-### 1. Animar Objetos (Custo: 0 P.M)
+### 1. Ação: Fabricar Magni (Custo: 0 P.M)
 
-Como **Adepto de Magni**, você possui o poder controlar objetos inanimados que sejam da mesma categoria de tamanho que você. Com a expansão do seu personagem, essa capacidade pode ser expandida.
+Como **Magnista**, você possui o poder de fundir objetos inanimados para criar **Magnis**, pequenos **constructos flutuantes** controlados remotamente.
 
-Os objetos inanimados podem ser objetos construídos por você através da utilização de materia prima, ou até mesmo itens decorativos ou funcionais, como Mesas, Cadeiras e objetos menores como Tábuas, Caixas e Armas.
+Os **Magnis** podem ser fabricados à partir de qualquer materia prima sobressalente, que esteja no ambiente, ou que seja carregada por você.
 
-Os objetos podem assumir um tipo leve de levitação, apenas para facilitar sua movimentação, que é controlada plenamente pelo **Adepto de Magni**.
+Como uma **Ação Maior**, e apenas **1 vez por turno**, você pode animar um novo **Magni**, até o limite de **1 (um) Magni por TIER**. Em seguida, você precisará  obter controle do Magni, sendo necessário que você seja bem sucedido em uma **Ação de Perícia** do atributo **Elo Mágico**. Caso falhe, o **Magni** não o obedecerá, ou poderá até se tornar hostil. **(no caso de falha crítica)**.
 
-Apenas um objeto pode ser controlado dessa forma ao mesmo tempo (ao menos que outra habilidade diga o contrário), e o controle Exige sucesso numa **Ação de Perícia**, utilizando **Elo Mágico**.
+Cada Magni possui `P.V = TIER*10`, e adquire o mesmo **Ataque Físico e Mágico** do Dominador, assim como sua **Defesa Física e Mágica**. Ao serem utilizados em batalha, os pequenos constructos causam `TIER*1D10` de Dano físico. (mas também podem causar **dano mágico** com o uso de Mods)
 
-Cada objeto inanimado assume `PV = TIER*10`, e adquire o mesmo **Ataque Físico** do Dominador, assim como sua **Defesa Física e Mágica**. Ao serem utilizados em batalha, os Objetos causam `TIER*1D10` de Dano.
+Um Magni pode ser **dissolvido a qualquer momento** pelo **Magnista**, mas se o fizer, **não contará como abatimento do mesmo** e nem **desencadeará efeitos secundários**.
 
-Pode ser dissolvido a qualquer momento pelo Dominador.
+Utilizar os **Magnis** em qualquer situação exige um estado de **alerta mínimo do conjurador**, que precisa estar o tempo todo lúcido para que suas criações se mantenham ativas.
 
-:::note
-Se os objetos a serem inanimados forem itens mágicos, eles perdem suas propriedades mágicas durante o período que forem animados (a menos que alguma outra habilidade diga o contrário).
-:::
+Portanto, se um **efeito negativo** deixar o seu personagem **inconsciente**, como **Adormecer**, **Silenciar**, **Petrificar**, ou até mesmo se o personagem for **abatido em combate**, todos os **Magnis** serão automaticamente **desabilitados**, exigindo uma **ação extra** para reativação **de cada Magni**.
 
-:::info Concentração
-Utilizar os **Magnis** em qualquer situação exige uma concentração mínima dos Adeptos, que precisam o tempo todo estar sincronizados com sua criação através de seu **Elo Mágico**.
+Além disso, a **fabricação dos Magnis** exige uma quantidade mínima de **recursos metálicos**. Logo, se o **Narrador julgar** que o local **não possui elementos metálicos suficientes** para a fabricação do Magni, o **poder pode falhar automaticamente**.
 
-Sempre que um efeito negativo deixar o seu personagem inconsciente, todos os **Magnis** ou **Objetos Reanimados** serão automaticamente desabilitados, exigindo uma ação extra para reativação.
+:::info Improvisando com o que tem!
+Se os recursos usados na fabricação do Magni forem itens mágicos ou armas, eles perdem suas propriedades mágicas durante o período que forem animados (a menos que alguma outra habilidade diga o contrário).
 :::
 
 ### 2. Sinergia Mecânica (Passiva/Custo: TIER*4 P.M)
@@ -123,6 +121,14 @@ O Conjurador passa a possuir **Defesa +2** contra ataques de criaturas **Mecâni
 Num mundo cada vez mais difícil, muitos Adeptos acabam deixando a **Tecmagi** de lado para se tornarem Mecânicos ou Inventores para outros senhores, reinos ou organizações.
 
 Como Adepto de Magni, você também enfrentará certa resistência de alguns povos por utilizar a Magia em Objetos inanimados. Algo similar à resistencia cultural que o **Povo de Eregor** enfrenta com a **Grimotek**. Mas diferente da **Grimotek**, que pode **escravizar os Grimos** sem a necessidade de um Dominador, a **Tecmagi** é apenas uma técnica de manipulação do **Grimo**, sempre exigindo a presença de um manipulador para controlá-la.
+
+## Recursos para Fabricação de Magnis
+
+**Magnistas experientes** sempre carregam consigo **partes metálicas** para **fabricação de Magnis** em uma emergência. Esses restos metálicos são facilmente encontrados em qualquer vila ou cidade que possua **pelo menos uma forja**, da mais simples que seja. Basta perguntar por "Restos de Metais"
+
+É claro que elementos metálicos no ambiente como **restos de armas**, **minérios** e até **pedras** já seriam suficientes, mesmo em pouca quantidade, para improvisar a fabricação de um **Magni**. Mas algumas vezes você vai se encontrar **no meio de uma floresta ou deserto**, sem qualquer recurso que você possa usar para criar seus **Magnis** com segurança.
+
+Além disso, é importante lembrar que partes de Magnis **não podem ser reutilizadas** depois que seus **Magnis são abatidos**, então lembre-se sempre de carregar consigo partes sobressalentes para casos de emergência!
 
 ## Origem do Grimo
 
@@ -201,8 +207,8 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={magni_float_device} />
 <SpellFromJson expanded={false} spellData={timely_backup} />
 <SpellFromJson expanded={false} spellData={artillery_module} />
+<SpellFromJson expanded={false} spellData={internal_storage} />
 <SpellFromJson expanded={false} spellData={saw_module} />
-<SpellFromJson expanded={false} spellData={laser_integration} />
 <SpellFromJson expanded={false} spellData={barrier_integration} />
 <SpellFromJson expanded={false} spellData={fire_cross} />
 <SpellFromJson expanded={false} spellData={auto_destruction} />
@@ -213,59 +219,27 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 <SpellFromJson expanded={false} spellData={amplify_bomb} />
 <SpellFromJson expanded={false} spellData={auto_repair_module} />
-<SpellFromJson expanded={false} spellData={concentration_shot} />
+<SpellFromJson expanded={false} spellData={motherboard} />
 <SpellFromJson expanded={false} spellData={independent_systems} />
-<SpellFromJson expanded={false} spellData={internal_storage} />
+<SpellFromJson expanded={false} spellData={laser_integration} />
 <SpellFromJson expanded={false} spellData={magni_beam} />
 <SpellFromJson expanded={false} spellData={magni_priority} />
-<SpellFromJson expanded={false} spellData={missile_module} />
 <SpellFromJson expanded={false} spellData={reanimate_constructor} />
-<SpellFromJson expanded={false} spellData={triad_laser_integration} />
-
-•  Prioridade Magni: Pode trocar seu próprio turno pelo turno de um Magni.
-•  Integração Triade Laser: Conecta 3 Magnis para formar um triangulo laser e causa dano a todos inimigos na area interna.
-•  Tiro concentrado: Sacrifica N Magnis extraindo sua Magia pra efetuar um poderoso Tiro concentrado.
-•  Amplificar Bomba: Você arremessa sua bomba em um Magni, que a consome , amplificando seu dano e causando Tier*20 de dano adicional, em uma area 2x2 em volta do Magni. O Magni é sacrificado no processo.
-•  Sistemas Independentes: Os Magnis não se desfazem mais quando o conjurador fica inconsciente, ou dorme.
-•  Armazenamento Interno: Cada Magni pode carregar 1 item adicional. Ao ser desmontado, o item pode ser recuperado do Magni, mas será considerado perdido caso o jogador esqueça.
-•  Reanimar Constructo: Criaturas Mecânicas que forem abatidas no Campo de Batalha podem ser reanimadas temporariamente sob o controle do Magnista a um custo de TIER*4 P.M.
-
-Além disso, criaturas Mecânicas que forem abatidas no **Campo de Batalha** podem ser reanimadas temporariamente sob o controle do **Magnista** a um custo de `TIER*4 P.M`.
-
-Os atributos de **Ataque e Defesa** da criatura animada seguem a mesma regra de **Animar Objetos**, mas os valores de **Pontos de Vida** e **Dano** nesse caso ficam condicionados aos ataques na ficha da Criatura.
-
-:::info Criaturas Lendárias
-Sinergia Mecânica não pode ser usado para reanimar criaturas Lendárias ou Nêmesis.
-:::
-
-•  Feixo Magni: Dispara um feixo canalizado que atinge um Magni. No seu próximo turno, fora do turno do Magni alvo, você pode disparar um tiro poderoso em um alvo inimigo. Cada Magni adicional que for conectado com esse tiro causa 150 de dano.
-•  Modulo Auto Reparo: O Magni pode usar seu turno para se reparar recuperando 20 PV.
-•  Modulo Missel: Aprimora a arma de um magni, aumentando seu dano. (Dobro?)
+<SpellFromJson expanded={false} spellData={load_balancer} />
+<SpellFromJson expanded={false} spellData={missile_module} />
 
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
-<SpellFromJson expanded={false} spellData={coordinated_attack} />
-<SpellFromJson expanded={false} spellData={explosive_death} />
+<SpellFromJson expanded={false} spellData={magnimancer_master} />
 <SpellFromJson expanded={false} spellData={fifth_element} />
 <SpellFromJson expanded={false} spellData={instant_fabrication} />
 <SpellFromJson expanded={false} spellData={magnific_armor} />
 <SpellFromJson expanded={false} spellData={magnizord} />
-<SpellFromJson expanded={false} spellData={nuclear_destruction} />
-<SpellFromJson expanded={false} spellData={super_missile_module} />
 <SpellFromJson expanded={false} spellData={syncronized_install} />
 <SpellFromJson expanded={false} spellData={syncronized_repair} />
 <SpellFromJson expanded={false} spellData={ultra_resistent_shell} />
-
-•  Modulo Super Missil: Aprimora mais ainda a arma de um Magni (triplo?)
-•  Instalação Sincronizada: Modulos instalam simultaneamente em todos Magni.
-•  Fabricação Instantânea: Gera todos Magnis simultaneamente.
-•  Destruição Nuclear: Todos Magni se juntam al conjurador, gerando uma explosão em massa.
-•  Reparo Sincronizado: cura todos os magni de uma vez só.
-•  Ataque Coordenado: Um unico Magni age em nome dos 4 Magnis, realizando uma única ação de ataque contra um alvo. (Os 4 atacam, mas considera como 1 ataque só)
-•  Magnizord: Une todos os Magnis num único Magni que possui PV extra e pode atacar com um Laser.
-•  Armadura Magnifica: Exige 4 Magnis. Todos os Magnis se juntam ao seu corpo, formando uma poderosa armadura que lhe fornece capacidades físicas incríveis, o transformando em uma verdadeira maquina de combate.
-•  Quinto Elemento: Permite a você conjurar um Quinto Magni.
-•  Casco Ultra Resistente: Aumenta os PV dos Magni em 50 P.V.
-•  Destruição Explosiva: Quando um Magni morre, causa dano em área (1x1 adjacente) equivalente ao seus P.V.
+<SpellFromJson expanded={false} spellData={nuclear_destruction} />
+<SpellFromJson expanded={false} spellData={explosive_death} />
+<SpellFromJson expanded={false} spellData={super_missile_module} />

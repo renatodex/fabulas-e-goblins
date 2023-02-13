@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Reparo Sincronizado",
+  "magic_cost": "7 P.M por Magni",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
+  "range_type": "Global",
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiHealthCapsule",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Você emite uma grande onda eletromagnética que repara todos os Magni de uma só vez.",
+  "description": "<p>Cura todos os Magnis ativos em <code>2d20 P.V</code>.</p><p>O poder custa <code>7 P.M</code> para cada Magni ativo afetado pela cura.</p>",
+  "tags": ["grimo","magni"]
 }

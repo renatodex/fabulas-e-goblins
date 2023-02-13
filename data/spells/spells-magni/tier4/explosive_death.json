@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Destruição Explosiva",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "icon": "GiSunbeams",
+  "element": "fire",
+  "caption": "Todos Magnis conjurados agora explodem ao serem destruídos, causando dano de fogo em área.",
+  "description": "<p>Qualquer Magni conjurado pelo Magnista que for destruído gera uma reação em cadeia que culmina numa explosão de <code>2x2 espaços</code> em volta da unidade.</p><p>Quando isso acontecer, faça um teste de <b>Ataque Mágico</b> contra cada inimigo na área em volta do <b>Magni</b> destruído. Para cada sucesso, você causará <code>4d12 + 50</code> de <b>dano mágico de fogo</b>.</p>",
+  "tags": ["grimo","magni"]
 }

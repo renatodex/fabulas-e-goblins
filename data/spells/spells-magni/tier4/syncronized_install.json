@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Instalação Sincronizada",
+  "magic_cost": "20 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiProcessor",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Modulos instalam simultaneamente em todos os Magnis ativos.",
+  "description": "<p>Ao utilizar <b>Instalação Sincronizada</b>, escolha um <b>poder de Módulo</b> e pague seu <b>Custo de Magia</b>, além do <b>custo deste poder</b>. Dessa forma, o módulo será instalado automaticamente em todas as unidades <b>Magnis ativas</b>.<p>Magnis fabricados posteriormente não se beneficiarão do módulo, a menos que o conjurador utilize <b>Instalação Sincronizada</b> novamente.</p>",
+  "tags": ["grimo","magni"]
 }

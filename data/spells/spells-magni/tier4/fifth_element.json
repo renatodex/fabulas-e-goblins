@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "O Quinto Elemento",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiMeepleArmy",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Permite a você conjurar <b>um Quinto Magni</b>",
+  "description": "<p>Seu limite máximo de Magnis aumenta para <code>5 unidades ativas</code> <b>simultaneamente</b>.</p>",
+  "tags": ["grimo","magni"]
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Módulo de Ogiva",
+  "magic_cost": "18 P.M",
   "duration_time": null,
   "attack_logic": null,
-  "action_type": "Passiva",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
-  "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "icon": "GiMicrochip",
+  "element": "fire",
+  "caption": "Aprimora mais ainda o arsenal de um Magni, permitindo que ele atire uma Ogiva.",
+  "description": "<p><b>Só pode ser instalado em Magnis ativos</b>. Só pode ser utilizado caso você tenha aprendido o poder <b>Módulo Míssil</b>.</p><p>Custa <code>18 P.M</code> para ser instalado.</p><p>Como uma <b>Ação Maior</b>, um <b>Magni</b> que possua o módulo de Ogiva instalado pode utilizá-lo opcionalmente para disparar um super missil que causa <code>6d20</code> de <b>dano mágico de fogo</b> adicional.</p><p>O dano do Míssil é <b>somado</b> ao <b>dano normal</b> de seu ataque.</p>",
+  "tags": ["grimo","magni","upgrade"]
 }

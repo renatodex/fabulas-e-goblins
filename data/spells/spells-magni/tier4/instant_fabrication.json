@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Fabricação Instantânea",
+  "magic_cost": "60 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiRallyTheTroops",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Sua alta capacidade de vínculo com os Magnis permite fabricar todas as unidades instantaneamente.",
+  "description": "<p><b>Uma vez por combate</b>, você pode fabricar instantaneamente <b>todas as unidades Magnis</b>, a um alto custo de <code>60 P.M</code>.</p><p>Ao utilizar esta ação, você pode posicionar os Magnis em uma <code>área de até 3x3 espaços</code> em volta de sí mesmo.</p>",
+  "tags": ["grimo","magni"]
 }

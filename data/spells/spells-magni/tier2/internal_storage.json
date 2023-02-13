@@ -1,0 +1,15 @@
+{
+  "name": "Módulo de Armazenamento",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiMicrochip",
+  "element": null,
+  "caption": "Instala um módulo que fabrica um compartimento acoplado para carregar itens.",
+  "description": "<p><b>Compatível com Magni ativo ou Conjurador.</b></p><p>Fabrica um compartimento acoplado temporário que permite ao alvo carregar <code>2 itens adicionais</code>.</p><p>Ao ser desmontado, o <b>item pode ser recuperado</b>, mas <b>poderá ser considerado perdido</b> caso o jogador o esqueça ou abandone.</p>",
+  "tags": ["grimo","magni"]
+}
