@@ -1,0 +1,15 @@
+{
+  "name": "Casco Ultra Resistente",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "Você aprende a criar Magnis super-resistentes que podem durar mais no campo de batalha.",
+  "description": "<p>Confere permanentemente um adicional de <code>50 P.V</code> aos Magnis fabricados.</p>",
+  "tags": ["grimo","magni"]
+}

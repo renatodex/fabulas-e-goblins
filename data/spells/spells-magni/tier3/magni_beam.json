@@ -1,0 +1,15 @@
+{
+  "name": "Feixe Acumulado",
+  "magic_cost": "8 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRingedBeam",
+  "element": null,
+  "caption": "Dispara um feixe de energia em um Magni que pode ser potencializado para causar um dano gigantesco.",
+  "description": "<p>Escolha um <b>Magni ativo</b>. Você dispara um feixe laser mágico <b>não elemental</b> neste <b>Magni</b> a até <code>7 espaços</code> de distância. O poder ao invés de causar dano, é armazenado na unidade escolhida até o turno dela.</p><p>Quando chegar o turno do Magni, você poderá:</p><ol><li>Gastar uma <b>ação maior</b> para disparar o feixe como se fosse um <b>ataque mágico</b> <i>(contra a Defesa Mágica do alvo)</i> a até <code>7 espaços</code> de distância, causando o mesmo dano do ataque do Magni, mas com um adicional de <code>3d12 + 24</code> de <b>dano mágico não elemental</b>.</li><li>Gastar uma <b>ação maior</b> para potencializar a <b>energia acumulada</b>. No próximo turno, a energia terá acumulado, e você poderá disparar o feixe seguindo a mesma mecânica do <b>Item 1</b>, mas o dano é amplificado para <code>3d20 + 30</code> (<b>mágico não elemental</b>).</li><li>Gastar uma <b>ação livre</b> para <b>descartar o feixe acumulado</b> e realizar qualquer outra ação.</li></ol><p>A energia armazenada no Magni só pode ser potencializada uma única vez, após isso, ela deverá ser disparada ou será descartada.</p><p>O Magni não pode conjurar outro feixe de energia até que o feixe anterior tenha sido descartado ou disparado.</p>",
+  "tags": ["grimo","magni"]
+}

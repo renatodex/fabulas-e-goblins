@@ -1,0 +1,15 @@
+{
+  "name": "Cruz de Fogo",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiGothicCross",
+  "element": "fire",
+  "caption": "Posiciona uma cruz de fogo que pode ser ativada remotamente para incendiar vários inimigos.",
+  "description": "<p>Para utilizar esse poder, você precisará sacrificar <b>1 Magni ativo</b>.</p><p>Escolha um ponto. O <b>Magni</b> ativo se transmuta em uma armadilha mortal que pode ser ativada a qualquer momento (<b>Ação de Reação</b>) para cuspir uma <b>labareda de chamas</b> nas 4 direções ao longo de 3 espaços. (<code>Área 1x3</code>), causando <code>TIER * 25</code> de <b>dano de fogo</b> a todos inimigos atingidos.</p><p>Para cada inimigo que a Armadilha for atingir, você também deve realizar um teste contra a <b>Defesa Mágica</b> deles.</p><p>O <b>Magni</b> se desfaz depois que a armadilha é montada, e após sua ativação, a própria armadilha também é desfeita.</p>",
+  "tags": ["grimo","magni"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Mola Propulsora",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBouncingSpring",
+  "element": null,
+  "caption": "Impulsiona o alcance de um item arremessado utilizando seu Magni como mola propulsora.",
+  "description": "<p>Escolha o item que quer arremessar e faça um teste de <b>Agilidade</b>.</p><p>Se for bem sucedido, você pode arremessar um item ou bomba no seu ajudante para que ele o impulsione a um espaço adicional equivalente aos seus <b>pontos de movimento</b>. (Permitindo que você dobre o alcance do seu ataque ou arremesse itens mais distante).</p><p>Caso não seja bem sucedido no teste, o objeto arremessado cai em algum espaço determinado pelo narrador (dependendo do fracasso do teste).</p>",
+  "tags": ["grimo","magni"]
+}

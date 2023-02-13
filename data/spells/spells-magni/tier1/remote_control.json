@@ -1,0 +1,15 @@
+{
+  "name": "Controle Remoto",
+  "magic_cost": "3 P.M",
+  "duration_time": "1 dia",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiPsychicWaves",
+  "element": null,
+  "caption": "Tome controle de um mecanismo simples remotamente.",
+  "description": "<p>Escolha um objeto mecânico que esteja funcionando de forma autônoma. Faça uma <b>Ação de Perícia</b> usando seu atributo <b>Intelecto</b>.</p><p>Se for bem sucedido, você passa a controlar o objeto mecânico por tempo indeterminado para realizar ações simples a seu favor.</p><p>Apenas um objeto pode ser controlado dessa forma. Além disso, esse objeto não pode ser usado como intuito de ataque em um combate.</p><p>Não existe uma distância máxima, mas você precisa estar presente e ter campo de visão para manipular o objeto.</p>",
+  "tags": ["grimo","nomegrimooumonstro"]
+}

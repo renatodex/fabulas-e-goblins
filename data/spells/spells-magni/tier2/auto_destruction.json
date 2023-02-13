@@ -1,0 +1,15 @@
+{
+  "name": "Auto-Destruição",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Circular",
+  "range_amount": "2x2",
+  "icon": "GiCrownedExplosion",
+  "element": "fire",
+  "caption": "Altera seu ajudante para o modo auto-destruição, explodindo após 3 turnos e causando dano a todos inimigos.",
+  "description": "<p>Pode ser usado como uma <b>Ação Menor</b>.</p><p>Escolha um <b>Magni</b> alvo. O alvo entrará em modo de <b>auto-destruição</b>, iniciando um contador de <b>3 turnos</b>.</p><p>Ao começo ou final (o jogador escolhe) do terceiro turno, o ajudante explode, causando <code>3d10+(TIER*10)</code> de <b>dano de fogo</b> numa área de <code>2x2</code> ao redor do <b>Magni</b>. A explosão também causa dano em outros <b>Magnis</b> aliados caso eles estejam no raio da explosão.</p><p>Se o seu <b>Magni</b> for abatido antes do contador esgotar, a explosão não será desencadeada.</p>",
+  "tags": ["grimo","magni"]
+}

@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": "holy",
   "caption": "Na escuridão da masmorra, os soldados caminhavam receosos, com passos curtos e as espadas em punho. O Sacerdote, que caminhava atrás, estala seus dedos repentinamente em comunhão com seu Grimo, criando uma aura de luz a sua volta que trás repentinamente os brilhos da luz à frieza ancestral da masmorra.",
-  "description": "<p>Cria uma <b>aura de luz branca</b> em volta de <b>um personagem alvo</b> (requer consentimento), que ilumina uma área circular de <b>3 quadrados</b>. <br/>Enquanto a área estiver ativa, <b>qualquer tentativa de ataques surpresas falharão</b> automaticamente. Assim como a maioria das <b>tentativas de furtidade</b> em alvos que possuem visão.<br/>A Aura pode ser encerrada a qualquer momento pelo Sacerdote, mas será dissolvida automaticamente após <b>1hr de duração</b>.</p>",
+  "description": "<p>Cria uma <b>aura de luz branca</b> em volta de <b>um personagem alvo</b> (requer consentimento), que ilumina uma área circular de <b>3 quadrados</b>. <br/>Enquanto a área estiver ativa, <b>qualquer tentativa de ataques surpresas falharão</b> automaticamente. Assim como a maioria das <b>tentativas de furtividade</b> em alvos que possuem visão.<br/>A Aura pode ser encerrada a qualquer momento pelo Sacerdote, mas será dissolvida automaticamente após <b>1hr de duração</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Mestre da Magnimancia",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiSandsOfTime",
+  "element": null,
+  "caption": "Você se tornou um com as máquinas, e agora pode reanimá-las com uma facilidade natural.",
+  "description": "<p>Reduz o custo de <b>Reanimar Constructo</b> pela metade.</p><p>No caso de criaturas sendo reanimadas por múltiplos <b>Magnistas</b>, esse <b>bônus passivo não se acumula</b>, e <b>vale sempre o menor custo de reanimação</b> entre quaisquer um dos Magnistas envolvidos. <i>(exemplo: Se 3 Magnistas estiverem reanimando um Colosso, e um deles tiver <b>Mestre da Magnimancia</b>, então o custo para animar a criatura será de apenas 122 P.M dividido entre todos Magnistas envolvidos)</i></p>",
+  "tags": ["grimo","magni"]
+}

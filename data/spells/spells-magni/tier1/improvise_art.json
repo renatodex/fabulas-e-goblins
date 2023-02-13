@@ -1,0 +1,15 @@
+{
+  "name": "Arte do Improviso",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiAutoRepair",
+  "element": null,
+  "caption": "Ao lidar com máquinas, você se torna mais habilidoso, e pode contornar situações que seriam potencialmente desastrosas.",
+  "description": "<p>A qualquer momento, e apenas uma vez por tipo de teste, você pode re-rolar um teste falhado de <b>reparo ou mecânica</b> de qualquer tipo.</p><p>Não funciona se a falha tiver sido um Desastre.</p>",
+  "tags": ["grimo","magni"]
+}

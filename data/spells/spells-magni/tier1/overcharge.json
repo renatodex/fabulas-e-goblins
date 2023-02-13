@@ -1,0 +1,15 @@
+{
+  "name": "Sobrecarga",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiThunderSkull",
+  "element": null,
+  "caption": "Conjura um feixe elétrico incapacitante que causa dano gigantesco em maquinas e constructos.",
+  "description": "<p>Escolha um alvo. Se o alvo não for uma máquina, este poder não surte efeito.</p><p>Se o alvo for uma máquina ou construto, faça um teste usando seu <b>Ataque Mágico</b>.</p><p>Se for bem sucedido, você desfere um feixe elétrico que infere <b>Paralizar 1</b>, além de causar <code>TIER * (3d12 + 20)</code>.</p>",
+  "tags": ["grimo","magni"]
+}

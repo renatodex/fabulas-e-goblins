@@ -1,0 +1,15 @@
+{
+  "name": "Automatizar",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": "8",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiAwareness",
+  "element": null,
+  "caption": "Um Magni se funde a um dispositivo manual, passando a ser controlado pelo conjurador.",
+  "description": "<p>Escolha um <b>dispositivo manual</b>. Pode ser uma porta, alavanca, botões ou qualquer outra engenhoca de operação manual simples.</p><p>Para que o Magni seja bem sucedido, você deve passar em uma <b>Ação de Perícia</b> de <b>Elo Mágico</b>. Se passar, o seu Magni se funde ao dispositivo, e passa a controlá-lo remotamente. A qualquer momento, com uma <b>Ação Menor</b>, você pode acionar o dispositivo realizando qualquer ação que ele poderia realizar anteriormente.</p><p>O conjurador pode controlar apenas <b>um dispositivo</b> dessa forma ao mesmo tempo.</p><p>Após controlar o dispositivo, a área de controle será de <code>20x20</code>. Qualquer distância superior a essa quebra a conexão instantaneamente.</p>",
+  "tags": ["grimo","magni"]
+}

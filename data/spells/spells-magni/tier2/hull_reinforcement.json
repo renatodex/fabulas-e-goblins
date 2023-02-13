@@ -1,0 +1,15 @@
+{
+  "name": "Reforço de Casco",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiLayeredArmor",
+  "element": null,
+  "caption": "Seus Magnis agora podem ser conjurados com resistência adicional.",
+  "description": "<p>Aumenta permanentemente os P.V dos Magnis conjurados em <code>TIER * 5</code>.</p>",
+  "tags": ["grimo","magni"]
+}

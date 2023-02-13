@@ -1,0 +1,15 @@
+{
+  "name": "Reanimar Constructo",
+  "magic_cost": "? P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRockGolem",
+  "element": null,
+  "caption": "Reanima qualquer constructo do jogo que tenha sido abatido recentemente ou não.",
+  "description": "<p><b>Criaturas Mecânicas</b> que forem <b>abatidas</b> no Campo de Batalha podem ser <b>reanimadas</b> temporariamente <b>sob o controle do Magnista</b> a um período máximo de <code>1 dia de jogo</code>, com custo que varia dependendo do tamanho da criatura.</p><p>Você deverá escolher a criatura alvo e ser bem sucedido em uma <b>Ação de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p>Os <b>custos de reanimação</b> são os seguintes:</p><ul><li>Minúscula - 1 P.M</li><li>Pequena - 3 P.M</li><li>Padrão - 9 P.M</li><li>Grande - 28 P.M</li><li>Enorme - 82 P.M</li><li>Colossal - 244 P.M</li><li>Titã - 730 P.M</li><li>Leviatã - 2188 P.M</li></ul><p>Animar o constructo <b>não exige atenção constante</b> do conjurador e <b>pode ser realizado em um único turno</b>, com excessão das categorias <b>\"Colossal\"</b>, <b>\"Titã\"</b>, que exigem pelo menos <code>1 turno</code> de canalização, e a categoria <b>\"Leviatã\"</b>, que pode exigir <code>2 ou mais turnos</code> de canalização.</p><p>Após reanimada, o conjurador passa a ter acesso à ficha da criatura, podendo utilizar qualquer ação que a criatura realizaria.</p><p>Além disso, <b>2 (dois) ou mais Magnistas</b> podem unir seus esforços para conjurar <b>criaturas maiores</b>, cujo custo de conjuração seria muito alto para um único conjurador.</p><p>No caso de <b>múltiplos Magnistas</b> reanimarem uma criatura, é preciso que <b>haja consenço pleno</b> sobre <b>quais ações a criatura irá realizar</b>. Se o Narrador perceber que há <b>dificuldade para chegar a um consenço</b>, o <b>turno da criatura controlada</b> será pulado.</p>",
+  "tags": ["grimo","magni"]
+}

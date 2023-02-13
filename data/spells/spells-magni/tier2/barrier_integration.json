@@ -1,0 +1,15 @@
+{
+  "name": "Integração Barreira",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Linha",
+  "range_amount": "1x5",
+  "icon": "GiBrickWall",
+  "element": null,
+  "caption": "Dois Magnis se conectam formando uma barreira mágica que bloqueia os inimigos.",
+  "description": "<p>Escolha <b>2 (dois) Magnis ativos</b> a no máximo <code>5 espaços</code> de distância <b>sem obstáculos</b>.</p><p>Uma barreira mágica <b>translúcida</b> é formada entre os Magnis, bloqueando qualquer coisa que tente atravessá-la. A barreira possui <code>TIER * 50 P.V</code> e pode ser desfeita pelo conjurador a qualquer momento.</p><p>A barreira é sempre formada em uma <b>linha reta</b>, mesmo que os <b>Magnis</b> não estejam alinhados no grid. Nesse caso, para contar os espaços considera-se o menor caminho entre os dois, ignorando obstáculos.</p><p>A barreira formada portanto não pode ter obstáculos ocupando quaisquer espaços que ela atravessa, <b>isso também vale para espaços que a barreira atravessa de forma parcial</b>.</p>",
+  "tags": ["grimo","magni"]
+}

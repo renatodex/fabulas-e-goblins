@@ -1,0 +1,15 @@
+{
+  "name": "Módulo de Encontrão",
+  "magic_cost": "2 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiMicrochip",
+  "element": null,
+  "caption": "Ativa o módulo de encontrão, permitindo que seu Magni colida contra um alvo.",
+  "description": "<p><b>Este módulo só pode ser instalado em um Magni.</b></p><p>Opcionalmente, seu Magni agora pode utilizar sua ação de movimento para <b>colidir com um alvo</b>, antes mesmo de usar sua <b>ação de ataque</b>, causando <code>TIER * d10</code> de dano físico, caso supere a <b>Defesa Física</b> do alvo em uma <code>Ação de Ataque</code>.</p><p>Caso o Magni use as duas <b>Ações Menores</b> do turno para correr, ele causa <code>TIER * d20</code>, além de infringir <code>Derrubar</code>.</p>",
+  "tags": ["grimo","magni"]
+}

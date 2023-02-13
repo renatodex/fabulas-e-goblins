@@ -1,0 +1,15 @@
+{
+  "name": "Placa-Mãe",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiCpu",
+  "element": null,
+  "caption": "Atualiza seu conhecimento sobre Magnis, permitindo construir ajudantes mais eficientes",
+  "description": "<p>Cada <b>Magni ativo</b> agora pode receber <code>2 Módulos</code> simultâneos, ao invés de apenas 1.</p>",
+  "tags": ["grimo","nomegrimooumonstro"]
+}

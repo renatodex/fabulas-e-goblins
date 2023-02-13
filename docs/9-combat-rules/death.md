@@ -67,7 +67,7 @@ A tabela que segue não tem como objetivo **ditar uma regra específica** sobre 
 | Nome                        | Descrição          |
 |-----------------------------|--------------------|
 | Trauma de Movimentação      | Pode ser uma dor nas pernas intermitente, ou alguma lesão que nunca se recuperou plenamente. Pode prejudicar movimento, como reduzir movimentação em 1 Quadrado, ou impedir que ele Corra. |
-| Trauma de Atributo          | Um ferimento nos braços pode ter lesionado uma junta importante, reduzindo o Atributo Força, ou o personagem pode ter batido a cabeça, tendo dificuldade para se lembrar de algumas coisas e prejudicando o Atributo Inteligência.  |
+| Trauma de Atributo          | Um ferimento nos braços pode ter lesionado uma junta importante, reduzindo o Atributo Força, ou o personagem pode ter batido a cabeça, tendo dificuldade para se lembrar de algumas coisas e prejudicando o Atributo Intelecto.  |
 | Trauma de Vitalidade        | Um trauma mais intenso pode ter causado danos internos sérios no personagem, reduzindo seus Pontos de Vida totais. |
 | Trauma de Sensibilidade     | Talvez o personagem tenha tido que passar por alguns procedimentos mágicos para se recuperar de um trauma físico, e tenha se tornado mais sensível para receber condições negativas como Frio, Calor, Veneno, etc |
 | Trauma de Conexão Mágica    | Alguma coisa diferente aconteceu enquanto você estava inconsciente, talvez sua conexão mágica tenha se enfraquecido ainda mais, proporcionando uma redução permanente de Pontos de Magia, ou aumentando o Custo de P.M dos seus poderes de Grimo ||

@@ -1,0 +1,15 @@
+{
+  "name": "Sistemas Independentes",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBrainFreeze",
+  "element": null,
+  "caption": "Sua conexão com os Magnis se intensifica com o passar do tempo, fazendo com que eles tenham acesso a uma forma rudimentar da sua consciência, e permitindo também que ajam de forma mais independente.",
+  "description": "<p>Os <b>Magnis ativos</b> agora <b>não se desfazem mais</b> quando o conjurador fica <b>inconsciente</b>, ou <b>dorme</b>.</p>",
+  "tags": ["grimo","magni"]
+}

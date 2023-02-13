@@ -1,0 +1,15 @@
+{
+  "name": "Mestre das Máquinas",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiCog",
+  "element": null,
+  "caption": "Expande sua habilidade para interagir com objetos mecânicos.",
+  "description": "<p>Sempre que você realizar um teste de interação com um mecanismo, apetrecho ou aparato, você receberá um <b>Bônus passivo de +4</b>.</p><p>Essa habilidade não pode ser usada para beneficiar seu Magni mecanicamente.</p>",
+  "tags": ["grimo","magni"]
+}

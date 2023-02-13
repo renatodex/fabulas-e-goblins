@@ -1,0 +1,15 @@
+{
+  "name": "Módulo Laser",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiMicrochip",
+  "element": null,
+  "caption": "Permite ao Magni fazer um ataque Lazer que causa dano e cega um inimigo.",
+  "description": "<p><b>Este módulo só pode ser instalado em um Magni.</b></p><p>Instala um módulo em um único Magni que altera seu ataque.</p><p>O <b>ataque normal</b> passa a causar dano laser (não elemental), resultando em <code>TIER * d8</code> de <b>dano</b> extra além de causar <b>Cegueira 1</b>. O dano extra é somado ao dano que o Magni (ou você) já causa com o ataque normal.</p><p>Poderes de módulo só podem ser instalados um de cada vez em um Magni de cada vez. Pode ser usado em sí mesmo.</p>",
+  "tags": ["grimo","magni"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Prioridade Magni",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiAwareness",
+  "element": null,
+  "caption": "Pode trocar seu próprio turno pelo turno de um Magni.",
+  "description": "<p>No início do seu turno, como uma <b>ação de reação</b>, e antes de ter realizado qualquer outra ação (mesmo que seja ação livre), você pode escolher um <b>Magni ativo</b>.</p><p>O seu turno então é substituído pelo turno do próprio <b>Magni</b>, independente se ele ja tiver agido ou não nesta rodada.</p><p>Se o Magni tiver um <b>turno depois do seu</b>, ele <b>agirá novamente</b> nesta mesma rodada.</p>",
+  "tags": ["grimo","magni"]
+}

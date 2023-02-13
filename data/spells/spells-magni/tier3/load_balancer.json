@@ -1,0 +1,15 @@
+{
+  "name": "Balancear Cargas",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiRadialBalance",
+  "element": null,
+  "caption": "Distribui os Pontos de Vida entre os Magnis ativos em qualquer ordem.",
+  "description": "<p>Como uma <b>ação maior</b>, você pode redistribuir os Pontos de Vida de seus <b>Magnis ativos</b> da forma que quiser.</p><p>Qualquer Magni que ficar com <code>0 Pontos de Vida</code> após este poder <b>será considerado abatido</b>. (inclusive podendo ativar qualquer efeito pós-abatimento)</p><p>Você pode usar esse poder para aumentar ou diminuir a vida de seus Magnis utilizando as vidas de outros Magnis ativos.</p><p>Não é possível deixar qualquer Magni com vida negativa com este poder.</p>",
+  "tags": ["grimo","magni"]
+}

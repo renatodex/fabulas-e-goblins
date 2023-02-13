@@ -1,0 +1,15 @@
+{
+  "name": "Núcleo de Erupção",
+  "magic_cost": "80 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Global",
+  "range_amount": null,
+  "icon": "GiWildfires",
+  "element": "fire",
+  "caption": "Todos Magni se juntam ao conjurador, gerando uma erupção violenta que destrói tudo a seu redor, e custa a essência do próprio Magnista.",
+  "description": "<p>Não requer testes. Exige a <b>quantidade máxima</b> de <b>Magnis ativos</b> que você pode ter.</p><p>Os Magnis formam um enorme casulo de metal a sua volta, a durante <code>3 turnos</code> iniciam um processo de hiper-aquecimento que consumirá a essência do próprio conjurador.</p><p>Como resultado, ao final dos 3 turnos, orifícios metálicos se formam por todo o casco, despejando uma <b>enorme quantidade de lava em estado bruto</b>.</p><p>A Lava sai de todas as direçoes do casulo, jorrando violentamente e causando <code>30d20 + 300</code> de dano de <b>Fogo corrompido</b> <b>POR TURNO</b> a <b>qualquer criatura de qualquer tipo</b>, <b><u>inclusive àquelas que possuam resistência ou imunidade ao elemento fogo</u></b>.</p><p>Qualquer material, inclusive barreiras mágicas, que estiver em contato com a Lava, também vai receber o mesmo dano, e só pode ser prevenido caso o material tenha imunidade ao <b>Fogo Corrompido</b>.</p><p>A Lava continua até preencher continuamente uma área correspondente a <code>10000x10000 espaços</code>.</p><p>Por consequência do <b>Núcleo de Erupção</b>, a paisagem onde ele ocorre será totalmente destruída, e transformada em um grande rio de lava permanentemente. Ao final do poder, o casulo se dissolverá, sendo consumido pela Lava também.</p><p>Antes de hiper-aquecer, o casulo pode ser cancelado se receber o equivalente a <code>1000 P.V</code> de dano. Contudo, depois de hiper-aquecido, o casulo <b>não poderá mais ser destruído</b>.</p>",
+  "tags": ["grimo","magni","sacrifice"]
+}

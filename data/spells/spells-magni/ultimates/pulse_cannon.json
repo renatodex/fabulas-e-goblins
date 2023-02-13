@@ -1,0 +1,15 @@
+{
+  "name": "Canhão Nuclear de Pulso",
+  "magic_cost": "8 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Área",
+  "range_amount": "12x12",
+  "icon": "GiCannonShot",
+  "element": null,
+  "caption": "Os Magnis se integram ao seu pulso, formando um poderoso um canhão que dispara um projétil de proporção nuclear",
+  "description": "<p><b>Escolha quais Magnis</b> participarão do poder. Cada Magni escolhido se junta em torno do seu pulso, formando um canhão que dispara projétil extremamente potente.</p><p>Ao disparar o projétil, teste contra a <b>Defesa Mágica</b> de todos inimigos numa <code>área de 12x12</code>.</p><p><b>Cada inimigo que falhar no teste,</b> receberá <code>2d12 + 10</code> de dano mágico não-elemental.</p><p>Após o projétil, <b>todos os Magnis se desfazem</b>. Devido à sobrecarga, você deverá <b>aguardar</b> <code>1 turno</code> para cada Magni que quiser conjurar. <i>(Ex: Turno 1: Aguarda, Turno 2: Conjura 1 Magni, Turno 3: Conjura outro Magni, etc)</i></p>",
+  "tags": ["grimo","nomegrimooumonstro"]
+}
