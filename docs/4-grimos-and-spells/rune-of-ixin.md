@@ -135,6 +135,18 @@ Nos dias de hoje, os **Templos de Ixin** se tornaram locais sagrados para o estu
 
 Ixin documentou com detalhe as doutrinas e procedimentos necessários para domar o Grimo. Seus ricos relatos sobre os Templos, os Fundadores, os segredos do Artefato e a Profecia foram cruciais na disseminnação do conhecimento da Energia Rúnica para as novas gerações *pós-Blecaute*.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo |
+| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 (duas mãos) | Físico | D10 + 5 | Bastão rúnico comum embedado em energia rúnica. | 3 Cargas | Agilidade |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano, atira feixes de energia à distância. | 3 Cargas | Intelecto |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 (duas mãos) | Físico | D12 + 5 | Manopla de energia que desfere um ataque físico, mas causa dano mágico não elemental. | 3 Cargas | Força |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
 ## Requisito de entrada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
