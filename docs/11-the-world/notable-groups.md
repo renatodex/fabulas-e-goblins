@@ -37,7 +37,7 @@ Eles também são venerados como Deuses numa Religião conhecida como **Eteriali
 
 Muitos povos por exemplo consideram os Ecos apenas como uma espécie de **Folclore**, já outros levam mais a sério, ou até mesmo tem relatos de avistamento de criaturas que batam com a descrição de uma desses colossos.
 
-Todos os **Ecos** são representados por criaturas bestiais ou seres mitológicos gigantescos, e não existe qualquer menção a existência de **Ecos** humanóides.
+Todos os **Ecos** são representados por criaturas bestiais ou seres mitológicos gigantescos, e não existe qualquer menção a existência de **Ecos** encarnados em **Goblins**, **Armadons**, **Metalóides** ou qualquer espécie **Aelítica**.
 
 A consciência dos **Ecos** também seria imortal, de acordo com os escritos antigos, pois eles atestam que mesmo que um **Eco** morra, sua presença astral reincarnará fisicamente em algum local das **Terras Místicas**, e é esse poder que garante que os **Ecos** sempre estejam guardando e protegendo seus elementos originais.
 

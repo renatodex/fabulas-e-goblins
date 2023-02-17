@@ -207,36 +207,31 @@ Na seção [Preparando Combates](/docs/10-the-guide/preparing-combats) damos mui
 Todas as criaturas no mundo possuem um tipo, inclusive os Personagens.
 Achamos importante comentar os **tipos de inimigos**, pois utilizamos essas nomenclaturas quando estamos **criando criaturas** para o Bestiário do **Fábulas & Goblins**.
 
-Até agora, durante nosso processo de **criação de Bestiário**, conseguimos catalogar **18 tipos diferentes** de criaturas que você pode utilizar para **criar seus próprios Monstros**.
+Até agora, durante nosso processo de **criação de Bestiário**, conseguimos catalogar **21 tipos diferentes** de criaturas que você pode utilizar para **criar seus próprios Monstros**.
 
 | Nome                  | Descrição       |
 |-----------------------|-----------------|
+| Aelítico | Criatura que perdeu seu Elo natural com a magia (todas espécies jogáveis). |
 | Ave  | Possui penas ou asas. |
+| Alien | Criaturas extra-terrestres como Xal'Gons |
 | Besta | Possui garras, porte grande e geralmente é selvagem. |
 | Constructo | Constituídos de metal ou pedra. |
 | Cósmico | Constituído por poeira cósmica. |
 | Demônio | Criaturas geralmente corrompidas e maléficas. |
 | Dragonóide | Corpo escamoso e denso, e constituição mágica. |
 | Deus | Entidades indestrutíveis. |
-| Espectro | Constituídos de Plasma espiritual. |
 | Gosmento | Constituídos de Gosma, ou secreção gelatinosa. |
-| Humanóide | Qualquer indivíduo que se pareça com espécies jogáveis. |
 | Inseto  | Constituídos por exoesqueleto. |
+| Madeira | Criaturas feitas de Madeira como Camags e Torugs. |
+| Metalídio | Criaturas constituídas de metal ou ligas metálicas rígidas. |
 | Planta | Constituídos por plantas, raízes e elementos naturais. |
+| Plasma | Constituídos de Plasma espiritual. |
 | Peixe  | Constituídos por cartilagens e escamas. |
-| Vampírico | Criaturas de sangue que precisam de sangue para sobreviver. |
 | Reptóide | Criaturas anfíbias de pele fria. |
+| Vampírico | Criaturas de sangue que precisam de sangue para sobreviver. |
 | Terror  | Criaturas das sombras que se alimentam do medo. |
 | Vazio  | Criaturas que se alimentam da essência dos vivos. |
-| Madeiriço | Criaturas de madeira. |
-
-:::note O Tipo "Humanóide"
-Usamos o termo **"espécies civilizadas"** para definir qualquer criatura que tenha se desenvolvido a ponto de **criar uma civilização**. É o caso de **Goblins**, **Armadons**, e qualquer outra **espécie jogável** no mundo das **Terras Místicas**.
-
-Já que **não existem humanos** no universo do **Fábulas & Goblins**, usamos o tipo de criatura **"Humanóide"** para caracterizar criaturas que se assemelham as **espécies civilizadas** do mundo. (até pensamos em utilizar o Neologismo **"Civilizóide"**, mas achamos que ficaria estranho.)
-
-É porque no mundo real, **não existe** uma palavra que defina esse tipo de relação genérica, pois o **"ser humano"** é a única **espécie civilizada** do mundo, logo, na nossa lingua (Portuguesa), adotamos o termo **"humanóide"** para caracterizar criaturas que **"se assemelham a humanos"**.
-:::
+| Morto-Vivo | Criaturas biológicas reanimadas através de magia como Zumbis. |
 
 ## FMP (Fantasia Medieval Padrão)
 
