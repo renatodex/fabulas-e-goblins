@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Feixe Anti-Aéreo",
+  "magic_cost": "3 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiAerodynamicHarpoon",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Conjura um arpão runico que aflige alvos voadores, causando dano superior.",
+  "description": "<p>Escolha um alvo voador. Você conjura um <b>arpão rúnico</b> que causa <code>TIER * (2d12 + 10)</code> além de infligir <code>Derrubar 1</code>.</p><p><i>No meio aquatico, funciona apenas com alvos que podem <b>nadar pela coluna d'agua (verticalmente)</b>, geralmente fazem isso <b>sem precisar mudar sua direção</b> <i>(exemplos do mundo real: Polvos, Cavalos Marinhos, Medusas, etc.</i></p>",
   "tags": ["grimo","ixin"]
 }
