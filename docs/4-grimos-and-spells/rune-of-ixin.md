@@ -54,6 +54,7 @@ import seal_of_final_judgement from './../../data/spells/spells-ixin/tier4/seal_
 import zigurate_essence from './../../data/spells/spells-ixin/tier4/zigurate_essence.json'
 
 import eyes_of_the_zigurat from './../../data/spells/spells-ixin/ultimates/eyes_of_the_zigurat.json'
+import runelar_irruption from './../../data/spells/spells-ixin/ultimates/runelar_irruption.json'
 
 ![Ixin.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png)
 
@@ -141,9 +142,9 @@ Você pode escolher entre duas armas iniciais:
 
 | Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo |
 | ------ | ------------ | ---- | --------- | ------------ | -------- | ---- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 (duas mãos) | Físico | D10 + 5 | Bastão rúnico comum embedado em energia rúnica. | 3 Cargas | Agilidade |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano, atira feixes de energia à distância. | 3 Cargas | Intelecto |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 (duas mãos) | Físico | D12 + 5 | Manopla de energia que desfere um ataque físico, mas causa dano mágico não elemental. | 3 Cargas | Força |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 | Físico | D12 + 3 | Bastão comum embedado em energia rúnica. | 3 Cargas | Agilidade |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 | Físico | D12 + 3 | Espada comum embedada com energia rúnica. | 3 Cargas | Força |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
@@ -158,17 +159,8 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 ## Poderes do Grimo
 ### Especial
 
+<SpellFromJson expanded={false} spellData={runelar_irruption} />
 <SpellFromJson expanded={false} spellData={eyes_of_the_zigurat} />
-
-- Arremesso Rúnico: Lança sua arma ao ar, em um poderoso arremesso rúnico em até 7 quadrados. A arma é lançada para o ar, mas crava magicamente em um ponto alvo gerando uma explosão 4x4 que causa `TIER*(d10 + 12)` de dano a todos inimigos na área. Os inimigos também são arremessados 1 quadrado na direção oposta da arma, sendo também derrubados no processo.
-Se o ponto alvo do arremesso for um inimigo, ele também recebe `TIER*1d10` de dano adicional.
-Esse poder funciona como uma **Ação Livre**, logo, o Adepto pode se movimentar e agir normalmente.
-
-
-Especial
-
-Olhos do Zigurate: Você ergue 4 Olhos de metal a uma distancia de até 10 quadrados de você. Cada pilar tem 50 pv e poder executar acoes de forma independente.
-Elas podem atirar raios runicos, prender um inimigo, ou causar uma explosao em uma linha. Os Olhos só se desfazem se forem comandados pelo Ixiniano, ou se forem destruidos. Todos os Zigurates agem no final do turno, intercalados pelos inimigos.
 
 ### Habilidades - Tier 1
 
@@ -184,6 +176,20 @@ Elas podem atirar raios runicos, prender um inimigo, ou causar uma explosao em u
 <SpellFromJson expanded={false} spellData={runic_bash} />
 <SpellFromJson expanded={false} spellData={runic_trails} />
 <SpellFromJson expanded={false} spellData={store_energy} />
+
+
+☐ Pancada Rúnica: Ao acertar, causa dano adicional e empurra o inimigo em 1 quadrado.
+☐ Salto de Impacto: Pula carregando um ataque poderoso que ao acertar um ponto causa dano em todos alvos adjacentes empurrando todos pra trás.
+☐ Afastar Inimigo: Use como uma reação a um ataque corpo a corpo: Pisa no chão formando um simbolo runico, que explode e empurra o inimigo em 3 quadrados sem causar dano.
+☐ Sobrecarregar Prisma: Só funciona com Prismas de Artilharia. Sobrecarrega seu próximo ataque, causando uma explosão que atinge varios inimigos.
+☐ Feixe Anti-aéreo : Conjura um arpão runico que aflige apenas alvos voadores, causando dano superior (devido a restrição do tipo que alvo que esse poder afeta). No meio aquatico, funciona normalmente mas apenas em alvos que estão nadando acima de você.
+☐ Absorver Energia: Pode ser usado como acao de reacao a qualquer momento que você receberia dano runico. Voce rola X e subtrai do dano que seria recebido, e o valor que você absorveu pode ser usado no seu próximo ataque.
+☐ Trilhas Runicas: você conjura uma linha de energia runica que se extende em 1 linhaa de 1x5 quadrados a sua frente, causando dano a todos inimigos e causando a condição negativa Sobrecarregar 1.
+☐ Armazenar Energia; Voce rola X e armazena uma quantidade de energia que causaria essr dano em seu Grimo. A qualquer momento durante a declaração de um ataque, você pode utilizar essa energia. Você pode acumular até X de dano por tier.
+☐ Controlar Energia: Você pode ativat, desativar ou manipular facilmente qualquer dispositivo que seja baseado em energia.
+☐ Marca Rúnica do Empoderamento: Diminui permanentemente seus PV para aumentar seu dano.
+☐ Drenar e Acelerar: Ao abater um inimigo, você recebe +10 de movimento até o final do seu próximo turno.
+☐ Aura da Corrupção Runica: Ativa uma aura de 2x2 em volta de você que enfraquece as armas dos seus inimigos, fazendo com que quebrem ao bloquear ataques.
 
 - Míssel Rúnico: Conjura uma runa que se transforma em um míssil mágico para atingir o alvo e causar dano.
 
@@ -206,21 +212,6 @@ Elas podem atirar raios runicos, prender um inimigo, ou causar uma explosao em u
 - Selo do Retardo: Conjura uma Runa de retardo em um alvo. Quando ele passar pela Runa, receberá -2 de Movimento. Pode ser usado durante o movimento de um inimigo.
 
 - Selo da Repulsão
-
-
-☐ Pancada Rúnica: Ao acertar, causa dano adicional e empurra o inimigo em 1 quadrado.
-☐ Salto de Impacto: Pula carregando um ataque poderoso que ao acertar um ponto causa dano em todos alvos adjacentes empurrando todos pra trás.
-☐ Afastar Inimigo: Use como uma reação a um ataque corpo a corpo: Pisa no chão formando um simbolo runico, que explode e empurra o inimigo em 3 quadrados sem causar dano.
-☐ Sobrecarregar Prisma: Só funciona com Prismas de Artilharia. Sobrecarrega seu próximo ataque, causando uma explosão que atinge varios inimigos.
-☐ Feixe Anti-aéreo : Conjura um arpão runico que aflige apenas alvos voadores, causando dano superior (devido a restrição do tipo que alvo que esse poder afeta). No meio aquatico, funciona normalmente mas apenas em alvos que estão nadando acima de você.
-☐ Absorver Energia: Pode ser usado como acao de reacao a qualquer momento que você receberia dano runico. Voce rola X e subtrai do dano que seria recebido, e o valor que você absorveu pode ser usado no seu próximo ataque.
-☐ Trilhas Runicas: você conjura uma linha de energia runica que se extende em 1 linhaa de 1x5 quadrados a sua frente, causando dano a todos inimigos e causando a condição negativa Sobrecarregar 1.
-☐ Armazenar Energia; Voce rola X e armazena uma quantidade de energia que causaria essr dano em seu Grimo. A qualquer momento durante a declaração de um ataque, você pode utilizar essa energia. Você pode acumular até X de dano por tier.
-☐ Controlar Energia: Você pode ativat, desativar ou manipular facilmente qualquer dispositivo que seja baseado em energia.
-☐ Marca Rúnica do Empoderamento: Diminui permanentemente seus PV para aumentar seu dano.
-☐ Drenar e Acelerar: Ao abater um inimigo, você recebe +10 de movimento até o final do seu próximo turno.
-☐ Aura da Corrupção Runica: Ativa uma aura de 2x2 em volta de você que enfraquece as armas dos seus inimigos, fazendo com que quebrem ao bloquear ataques.
-
 
 ### Habilidades - Tier 2
 
