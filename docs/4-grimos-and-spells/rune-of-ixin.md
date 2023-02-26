@@ -157,6 +157,14 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 - Passar no teste prático de resistência à Radiação Rúnica rolando um d100 e somando seu **Resiliência * 5**. (Dificuldade = 75). Caso falhe no teste, você só poderá tentar novamente no ano que vem. Essa cláusula é inegociável por questões de segurança.
 
 ## Poderes do Grimo
+
+:::info Marcas Rúnicas
+Alguns poderes podem conter a palavra "Marcas Rúnicas" no nome. Esses são poderes especiais do **Grimo de Ixin** que sempre devem ser utilizados como <b>Ações Maiores</b>.
+
+As Marcas **encantam a arma ativa** do Ixiniano, mas apenas uma marca pode estar ativa simultaneamente, a menos que outro poder diga o contrário. Essa regra é valida inclusive para o caso do Ixiniano portar duas armas.
+
+Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, não é necessário gastar uma ação para remover a marca, mas caso queira, o Ixiniano pode remover a Marca como uma Ação Livre)*
+:::
 ### Especial
 
 <SpellFromJson expanded={false} spellData={runelar_irruption} />
@@ -176,42 +184,6 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 <SpellFromJson expanded={false} spellData={runic_bash} />
 <SpellFromJson expanded={false} spellData={runic_trails} />
 <SpellFromJson expanded={false} spellData={store_energy} />
-
-
-☐ Pancada Rúnica: Ao acertar, causa dano adicional e empurra o inimigo em 1 quadrado.
-☐ Salto de Impacto: Pula carregando um ataque poderoso que ao acertar um ponto causa dano em todos alvos adjacentes empurrando todos pra trás.
-☐ Afastar Inimigo: Use como uma reação a um ataque corpo a corpo: Pisa no chão formando um simbolo runico, que explode e empurra o inimigo em 3 quadrados sem causar dano.
-☐ Sobrecarregar Prisma: Só funciona com Prismas de Artilharia. Sobrecarrega seu próximo ataque, causando uma explosão que atinge varios inimigos.
-☐ Feixe Anti-aéreo : Conjura um arpão runico que aflige apenas alvos voadores, causando dano superior (devido a restrição do tipo que alvo que esse poder afeta). No meio aquatico, funciona normalmente mas apenas em alvos que estão nadando acima de você.
-☐ Absorver Energia: Pode ser usado como acao de reacao a qualquer momento que você receberia dano runico. Voce rola X e subtrai do dano que seria recebido, e o valor que você absorveu pode ser usado no seu próximo ataque.
-☐ Trilhas Runicas: você conjura uma linha de energia runica que se extende em 1 linhaa de 1x5 quadrados a sua frente, causando dano a todos inimigos e causando a condição negativa Sobrecarregar 1.
-☐ Armazenar Energia; Voce rola X e armazena uma quantidade de energia que causaria essr dano em seu Grimo. A qualquer momento durante a declaração de um ataque, você pode utilizar essa energia. Você pode acumular até X de dano por tier.
-☐ Controlar Energia: Você pode ativat, desativar ou manipular facilmente qualquer dispositivo que seja baseado em energia.
-☐ Marca Rúnica do Empoderamento: Diminui permanentemente seus PV para aumentar seu dano.
-☐ Drenar e Acelerar: Ao abater um inimigo, você recebe +10 de movimento até o final do seu próximo turno.
-☐ Aura da Corrupção Runica: Ativa uma aura de 2x2 em volta de você que enfraquece as armas dos seus inimigos, fazendo com que quebrem ao bloquear ataques.
-
-- Míssel Rúnico: Conjura uma runa que se transforma em um míssil mágico para atingir o alvo e causar dano.
-
-- Lâmina Rúnica: Encanta a arma com um selo rúnico.
-
-- Armadura Rúnica: Conjura um selo na própria armadura.
-
-- Armadilha Rúnica: Conjura uma armadilha que quando toca um inimigo gera uma explosão de 2x2.
-
-- Salto Rúnico: Conjura uma runa sólida que permite ao conjurador realizar um salto duplo e finalizar com um ataque aéreo que causa dano.
-
-- Velocidade Rúnica: Pode ser usado como uma ação de reação e aumenta sua velocidade em +3. (tem custo de magia)
-
-- Selo Magnético: Conjura um selo 2x2 no chão que atrai qualquer alvo que estiver. É necessário gastar 3 pontos de Movimento para se mover 1 quadrado para fora da área. Alvos adjacentes ao selo são puxados para qualquer espaço livre dentro da área do selo.
-
-- Proteção Rúnica: Conjura um selo em um aliado, que se quebra ao ser atingido, causando metade de dano no aliado e metade no inimigo.
-
-- Runa da Restauração: Conjura uma Runa de restauração em um alvo. Quando este receber dano, cure `1d6` após o dano recebido. Pode ser usado como ação de reação ao exatamente no momento em que se inicia o turno de um inimigo.
-
-- Selo do Retardo: Conjura uma Runa de retardo em um alvo. Quando ele passar pela Runa, receberá -2 de Movimento. Pode ser usado durante o movimento de um inimigo.
-
-- Selo da Repulsão
 
 ### Habilidades - Tier 2
 

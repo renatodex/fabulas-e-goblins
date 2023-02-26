@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Marca Rúnica da Corrupção Material",
+  "magic_cost": "3 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiRuneStone",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Desenha e ativa uma Marca Rúnica em sua arma que enfraquece as armas e armaduras dos inimigos ao redor, fazendo com que quebrem ao bloquear ataques.",
+  "description": "<p>Ative a <b>Marca Rúnica</b> como uma <b>Ação de Ataque</b>. <i>(Logo, não é possível ativar a Marca e atacar no mesmo turno.)</i></p><p>Ao ser ativada, a marca gera uma <b>aura de corrupção amarelada</b> em uma <b>área circular</b> de <code>2x2</code>.</p><p>Qualquer um <i>(exceto o Ixiniano)</i> que seja bem sucedido em <b>defender um ataque físico</b> na área da corrupção recebe automaticamente <code>-1 de Durabilidade</code> em sua <b>arma/armadura/escudo principal</b> <i>(a escolha de qual item será danificado fica a cargo do Narrador e do contexto do ataque)</i>.<b></b></p><p>Inimigos cujos equipamentos não posssuem durabilidade definida em suas fichas são considerados como tendo <b>2 de Durabilidade</b>. em suas Armas, Armaduras e Escudos.</p>",
   "tags": ["grimo","ixin"]
 }
