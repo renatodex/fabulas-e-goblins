@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Acerto Crítico",
+  "magic_cost": "4 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
+  "range_type": "Sí mesmo",
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiPointySword",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Canaliza a energia rúnica para dobrar o dano do seu próximo ataque.",
+  "description": "<p>Use no lugar de sua <b>ação de ataque</b>. Se o fizer, você canaliza uma grande quantidade de energia rúnica que <b>dobrará seu dano</b> no próximo <b>ataque bem sucedido</b>.</p><p>O poder fica acumulado na sua arma faça até que você faça o seu próximo ataque bem sucedido (ou até o final do combate caso você não consiga usar).</p><p>Caso você tire um Triunfo no seu ataque, você <b>não receberá aumento de dano</b> pois seu ataque já está sendo considerado como um <b>ataque crítico</b>.</p>",
   "tags": ["grimo","ixin"]
 }

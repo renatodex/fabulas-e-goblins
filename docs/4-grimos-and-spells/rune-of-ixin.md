@@ -201,19 +201,6 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={runic_orbs} />
 <SpellFromJson expanded={false} spellData={weapon_toss} />
 
-☐ Condutividade Extramaterial: Seu corpo emite ondas de energia runica que permite a você enxergar inimigos encobertos, anulando qualquer desvantagem de atacar inimigos em cobertura.
-☐ Acerto Crítico: Canaliza a energia rúnica para dobrar o dano do seu próximo ataque.
-☐ Clarão Rúnico: Conjura um poderoso brilho runico que não causa dano mas causa Cegueira 1 a todos na area de 5x5.
-☐ Disrupção: Cancela qualquer efeitos positivos que possam estar afetando um alvo.
-☐ Chakram: Lança um Chakram de pura energia runica que atravessa uma linha de 1x7 causando dano a todos inimigos em linha.
-☐ Interromper: Interrompe um poder que esteja sendo canalizado por um alvo.
-☐ Chute Carregado: Carrega seus pés com energia rúnica, explodindo em seu inimigo, causando dano e atordoando por 1 turno.
-☐ Arremesso Rúnico: Lança sua arma contra um inimigo, causa do dano. Se você não tiver se movido, pode usar sua ação de movimento para conjurar sua arma de volta pra perto.
-☐ Aura Anti-Missil: Conjura uma aura de 3x3 que anula projéteis físicos.
-☐ Orbes Runicas: Salta no ar por um instante, canalizando 3 orbes de energia que atingem os 3 inimigos mais próximos no combate todo. Se houver só 2 inimigos no combate, apenas 2 Orbes são lançadas, se houver apenas 1, só uma Orbe é lançada.
-☐ Manipulação remota: Você pode operar a uma distancia de até 50 metros qualquer dispositivo rúnico que esteja operando. Você é capaz de entender seu funcionamento, e suas possíveis utilidades.
-
-
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
