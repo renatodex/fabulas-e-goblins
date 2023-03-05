@@ -7,7 +7,7 @@
   "cast_distance": "5",
   "range_type": "Alvo",
   "range_amount": "1",
-  "icon": "GiAbstract011",
+  "icon": "GiHand",
   "element": null,
   "caption": "Interrompe um poder que esteja sendo canalizado por um alvo.",
   "description": "<p>Esse poder não exige testes. Escolha um alvo que esteja canalizando um poder.</p><p>Quando usado para cancelar canalizações normais, <b>Interromper</b> custa <code>4 P.M</code> e gera uma aura de energia magnética que se forma rapidamente no espaço do alvo, interrompendo imediatamente a canalização, sem que seja necessário executar quaisquer testes.</p><p>Porém, se o alvo estiver canalizando um poder <b>lendário ou especial</b>, o custo deste poder aumenta para <code>12 P.M</code>, e você deverá ser bem sucedido <b>em um número X de testes</b> contra a <b>Defesa Mágica</b> do alvo, onde X é o <b>TIER atual</b> dele.</p>",
