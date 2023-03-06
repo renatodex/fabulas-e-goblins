@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Marca Rúnica do Estampido Energético",
+  "magic_cost": "6 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiRuneStone",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Alvos tocados pelo conjurador são afetados por uma estranha instabilidade energética, que explode quando esse inimigo sofre dano.",
+  "description": "<p>Ative a <b>Marca Rúnica</b> como uma <b>Ação de Ataque</b>. <i>(Logo, não é possível ativar a Marca e atacar no mesmo turno.)</i></p><p>Ao ser ativada, a marca encanta a arma do conjurador com uma <b>corrente de energia rúnica brilhante</b>.</p><p>Qualquer alvo que receber um ataque físico bem sucedido do Ixiano será afetado por uma estranha onda de energia rúnica por <code>1 turno</code>. Sempre que este alvo <b>sofrer um ataque físico</b>, a energia rúnica em seu corpo entrará em colapso, explodindo e causando <code></code> de <b>dano físico</b> em todos os inimigos adjacentes.</p>",
   "tags": ["grimo","ixin"]
 }
