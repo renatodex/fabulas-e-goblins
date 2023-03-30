@@ -10,6 +10,6 @@
   "icon": "GiRuneStone",
   "element": null,
   "caption": "Alvos tocados pelo conjurador são afetados por uma estranha instabilidade energética, que explode quando esse inimigo sofre dano.",
-  "description": "<p>Ative a <b>Marca Rúnica</b> como uma <b>Ação de Ataque</b>. <i>(Logo, não é possível ativar a Marca e atacar no mesmo turno.)</i></p><p>Ao ser ativada, a marca encanta a arma do conjurador com uma <b>corrente de energia rúnica brilhante</b>.</p><p>Qualquer alvo que receber um ataque físico bem sucedido do Ixiano será afetado por uma estranha onda de energia rúnica por <code>1 turno</code>. Sempre que este alvo <b>sofrer um ataque físico</b>, a energia rúnica em seu corpo entrará em colapso, explodindo e causando <code></code> de <b>dano físico</b> em todos os inimigos adjacentes.</p>",
+  "description": "<p>Ative a <b>Marca Rúnica</b> como uma <b>Ação de Ataque</b>. <i>(Logo, não é possível ativar a Marca e atacar no mesmo turno.)</i></p><p>Ao ser ativada, a marca encanta a arma do conjurador com uma <b>corrente de energia rúnica brilhante</b>.</p><p>Qualquer alvo que receber um ataque físico bem sucedido do Ixiano será afetado por uma estranha onda de energia rúnica que dura <b>até o final do seu próximo turno</b>. Sempre que este alvo <b>receber dano físico</b>, a energia rúnica em seu corpo entrará em colapso, explodindo e causando <code>3d10 + 20</code> de <b>dano mágico não elemental</b> em todos os inimigos adjacentes.</p>",
   "tags": ["grimo","ixin"]
 }

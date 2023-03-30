@@ -216,18 +216,6 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={suspension_seal} />
 <SpellFromJson expanded={false} spellData={zigurate_pillar} />
 
-☐ Aprimoramento: Super Trilha Runica: Agora dispara 2 trilhas em 2 direcoes escolhidas pelo conjurador.
-☐ Amarras de Energia: Prende um inimigo no chão. Se ele estiver voando, é imediatamente trazido para o chão, recebendo dano.
-As amarras podem ser ativadas pelo conjurador, causando dano. O conjurador pode manter as amarras gastando PM.
-☐ Marca Psiônica: Marca o alvo com um selo runico. Sempre que esse inimigo sofrer dano, uma explosão de energia causará dano em todos outros inimigos adjacentes.
-☐ Contra-Ataque: Consome pontos de magia para efetuar um contra ataque certeiro reagindo a um ataque corpo a corpo.
-☐ Bloqueio Runico: Sempre que você utilizar a ação Bloquear no seu turno e for atacado por um inimigo, o ataque inimigo ativara uma aura que causa dano a todos inimigos adjacentes, empurrando-os 1 quadrado e causando Derrubar.
-☐ Pilar do Zigurate: Conjura uma grande runa de pura energia que causa Queimar em todos inimigos numa area circular de 3x3.
-☐ Aura da Suspensão: Ao ativada , inimigos num raio de 3x3 ficam suspensos no ar, impedidos de se mover e de efetuar ataques corpo a corpo. ( podem usar ataques mágicos e usar armas a distancia ). Esses inimigos não podem se engajar em combate. Afeta aliados e inimigos. Não afeta alvos de tamanho grande.
-☐ Runa do Julgamento: Uma rune se eleva no ar, eclodindo energia rúnica bruta e disparando contra um alvo que tem seus PV reduzidos a 1. Não funciona em Elites e Nemesis.
-☐ Estabilizar: Você pode usar como reação a ser levantado, puxado, empurrado ou derrubado. Esse poder anula esses efeitos.
-☐ Pancada Runica Superior: Atinge todos inimigos adjacentes ao alvo e a você, causando os mesmos efeitos.
-
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
