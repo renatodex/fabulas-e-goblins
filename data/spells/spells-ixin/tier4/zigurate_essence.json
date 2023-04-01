@@ -1,0 +1,15 @@
+{
+  "name": "Aspecto do Zigurate",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiAbstract005",
+  "element": null,
+  "caption": "Você se conecta com a verdadeira energia rúnica, tornando-se imune a qualquer dano desse tipo.",
+  "description": "<p>Runas surgem por toda sua pele, e seu corpo passa a emitir uma estranha <b>aura azulada permanente</b>, que lhe concede o poder absoluto de controlar a essência do poder rúnico.</p><p>Você se torna <b>imune a qualquer fonte de dano de energia rúnica</b>, não podendo ser mais barrado por domos ou proteções ou ser afetado por maldições <b>feitas com essa energia</b>, além de absorver como <b>Pontos de Vida</b> qualquer dano de energia rúnica que seria causado contra você.</p><p>Você passa a poder manipular livremente qualquer forma <b>pura ou visível</b> dessa energia que esteja ao seu alcance, podendo controlá-la e utilizá-la para quaisquer fins que sejam permitidos pelo Narrador.</p><p>Este poder só pode ser aprendido em um <b>Templo Rúnico</b> onde a energia esteja presente de forma latente. O ritual leva <code>16 horas</code> inteiras para ser completado e não pode ser mais revertido.</p>",
+  "tags": ["grimo","ixin"]
+}

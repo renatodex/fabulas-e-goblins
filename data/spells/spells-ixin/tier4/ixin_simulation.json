@@ -1,0 +1,15 @@
+{
+  "name": "Dimensão de Ixin",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Global",
+  "range_amount": null,
+  "icon": "GiByzantinTemple",
+  "element": null,
+  "caption": "Transporta todos no combate para um templo de Ixin numa dimensão paralela.",
+  "description": "<p>Você ergue seu Grimo, evocando o poder supremo da <b>Energia Rúnica</b> e emitindo um brilho poderoso que <b>transporta todos os participantes de um combate</b> para a dimensão do <b>Templo Rúnico</b>.</p><p>Quando o combate termina, todos são automaticamente transportados de volta para o plano original em suas posições originais.</p><p>Para aqueles que não foram transportados, é como se o combate todo tivesse durado apenas uma fração de segundos.</p><p>Enquanto estiver no <b>Templo Rúnico</b>, os <b>Ixinianos</b> podem se beneficiar de sua virtude inicial, a <code>Sinergia Rúnica</code>.</p><p>Além disso, enquanto estiverem na dimensão do <b>Templo Rúnico</b>, todos os inimigos passam a ser considerados como <b>criaturas rúnicas</b> apenas para o efeito de <code>Sinergia Rúnica</code>. (o tipo dos inimigos não é alterado, mas você recebe todos os Bônus descritos em Sinergia Rúnica)</p><p>Mover todos os alvos para a Dimensão é cansativo, e exige que o <b>Ixiniano</b> sacrifique temporariamente <code>1d4 de <b>vida máxima</b> para cada espaço que cada alvo movido ocupa</code>. <b>Não é possível excluir/selecionar alvos</b> do combate para conjurar este poder.</p><p>Os Pontos de Vida sacrificados só retornarão ao final do combate e serão somados aos pontos de vida remanescentes.</p><p><i>Ex: Se o Ixiniano e seus 3 aliados estiverem batalhando contra uma criatura que ocupa 9 espaços e mais 2 lacaios que ocupam 1 espaço cada, ao conjurar a <b>Dimensão de Ixin</b>, ele deverá sacrificar <code>15d4 de P.V máximo (4 aliados + 11 espaços inimigos)</code> como requisito para que possa teleportar todos para a outra dimensão.</p>",
+  "tags": ["grimo","ixin"]
+}

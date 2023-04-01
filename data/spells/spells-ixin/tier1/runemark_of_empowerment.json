@@ -1,0 +1,15 @@
+{
+  "name": "Marca Rúnica da Lâmina Negra",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": "raio 1",
+  "icon": "GiRuneStone",
+  "element": null,
+  "caption": "Ao ativada, sua arma adquire um aspecto sombrio, consumindo sua força vital para lhe fornecer poder.",
+  "description": "<p>Ative a <b>Marca Rúnica</b> como uma <b>Ação de Ataque</b>. <i>(Logo, não é possível ativar a Marca e atacar no mesmo turno.)</i></p><p>Ao ser ativada, a marca altera o aspecto de sua arma, que passa a se transformar num metal negro e emite uma espécie de radiação rúnica.</p><p>Além disso, ativar a aura consumirá instantaneamente <code>TIER*d12 P.V</code> de você e de todas as <b>unidades adjacentes (aliadas ou inimigas)</b> (não pode ser reduzido ou bloqueado por fontes físicas ou mágicas), para lhe fornecer <code>TIER*d12</code> de Dano extra em cada ataque de natureza física.</p><p>O <b>Dano extra</b> não é cumulativo, mas se o Ixiniano reativar a <b>Marca Rúnica da Lâmina Negra</b>, ele e todas unidades adjacentes perdem os <b>Pontos de Vida</b> novamente.</p>",
+  "tags": ["grimo","ixin"]
+}

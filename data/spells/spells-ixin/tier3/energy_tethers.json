@@ -1,0 +1,15 @@
+{
+  "name": "Correntes Rúnicas",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiCrossedChains",
+  "element": null,
+  "caption": "Prende um inimigo ao chão. Se ele estiver voando, é imediatamente trazido para o chão, recebendo dano.",
+  "description": "<p>Escolha um inimigo e faça um teste contra sua <b>Defesa Física</b>.</p><p>Se for bem sucedido, <b>Correntes Rúnicas</b> rúnica se materializam em  volta do inimigo, infringindo <code>Constrição 18/3</code>.</p><p>Isso significa que o inimigo estará preso por <code>3 turnos</code>, sem poder se atacar ou defender, e exigindo um <b>teste de Força</b> de <code>18 ou superior</code> para escapar das correntes. <i>(esse teste em específico é realizado pelo Narrador)</i>.</p><p>Caso o inimigo esteja voando, este poder também causa <code>20 Pontos de dano físico</code> para cada espaço de distância do chão. <i>(limite de 5 espaços)</i></p>",
+  "tags": ["grimo","ixin"]
+}

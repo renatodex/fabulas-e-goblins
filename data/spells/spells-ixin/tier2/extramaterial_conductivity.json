@@ -1,0 +1,15 @@
+{
+  "name": "Condutividade Extramaterial",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiWavyChains",
+  "element": null,
+  "caption": "Seu corpo emite ondas de energia rúnica que reagem com os corpos próximos e permitem a você enxergar alvos encobertos.",
+  "description": "<p>Só funciona em alvos que emitem <b>calor biológico</b>.</p><p>Você passa a enxergar passivamente uma sutil energia magnética que é emitida por todos os corpos vivos. Agora você pode ver alvos que estejam parcialmente encobertos e <b>não possui mais desvantagens</b> em <b>testes de ataque</b> contra inimigos em cobertura.</p><p>Este poder <b>não permite</b> que o Ixiniano veja alvos através das paredes.</p>",
+  "tags": ["grimo","ixin"]
+}

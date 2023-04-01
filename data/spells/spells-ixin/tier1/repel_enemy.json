@@ -1,0 +1,15 @@
+{
+  "name": "Repelir Inimigo",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_type": "Corpo-a-Corpo",
+  "range_amount": "1",
+  "icon": "GiGlowingHands",
+  "element": null,
+  "caption": "Você desenha uma runa de repulsão no ar, e a ativa na frete de um inimigo, empurrando-o para longe.",
+  "description": "<p>Escolha um alvo <b>adjacente</b> e faça um teste contra sua <b>Defesa Mágica</b> caso não haja consentimento da parte dele em receber seu ataque.</p><p>Você desenha uma runa no ar, e a ativa imediatamente, gerando uma explosão sonica que <b>repele o inimigo em uma linha</b> reta na direção oposta a você, e a uma distância de <code>d10 espaços</code>.</p><p>Caso o inimigo atinja algum obstáculo no caminho, <b>tanto ele com o obstáculo</b> recebem <code>TIER * d4</code> <b>para cada espaço que o alvo se deslocou</b> antes de colidir. <i>(máximo 9 espaços antes de colidir)</i></p>",
+  "tags": ["grimo","ixin"]
+}

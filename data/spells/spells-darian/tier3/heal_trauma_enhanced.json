@@ -10,6 +10,6 @@
   "icon": "GiUpgrade",
   "element": null,
   "caption": "Suas habilidades mediúnicas se intensificam, permitindo que você cure Traumas de forma mais eficiente.",
-  "description": "<p>Aumenta os dados de cura do Trauma pra 4 ao invés de 3.</p>",
+  "description": "<p>Reduz os sucessos necessários das ações de Perícia de 5 para 4.</p>",
   "tags": ["grimo","darian"]
 }

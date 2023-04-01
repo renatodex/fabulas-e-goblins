@@ -1,0 +1,15 @@
+{
+  "name": "Drenar e Acelerar",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiWalkingBoot",
+  "element": null,
+  "caption": "Abatar inimigos lhe fornece um bônus cumulativo de de movimento.",
+  "description": "<p>Sempre que abater um inimigo, você recebe <code>+1 Ponto de Movimento</code> temporário que se acumula até o final do combate/cena.</p>",
+  "tags": ["grimo","ixin"]
+}

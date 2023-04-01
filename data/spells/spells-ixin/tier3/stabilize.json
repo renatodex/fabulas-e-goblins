@@ -1,0 +1,15 @@
+{
+  "name": "Zona de Estabilidade",
+  "magic_cost": "7 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiCancel",
+  "element": null,
+  "caption": "Você usa a energia rúnica para lhe fornecer estabilidade excepcional, podendo anular uma ação que moveria você contra sua vontade.",
+  "description": "<p>Não exige testes.</p><p>Use este poder a qualquer momento como uma reação a ser <b>levantado</b>, <b>atraído</b>, <b>puxado</b>, <b>empurrado</b> ou <b>derrubado</b>. Usar este poder cria uma <b>Zona de Estabilidade</b>, e anula instantaneamente um ou mais efeitos desse tipo que seriam aplicados a você.</p><p>A <code>Zona de Estabilidade</code> durará até o <b>final do seu próximo turno</b>, e poderá ser utilizada novamente caso o efeito contra você seja contínuo. <i>(ex: Um imã poderoso o atraindo constantemente a uma coordenada)</i></p><p>A <b>Zona de Estabilidade</b> não é fixa e se movimenta <b>junto com você</b> durante todo o seu período de duração.</p>",
+  "tags": ["grimo","ixin"]
+}

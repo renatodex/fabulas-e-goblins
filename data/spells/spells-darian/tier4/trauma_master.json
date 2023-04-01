@@ -10,6 +10,6 @@
   "icon": "GiUpgrade",
   "element": null,
   "caption": "Sua conexão com o Grimo atinge seu ápice, tornando-o um verdadeiro Mestre da cura dos Traumas.",
-  "description": "<p>Aumenta os dados para curar Traumas de <code>3 dados</code> para <code>6 dados</code>.</p><p>O poder continua podendo ser usado apenas 1 vez por dia.</p>",
+  "description": "<p>Reduz os testes para curar Traumas de <code>4 Ações de Perícia</code> para apenas <code>2 Ações de Perícia</code>.</p><p>O poder continua podendo ser usado apenas 1 vez por dia.</p>",
   "tags": ["grimo","darian"]
 }

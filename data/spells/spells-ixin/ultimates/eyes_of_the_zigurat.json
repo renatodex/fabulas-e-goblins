@@ -1,0 +1,15 @@
+{
+  "name": "Olhos do Zigurate",
+  "magic_cost": "50 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "10",
+  "range_type": "Ponto",
+  "range_amount": "4",
+  "icon": "GiEvilTower",
+  "element": null,
+  "caption": "Materializa 4 Torres de Metal que podem ser controladas independentemente para realizar vários tipos de ataques.",
+  "description": "<p>Escolha 4 pontos não ocupados a uma distância de até <code>10 quadrados</code>.</p><p>Você conjura uma <b>Torre do Zigurate</b> em cada um dos pontos escolhidos. As Torres são criaturas Metalíficas que possuem <code>TIER * 30 P.V</code> cada e entram no <b>final da ordem de iniciativa</b>, jogando como uma única unidade mas realizando <code>4 ações de ataque</code>.</p><p>As torres também <b>não podem se mover</b>, e possuem <b>Ataque e Defesa (Físico E Mágico)</b> separados por Tier, seguindo a escala: <code>1 / 3 / 6 / 12</code>.</p><p>As Torres podem utilizar os seguintes <b>ataques mágicos</b>:</p><ul><li><b><u>Disparo de Energia</u></b>: Atinge <code>1 alvo</code>, <code>Alcance = 6</code>, causa <code>TIER*1d8</code> de <b>dano mágico não elemental</b>. O disparo <b>não tem chance de errar</b> e <b>sempre acerta</b> o alvo. (role os dados de ataque mesmo assim. Em caso de Desastre ou Triunfo, o Narrador pode sugerir outro veredito)</li><li><b><u>Anomalia Magnética</u></b>: Atinge <code>1 ponto</code>, <code>Alcance = 10</code>, encanta um espaço com uma forte atração magnética, qualquer um que esteja ou passe pelo espaço precisa gastar <code>6 pontos de movimento</code> para sair dele. <i>(também se aplica a alvos grandes, mas apenas se todos os espaços que a criatura ocupa estiverem afetados pela animalia, caso contrário, precisam de apenas <code>3 pontos</code>)</i></li><li><b><u>Feixe Laminar</u></b>: Forma um feixe de energia com uma outra Torre a sua escolha. Faça um teste de Ataque Mágico contra todos os alvos no caminho entre as duas Torres. O feixe causa <code>TIER * (2d12 + 4)</code> de <b>dano mágico não elemental a todos alvos no caminho (mesmo aliados)</b>. A Torre que recebeu o feixe <b>é destruída depois do poder</b>, mesmo que o ataque tenha <b>errado o(s) alvo(s)</b>.</li><li><u><b>Tentáculos Metálicos</b></u>: Tentáculos maleáveis brotam da torre, agarrando um alvo a até <code>4 espaços</code>. Se o alvo for pequeno ou padrão, ele pode ser arrastado a uma posição adjacente à Torre, ou imobilizado no seu próprio espaço. Alvos agarrados ficam presos, recebem <code>Silencio 1</code>, não podem atacar e só podem se livrar da prisão ao passar num teste físico contra a <b>Defesa da Torre</b>. (rolado pelo Ixiniano). Se o alvo for Grande, <code>2 Torres</code> são necessárias para imobilizá-lo e não é possível arrastá-lo. Se o alvo for Gigante, <code>4 Torres são necessárias para imobilizá-lo.</code>. Alvos de tamanho maior que Gigante não podem ser imobilizados.</li</ul>",
+  "tags": ["grimo","ixin"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Escudo de Rah'Zar",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiWingedShield",
+  "element": null,
+  "caption": "Uma fina camada de energia rúnica recobre o contorno do Ixiniano, eclodindo numa explosão rúnica azulada quando atingido fisicamente por um inimigo.",
+  "description": "<p>Não exige testes para ser ativado. Usar este poder tem os mesmos efeitos práticos como o de utilizar a <b>Ação Defesa</b>, portanto, você não pode ter se movido este turno se quiser utilizar <code>Escudo de Rah'Zar</code>.</p><p>Quando ativado, este poder conjura uma fina camada de energia rúnica que recobre o seu contorno.</p><p>Ao ser atacado corpo-a-corpo por um alvo antes do seu próximo turno, teste sua defesa normalmente:</p><b>Se for bem sucedido na sua defesa</b>, o ataque inimigo ativa uma aura ao tocar seu corpo, causando uma explosão que não te afeta, mas causa <code>3d10 + 20</code> de <b>dano mágico</b> não-elemental <b>a todos inimigos adjacentes</b>, aplicando <code>Empurrar 1</code> e <code>Derrubar</code> a todos inimigos atingidos pela explosão.</p><p><b>Se não for bem sucedido em sua defesa</b>, o inimigo causa dano normalmente e o poder do Escudo não é ativado.</p><p>O efeito do <code>Escudo de Rah'Zar</code> apenas se desfaz no início do seu próximo turno, portanto, o efeito se ativará novamente para cada defesa corpo-a-corpo bem sucedida.</p><p>O dano deste poder aumenta para <code>4d10 + 40</code> no <b>Tier 4</b>.</p>",
+  "tags": ["grimo","ixin"]
+}

@@ -96,7 +96,7 @@ Não importa o quanto você tente, sempre parece mais difícil combater esse tip
 
 #### 1.a Tabela de Tipos de Criatura
 
-Para sua comodidade, segue a lista de tipos de Criatura:
+Abaixo, segue a lista de todos os tipos de Criatura que você pode escolher:
 
 <table>
   <thead>
@@ -123,19 +123,23 @@ Para sua comodidade, segue a lista de tipos de Criatura:
       <td>Criaturas de origem mecânica ou mágica como <b>Kaymons</b> e <b>Fortogons</b></td>
      </tr>
      <tr>
-      <td>Dragão</td>
-      <td>Criaturas mágicas geralmente voadores, como <b>Drogos</b> e <b>Quarks</b></td>
+      <td>Cósmico</td>
+      <td>Criaturas do espaço constituídas por poeira das estrelas.</td>
      </tr>
      <tr>
       <td>Demônio</td>
       <td>Criaturas Demoníacas como <b>Domolor</b>.</td>
      </tr>
      <tr>
+      <td>Dragonóide</td>
+      <td>Répteis voadores de natureza mágica, como <b>Drogos</b> e <b>Quarks</b></td>
+     </tr>
+     <tr>
       <td>Deus</td>
       <td>Criaturas Primevas e Lendárias.</td>
      </tr>
      <tr>
-      <td>Gelatinoso</td>
+      <td>Gosmento</td>
       <td>Criaturas gelatinosas como <b>Slimes</b></td>
      </tr>
      <tr>
@@ -147,16 +151,16 @@ Para sua comodidade, segue a lista de tipos de Criatura:
       <td>Criaturas feitas de Madeira como <b>Camags</b> e <b>Torugs</b></td>
      </tr>
      <tr>
-      <td>Terror</td>
-      <td>Criaturas das Trevas como <b>Zizagus</b>, <b>Poobum</b> e <b>Orekai</b></td>
-     </tr>
-     <tr>
-      <td>Plasma</td>
-      <td>Criaturas Plasmáticas como <b>Fantasmas</b> e <b>Espectros</b></td>
+      <td>Metalídio</td>
+      <td>Criaturas constituídas de metal ou ligas metálicas rígidas.</td>
      </tr>
      <tr>
       <td>Planta</td>
       <td>Criaturas feitas de planta como <b>Sitágoras</b> e <b>Talóides</b></td>
+     </tr>
+     <tr>
+      <td>Plasma</td>
+      <td>Criaturas Plasmáticas como <b>Fantasmas</b> e <b>Espectros</b></td>
      </tr>
      <tr>
       <td>Peixe</td>
@@ -165,6 +169,14 @@ Para sua comodidade, segue a lista de tipos de Criatura:
      <tr>
       <td>Reptil</td>
       <td>Criaturas Reptilianas como <b>Zoblins</b> e <b>Basgons</b></td>
+     </tr>
+     <tr>
+      <td>Vampírico</td>
+      <td>Criaturas hematófagas que se alimentam de sangue.</td>
+     </tr>
+     <tr>
+      <td>Terror</td>
+      <td>Criaturas das Trevas como <b>Zizagus</b>, <b>Poobum</b> e <b>Orekai</b></td>
      </tr>
      <tr>
       <td>Vazio</td>
@@ -176,6 +188,17 @@ Para sua comodidade, segue a lista de tipos de Criatura:
      </tr>
   </tbody>
 </table>
+
+
+:::info Aelíticos
+Um bom observador perceberá que a lista acima exclui o tipo **Aelítico**.
+
+Para efeitos mecânicos, todas as espécies jogáveis do **Fábulas & Goblins** são criaturas **Aelíticas** *(criaturas senscientes que perderam parte de seu **Elo mágico** ao serem afetadas pelo Blecaute)*.
+
+E as espécies jogáveis não podem ser caracterizadas como **criaturas selvagens** que costumam ser caçadas pelos **Adeptos de Kanus**.
+
+Portanto, como o tipo **Aelítico** apenas se restringe às espécies jogáveis (salvas raríssimas excessões), este tipo foi excluído da lista desta Virtude.
+:::
 
 ### 2. Sinergia Ambiental
 

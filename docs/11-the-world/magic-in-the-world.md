@@ -24,7 +24,7 @@ Os estudiosos acreditavam que esse processo era possível por dois elementos:
 ## A Conexão Mágica
 
 A Conexão Mágica é a sua capacidade de acessar uma fonte mágica. Sabe-se que todos os seres possuem essa capacidade, mas alguns possuem em maior intensidade, e outros em menor intensidade. É também sabido que a Conexão Mágica é como se fosse um músculo, que pode ser treinado para ter mais resistência e poder se conectar a um volume maior de mágica.
-É muito comum o relato de indivíduos que nunca tiveram qualquer tipo de conexão mágica, também chamados de `Aelíticos` (Ausencia de Elo).
+As espécies senscientes que foram afetadas pelo Blecaute são chamadas de `Aelíticos` (Ausencia de Elo), pois perderam a sua conexão natural com o plano mágico. Todas as classes jogáveis se enquadram nessa categoria.
 Por outro lado, também é muito conhecida a história dos `Augúrios`, que são vistos como seres que nasceram com uma profunda e intensa conexão mágica natural, sendo estes considerados quase como divindades pelas grandes civilizações.
 
 ## Fonte Mágica

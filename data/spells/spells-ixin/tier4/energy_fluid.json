@@ -1,0 +1,15 @@
+{
+  "name": "Fluido de Energia",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiSplashyStream",
+  "element": null,
+  "caption": "Você se transforma na própria energia rúnica, movendo-se na velocidade da luz e causando dano a tudo que toca.",
+  "description": "<p>Use este poder no lugar de sua <b>Ação de Movimento</b>.</p>Sua forma corporal se desfaz temporariamente para fundir sua matéria na própria energia rúnica, transformando você em um <b>fluido azulado de energia pura</b>.</p><p>Ao assumir essa forma, você passa a possuir <code>20 Pontos de Movimento</code>, adquirindo <b><u>imunidade à dano físico</u></b> durante o seu deslocamento.</p><p>Enquanto estiver na forma fluida, você <b>não pode se mover por translocação</b>, mas você pode se mover por <b>espaços ocupados</b>, e sempre que atravessar um espaço ocupado pela <b>primeira vez</b> neste turno, qualquer coisa que esteja neste espaço deverá realizar um teste de <b>Defesa Mágica</b>, ou receberá <code>3d20 + 40</code> de Dano Mágico de todos os elementos simultaneamente.</p><p><i>O tipo do seu dano é igual a <b>todos os elementos simultaneamente</b>, o que significa que se um inimigo possuir uma fraqueza a um elemento, mas não possuir uma resistência a outro elemento, então você dará <b>dano dobrado</b> neste inimigo. Já se um inimigo possuir uma fraqueza a um elemento e uma resistência a outro elemento, então a fraqueza anula a resistência, e o fluido causa dano normal.</p>",
+  "tags": ["grimo","ixin"]
+}

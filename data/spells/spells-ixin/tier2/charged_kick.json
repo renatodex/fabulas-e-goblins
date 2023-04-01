@@ -1,0 +1,15 @@
+{
+  "name": "Chute Carregado",
+  "magic_cost": "8 P.M",
+  "duration_time": null,
+  "attack_logic": "Físico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Corpo-a-Corpo",
+  "range_amount": null,
+  "icon": "GiBootKick",
+  "element": null,
+  "caption": "Carrega seus pés com energia rúnica, atingindo um inimigo, causando dano e atordoando.",
+  "description": "<p>Escolha um alvo adjacente e teste contra sua <b>defesa física</b>.</p><p><b>Se for bem sucedido,</b> você desfere um chute energizado que causa <code>TIER*d10 + Força*d12 + Força</code> de <b>dano físico</b>, além de empurrar o alvo (<code>Empurrar 1</code>) e atordoá-lo (<code>Atordoar 1</code>).</p><p>Se o seu dano for negativo, o inimigo não será empurrado, e ao invés de atordoar o inimigo, você atordoa a sí mesmo.</p>",
+  "tags": ["grimo","ixin"]
+}

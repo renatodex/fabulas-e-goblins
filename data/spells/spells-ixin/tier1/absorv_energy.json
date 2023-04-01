@@ -1,0 +1,15 @@
+{
+  "name": "Absorver Energia",
+  "magic_cost": "TIER * 4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBoltSpellCast",
+  "element": null,
+  "caption": "Absorve a energia rúnica de um ataque e a converte em poder para o próximo ataque.",
+  "description": "<p>Este poder pode ser usado como <b>Ação de Reação</b> a qualquer momento que você receberia um <b>dano de origem rúnica</b>.</p><p>Voce rola <code>TIER * (4d12 + 10)</code> e subtrai do dano que seria recebido, e o valor que você absorveu pode ser usado no seu próximo ataque.</p>",
+  "tags": ["grimo","ixin"]
+}

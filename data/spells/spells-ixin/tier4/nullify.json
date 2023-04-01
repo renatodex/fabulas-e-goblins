@@ -1,0 +1,15 @@
+{
+  "name": "Anulamento",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiGlowingHands",
+  "element": null,
+  "caption": "Seus reflexos conjuram uma barreira de anulamento que o impede de receber um dano fatal.",
+  "description": "<p>Após o <b>dano fatal</b> de um <b>ataque inimigo bem sucedido</b> ser calculado contra seu personagem, você pode optar por conjurar <b>Anulamento</b> instantaneamente, como uma <b>Ação de Reação</b> sem nenhum teste adicional.</p><p><b>Se o fizer</b>, o <b>dano fatal</b> será cancelado, e você passará a ter apenas <code>1 Ponto de Vida</code>.</p><p>Além disso, todo o dano em excesso que te incapacitaria <b>pode ser redirecionado de volta ao inimigo de forma dobrada</b> sem que ele possa se defender. (com excessão de efeitos de redução de dano, que se aplicam normalmente)</p><p><i>Ex: Iliadas está com apenas <code>10 PV</code>, e recebe um ataque que causaria <code>90 Pontos de Dano</code>. Ao invés de ser incapacitado, Iliadas passa a ter <code>1 P.V</code> e <code>80 Pontos de Dano</code> (90 do dano - 10 P.V remanescentes) são redirecionados ao inimigo de <b>forma dobrada</b>, causando <code>160 Pontos de Dano</code>. O Dano causado será do mesmo tipo que o inimigo quis causar. Este inimigo em específico possui uma Barreira que reduz qualquer dano causado em <code>30 Pontos de Dano</code>, logo, o inimigo receberia apenas <code>130 Pontos de Dano</code></i></p>",
+  "tags": ["grimo","ixin"]
+}

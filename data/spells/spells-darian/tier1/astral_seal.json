@@ -10,6 +10,6 @@
   "icon": "GiRingedBeam",
   "element": null,
   "caption": "Uma seta de pura magia astral é conjurada à partir do Grimo, atingindo diretamente a alma do alvo.",
-  "description": "<p>Escolha um alvo e faça um teste de Ataque Mágico contra ele. Se o alvo falhar, receberá <code>TIER * (3d6 + 3)</code> de dano mágico caso seja uma Criatura, e <code>TIER * (2d12 + 6)</code> de dano mágico caso seja um humanóide sensciente.</p>",
+  "description": "<p>Escolha um alvo e faça um teste de Ataque Mágico contra ele. Se o alvo falhar, receberá <code>TIER * (3d6 + 3)</code> de dano mágico caso seja uma Criatura, e <code>TIER * (2d12 + 6)</code> de dano mágico caso seja uma criatura Aelítica.</p>",
   "tags": ["grimo","darian"]
 }

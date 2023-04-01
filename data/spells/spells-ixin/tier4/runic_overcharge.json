@@ -1,0 +1,15 @@
+{
+  "name": "Sobrecarga Rúnica",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiCrownedExplosion",
+  "element": null,
+  "caption": "Seus ataques passam a acumular energia rúnica nos inimigos, e quando são abatidos, uma explosão de energia é liberada causando dano aos inimigos em volta. ",
+  "description": "<p>Cada <b>inimigo abatido</b> por um ataque de origem rúnica (não considera ataque normal, a menos que o ataque esteja embedado em energia rúnica), gera uma explosão.</p><p>Em seguida, faça um teste contra a <b>Defesa Mágica</b> de todos inimigos num <b>raio circular</b> de <code>2 espaços</code> em volta do <b>inimigo abatido</b>.</p><p>Os alvos que falharem no teste recebem <code>3d20</code> de <b>dano mágico não elemental</b>.</p>",
+  "tags": ["grimo","ixin"]
+}

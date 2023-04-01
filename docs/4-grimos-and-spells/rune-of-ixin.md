@@ -4,11 +4,65 @@ title: Selo de Ixin
 slug: /4-grimos-and-spells/rune-of-ixin
 ---
 
+import { SpellFromJson } from './../../src/components/skill_block/index'
+
+import absorv_energy from './../../data/spells/spells-ixin/tier1/absorv_energy.json'
+import anti_air_beam from './../../data/spells/spells-ixin/tier1/anti_air_beam.json'
+import control_energy from './../../data/spells/spells-ixin/tier1/control_energy.json'
+import drain_and_acelerate from './../../data/spells/spells-ixin/tier1/drain_and_acelerate.json'
+import impact_jump from './../../data/spells/spells-ixin/tier1/impact_jump.json'
+import prisma_overcharge from './../../data/spells/spells-ixin/tier1/prisma_overcharge.json'
+import repel_enemy from './../../data/spells/spells-ixin/tier1/repel_enemy.json'
+import runemark_of_corruption from './../../data/spells/spells-ixin/tier1/runemark_of_corruption.json'
+import runemark_of_empowerment from './../../data/spells/spells-ixin/tier1/runemark_of_empowerment.json'
+import runic_bash from './../../data/spells/spells-ixin/tier1/runic_bash.json'
+import runic_trails from './../../data/spells/spells-ixin/tier1/runic_trails.json'
+import store_energy from './../../data/spells/spells-ixin/tier1/store_energy.json'
+
+import anti_missile_seal from './../../data/spells/spells-ixin/tier2/anti_missile_seal.json'
+import chakram from './../../data/spells/spells-ixin/tier2/chakram.json'
+import charged_kick from './../../data/spells/spells-ixin/tier2/charged_kick.json'
+import critical_hit from './../../data/spells/spells-ixin/tier2/critical_hit.json'
+import disruption from './../../data/spells/spells-ixin/tier2/disruption.json'
+import extramaterial_conductivity from './../../data/spells/spells-ixin/tier2/extramaterial_conductivity.json'
+import glare from './../../data/spells/spells-ixin/tier2/glare.json'
+import interrupt from './../../data/spells/spells-ixin/tier2/interrupt.json'
+import remote_manipulation from './../../data/spells/spells-ixin/tier2/remote_manipulation.json'
+import runic_orbs from './../../data/spells/spells-ixin/tier2/runic_orbs.json'
+import weapon_toss from './../../data/spells/spells-ixin/tier2/weapon_toss.json'
+
+import counter_attack from './../../data/spells/spells-ixin/tier3/counter_attack.json'
+import energy_tethers from './../../data/spells/spells-ixin/tier3/energy_tethers.json'
+import judgement_seal from './../../data/spells/spells-ixin/tier3/judgement_seal.json'
+import runemark_of_psionic from './../../data/spells/spells-ixin/tier3/runemark_of_psionic.json'
+import runic_block from './../../data/spells/spells-ixin/tier3/runic_block.json'
+import stabilize from './../../data/spells/spells-ixin/tier3/stabilize.json'
+import super_runic_trail from './../../data/spells/spells-ixin/tier3/super_runic_trail.json'
+import superior_rune_bash from './../../data/spells/spells-ixin/tier3/superior_rune_bash.json'
+import suspension_seal from './../../data/spells/spells-ixin/tier3/suspension_seal.json'
+import zigurate_pillar from './../../data/spells/spells-ixin/tier3/zigurate_pillar.json'
+
+import energy_spheres from './../../data/spells/spells-ixin/tier4/energy_spheres.json'
+import energy_fluid from './../../data/spells/spells-ixin/tier4/energy_fluid.json'
+import joromur_arrows from './../../data/spells/spells-ixin/tier4/joromur_arrows.json'
+import master_of_runemark from './../../data/spells/spells-ixin/tier4/master_of_runemark.json'
+import nullify from './../../data/spells/spells-ixin/tier4/nullify.json'
+import runic_overcharge from './../../data/spells/spells-ixin/tier4/runic_overcharge.json'
+import runic_rays from './../../data/spells/spells-ixin/tier4/runic_rays.json'
+import ixin_simulation from './../../data/spells/spells-ixin/tier4/ixin_simulation.json'
+import seal_of_final_judgement from './../../data/spells/spells-ixin/tier4/seal_of_final_judgement.json'
+import zigurate_essence from './../../data/spells/spells-ixin/tier4/zigurate_essence.json'
+
+import eyes_of_the_zigurat from './../../data/spells/spells-ixin/ultimates/eyes_of_the_zigurat.json'
+import runelar_irruption from './../../data/spells/spells-ixin/ultimates/runelar_irruption.json'
+
+![Ixin.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png)
+
 Os **Adeptos de Ixin** são lutadores corpo-a-corpo que utilizam a **Energia Rúnica** para desferir ataques Ofensivos e de Controle do tempo e espaço.
 
 Utilizando as **Runas Templárias** eles são capazes de materializar **Feixes de Luzes** poderosos, **Linhas Etéreas**, **Selos** e uma série de combinações Ofensivas e utilitárias.
 
-Devido a natureza do seu treinamento, os **Ixinianos** são treinados a combater utilizando  **Bastões Longos** e **Manoplas de Energia**.
+Devido a natureza do seu treinamento, os **Ixinianos** são treinados a combater utilizando  **Bastões**, **Prismas** e **Espadas**.
 
 Na doutrina de Ixin, três **Runas Templárias** são usadas para representar a Força, a Manutenção e a Reatividade, conhecidos como *Urt, o Xah, e o Rah.*
 
@@ -82,6 +136,18 @@ Nos dias de hoje, os **Templos de Ixin** se tornaram locais sagrados para o estu
 
 Ixin documentou com detalhe as doutrinas e procedimentos necessários para domar o Grimo. Seus ricos relatos sobre os Templos, os Fundadores, os segredos do Artefato e a Profecia foram cruciais na disseminnação do conhecimento da Energia Rúnica para as novas gerações *pós-Blecaute*.
 
+## Armas Iniciais
+
+Você pode escolher entre duas armas iniciais:
+
+| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
+| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | ----- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 | Físico | D12 + 3 | Bastão comum embedado em energia rúnica. | 3 Cargas | Agilidade | Impacto |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto | Perfuração |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 | Físico | D12 + 3 | Espada comum embedada com energia rúnica. | 3 Cargas | Força | Cortante |
+
+**A distância padrão para Armas de Alcance é de 6 quadrados.*
+
 ## Requisito de entrada
 
 As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
@@ -91,44 +157,76 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 - Passar no teste prático de resistência à Radiação Rúnica rolando um d100 e somando seu **Resiliência * 5**. (Dificuldade = 75). Caso falhe no teste, você só poderá tentar novamente no ano que vem. Essa cláusula é inegociável por questões de segurança.
 
 ## Poderes do Grimo
+
+:::info Marcas Rúnicas
+Alguns poderes podem conter a palavra "Marcas Rúnicas" no nome. Esses são poderes especiais do **Grimo de Ixin** que sempre devem ser utilizados como <b>Ações Maiores</b>.
+
+As Marcas **encantam a arma ativa** do Ixiniano, mas apenas uma marca pode estar ativa simultaneamente, a menos que outro poder diga o contrário. Essa regra é valida inclusive para o caso do Ixiniano portar duas armas.
+
+Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, não é necessário gastar uma ação para remover a marca, mas caso queira, o Ixiniano pode remover a Marca como uma Ação Livre)*
+:::
 ### Especial
 
-- Arremesso Rúnico: Lança sua arma ao ar, em um poderoso arremesso rúnico em até 7 quadrados. A arma é lançada para o ar, mas crava magicamente em um ponto alvo gerando uma explosão 4x4 que causa `TIER*(d10 + 12)` de dano a todos inimigos na área. Os inimigos também são arremessados 1 quadrado na direção oposta da arma, sendo também derrubados no processo.
-Se o ponto alvo do arremesso for um inimigo, ele também recebe `TIER*1d10` de dano adicional.
-Esse poder funciona como uma **Ação Livre**, logo, o Adepto pode se movimentar e agir normalmente.
+<SpellFromJson expanded={false} spellData={runelar_irruption} />
+<SpellFromJson expanded={false} spellData={eyes_of_the_zigurat} />
 
 ### Habilidades - Tier 1
 
-- Míssel Rúnico: Conjura uma runa que se transforma em um míssil mágico para atingir o alvo e causar dano.
-
-- Lâmina Rúnica: Encanta a arma com um selo rúnico.
-
-- Armadura Rúnica: Conjura um selo na própria armadura.
-
-- Armadilha Rúnica: Conjura uma armadilha que quando toca um inimigo gera uma explosão de 2x2.
-
-- Salto Rúnico: Conjura uma runa sólida que permite ao conjurador realizar um salto duplo e finalizar com um ataque aéreo que causa dano.
-
-- Velocidade Rúnica: Pode ser usado como uma ação de reação e aumenta sua velocidade em +3. (tem custo de magia)
-
-- Selo Magnético: Conjura um selo 2x2 no chão que atrai qualquer alvo que estiver. É necessário gastar 3 pontos de Movimento para se mover 1 quadrado para fora da área. Alvos adjacentes ao selo são puxados para qualquer espaço livre dentro da área do selo.
-
-- Proteção Rúnica: Conjura um selo em um aliado, que se quebra ao ser atingido, causando metade de dano no aliado e metade no inimigo.
-
-- Runa da Restauração: Conjura uma Runa de restauração em um alvo. Quando este receber dano, cure `1d6` após o dano recebido. Pode ser usado como ação de reação ao exatamente no momento em que se inicia o turno de um inimigo.
-
-- Selo do Retardo: Conjura uma Runa de retardo em um alvo. Quando ele passar pela Runa, receberá -2 de Movimento. Pode ser usado durante o movimento de um inimigo.
-
-- Selo da Repulsão
+<SpellFromJson expanded={false} spellData={absorv_energy} />
+<SpellFromJson expanded={false} spellData={anti_air_beam} />
+<SpellFromJson expanded={false} spellData={control_energy} />
+<SpellFromJson expanded={false} spellData={drain_and_acelerate} />
+<SpellFromJson expanded={false} spellData={impact_jump} />
+<SpellFromJson expanded={false} spellData={prisma_overcharge} />
+<SpellFromJson expanded={false} spellData={repel_enemy} />
+<SpellFromJson expanded={false} spellData={runemark_of_corruption} />
+<SpellFromJson expanded={false} spellData={runemark_of_empowerment} />
+<SpellFromJson expanded={false} spellData={runic_bash} />
+<SpellFromJson expanded={false} spellData={runic_trails} />
+<SpellFromJson expanded={false} spellData={store_energy} />
 
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
+<SpellFromJson expanded={false} spellData={anti_missile_seal} />
+<SpellFromJson expanded={false} spellData={chakram} />
+<SpellFromJson expanded={false} spellData={charged_kick} />
+<SpellFromJson expanded={false} spellData={critical_hit} />
+<SpellFromJson expanded={false} spellData={disruption} />
+<SpellFromJson expanded={false} spellData={extramaterial_conductivity} />
+<SpellFromJson expanded={false} spellData={glare} />
+<SpellFromJson expanded={false} spellData={interrupt} />
+<SpellFromJson expanded={false} spellData={remote_manipulation} />
+<SpellFromJson expanded={false} spellData={runic_orbs} />
+<SpellFromJson expanded={false} spellData={weapon_toss} />
+
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
+<SpellFromJson expanded={false} spellData={counter_attack} />
+<SpellFromJson expanded={false} spellData={energy_tethers} />
+<SpellFromJson expanded={false} spellData={judgement_seal} />
+<SpellFromJson expanded={false} spellData={runemark_of_psionic} />
+<SpellFromJson expanded={false} spellData={runic_block} />
+<SpellFromJson expanded={false} spellData={stabilize} />
+<SpellFromJson expanded={false} spellData={super_runic_trail} />
+<SpellFromJson expanded={false} spellData={superior_rune_bash} />
+<SpellFromJson expanded={false} spellData={suspension_seal} />
+<SpellFromJson expanded={false} spellData={zigurate_pillar} />
+
 ### Habilidades - Tier 4
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
+
+<SpellFromJson expanded={false} spellData={seal_of_final_judgement} />
+<SpellFromJson expanded={false} spellData={energy_spheres} />
+<SpellFromJson expanded={false} spellData={energy_fluid} />
+<SpellFromJson expanded={false} spellData={joromur_arrows} />
+<SpellFromJson expanded={false} spellData={master_of_runemark} />
+<SpellFromJson expanded={false} spellData={nullify} />
+<SpellFromJson expanded={false} spellData={runic_overcharge} />
+<SpellFromJson expanded={false} spellData={runic_rays} />
+<SpellFromJson expanded={false} spellData={ixin_simulation} />
+<SpellFromJson expanded={false} spellData={zigurate_essence} />

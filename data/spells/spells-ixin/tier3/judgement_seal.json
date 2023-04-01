@@ -1,0 +1,15 @@
+{
+  "name": "Marca Rúnica do Julgamento",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRuneStone",
+  "element": null,
+  "caption": "Uma rune se materializa em sua arma, energizando sua arma para derrubar um inimigo com um único ataque.",
+  "description": "<p>Esse poder não exige testes mas só pode ser aplicado <b>uma única vez por combate</b>.</p><p>Você pode utilizar <b>Marca Rúnica do Julgamento</b> como uma <b>ação de ataque</b> para conjurar uma <b>Runa do Julgamento</b> em sua arma.</p><p>No seu próximo turno, se você for <b>bem sucedido num ataque normal</b> contra um inimigo comum, este terá seus Pontos de Vida <b><u>reduzidos a 1 P.V.</u></b></p><p>Inimigos do tipo Líder, Nêmesis ou superior não podem ser afetados por <b>Marca Rúnica do Julgamento</b>.</p><p>Caso você não ataque no próximo turno, ou caso erre o ataque, a runa é <b>dissolvida</b> de sua arma e precisará ser conjurada novamente. No caso de falha, <b>você pode re-tentar</b> quantas vezes quiser, mas assim que for bem sucedido, <b>não poderá</b> mais conjurar a runa neste combate.</p><p>Se outras <b>marcas rúnicas</b> estiverem ativas no momento de ativação deste poder, elas serão canceladas instantaneamente.</p>",
+  "tags": ["grimo","ixin"]
+}

@@ -148,6 +148,8 @@ export function Spell ({
       }
   }
 
+  const isSacrifice = tags.includes('sacrifice')
+
   return (
     <div onClick={onClick} className={`${styles['spell-block']} ${backgroundColor()}`}>
         <div
@@ -155,6 +157,11 @@ export function Spell ({
           onClick={e => { setExpandToggle(!expandToggle) }}
         >
             <div className={styles['spell-block__col1']}>
+                <div className={styles['spell-block__iconleft']}>
+                    {isSacrifice && (
+                        <TagLabel mode={mode} classNames={`${styles['spell-block__sacrifice']}`}>Sacrifício</TagLabel>
+                    )}
+                </div>
                 <div className={styles['spell-block__iconleft']}>
                     {attack_logic && (
                         <TagLabel mode={mode}>{attack_logic}</TagLabel>

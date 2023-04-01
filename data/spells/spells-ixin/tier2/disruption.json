@@ -1,0 +1,15 @@
+{
+  "name": "Disrupção",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBreakingChain",
+  "element": null,
+  "caption": "Cancela qualquer efeitos positivos que possam estar afetando um alvo.",
+  "description": "<p>Escolha um alvo e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Caso seja bem sucedido,</b> qualquer efeito positivo que esteja beneficiando o alvo escolhido será removido/dissipado instantaneamente.</p><p>Efeitos de caráter <b>especial ou lendário</b> não podem ser removidos por este poder. (consultar narrador)</p>",
+  "tags": ["grimo","ixin"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Salto de Impacto",
+  "magic_cost": "7 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "10",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiDeadlyStrike",
+  "element": null,
+  "caption": "Pula carregando um ataque poderoso que causa dano a vários alvos e os empurra para trás.",
+  "description": "<p>Escolha um ponto não ocupado. Você salta neste ponto, carregando um ataque com sua arma.</p><p>Ao aterrissar, você causa <code>Dano da Arma + TIER * 2d8</code> a um alvo adjacente caso passe num teste contra a <b>Defesa Física</b> dele. Em seguida, <b>metade desse dano</b> <i>(arredondado para cima)</i> é causado instantaneamente <i>(não requer testes)</i> a todos os inimigos adjacentes ao inimigo atacado inicialmente. Todos os alvos são afligidos por <code>Empurrar 1</code>.</p><p>Pular no espaço escolhido não consome sua <b>Ação de Movimento</b>.</p>",
+  "tags": ["grimo","ixin"]
+}

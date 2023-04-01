@@ -1,0 +1,15 @@
+{
+  "name": "Sobrecarga Prismática",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiShiningSword",
+  "element": null,
+  "caption": "Sobrecarrega seu próximo ataque, causando uma explosão que atinge varios inimigos.",
+  "description": "<p>Use este poder como uma <b>Ação de Ataque</b>.</p><p>Sobrecarrega sua arma com energia rúnica. No turno que for usado, você não poderá atacar a menos que outro poder diga o contrário.</p><p>No próximo turno, sua arma estará irradiando energia rúnica, e ao atacar um alvo com um ataque normal, todos <b>inimigos adjacentes</b> serão atingidos com a energia do seu poder, recebendo <b>metade do dano</b> aplicado ao alvo principal.</p><p>Você deverá fazer um teste contra a defesa do inimigo que será atacado, e ele só receberá dano <b>caso você seja bem sucedido</b>. Porém, mesmo que <b>erre o ataque</b>, você pode rolar o dano, porque os inimigos em volta receberão metade deste dano mesmo que você erre o ataque no alvo principal.</p><p>O dano nos inimigos adjacentes <b>não pode ser defendido, aparado ou reduzido</b> de qualquer forma, até mesmo se tiverem escudos ou proteções mágicas ativas.</p>",
+  "tags": ["grimo","ixin"]
+}

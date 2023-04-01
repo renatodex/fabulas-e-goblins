@@ -1,0 +1,15 @@
+{
+  "name": "Clarão",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Circular",
+  "range_amount": "5",
+  "icon": "GiSunbeams",
+  "element": null,
+  "caption": "Conjura um poderoso brilho runico que causa cegueira a todos em volta do conjurador.",
+  "description": "<p>Esse poder não exige testes.</p><p>Todos os alvos num raio (circular) de <code>5 espaços</code> em volta de você são infrinigidos com <code>Cegueira 1</code>.</p>",
+  "tags": ["grimo","ixin"]
+}

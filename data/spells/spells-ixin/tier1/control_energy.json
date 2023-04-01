@@ -1,0 +1,15 @@
+{
+  "name": "Ação: Controlar Energia",
+  "magic_cost": "1 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "4",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiRollingEnergy",
+  "element": null,
+  "caption": "Permite controlar qualquer dispositivo baseado em energia rúnica.",
+  "description": "<p>Como uma <b>Ação Maior</b> Você pode ativar, desativar ou <b>manipular facilmente</b> qualquer dispositivo que seja <b>baseado em energia rúnica</b> (não se aplica a eletricidade).</p><p>As manobras ou operações que você pode realizar estão restritas aos limites que esse dispositivo deve respeitar, mas nada lhe impede de sugerir formas criativas de manipular essa energia.</p>",
+  "tags": ["grimo","ixin"]
+}

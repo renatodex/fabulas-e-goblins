@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Trilha Rúnica Superior",
+  "magic_cost": "12 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Linha",
+  "range_amount": null,
+  "icon": "GiDivergence",
+  "element": null,
+  "caption": "Conjura quatro três trilhas de energia rúnica que se estendem em direções diferentes atingindo todos inimigos que tocam.",
+  "description": "<p>Aprimora o poder <b>Trilha Rúnica</b>, aumentando seu alcance e passando a disparar <b>3 Trilhas simultâneas</b>, permitindo que <b>façam curvas</b> em seu trajeto. (exige <b>Trilha Rúnica</b>)</p><p>Escolha três direções para conjurar <b>linhas de energia runica no chão</b> que se extendem por até <b>5 espaços</b> à sua frente.</p><p>Para cada inimigo atingido no caminho das trilhas, faça um teste contra sua <b>Defesa Mágica</b>.</p><p>Se for bem sucedido, você causa <code>TIER * (2d8 + 12)</code> de dano mágico não elemental, além de infringir <code>Sobrecarregar 1</code>.</p><p>Se as trilhas cruzarem seus trajetos, podem atingir o mesmo inimigo múltiplas vezes.</p><p>O Custo deste poder aumenta para <code>18 P.M</code> no <b>Tier 4</b>.</p>",
+  "tags": ["grimo","ixin"]
+}

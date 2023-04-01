@@ -18,7 +18,7 @@ Ao se virar, era possível notar uma beleza inerente em sua anatomia, algo exót
 
 ## Descrição
 
-Os Luminins são pequenas criaturas humanóides que possuem alto grau de sensciencia e uma sociedade organizada.
+Os Luminins são pequenas criaturas de forma humanóide que possuem alto grau de sensciencia e uma sociedade organizada.
 Um indivíduo adulto pode chegar a uma média de 1,30m, sendo consideravelmente pequeno até mesmo comparados com raças anatomicamente menores como Armadons.
 
 Seus corpos possuem uma bioluminescência natural, emitindo um brilho de tonalidade púrpura, que se extende por seu corpo todo, dos pés a cabeça.
@@ -28,7 +28,7 @@ Assim como um membro físico, a emissão de Luz também pode ser dimerizada por 
 
 ## Anatomia
 
-Essas criaturas são humanóides, possuindo membros superiores e inferiores encurtados.
+Essas criaturas tem forma humanóide, possuindo membros superiores e inferiores encurtados.
 De seus braços saem pequenas protuberâncias similares aos sensores nas patas de criaturas insectóides, que reagem e se modulam em uma micro frequência, possuindo alto grau de sensibilidade a luz.
 Devido a esses sensz, os Luminins são capazes de detectar focos de luz não visíveis a até um kilômetro de distância.
 Alem disso, podem levitar naturalmente devido a capacidade anatômica de regular sua densidade interior
