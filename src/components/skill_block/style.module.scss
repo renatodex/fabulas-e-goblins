@@ -102,6 +102,14 @@ html[data-theme='dark'] {
         background-color: #018f94;
     }
 
+    &__sacrifice {
+        background-color: #e8be14 !important;
+    }
+
+    &__iconleft {
+        margin-right: 10px;
+    }
+
     &__iconright {
         margin-left: auto;
         @media only screen and (min-width: 800px) {

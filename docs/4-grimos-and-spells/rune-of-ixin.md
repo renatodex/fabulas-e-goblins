@@ -62,7 +62,7 @@ Os **Adeptos de Ixin** são lutadores corpo-a-corpo que utilizam a **Energia Rú
 
 Utilizando as **Runas Templárias** eles são capazes de materializar **Feixes de Luzes** poderosos, **Linhas Etéreas**, **Selos** e uma série de combinações Ofensivas e utilitárias.
 
-Devido a natureza do seu treinamento, os **Ixinianos** são treinados a combater utilizando  **Bastões Longos** e **Manoplas de Energia**.
+Devido a natureza do seu treinamento, os **Ixinianos** são treinados a combater utilizando  **Bastões**, **Prismas** e **Espadas**.
 
 Na doutrina de Ixin, três **Runas Templárias** são usadas para representar a Força, a Manutenção e a Reatividade, conhecidos como *Urt, o Xah, e o Rah.*
 
@@ -140,11 +140,11 @@ Ixin documentou com detalhe as doutrinas e procedimentos necessários para domar
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 | Físico | D12 + 3 | Bastão comum embedado em energia rúnica. | 3 Cargas | Agilidade |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 | Físico | D12 + 3 | Espada comum embedada com energia rúnica. | 3 Cargas | Força |
+| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Dano |
+| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | ----- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 | Físico | D12 + 3 | Bastão comum embedado em energia rúnica. | 3 Cargas | Agilidade | Impacto |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto | Perfuração |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 | Físico | D12 + 3 | Espada comum embedada com energia rúnica. | 3 Cargas | Força | Cortante |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
@@ -220,6 +220,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
+<SpellFromJson expanded={false} spellData={seal_of_final_judgement} />
 <SpellFromJson expanded={false} spellData={energy_spheres} />
 <SpellFromJson expanded={false} spellData={energy_fluid} />
 <SpellFromJson expanded={false} spellData={joromur_arrows} />
@@ -229,4 +230,3 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={runic_rays} />
 <SpellFromJson expanded={false} spellData={ixin_simulation} />
 <SpellFromJson expanded={false} spellData={zigurate_essence} />
-<SpellFromJson expanded={false} spellData={seal_of_final_judgement} />

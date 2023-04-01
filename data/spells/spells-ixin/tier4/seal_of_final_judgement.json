@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Como sua última ação, você se transforma em um astro de pura energia, convocando o poder supremo para deixar qualquer oponente de joelhos.",
   "description": "<p>Os efeitos deste poder são <b>irreversíveis</b> e podem culminar no <b>sacrifício</b> do seu personagem.</p><p>Escolha um inimigo de qualquer tipo.</p><p>Você salta no ar conjurando toda a energia do seu Grimo, transformando-se em um <b>astro de pura energia</b> e disparando um feixe que reduz a vida do inimigo para <code>1 P.V</code>.</p><p>Este poder funciona em qualquer alvo e <b>ignora completamente sua defesa</b> (logo, não é necessário realizar um teste para atacar). Além disso, qualquer forma de redução de dano que o alvo possua não pode ser ativada para este poder.</p><p>Ao final do poder, você deve rolar um <code>d100</code>.</p><p><b>Caso o resultado seja acima de 95</b>, o <b>Ixiniano</b> consegue reverter o <b>astro de energia</b> sem grandes danos. A Marca só poderá ser usada novamente no dia seguinte.</p><p><b>Caso o resultado seja inferior a 95</b>, o <b>Ixiniano</b> desaparece no <b>astro de energia</b>, sacrificando-se no processo.</p>",
-  "tags": ["grimo","ixin"]
+  "tags": ["grimo","ixin","sacrifice"]
 }
