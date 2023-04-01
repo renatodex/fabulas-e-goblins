@@ -2,6 +2,7 @@
 id: rune-of-ixin
 title: Selo de Ixin
 slug: /4-grimos-and-spells/rune-of-ixin
+image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
@@ -56,9 +57,9 @@ import zigurate_essence from './../../data/spells/spells-ixin/tier4/zigurate_ess
 import eyes_of_the_zigurat from './../../data/spells/spells-ixin/ultimates/eyes_of_the_zigurat.json'
 import runelar_irruption from './../../data/spells/spells-ixin/ultimates/runelar_irruption.json'
 
-![Ixin.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png)
+![Os Ixinianos são poderosos lutadores corpo-a-corpo que utilizam a Energia Rúnica para desferir ataques Ofensivos...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png)
 
-Os **Adeptos de Ixin** são lutadores corpo-a-corpo que utilizam a **Energia Rúnica** para desferir ataques Ofensivos e de Controle do tempo e espaço.
+Os **Adeptos de Ixin** são lutadores corpo-a-corpo que utilizam a **Energia Rúnica** para desferir poderosos ataques Ofensivos.
 
 Utilizando as **Runas Templárias** eles são capazes de materializar **Feixes de Luzes** poderosos, **Linhas Etéreas**, **Selos** e uma série de combinações Ofensivas e utilitárias.
 
