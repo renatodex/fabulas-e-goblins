@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Mestre das Marcas Rúnicas",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiIciclesAura",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Você se torna um só com o conhecimento rúnico, e passa a poder ativar múltiplas Marcas Rúnicas.",
+  "description": "<p>Você passa a poder ativar <b>mais de uma Marca Rúnica</b> simultaneamente. Você ainda precisará gastar <b>1 Ação Maior</b> para cada Marca que queira ativar, o que pode durar vários turnos. Mas as Marcas que foram ativadas no turno anterior não serão mais substituídas pelas novas marcas. Ao invés disso, terão seus efeitos somados.</p><p>Quando <b>duas ou mais auras</b> estiverem ativas, aliados não serão mais beneficiados ou prejudicados por efeitos das Marcas.</p>",
   "tags": ["grimo","ixin"]
 }

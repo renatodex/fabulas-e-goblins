@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Flechas de Joromur",
+  "magic_cost": "3 P.M por alvo",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
+  "range_type": "Global",
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiStrikingArrows",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Você emerge no ar para conjurar uma tempestade de Flechas rúnicas que atingem todos inimigos no combate.",
+  "description": "<p>Teste seu <b>Ataque Mágico</b> contra cada inimigo no combate.</p><p>Cada inimigo que falhar receberá <code>4d20 + 30</code> de dano mágico  não elemental.</p><p>No próximo turno de cada alvo atingido pela <b>Flecha de Joromur</b>, ele não poderá recuperar <b>Pontos de Vida</b>, nem mesmo através de efeitos de cura que estejam em andamento. Isso significa que qualquer efeito que recuperaria a vida de um desses alvos, recupera um total de <code>0 P.V</code>.</p>",
   "tags": ["grimo","ixin"]
 }

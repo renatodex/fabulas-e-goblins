@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Esfera de Energia",
+  "magic_cost": "30 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
+  "range_type": "Sí mesmo",
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiConcentricCrescents",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
+  "caption": "Você conjura uma esfera azul de magia pura, que se vincula a você e pode ser consumida para regenerar seu Elo.",
+  "description": "<p>Apenas após um <b>descanso longo</b>, você pode conjurar uma <b>esfera de energia</b> sem realizar testes.</p><p>A esfera contém armazenada em sí <code>4d20 P.M</code>.</p><p>A Esfera é imune a dano físico e mágico, e enquanto estiver ativa, você receberá um bônus temporário de <code>2d20</code> em <b>Ataques físicos</b>.</p><p>A qualquer momento, você pode consumir a esfera para absorver os <b>Pontos de Magia</b> armazenados nela. Se o fizer, o Bônus de Dano de ataque é perdido.</p><p></p>",
   "tags": ["grimo","ixin"]
 }

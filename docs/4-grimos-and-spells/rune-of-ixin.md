@@ -43,13 +43,13 @@ import suspension_seal from './../../data/spells/spells-ixin/tier3/suspension_se
 import zigurate_pillar from './../../data/spells/spells-ixin/tier3/zigurate_pillar.json'
 
 import energy_spheres from './../../data/spells/spells-ixin/tier4/energy_spheres.json'
-import heroic_decay from './../../data/spells/spells-ixin/tier4/heroic_decay.json'
+import energy_fluid from './../../data/spells/spells-ixin/tier4/energy_fluid.json'
 import joromur_arrows from './../../data/spells/spells-ixin/tier4/joromur_arrows.json'
 import master_of_runemark from './../../data/spells/spells-ixin/tier4/master_of_runemark.json'
 import nullify from './../../data/spells/spells-ixin/tier4/nullify.json'
 import runic_overcharge from './../../data/spells/spells-ixin/tier4/runic_overcharge.json'
 import runic_rays from './../../data/spells/spells-ixin/tier4/runic_rays.json'
-import runic_storm from './../../data/spells/spells-ixin/tier4/runic_storm.json'
+import ixin_simulation from './../../data/spells/spells-ixin/tier4/ixin_simulation.json'
 import seal_of_final_judgement from './../../data/spells/spells-ixin/tier4/seal_of_final_judgement.json'
 import zigurate_essence from './../../data/spells/spells-ixin/tier4/zigurate_essence.json'
 
@@ -221,23 +221,12 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
 <SpellFromJson expanded={false} spellData={energy_spheres} />
-<SpellFromJson expanded={false} spellData={heroic_decay} />
+<SpellFromJson expanded={false} spellData={energy_fluid} />
 <SpellFromJson expanded={false} spellData={joromur_arrows} />
 <SpellFromJson expanded={false} spellData={master_of_runemark} />
 <SpellFromJson expanded={false} spellData={nullify} />
 <SpellFromJson expanded={false} spellData={runic_overcharge} />
 <SpellFromJson expanded={false} spellData={runic_rays} />
-<SpellFromJson expanded={false} spellData={runic_storm} />
-<SpellFromJson expanded={false} spellData={seal_of_final_judgement} />
+<SpellFromJson expanded={false} spellData={ixin_simulation} />
 <SpellFromJson expanded={false} spellData={zigurate_essence} />
-
-☐ Runa do Julgamento Final: Pode reduzir a vida de qualquer criatura em 1, ao custo de sua própria vida.
-☐ Anulamento: Se um dano a você for fatal, você pode absorve-lo como energia pura e  redireciona-lo de volta ao atacante, somando a esse dano Xd12 e afastando o alvo 4 quadrados. Você recebe o dano mesmo assim e fica com 1 de vida.
-☐ Flechas de Joromur: Conjura uma tempestade de Flechas runicas que atingem todos inimigos (Global)
-☐ Decair Heróico: Sacrifica visa para ter mais dano.
-☐ Raios Runicos: Até 8 feixes de energia runica se formam atravez de runas no ar, afunilando em um poderoso feixe que atinge um unico inimigo.
-☐ Esfera de Energia: Ao inicio do dia, você pode conjurar uma esfera de energia que contem magia pura, e pode ser consumida em combate para regenerar seus Pontos de Magia, além de fornecer dano extra.
-☐ Julgamento Runico (Tempestade Runica): você emerge no ar para conjurar uma tempestade de energia. Uma serie de feixes runicos atingem os inimigos do céu, causando 3 instancias de dano em cada (global). Precisa estar ao ar livre.
-☐ Sobrecarga Runica: Cada inimigo abatido por um ataque runico libera uma explosão de energia num raio de 2 quadrados que causa dano a todos inimigos em volta.
-☐ Aura Áurea (Mestre dos Selos Runicos): Você pode conjurar todas as auras simultaneamente com uma única ação. As auras não afetam mais aliados.
-☐ Essência do Zigurate: Seu corpo adquire um estranho brilho sutil que parece conceder grande poder. Você se torna imune a qualquer fonte de Dano de Energia rúnica, não pode ser mais barrado por domos ou proteções ou ser afetado por maldições feitas com essa energia, além de absorver qualquer dano de energia rúnica que seria causado contra você. Como consequência, você recebe uma penalização permanente de 30 P.V.
+<SpellFromJson expanded={false} spellData={seal_of_final_judgement} />
