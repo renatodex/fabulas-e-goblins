@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Conjurar/Alterar Mensagem",
+  "magic_cost": "3 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiScrollUnfurled",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Enfeitiça um ou mais alvos para que acreditem que uma mensagem inscrita ou desenhada em um objeto é legítima.",
+  "description": "<p>Escolha um objeto existente que você possa ver e que caiba em suas mãos. Você pode usar este poder para conjurar uma mensagem ou alterar uma mensagem ou escrito existente em um objeto.</p><p>Para que o feitiço funcione, você precisa ter contato próximo com este objeto, seja contato visual próximo, ou contato físico.</p><p>Em seguida, faça um <b>Teste de Desafio</b> do seu atributo <b>Influência</b>.</p><p>Esse teste serve para dois propósitos: Formar a mensagem ou informação no objeto em questão e também convencer um ou mais alvos de que aquela mensagem é verdadeira.</p><p>A dificuldade padrão do teste é <code>14</code>, mas o Narrador pode aumentar ou diminuir a dificuldade conforme o nível de Erudição das vítimas a serem enganadas. <i>(As vezes, pode acontecer do nível de Erudição das vítimas ser baixo, mas a reprodução da mensagem pode ser complexa, o que também aumentaria a dificuldade do teste.)</i></p><p><b>Se for bem sucedido,</b> as vítimas assumem que sua mensagem é legítima e são enganadas pela sua atuação.</p><p><b>Se não for bem sucedido</b>, as vítimas não só percebem que a mensagem é falsa, mas percebem também que você tentou enfeitiçá-las, e vão reagir de forma apropriada.</p><p>A mensagem dura por <code>(Influência * 30) minutos</code>, mas só funciona com as vítimas enfeitiçadas. Para novas vítimas que surgirem, você deverá usar <code>Conjurar Mensagem</code> novamente.</p><p><i>Repare que não é necessário que você faça um teste de Influência para cada vítima a ser enganada com <code>Conjurar Mensagem</code>, fazemos isso pois o que importa para o Narrador na verdade é o nível de Erudição mais alto entre as vítimas, então se você estiver no portão da cidade, e precisar convencer um Soldado e seu Capitão, é o nível do Capitão que o Narador deverá considerar para a dificuldade do teste.</i></p>",
+  "tags": ["grimo","qatun"]
 }

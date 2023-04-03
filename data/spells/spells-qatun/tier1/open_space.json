@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Abrir Espaço",
+  "magic_cost": "3 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
+  "range_type": "Circular",
+  "range_amount": "3x3",
   "icon": "GiBoltSpellCast",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Conjura um impulso sônico em volta de si que empurra todos alvos adjacentes em até 3 espaços.",
+  "description": "<p>Use a qualquer momento durante o seu turno no lugar de uma <b>ação de ataque</b>.</p><p>As unidades em volta do Qatuniano <b>não podem bloquear</b> o impulso sônico.</p><p>Todas as unidades são empurradas na <b>direção oposta</b> ao personagem sem receber dano, mesmo que sejam empurradas contra um obstáculo. (a intensidade do impulso não é grande o suficiente para causar dano)</p><p><b>Unidades grandes</b> também podem ser empurradas pela onda, mas unidades <b>Enormes ou maiores</b> não são afetadas pelo efeito do impulso.</p><p>No <b>Tier 3</b>, este poder se auto-aprimora, passando a afetar criaturas Enormes.</p><p>No <b>Tier 4</b>, este poder se auto-aprimora novamente, aumentando incrívelmente sua intensidade, e passando a afetar criaturas de categoria Titã.</p>",
+  "tags": ["grimo","qatun"]
 }

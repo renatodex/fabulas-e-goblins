@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Conjurar Objeto",
+  "magic_cost": "3 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "range_type": "Ponto",
+  "range_amount": "1",
+  "icon": "GiCube",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Você pode conjurar um objeto simples em uma determinada coordenada. A ilusão é temporária e se desfaz se for tocada.",
+  "description": "<p>Pense em um objeto simples que seja no máximo do tamanho de uma criatura padrão. Para que o feitiço funcione, você precisa ter contato visual para poder conjurar o objeto.</p><p>Em seguida, faça um <b>Teste de Desafio</b> do seu atributo <b>Influência</b>.</p><p>Esse teste serve para dois propósitos: Materializar o objeto em questão e também convencer um ou mais alvos de que aquele objeto é real.</p><p>A quantidade de vezes que você viu o objeto pessoalmente vai influenciar na penalidade do teste:</p><ul><li><b>Nenhuma vez:</b> Penalidade -4.</li><li><b>Uma vez:</b> Penalidade -2.</li><li><b>Até 3 vezes:</b> Penalidade -1.</li><li><b>Mais do que 3:</b> Nenhuma penalidade.</li></ul><p>A dificuldade padrão do teste é <code>14</code>, mas o Narrador pode aumentar ou diminuir a dificuldade conforme o nível de Erudição das vítimas a serem enganadas. <i>(As vezes, pode acontecer do nível de Erudição das vítimas ser baixo, mas o objeto possuir detalhes que sejam difíceis de reproduzir para deixá-lo fidedigno, o que também aumentaria a dificuldade do teste.)</i></p><p><b>Se for bem sucedido,</b> as vítimas assumem que o objeto é real e são enganadas pela sua atuação.</p><p><b>Se não for bem sucedido</b>, as vítimas não só percebem que o objeto é uma ilusão, mas percebem também que você tentou enfeitiçá-las, e vão reagir de forma apropriada.</p><p>A <b>ilusão do objeto</b> pode durar por até <code>(Influência * 30) minutos</code>, mas apenas as <b>vítimas enfeitiçadas</b> podem vê-lo. Para novas vítimas que precisem acreditar na ilusão, você deverá usar <code>Conjurar Objeto</code> novamente, mas nesse caso, não é preciso conjurar um novo objeto, você faz o teste novamente apenas para convencer as vítimas que a ilusão é real.</p><p>Você só pode conjurar objetos inanimados simples, e não pode usar este poder para conjurar <b>objetos com mensagem ou textos escritos</b>, ou para conjurar <b>pessoas</b>, <b>animais</b> ou efeitos mágicos como <b>focos de incêncio</b> ou <b>outros efeitos mágicos</b>. Além disso, <b>se o objeto for tocado</b>, a ilusão se <b>desfaz completamente</b> e as vítimas perceberão que foram enganadas.</p><p><i>Repare que não é necessário que você faça um teste de Influência para cada vítima a ser enganada com <code>Conjurar Objeto</code>, fazemos isso pois o que importa para o Narrador na verdade é o nível de Erudição mais alto entre as vítimas, então se você estiver no portão da cidade, e precisar convencer um Soldado e seu Capitão que você possui determinado objeto, é o nível do Capitão que o Narador deverá considerar para a dificuldade do teste.</i></p>",
+  "tags": ["grimo","qatun"]
 }

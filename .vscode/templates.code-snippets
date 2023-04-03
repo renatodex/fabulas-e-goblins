@@ -35,5 +35,13 @@
 			"${1|GiBoltSpellCast,GiRingedBeam,GiSunbeams,GiBeamsAura,GiMagicPalm,GiHealing,GiArmoredPants,GiWingedShield,GiPointySword,GiHabitatDome,GiMucousPillar,GiAwareness,GiLinkedRings,GiInvisible,GiGhost,GiWildfires,GiUpgrade|}",
 		],
 		"description": "Template for generating icon for a Spell"
+	},
+	"CloseStartParagraph": {
+		"scope": "json",
+		"prefix": "cpp",
+		"body": [
+			"${1|</p><p>|}",
+		],
+		"description": "Template for generating icon for a Spell"
 	}
 }
