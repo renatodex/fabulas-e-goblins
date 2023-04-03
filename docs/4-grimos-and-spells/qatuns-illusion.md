@@ -11,7 +11,7 @@ import alter_face from './../../data/spells/spells-qatun/tier1/alter_face.json'
 import conjure_message from './../../data/spells/spells-qatun/tier1/conjure_message.json'
 import conjure_object from './../../data/spells/spells-qatun/tier1/conjure_object.json'
 import conjure_person from './../../data/spells/spells-qatun/tier1/conjure_person.json'
-import cryptograph from './../../data/spells/spells-qatun/tier1/cryptograph.json'
+import read_mind from './../../data/spells/spells-qatun/tier1/read_mind.json'
 import inimify from './../../data/spells/spells-qatun/tier1/inimify.json'
 import invisible_needles from './../../data/spells/spells-qatun/tier1/invisible_needles.json'
 import lift_target from './../../data/spells/spells-qatun/tier1/lift_target.json'
@@ -90,7 +90,7 @@ O objeto materializado pode ser dissolvido a qualquer momento.
 
 ### 2. Manipular Mente (6 P.M)
 
-Coloca um alvo em transe temporário, tornando sua mente aberta para algumas manipulações simples:
+Escolha um alvo que não esteja enfurecido ou em combate. Você o coloca em transe por alguns instantes, tornando sua mente aberta para algumas manipulações simples:
 
 1. Você pode fazer com que o Alvo siga uma única ordem sem questionar, desde que essa ordem não gere danos físicos ao alvo.
 2. Você pode implantar verdades falsas ou informações artificiais na mente do alvo, fazendo com que ele acredite nela por alguns instantes.
@@ -168,7 +168,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={conjure_message} />
 <SpellFromJson expanded={false} spellData={conjure_object} />
 <SpellFromJson expanded={false} spellData={conjure_person} />
-<SpellFromJson expanded={false} spellData={cryptograph} />
+<SpellFromJson expanded={false} spellData={read_mind} />
 <SpellFromJson expanded={false} spellData={inimify} />
 <SpellFromJson expanded={false} spellData={invisible_needles} />
 <SpellFromJson expanded={false} spellData={lift_target} />
@@ -180,16 +180,16 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 •  Mão da Proficiência: Aumenta um atributo do alvo em +2 até o fim do próximo turno.
 •  Inimificar: Escolha um alvo,  o ilude-o de forma que ele ataque seu aliado mais próximo no proximo turno.
 •  Alterar Rosto: Faz com que seu rosto se transmute em um rosto conhecido para iludir inimigos.
-•  Criptografar: Encanta uma imagem ou texto em uma superficie, fazendo com que ela apenas faça sentido para você.
 •  Conjurar Objeto: Você pode conjurar um objeto em uma determinada coordenada. A ilusão é temporária e se desfaz se for tocada.
 •  Conjurar Pessoa: Pode conjurar a imagem de uma pessoa conhecida. Exige teste. A ilusão é temporaria, e se desfaz se for tocada.
 •  Estaca Afiada: Conjura uma estaca ilusória que atinge um alvo causando dano não elemental.
 •  Agulhas Invisíveis: Conjura longas metálicas invisíveis a um único alvo. As agulhas sao conjuradas em um quadrado, e o alvo, ao ocupar o espaço, recebe o dano.
 •  Levantar Alvo: Levanta um alvo do chão, podendo arremessá-lo contra um alvo ou contra o chão, causando dano.
-•  Empurrão: conjura um impulso sônico que golpeia um inimigo enquanto o empurra para trás.
+•  Empurrão: conjura ums impulso sônico que golpeia um inimigo enquanto o empurra para trás.
 •  Abrir Espaço: Conjura um inpulso sonico em volta de si que empurra inimigos adjacentes em 3 espaços.
 •  Conjurar Mensagem: Conjura um selo invisivel que se ativa quando um alvo entra em contato, revelando uma mensagem que se propaga na cabeça do alvo.
 
+•  Criptografar: Encanta uma imagem ou texto em uma superficie, fazendo com que ela apenas faça sentido para você.
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
