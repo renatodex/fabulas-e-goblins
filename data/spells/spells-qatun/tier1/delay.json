@@ -1,0 +1,15 @@
+{
+  "name": "Atrasar",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBoltSpellCast",
+  "element": null,
+  "caption": "Afeta o alvo com uma zona de dilatação temporal que faz com que ele só consiga realizar uma ação por turno.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b>, você causa <code>Lentidão 1</code> no alvo.</p><p><b>Se não for bem sucedido,</b>, nada acontece.</p>",
+  "tags": ["grimo","qatun"]
+}

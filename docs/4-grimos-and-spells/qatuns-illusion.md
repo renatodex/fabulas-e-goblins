@@ -17,7 +17,7 @@ import invisible_needles from './../../data/spells/spells-qatun/tier1/invisible_
 import lift_target from './../../data/spells/spells-qatun/tier1/lift_target.json'
 import open_space from './../../data/spells/spells-qatun/tier1/open_space.json'
 import proficiency_hand from './../../data/spells/spells-qatun/tier1/proficiency_hand.json'
-import push from './../../data/spells/spells-qatun/tier1/push.json'
+import delay from './../../data/spells/spells-qatun/tier1/delay.json'
 import sharp_stake from './../../data/spells/spells-qatun/tier1/sharp_stake.json'
 
 import anchor from './../../data/spells/spells-qatun/tier2/anchor.json'
@@ -174,22 +174,9 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={lift_target} />
 <SpellFromJson expanded={false} spellData={open_space} />
 <SpellFromJson expanded={false} spellData={proficiency_hand} />
-<SpellFromJson expanded={false} spellData={push} />
+<SpellFromJson expanded={false} spellData={delay} />
 <SpellFromJson expanded={false} spellData={sharp_stake} />
 
-•  Mão da Proficiência: Aumenta um atributo do alvo em +2 até o fim do próximo turno.
-•  Inimificar: Escolha um alvo,  o ilude-o de forma que ele ataque seu aliado mais próximo no proximo turno.
-•  Alterar Rosto: Faz com que seu rosto se transmute em um rosto conhecido para iludir inimigos.
-•  Conjurar Objeto: Você pode conjurar um objeto em uma determinada coordenada. A ilusão é temporária e se desfaz se for tocada.
-•  Conjurar Pessoa: Pode conjurar a imagem de uma pessoa conhecida. Exige teste. A ilusão é temporaria, e se desfaz se for tocada.
-•  Estaca Afiada: Conjura uma estaca ilusória que atinge um alvo causando dano não elemental.
-•  Agulhas Invisíveis: Conjura longas metálicas invisíveis a um único alvo. As agulhas sao conjuradas em um quadrado, e o alvo, ao ocupar o espaço, recebe o dano.
-•  Levantar Alvo: Levanta um alvo do chão, podendo arremessá-lo contra um alvo ou contra o chão, causando dano.
-•  Empurrão: conjura ums impulso sônico que golpeia um inimigo enquanto o empurra para trás.
-•  Abrir Espaço: Conjura um inpulso sonico em volta de si que empurra inimigos adjacentes em 3 espaços.
-•  Conjurar Mensagem: Conjura um selo invisivel que se ativa quando um alvo entra em contato, revelando uma mensagem que se propaga na cabeça do alvo.
-
-•  Criptografar: Encanta uma imagem ou texto em uma superficie, fazendo com que ela apenas faça sentido para você.
 ### Habilidades - Tier 2
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
