@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Impulsionar",
+  "magic_cost": "5 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "attack_logic": "Mágico",
+  "action_type": "Reação",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiWalkingBoot",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Conjura uma aura de vento em um alvo temporariamente, aumentando seu movimento..",
+  "description": "<p>A qualquer momento <i>(mesmo fora do seu turno)</i>, escolha um aliado a uma distância de até <code>5 espaços</code>.</p><p>Você conjura uma <b>Aura de vento</b> que fornece ao alvo um Bônus de <code>+3 Pontos de Movimento</code> até o final do próximo turno.</p>",
+  "tags": ["grimo","qatun"]
 }

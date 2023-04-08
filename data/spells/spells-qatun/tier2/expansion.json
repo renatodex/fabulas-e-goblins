@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
+  "name": "Expansão Mágica",
   "magic_cost": null,
   "duration_time": null,
-  "attack_logic": null,
+  "attack_logic": "Mágico",
   "action_type": "Passiva",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiSchoolBag",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "A influência de Qatun lhe fornece uma aura permanente que expande sua Bolsa equipada permanentemente.",
+  "description": "<p>Este poder é uma habilidade passiva que se ativa automaticamente e expande sua <b>bolsa equipada</b>, permitindo guardar <code>10 itens</code> adicionais.</p>",
+  "tags": ["grimo","qatun"]
 }

@@ -42,6 +42,14 @@
 		"body": [
 			"${1|</p><p>|}",
 		],
-		"description": "Template for generating icon for a Spell"
-	}
+		"description": "Template for generating paragraph"
+	},
+	"IfSucceeds": {
+		"scope": "json",
+		"prefix": "ifsucceedsornot",
+		"body": [
+			"${1|<b>Se for bem sucedido,</b> |<b>Se não for bem sucedido,</b> |}",
+		],
+		"description": "Template for generating tag template"
+	},
 }

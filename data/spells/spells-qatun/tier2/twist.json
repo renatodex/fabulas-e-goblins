@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Quebra-Ossos",
+  "magic_cost": "9 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBrokenBone",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Contorce o corpo de um alvo psiquicamente, quebrando seus ossos por dentro e fazendo que receba dano.",
+  "description": "<p>Escolha um alvo e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> o alvo é afligido por uma poderosa força invisível que contorce o seu corpo contra a sua vontade, quebrando seus ossos e causando <code>TIER * (1d12 + 10)</code>, além de afligir <code>Constrição C=14 T=3</code>.</p>",
+  "tags": ["grimo","qatun"]
 }

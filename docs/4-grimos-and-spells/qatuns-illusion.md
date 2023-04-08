@@ -158,7 +158,9 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={hive_mind} />
 
-•  Mentalidade de Colméia: Controla todos alvos numa area de 5x5 a sua volta. Os alvos não podem se machucar, mas podem ter a memoria apagada por alguns instantes.
+•  Mentalidade de Colméia: Controla todos alvos numa area de 5x5 a sua volta.
+- Se estiver em combate, causa Controle 1 em todos inimigos numa área de 5x5 em sua volta.
+ Os alvos não podem se auto-mutilar machucar. Você pode apagar a memoria deles por alguns instantes.
 
 ### Habilidades - Tier 1
 
@@ -192,17 +194,6 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={suggest} />
 <SpellFromJson expanded={false} spellData={twist} />
 
-•  Impulsionar:  Uma acao de reação que pode ser usada no turno de um aliado para aumentar seu movimento em +3.
-•  Sugerir Sonhos: Você pode injetar um sonho em um alvo dormindo.
-•  Contorcer: Contorce o corpo de um alvo psiquicamente, quebrando seus ossos por dentro e fazendo que receba dano.
-•  Encolher: Reduz o inimigo em uma categoria de tamanho temporariamente , fazendo com que cause apenas apenas 2d4 em seu próximo ataque.
-•  Estacas Duplas: Aprimora a estaca fazendo com que lance duas ao mesmo tempo
-•  Doppelganger: Conjura uma ilusão de si mesmo, que pode atacar mas não pode usar magias.
-•  Demi 1: Reduz em 1/3 os PV de um Inimigo. Não funciona em inimigos Nemesis.
-•  Ancora Gravitacional: Uma Ancora é conjurada em um ponto, fazendo com que inimigos a até 2 quadrados de distancia precisem gastar 4 pontos por movimento.
-•  Comandar: Sussura palavras mágicas e Comanda um aliado humanóide a atacar um alvo de sua escolha.
-•  Expansão: Expande permanentemente o interior da sua bolsa equipada, passando a poder guardar mais 10 itens adicionais.
-
 ### Habilidades - Tier 3
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
@@ -218,8 +209,8 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={snake_hairdo} />
 <SpellFromJson expanded={false} spellData={summon_beast} />
 
-•  Desistência: Funciona em alvos com baixa inteligência Faz com que um alvo perca suas motivações de combate, fazendo com que ele abandone seus aliados e fuja do campo de batalha.
 •  Comunicar: Você passa a poder se comunicar telepaticamente com qualquer alvo de forma passiva, e ele pode se comunicar de volta.
+•  Desistência: Funciona em alvos com baixa inteligência Faz com que um alvo perca suas motivações de combate, fazendo com que ele abandone seus aliados e fuja do campo de batalha.
 •  Penteado de Serpentes: Funciona em humanoides Transforma o cabelo de um inimigo em serpentes cospidoras de fogo que entram no final da ordem de iniciativa e causam dano de fogo.
 •  Demi 2: Reduz pela metade os Pontos de vida de um inimigo.
 •  Conjurar Besta: Conjura um animal ou besta de grande porte. Exige que o conjurador tenha visto muitas vezes a criatura.

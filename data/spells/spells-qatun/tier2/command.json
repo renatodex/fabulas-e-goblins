@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Comandar",
+  "magic_cost": "6 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "range_type": "Corpo-a-Corpo",
+  "range_amount": "1",
+  "icon": "GiExtraLucid",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Sussura palavras mágicas e Comanda um alvo humanóide a realizar um comando simples.",
+  "description": "<p>Escolha um alvo humanóide adjacente e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você encanta o alvo, fazendo com que ele obedeça a um comando simples que pode ser qualquer coisa desde <b>puxar uma alavanca</b> até <b>atacar um alvo específico</b> no seu próximo turno.</p><p><b>Se não for bem sucedido,</b> suas palavras encantadas não surtem efeito.</p><p>Não afeta inimigos do tipo <b>Nêmesis ou Líder</b>.</p><p>O comando não pode causar dano à <b>integridade física</b> do alvo. (mas sinta-se livre para atacar sua <b>integridade mental</b>)</p>",
+  "tags": ["grimo","qatun"]
 }
