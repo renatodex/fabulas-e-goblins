@@ -40,7 +40,7 @@ import resignation from './../../data/spells/spells-qatun/tier3/resignation.json
 import self_control from './../../data/spells/spells-qatun/tier3/self_control.json'
 import simulacrum from './../../data/spells/spells-qatun/tier3/simulacrum.json'
 import snake_hairdo from './../../data/spells/spells-qatun/tier3/snake_hairdo.json'
-import summon_beast from './../../data/spells/spells-qatun/tier3/summon_beast.json'
+import fairy_dust from './../../data/spells/spells-qatun/tier3/fairy_dust.json'
 
 import conjure_giant from './../../data/spells/spells-qatun/tier4/conjure_giant.json'
 import demi_3 from './../../data/spells/spells-qatun/tier4/demi_3.json'
@@ -207,19 +207,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={self_control} />
 <SpellFromJson expanded={false} spellData={simulacrum} />
 <SpellFromJson expanded={false} spellData={snake_hairdo} />
-<SpellFromJson expanded={false} spellData={summon_beast} />
-
-•  Comunicar: Você passa a poder se comunicar telepaticamente com qualquer alvo de forma passiva, e ele pode se comunicar de volta.
-•  Desistência: Funciona em alvos com baixa inteligência Faz com que um alvo perca suas motivações de combate, fazendo com que ele abandone seus aliados e fuja do campo de batalha.
-•  Penteado de Serpentes: Funciona em humanoides Transforma o cabelo de um inimigo em serpentes cospidoras de fogo que entram no final da ordem de iniciativa e causam dano de fogo.
-•  Demi 2: Reduz pela metade os Pontos de vida de um inimigo.
-•  Conjurar Besta: Conjura um animal ou besta de grande porte. Exige que o conjurador tenha visto muitas vezes a criatura.
-•  Auto Controle: Torna-se imune a poderes que controlam a mente.
-•  Simulacro: Pode ser usado em reação a tomar dano para translocar-se a uma distancia de 3 quadrados da sua coordenada atual. O alvo atinge na verdade sua ilusão.
-•  Caleidoscópio: Conjura uma explosão caleidoscópica que aflige todos alvos numa area de 4 quadrados adjacentes escolhidos pelo conjurador.
-•  Anulação: Todos alvos numa area de 3x3  em volta do conjurador (ou 1 alvo numa distancia de até 7 espaços) não podem conjurar magias até o final de seu próximo turno. Além disso, qualquer efeito magico ou maldição se desfaz imediatamente, mesmo que não tenha sido previamente detectada pelo conjurador.
-•  Atração Gravitacional: Escolha um alvo.
-Todos outros alvos numa area de 2x2 são atraídos violentamente para o alvo, gerando uma explosão caleidoscópia ao atingir o alvo escolhido. O alvo escolhido recebe dano para cada alvo adicional que colidir.
+<SpellFromJson expanded={false} spellData={fairy_dust} />
 
 ### Habilidades - Tier 4
 

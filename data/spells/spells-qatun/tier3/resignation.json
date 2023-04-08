@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Desistência",
+  "magic_cost": "8 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
+  "range_type": "Corpo-a-corpo",
+  "range_amount": "1",
   "icon": "GiBoltSpellCast",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Você utiliza sua influência psiônica mental para fazer com que um alvo perca suas motivações de combate.",
+  "description": "<p>Funciona apenas em alvos com <b>baixa inteligência</b> que não estejam agindo por instinto.</p><p>Faça um teste contra a <b>Defesa Mágica</b> do alvo.</p><p><b>Se for bem sucedido,</b> o alvo perde suas <b>motivações de combate</b>, fazendo com que ele se acalme, abandone seus aliados ou <b>fuja do campo de batalha</b>. A interpretação final fica a cargo do Narrador.</p><p>Pode ser usado apenas <b>1 vez</b> durante o combate.</p><p>Esse poder funciona com alvos <b>humanóides e bestiais</b>, mas é importante lembrar que ele <b>não funcionará</b> se o alvo estiver <b>agindo por instinto de sobrevivência</b> ou se <b>não estiver obstinado para lutar</b>, é o caso de criaturas mortas-vivas, bestas agressivas ou outros senscientes com certo nível de inteligência.</p>",
+  "tags": ["grimo","qatun"]
 }

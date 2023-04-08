@@ -1,6 +1,6 @@
 {
   "name": "Quebra-Ossos",
-  "magic_cost": "9 P.M",
+  "magic_cost": "10 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Ativa",

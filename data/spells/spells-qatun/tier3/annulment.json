@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Zona de Anulação",
+  "magic_cost": "10 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
-  "cast_distance": null,
-  "range_type": null,
-  "range_amount": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Área",
+  "range_amount": "3x3",
   "icon": "GiBoltSpellCast",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Conjura uma Zona de anulação máagica que impedem unidades de conjurar mágia.",
+  "description": "<p>Escolha entre criar a Zona <b>área 3x3 circular em volta de você</b> ou criar a Zona <b>numa área de 3x3 em volta de uma unidade a até 5 espaços de distância</b>.</p><p>Seja como for, <b>todos as unidades</b> dentro da área <b>não podem conjurar magias</b> até que <b>saiam da zona</b> ou até que o conjurador dissipe o poder. <i>(que pode ser dissipado a qualquer momento, ou automticamente até o final do encontro)</i></p><p>Além disso, qualquer efeito magico ou maldição <b>não possui efeito</b> dentro da <b>Zona de Anulação</b>, mas caso tenham uma duração baseda em turnos, os mesmos se passam normalmente. A anulação vale até mesmo para Maldições que não tenham percebidos pelo conjurador ou pelas unidades afetadas.</p><p>A Zona de Anulação vale para Inimigos e Aliados, mas <b>não se aplica</b> ao próprio conjurador.</p>",
+  "tags": ["grimo","qatun"]
 }

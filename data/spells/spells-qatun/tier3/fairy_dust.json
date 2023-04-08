@@ -1,0 +1,15 @@
+{
+  "name": "Pó de Fada",
+  "magic_cost": "12 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Circular",
+  "range_amount": "2x2",
+  "icon": "GiFluffyCloud",
+  "element": null,
+  "caption": "Emite um núvem púrpura a partir de sí mesmo que coloca todos os inimigos para dormir.",
+  "description": "<p>O poder emite uma nuvem púrpura que adormece todos os inimigos em uma <b>área circular de 2x2</b> em volta do conjurador.</p><p>Você deve fazer um teste contra a <b>Defesa Mágica</b> de cada alvo.</p><p><b>Para cada alvo que você acertar,</b> aplique o efeito <code>Adormecer 3</code>. Inimigos adormecidos são incapazes de realizar ações até que o efeito termine ou que tomem dano.</p>",
+  "tags": ["grimo","qatun"]
+}

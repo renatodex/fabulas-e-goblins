@@ -1,5 +1,5 @@
 {
-  "name": "Poder",
+  "name": "Auto-Controle",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiAllSeeingEye",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Torna-se imune a poderes que controlam a mente.",
+  "description": "<p>Você se torna <b>imune a maioria dos poderes</b> que manipulariam sua mente.</p><p>A única excessão aqui é caso o alvo seja um <b>inimigo especial</b>, cujos poderes de <b>manipulação da mente</b> sejam <b>superiores</b> ao seu. Nesse caso, o Narrador pode solicitar que você resista a manipulação mental, mas mesmo se o fizer, você ainda receberá <code>+4 de Bônus</code> no teste.</p>",
+  "tags": ["grimo","qatun"]
 }
