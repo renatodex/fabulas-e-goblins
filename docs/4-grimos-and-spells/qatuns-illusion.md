@@ -48,7 +48,7 @@ import doppel_gang from './../../data/spells/spells-qatun/tier4/doppel_gang.json
 import identity_transfusion from './../../data/spells/spells-qatun/tier4/identity_transfusion.json'
 import kaleidovortex from './../../data/spells/spells-qatun/tier4/kaleidovortex.json'
 import mind_control from './../../data/spells/spells-qatun/tier4/mind_control.json'
-import puppet_master from './../../data/spells/spells-qatun/tier4/puppet_master.json'
+import erase_memories from './../../data/spells/spells-qatun/tier4/erase_memories.json'
 import rain_of_stakes from './../../data/spells/spells-qatun/tier4/rain_of_stakes.json'
 import reflect from './../../data/spells/spells-qatun/tier4/reflect.json'
 import teleport from './../../data/spells/spells-qatun/tier4/teleport.json'
@@ -162,6 +162,8 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 - Se estiver em combate, causa Controle 1 em todos inimigos numa área de 5x5 em sua volta.
  Os alvos não podem se auto-mutilar machucar. Você pode apagar a memoria deles por alguns instantes.
 
+•  Mestre de Marionetes: Qualquer numero de alvos numa área de 10x10 pode ser impelido psionicamente a completar um objetivo plausivel nos próximos 60 minutos. ( atacar um alvo, fugir , construir ou destruir algo, etc). Os olhos dos alvos , caso possuam ficam nitidamente esbranquiçados, e durante o tempo de controle, os alvos permancerão fidedignos ao seu objetivo, sem cometer desvios ou engajar em conversas complexas ou que exijam raciocino próprio. Após completar seu objetivo, os alvos são imediatamente libertos de suas obrigações. O conjurador também pode mudar o objetivo no meio do periodo de controle sem realizar testes. As massas não podem receber comandos que causarão dano intenso a sí mesmas (como mergulhar a mão na lava), mas podem suportar ações que vao gerar desgaste fisico ou mental. (Ex minerar metais numa caverna sem equipamentos de proteção ou fazer algo moralmente questionavel como prender crianças em jaulas).
+
 ### Habilidades - Tier 1
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
@@ -219,19 +221,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={identity_transfusion} />
 <SpellFromJson expanded={false} spellData={kaleidovortex} />
 <SpellFromJson expanded={false} spellData={mind_control} />
-<SpellFromJson expanded={false} spellData={puppet_master} />
+<SpellFromJson expanded={false} spellData={erase_memories} />
 <SpellFromJson expanded={false} spellData={rain_of_stakes} />
 <SpellFromJson expanded={false} spellData={reflect} />
 <SpellFromJson expanded={false} spellData={teleport} />
-
-•  Chuva de Estacas: Pode conjurar 8 estacas que se dirigem a qualquer inimigos causando dano.
-•  Doppel Gang - Aprimora o poder Doppelganger, permitindo que você conjure simultaneamente múltiplas ilusões simultaneas. Maximo de 10. Cada ilusão adicional custa Pontos de Magia extra. As ilusões podem atacar e até usar magia. As ilusões podem usar magia sem custo de PM, mas os efeitos negativos adicionais são desconsiderados e o dano é equivalente a um ataque fisico. A unica excessão é o poder, Doppelganger, que pode ser usado normalmente, consome PMs do conjurador alem de um extra por estar sendo usado a partir de uma ilusão.
-•  Demi 3: O inimigo recebe 50% de dano baseado em seus PVs totais. Em Nêmesis o dano é de 10%. Você não pode causar mais de 500 de dano com esse poder.
-•  Conjurar Gigante: Pode conjurar a imagem de uma criatura gigante ou muito grande. A ilusão pode emitir sons e é controlada pelo conjurador, mas se desfaz se for tocado.
-•  Caleidovórtice: Conjura um vórtice de ilusões numa area de 6x6 em volta do conjurador. Todos inimigos na area recebem dano todo turno até que o Vortice se desfaça.
-•  Refletir: Como uma ação de reação, você pode refletir um projetil magico inimigo sendo conjurado contra você ou contra seus aliados. Quando isso acontecer, faça um teste contra a defesa magica desse inimigo. Caso seja bem sucedido, o inimigo é atingido pelo próprio poder, recebendo dano normalmente.
-•  Teletransporte: Teleporta psionicamente todos os alvos para uma localização memorizada previamente.
-•  Controle da Mente: Adquire por até 1d100 dias o controle da mente de uma criatura sensciente ou não. A criatura pode ser comandada psionicamente pelo conjurador, e o mesmo pode visualizar mentalmente o que o alvo vê. A criatura pode ser compelida apenas uma vez a realizar uma ação que cause dano em si mesma, mas se o fizer, o vinculo é instantâneo quebrado. Alguns inimigos especiais podem ser imunes ao controle.
-•  Mestre de Marionetes: Qualquer numero de alvos numa área de 10x10 pode ser impelido psionicamente a completar um objetivo plausivel nos próximos 60 minutos. ( atacar um alvo, fugir , construir ou destruir algo, etc). Os olhos dos alvos , caso possuam ficam nitidamente esbranquiçados, e durante o tempo de controle, os alvos permancerão fidedignos ao seu objetivo, sem cometer desvios ou engajar em conversas complexas ou que exijam raciocino próprio. Após completar seu objetivo, os alvos são imediatamente libertos de suas obrigações. O conjurador também pode mudar o objetivo no meio do periodo de controle sem realizar testes. As massas não podem receber comandos que causarão dano intenso a sí mesmas (como mergulhar a mão na lava), mas podem suportar ações que vao gerar desgaste fisico ou mental. (Ex minerar metais numa caverna sem equipamentos de proteção ou fazer algo moralmente questionavel como prender crianças em jaulas).
-•  Transfusão de Identidade: Você transfere sua identidade para qualquer outro corpo vivo, de criatura ou não, fazendo com que o corpo do alvo transfira-se para o seu. Essa transferência exige uma canalização do equivalente a 20 turnos, e ao final do processo o alvo tem sua identidade transferida com o corpo do conjurador. O processo é irreversível e o personagem continuar a viver nas condições adaptadas ao corpo alvo. Se o corpo for de uma criatura não sensciente, o conjurador não poderá mais se comunicar, mas poderá usar as magias e poderes da criatura normalmente. De qualquer forma, ao fim da transferência, o vinculo com o Grimo de Qatun se desfaz, e o personagem é considerado mecânicamente como um personagem Nivel 1 novamente. Se o alvo for um humanoide que possui Grimos atrelados, o conjurador perde permanentemente o vinculo com todos os Grimos que não possuia no outro corpo, devendo-se efetuar todo processo off-game para adquirir o treinamento proprio.
-Se o alvo de destino ja tiver se vinculado a um Grimo que o conjurador ja dominava, esse vai poder se re-vincular ao Grimo, que será resetado para o Tier 1, sem conservar as experiencias do antigo portador.

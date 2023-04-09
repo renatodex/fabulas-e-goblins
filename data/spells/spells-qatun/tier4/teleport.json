@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Teletransporte",
+  "magic_cost": "20 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Passiva",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
   "icon": "GiBoltSpellCast",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Teleporta psionicamente todos os alvos para uma localização memorizada previamente.",
+  "description": "<p>Essa ação é canalizada e leva <code>5 turnos</code> para ser realizada em combate, ou <code>5 minutos</code> para ser realizada fora de combate.</p><p>Você teleporta psionicamente todos os alvos numa área de <code>3x3</code> em <b>volta de sí mesmo</b> para uma <b>localização memorizada previamente</b>, sem necessitar de qualquer componente ou requisito mágico.</p>",
+  "tags": ["grimo","qatun"]
 }

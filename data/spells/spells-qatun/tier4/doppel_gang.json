@@ -1,15 +1,15 @@
 {
-  "name": "Poder",
-  "magic_cost": null,
+  "name": "Aprimoramento: Doppel Gang",
+  "magic_cost": "10 * Ilusão P.M",
   "duration_time": null,
   "attack_logic": null,
-  "action_type": "Passiva",
+  "action_type": "Ativa",
   "cast_distance": null,
   "range_type": null,
   "range_amount": null,
-  "icon": "GiBoltSpellCast",
+  "icon": "GiMeepleArmy",
   "element": null,
-  "caption": "",
-  "description": "<p>Mechanic</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "caption": "Masteriza o poder das ilusões, permitindo que você conjure múltiplas cópias de sí mesmo.",
+  "description": "<p>Aprimora o poder Doppelganger, permitindo que você conjure simultaneamente múltiplas ilusões simultaneas até um maximo de <code>10 cópias</code>.</p><p>Todas as regras do poder <b>Doppelganger</b> Tier 2 podem ser seguidas aqui, exceto que algumas coisas mudam.</p><p>Agora você pode conjurar quantas ilusões quiser de uma vez só, e cada ilusão aumenta o custo de <b>Pontos de Magia extra</b>.</p><p>As ilusões <b>podem atacar e até usar magia</b>, e agora <b>entram no final</b> da ordem de iniciativa da rodada.</p><p>Ilusões continuam sem possuir <b>Pontos de Magia</b>, além de terem apenas <code>1 P.V</code>, mas agora podem usar qualquer magia aprendida pelo conjurador, e quando o fizerem, os <b>Pontos de Magia</b> do conjurador original serão consumidos normalmente.</p>",
+  "tags": ["grimo","qatun"]
 }
