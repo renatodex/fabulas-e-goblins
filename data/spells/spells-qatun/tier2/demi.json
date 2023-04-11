@@ -1,0 +1,15 @@
+{
+  "name": "Demi 1",
+  "magic_cost": "7 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiUnstableOrb",
+  "element": null,
+  "caption": "Conjura uma orbe negra que reduz em 1/4 dos Pontos de vida de um Inimigo.",
+  "description": "<p>Escolha um alvo. a até <code>5 espaços</code> de distância. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido</b>, o alvo perde <code>1/4 dos Pontos de Vida</code>, independente de qualquer defesa, barreira ou proteção que possuir. O valor final é sempre arredondado para cima.</p><p>Não afeta inimigos do tipo <b>Nêmesis ou Líder</b>.</p>",
+  "tags": ["grimo","qatun"]
+}

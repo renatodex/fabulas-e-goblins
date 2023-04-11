@@ -1,0 +1,15 @@
+{
+  "name": "Controle da Mente",
+  "magic_cost": "85 P.M",
+  "duration_time": "1d100 dias",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Corpo-a-Corpo",
+  "range_amount": "1",
+  "icon": "GiRobe",
+  "element": null,
+  "caption": "Adquire o controle da mente de uma criatura por um longo período de tempo.",
+  "description": "<p>Toque uma criatura (sensciente ou não). Em seguida faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você adquire por até <code>1d100 dias</code> o controle total da mente de uma criatura sensciente ou não. A criatura pode ser comandada psionicamente pelo conjurador através de uma série de <b>comandos precisos ou imprecisos</b>, e o conjurador também pode a qualquer momento <b>visualizar mentalmente</b> o que o alvo está vendo, tocando, sentindo ou cheirando.</p><p>O alvo pode ser compelido <b>apenas uma vez</b> a realizar uma ação que cause dano em si mesma, através de um teste contra a <b>Resiliência</b> do alvo. Mas se o fizer, o vinculo com a mente do alvo será permanentemente quebrado logo após o alvo sofrer dano.</p><p>Alguns inimigos especiais podem ser <b>imunes ao controle</b>.</p>",
+  "tags": ["grimo","qatun"]
+}

@@ -74,11 +74,7 @@ const sidebars = {
         'grimos-and-spells/flask-of-zanari',
         'grimos-and-spells/magni-machine',
         'grimos-and-spells/rune-of-ixin',
-        {
-          '[Em desenvolvimento]': [
-            'grimos-and-spells/qatuns-illusion'
-          ]
-        }
+        'grimos-and-spells/qatuns-illusion',
       ],
       '5. Papéis de Jogo': [
         'roles/roles-introduction',

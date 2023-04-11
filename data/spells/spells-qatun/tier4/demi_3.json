@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Demi 3",
+  "magic_cost": "15 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "A orbe negra se torna mais poderosa e mais instável, causando mais dano.",
+  "description": "<p>Aprimora o poder <b>Demi</b> para sua forma máxima, que agora causa <code>1/2 de P.V</code> de Dano Mágico não elemental.</p><p>Passa a poder atingir inimigos do tipo <b>Nêmesis e Líder</b>, mas causa apenas <code>10% de dano dos P.V totais</code> nestes inimigos.</p><p>Você também não pode causar mais de <code>500 de dano</code> com esse poder.</p>",
+  "tags": ["grimo","qatun"]
+}

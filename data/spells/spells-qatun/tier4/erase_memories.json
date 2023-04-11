@@ -1,0 +1,15 @@
+{
+  "name": "Apagar Memórias",
+  "magic_cost": "18 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Circular",
+  "range_amount": "8x8",
+  "icon": "GiFlake",
+  "element": null,
+  "caption": "Você conjura um poderoso clarão branco que apaga as memórias de todos os alvos na área de efeito.",
+  "description": "<p>Você conjura um clarão que apaga as memórias de todos os alvos numa área de <code>8x8 espaços</code>. Para ser bem sucedido neste feito, você deverá fazer um teste contra a <b>Defesa Mágica</b> do alvo mais inteligente do grupo.</p><p>Se o grupo não possuir alvos inteligentes, o poder é automaticamente bem sucedido.</p><p><b>Em caso de sucesso,</b> role um <code>d100</code> para determinar <b>quantos minutos</b> você conseguiu apagar de memória dos alvos.</p><p>Pode ser usado durante um combate para fazer com que os alvos percam suas motivações de luta.</p>",
+  "tags": ["grimo","qatun"]
+}

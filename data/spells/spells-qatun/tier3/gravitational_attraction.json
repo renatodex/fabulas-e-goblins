@@ -1,0 +1,15 @@
+{
+  "name": "Explosão Gravitacional",
+  "magic_cost": "13 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiCrownedExplosion",
+  "element": null,
+  "caption": "Você conjura uma orbe gravitacional no espaço do alvo, atraíndo alvos próximos e gerando uma explosão poderosa.",
+  "description": "<p>Escolha um alvo. Todos <b>outros alvos</b> numa area circular de <b>2x2 do alvo original</b> são atraídos violentamente para o alvo escolhido. <i>(atrair os alvos não exige testes)</i></p><p>Ao final, a orbe fica instável e explode, neste momento, teste seu <b>Ataque Mágico</b> contra cada alvo dentro da área.</p><p>Todos os alvos que falharem no teste recebem <code>TIER * (d8 + d12 + 5)</code> de dano mágico não elemental.</p>",
+  "tags": ["grimo","qatun"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Estaca Ilusória Dupla",
+  "magic_cost": "8 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "Aprimora a estaca fazendo com que você possa lançar duas estacas ao invés de uma.",
+  "description": "<p>Aprimora o poder <b>Estaca Ilusória</b>, lançando dois projéteis ao invés de um. O jogador pode fazer dois testes independentes, aumentando sua chance de acerto. O dano de cada estaca passa a ser <code>TIER * (d8 + d6)</code>. (dano mágico não elemental)</p><p>Com o aprimoramento, se você acertar <b>apenas uma estaca</b>, causará <code>TIER * 10</code> de Dano Mágico adicionais. Se acertar as duas, não receberá o bônus.</p>",
+  "tags": ["grimo","qatun"]
+}

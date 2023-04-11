@@ -1,0 +1,15 @@
+{
+  "name": "Encolher Alvo",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiBoltSpellCast",
+  "element": null,
+  "caption": "Encolhe o inimigo, fazendo com que cause dano insignificante no seu próximo ataque físico.",
+  "description": "<p>Escolha um alvo e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b>, este poder reduz o tamanho do inimigo para a categoria <b>Pequeno</b> (abaixo de \"Padrão\") temporariamente, fazendo com que seus <b>ataques físicos</b> apenas apenas <code>2d4 de Dano</code> até o final do seu próximo turno. Alvos encolhidos também tem seus <b>Pontos de Movimento</b> reduzidos pela metade.</p><p>Não tem efeito em inimigos do tipo <b>Nêmesis</b> e <b>Líder</b>.</p><p>A intensidade ou efeitos dos <b>ataques mágicos</b> do alvo <b>não são afetados</b> por este poder.</p>",
+  "tags": ["grimo","qatun"]
+}

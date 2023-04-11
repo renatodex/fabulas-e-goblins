@@ -1,0 +1,15 @@
+{
+  "name": "Chuva de Estacas",
+  "magic_cost": "20 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "12",
+  "range_type": "Alvo",
+  "range_amount": "8",
+  "icon": "GiHeavyRain",
+  "element": null,
+  "caption": "Conjura 8 estacas afiadas que atingem inimigos selecionados causando dano.",
+  "description": "<p>Escolha até <code>8 alvos</code> no combate. Faça um teste contra a <b>Defesa Mágica</b> de cada um deles</p><p>Este poder causa <code>3d20 + 40</code> de <b>Dano Físico</b> em cada inimigo.</p>",
+  "tags": ["grimo","qatun"]
+}

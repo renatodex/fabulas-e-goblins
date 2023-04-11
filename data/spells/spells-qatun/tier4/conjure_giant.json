@@ -1,0 +1,15 @@
+{
+  "name": "Mestre da Conjuração",
+  "magic_cost": "24 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiDrakkarDragon",
+  "element": null,
+  "caption": "Maximiza o poder das ilusões, sendo capaz de criar ilusões de qualquer tipo, inclusive de criaturas vivas de qualquer tamanho e proporção.",
+  "description": "<p>Você pode conjurar uma ilusão de qualquer tamanho, dimensão e a qualquer distância.</p><p>A ilusão parece <b>100% real</b> para qualquer observador, exceto para poderosos <b>Adeptos de Qatun</b> como você.</p><p>A ilusão pode se mover <b>de acordo com a sua vontade</b> e pode fornecer <b>vantagem em testes de influência e intimidação</b>.</p><p>A ilusão pode <b>exalar cheiros e emitir sons</b> e ruídos de qualquer natureza.</p><p>Se usado em combate, as ilusões também são poderosas, e possuem de <code>1 P.V</code> até <code>100 P.V</code> à sua escolha, além de poderem conjurar <b>feixes não elementais</b> que emulam a magia elemental, mas que não possuem a capacidade de reproduzir seus efeitos. (ex: Fogo causando <code>Queimar</code>).</p><p>Os ataques das ilusões em combates copiam os seus valores de Ataque e Defesa e podem causar até <code>10d10</code> de dano físico ou mágico, à sua escolha. <i>(dependendo da ilusão, você pode preferir que ela cause de 1d10 até 10d10 de dano.)</i></p><p>A ilusão pode conjurar disparos físicos ou  mágicos que imitem qualquer elemento, possuam uma área de dano de <code>1x1 a 3x3</code>, e possam alcançar de <code>1 a 20 espaços</code> de distância.</p><p>Apenas uma dessas ilusões podem estar ativas simultaneamente.</p>",
+  "tags": ["grimo","qatun"]
+}

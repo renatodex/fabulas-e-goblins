@@ -1,0 +1,15 @@
+{
+  "name": "Simulácro",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiTransportationRings",
+  "element": null,
+  "caption": "Seus sentidos passam a operar em alta velocidade, permitindo que você se transloque ao invés de receber dano.",
+  "description": "<p>Você pode usar este poder como uma <b>Ação de Reação</b> sempre que for receber dano.</p><p>Se o fizer, faça um <b>Teste de Perícia</b> do atributo <b>Destino</b>.</p><p><b>Se for bem sucedido,</b> ao invés de tomar o dano, você se desloca a até 3 espaços de distância, deixando uma ilusão no seu lugar que recebe o dano instantaneamente e se desfaz.</p>",
+  "tags": ["grimo","qatun"]
+}

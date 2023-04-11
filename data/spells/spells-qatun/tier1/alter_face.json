@@ -1,0 +1,15 @@
+{
+  "name": "Alterar Rosto",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiBarbarian",
+  "element": null,
+  "caption": "Faz com que seu rosto se transmute em um rosto conhecido para iludir inimigos.",
+  "description": "<p>Pense inicialmente no rosto final que você quer transmutar e faça um <b>Teste de Desafio</b> do seu atributo <b>Influência</b>.</p><p>A quantidade de vezes que você viu o rosto pessoalmente vai influenciar na penalidade do teste:</p><ul><li><b>Nenhuma vez:</b> Penalidade -4.</li><li><b>Uma vez:</b> Penalidade -2.</li><li><b>Até 3 vezes:</b> Penalidade -1.</li><li><b>Mais do que 3:</b> Nenhuma penalidade.</li></ul><p>A dificuldade padrão do teste é <code>14</code>, mas o Narrador pode aumentar ou diminuir essa dificuldade dependendo da <b>complexidade do rosto</b> a ser transmutado. Rostos com <b>muitas marcas do tempo ou cicatrizes</b> tendem a ser mais difíceis de replicar com precisão, enquanto rostos mais <b>joviais e sem marcas</b> podem ser mais fáceis.</p><p>A transmutação dura por até <code>(Influência * 30) minutos</code>. Após esse tempo, ela vai se desgastando lentamente e fazendo com a dificuldade de enganar os outros aumente exponencialmente, exigindo testes adicionais de Influência conforme a vontade do Narrador.</p>",
+  "tags": ["grimo","qatun"]
+}

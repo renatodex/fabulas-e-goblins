@@ -1,0 +1,15 @@
+{
+  "name": "Aprimoramento: Demi 2",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiUpgrade",
+  "element": null,
+  "caption": "A orbe negra se torna mais poderosa e mais instável, causando mais dano.",
+  "description": "<p>Aprimora o poder <b>Demi</b>, que agora causa <code>1/3 de P.V</code> de Dano Mágico não elemental.</p>",
+  "tags": ["grimo","qatun"]
+}

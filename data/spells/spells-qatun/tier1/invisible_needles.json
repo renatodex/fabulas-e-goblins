@@ -1,0 +1,15 @@
+{
+  "name": "Armadilha Sônica",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiWolfTrap",
+  "element": null,
+  "caption": "Conjura uma armadilha invisível, que ao ser ativada, conjura ondas sônicas em formas de agulhas que atingem a um único alvo.",
+  "description": "<p>Escolha um ponto <b>não ocupado</b> por um alvo.</p><p>Você conjura uma armadilha invisível, que ao ser ativada, ataca o alvo com ondas sônicas em formas de agulha, causando <code>TIER * (3d6 + 10)</code> de dano mágico não elemental.</p><p>As agulhas são conjuradas em um <b>espaço vazio</b>, e qualquer um que <b>ocupar</b> esse espaço ativará a armadilha, devendo este passar num teste contra o seu <b>Ataque Mágico</b>, caso contrário, receberá dano.</p>",
+  "tags": ["grimo","qatun"]
+}

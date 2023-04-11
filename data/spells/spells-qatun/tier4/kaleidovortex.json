@@ -1,0 +1,15 @@
+{
+  "name": "Caleidovórtice",
+  "magic_cost": "20 P.M",
+  "duration_time": "3",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_type": "Circular",
+  "range_amount": "6x6",
+  "icon": "GiVortex",
+  "element": null,
+  "caption": "Conjura um vórtice de ilusões implacável que causa dano a todos na area.",
+  "description": "<p>Escolha um ponto em até <code>7 espaços</code> de distância.</p><p>Você conjura um <b>vórtice de ilusões diversas</b> numa <code>área de 6x6</code> em volta desse ponto. As ilusões criadas pela magia do Caos assombram o enorme vórtice, causando <code>5d20 + 50</code> de dano físico a todas unidades inimigas em seu entorno.</p><p>O vórtice é dissolvido automaticamente.</p>",
+  "tags": ["grimo","qatun"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Leitura da Mente",
+  "magic_cost": "6 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": null,
+  "range_amount": null,
+  "icon": "GiBrainDump",
+  "element": null,
+  "caption": "Durante uma conversa, e como uma Ação Livre você pode usar seu poder para ler o último pensamento genuíno do alvo.",
+  "description": "<p>A qualquer momento, como uma <b>ação livre</b>, você pode <b>ler a mente</b> de um alvo.</p><p>Este poder tem três camadas de <b>penalidades</b> que se somam.<p>A primeira sobre quanto você conhece o alvo:</p><ul><li><b>Não conheço o alvo:</b> -2 de penalidade.</li><li><b>Conheço um pouco o alvo:</b> -1 de penalidade.</li><li><b>Conheço muito o alvo:</b> +1 Bônus.</li></ul><p>A segunda sobre o nível de erudição do alvo:</p><ul><li><b>Muito erudito:</b> -4 de penalidade.</li><li><b>Um pouco erudito:</b> -2 de penalidade.</li><li><b>Nada erudito:</b> +1 Bônus.</li></ul><p>E por último a circunstância atual:</p><ul><li><b>Em combate com o alvo:</b> -4 de penalidade.</li><li><b>Fora de combate, ambiente tenso, opressivo ou barulhento:</b> -2 de penalidade.</li><li><b>Ambiente silencioso:</b> Nenhuma penalidade.</li></ul><p>Em seguida, faça um teste contra a <b>Defesa Mágica</b> do alvo.</p><p>Neste teste, você recebe um Bônus de <code>(TIER - 1) * 2</code> que pode ser somado ao seu <b>bônus de Influência</b>.</p><p><b>Se você for bem sucedido,</b> você será capaz de ler o que se está se passando pela cabeça do alvo neste momento e o mesmo não saberá que você obteve essa informação.</p><p><b>Se você não for bem sucedido,</b> o alvo sente como se algo tivesse tentado entrar em sua mente, mas nada acontece.</p><p><i>Ex: Tentar ler a mente do Juíz durante o seu julgamento: <code>Penalidade -8 (Não conheço o alvo: -2, Muito erudito: -4, Ambiente Tenso: -2)</code></i></p><p><i>Ex: Tentar ler a mente do Rei dos Bárbaros durante uma negociação: <code>Penalidade -3 (Não conheço o alvo: -2, Nada erudito: +1, Ambiente Tenso: -2)</code></i></p>",
+  "tags": ["grimo","ixin"]
+}

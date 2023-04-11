@@ -1,0 +1,15 @@
+{
+  "name": "Vórtice Gravitacional",
+  "magic_cost": "7 P.M",
+  "duration_time": "2",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Área",
+  "range_amount": "2x2",
+  "icon": "GiTornado",
+  "element": null,
+  "caption": "Um vórtice gravitacional distorce uma zona a escolha do conjurador, fazendo com que aliados e inimigos sejam atraídos, além de dificultar imensamente qualquer movimentação na zona.",
+  "description": "<p>Escolha uma área de 2x2 a até <code>5 espaços</code> de distância.</p><p><b>Um vórtice gravitacional</b> é conjurado na zona escolhida, atraíndo instantâneamente <b>unidades adjacentes</b>. Alvos que estiverem dentro do Vórtice precisam gastar <code>4 Pontos por espaço</code> para se mover.</p><p>O Vórtice dura <code>2 rodadas</code> e depois se desfaz automaticamente. Unidades que <b>terminarem seu turno adjacentes</b> ao Vórtice serão puxadas para dentro, se houver espaço.</p><p>Se uma unidade que estiver <b>engajada em combate</b> for atraída pelo vórtice, ela sofrerá um <b>ataque de oportunidade</b>.</p>",
+  "tags": ["grimo","qatun"]
+}

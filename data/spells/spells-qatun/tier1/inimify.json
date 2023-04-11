@@ -1,0 +1,15 @@
+{
+  "name": "Inimificar",
+  "magic_cost": "4 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_type": "Alvo",
+  "range_amount": "1",
+  "icon": "GiPsychicWaves",
+  "element": null,
+  "caption": "Ilude um alvo de forma que ele ataque seu aliado mais próximo no proximo turno.",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> ondas do Caos se originam de sua arma em direção a um o alvo, que passa a atacar seu aliado mais próximo no próximo turno.</p><p><b>Se não for bem sucedido,</b> as ondas até atingem o inimigo, mas não surtem efeito.</p>",
+  "tags": ["grimo","qatun"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Doppelganger",
+  "magic_cost": "5 P.M",
+  "duration_time": "1",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": null,
+  "range_type": "Sí mesmo",
+  "range_amount": null,
+  "icon": "GiFaceToFace",
+  "element": null,
+  "caption": "Conjura uma ilusão de si mesmo, que pode atacar mas não pode usar magias.",
+  "description": "<p>Faça um teste de <b>Destino</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma ilusão sólida de sí próprio num espaço adjacente a você.</p><p>A ilusão pode ser controlada por você, mas se desfaz caso esteja a mais de <code>50 espaços</code> de distância. Ela <b>não pode conjurar magias</b>, mas pode efetuar <b>ataques físicos</b>.</p><p>Alvos que <b>desconfiarem de sua ilusão</b> exigem que você seja bem sucedido num <b>Teste de Perícia</b> do atributo <b>Influência</b>. Caso falhe, sua ilusão continuará intacta, mas o <b>alvo saberá que não é você de verdade</b>.</p><p>Em combate, a ilusão entra na iniciativa logo após o seu turno e pode ser usada para <b>atacar inimigos com ataques normais</b>, possui apenas <code>1 P.V</code> e replica os seus pontos de Ataque, Defesa e equipamentos. Qualquer efeito mágico que seu equipamento ou arma possua não será compartilhado pela ilusão (a menos que o equipamento diga o contrário).</p><p>Apenas <code>1 cópia</code> de Doppelganger pode estar ativa simultaneamente.</p>",
+  "tags": ["grimo","qatun"]
+}
