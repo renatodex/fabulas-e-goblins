@@ -55,7 +55,7 @@ import teleport from './../../data/spells/spells-qatun/tier4/teleport.json'
 
 import hive_mind from './../../data/spells/spells-qatun/ultimates/hive_mind.json'
 
-![Qatun.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C382483ac-5970-4beb-a518-cc4f4f5b4509.png)
+![Treinados na arte de manipular a mente e a matéria, os Qatunianos são indivíduos poderosos e influentes, sendo capazes de criar ilusões e manipular mentes.](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C382483ac-5970-4beb-a518-cc4f4f5b4509.png)
 
 Os **Adeptos de Qatun** são treinados na arte de manipular a mente e a matéria, criando ilusões convincentes que podem confundir seus inimigos.
 
