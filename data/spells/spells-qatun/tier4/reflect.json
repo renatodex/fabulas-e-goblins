@@ -7,7 +7,7 @@
   "cast_distance": "7",
   "range_type": "Alvo",
   "range_amount": "1",
-  "icon": "GiBoltSpellCast",
+  "icon": "GiMirrorMirror",
   "element": null,
   "caption": "",
   "description": "<p>Como uma <b>ação de reação</b>, você pode <b>refletir um projetil magico inimigo</b> sendo conjurado <b>contra você ou contra seus aliados</b>.</p><p>Quando isso acontecer, faça um teste contra a <b>Defesa Magica</b> desse inimigo.</p><p><b>Se você for bem sucedido,</b> o inimigo é atingido pelo próprio poder, recebendo dano normalmente.</p><p><b>Se você não for bem sucedido,</b> o ataque do inimigo é bem sucedido e sua ação falha.</p>",

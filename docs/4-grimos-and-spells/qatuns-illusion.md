@@ -135,9 +135,9 @@ Você pode escolher entre duas armas iniciais:
 
 | Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
 | ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | ----- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4f2944ae-b72e-4128-8412-b274ad09f69f.png" width="80" /> | Bengala Comum + 0 | Físico | D10 + 3 | Bengala comum. | 3 Cargas | Influência | Impacto |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4491bbc9-d502-4987-8b11-d1bf1ea661ee.png" width="80" /> | Punhal Comum + 0 | Mágico | 3D4 + 4 | Punhal comum. | 3 Cargas | Agilidade | Perfuração |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6013984c-1b5a-4852-88a9-d8b4a8e80120.png" width="80" /> | Saxo Comum + 0 | Físico | D10 + 3 | Espada portátil comum. | 3 Cargas | Força | Cortante |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4f2944ae-b72e-4128-8412-b274ad09f69f.png" width="80" /> | Bengala Comum + 0 | Físico | D10 + 4 | Bengala comum. | 3 Cargas | Influência | Impacto |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4491bbc9-d502-4987-8b11-d1bf1ea661ee.png" width="80" /> | Punhal da Morte Comum + 0 | Mágico | D4 + 1 | Um Punhal da morte, que aplica ```Morte 2d20``` em um ataque bem sucedido. | 3 Cargas | Destino | Morte 2d20 |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6013984c-1b5a-4852-88a9-d8b4a8e80120.png" width="80" /> | Saxo Comum + 0 | Físico | D10 + 4 | Espada portátil comum. | 3 Cargas | Força | Cortante |
 
 ## Requisito de entrada
 
@@ -157,12 +157,6 @@ As regras abaixo apenas se aplicam se este Grimo não for o seu Grimo inicial:
 Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, que pode ser usado apenas 1 vez a cada **Descanço Prolongado**.
 
 <SpellFromJson expanded={false} spellData={hive_mind} />
-
-•  Mentalidade de Colméia: Controla todos alvos numa area de 5x5 a sua volta.
-- Se estiver em combate, causa Controle 1 em todos inimigos numa área de 5x5 em sua volta.
- Os alvos não podem se auto-mutilar machucar. Você pode apagar a memoria deles por alguns instantes.
-
-•  Mestre de Marionetes: Qualquer numero de alvos numa área de 10x10 pode ser impelido psionicamente a completar um objetivo plausivel nos próximos 60 minutos. ( atacar um alvo, fugir , construir ou destruir algo, etc). Os olhos dos alvos , caso possuam ficam nitidamente esbranquiçados, e durante o tempo de controle, os alvos permancerão fidedignos ao seu objetivo, sem cometer desvios ou engajar em conversas complexas ou que exijam raciocino próprio. Após completar seu objetivo, os alvos são imediatamente libertos de suas obrigações. O conjurador também pode mudar o objetivo no meio do periodo de controle sem realizar testes. As massas não podem receber comandos que causarão dano intenso a sí mesmas (como mergulhar a mão na lava), mas podem suportar ações que vao gerar desgaste fisico ou mental. (Ex minerar metais numa caverna sem equipamentos de proteção ou fazer algo moralmente questionavel como prender crianças em jaulas).
 
 ### Habilidades - Tier 1
 

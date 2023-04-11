@@ -7,7 +7,7 @@
   "cast_distance": null,
   "range_type": "Circular",
   "range_amount": "5x5",
-  "icon": "GiBodySwapping",
+  "icon": "GiDodging",
   "element": null,
   "caption": "Uma pilar do Caos atinge 3 alvos diferentes, permitindo ao conjurador possa trocar suas posições.",
   "description": "<p>Esse poder pode afetar até <b>4 alvos</b> que estejam numa área circular de <code>5x5 espaços</code> em volta de sí mesmo., e um desses alvos deve ser você mesmo.</p><p>Escolha até <b>3 alvos</b>, e faça um teste contra a <b>Defesa Mágica</b> de cada um.</p><p><b>Para todos os alvos que você for bem sucedido,</b> você pode inverter suas posições em qualquer combinação que desejar. Você pode <b>assumir o espaço</b> de um inimigo, e fazer com que um <b>inimigo assuma o seu espaço</b>, ou até mesmo pode <b>trocar as posições entre dois alvos afetados</b> e manter a sua posição intacta. Vai depender da estratégia, mas a decisão final é sua.</p>",
