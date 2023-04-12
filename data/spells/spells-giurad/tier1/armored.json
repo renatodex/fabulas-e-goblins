@@ -9,7 +9,7 @@
   "range_type": null,
   "icon": "GiArmoredPants",
   "element": null,
-  "caption": "Nem todos podem se acostumar com Armaduras pesadas, mas a experiência de seu Grimo lhe traz a força e o conhecimento necessario para utilizar Armaduras Pesadas.",
-  "description": "<p>Habilidade concede uma redução de 1 Ponto na Penalidade de movimento ao utilizar Armaduras que prejudicam a movimentacão.</p>",
+  "caption": "Nem todos podem se acostumar com Armaduras pesadas, mas a experiência de seu Grimo lhe traz a força e o conhecimento necessario para utilizar essas poderosas proteções corporais.",
+  "description": "<p>Habilidade concede <code>-1 de Penalidade de movimento</code> ao utilizar <b>Armaduras pesadas</b>.</p>",
   "tags": ["grimo", "giurad"]
 }

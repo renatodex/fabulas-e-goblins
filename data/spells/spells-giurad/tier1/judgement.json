@@ -1,0 +1,15 @@
+{
+  "name": "Julgamento Final",
+  "magic_cost": "3 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "5",
+  "range_amount": "Alvo",
+  "range_type": "1",
+  "icon": "GiInjustice",
+  "element": null,
+  "caption": "O Cavaleiro evoca a justiça de Giurad para julgar as ações de um indivíduo e, revelando suas culpas e crimes e injustiças.",
+  "description": "<p>Escolha um alvo e faça um teste de perícia do atributo <b>Destino</b>.</p><p><b>Se for bem sucedido</b>, o seu Grimo emana um brilho sutil por alguns instantes, e você passa a receber a visão verdadeira de Giurad, permitindo que possa julgar um indivíduo à sua escolha, revelando detalhes de sua índole como pessoa.</p><p>O Narrador deve passar ao Personagem <b>3 informações</b> em uma <b>escala de 0 a 5</b>, sendo elas:</p><ul><li>O quão justo é esse personagem? <i>(Onde 0 é completamente injusto, e 5 é extremamente justo)</i></li><li>Quanto nas últimas semanas esse Personagem tem infringido a Lei e a Ordem? <i>(onde 0 é nenhuma infração e 5 é equivalente a infrações de natureza extremamente cruéis)</i></li><li>Quanto durante toda sua vida, esse personagem já infringiu a Lei e a Ordem? <i>(onde 0 é nunca infringiu, e 5 é equivalente a um desruptor natural da Lei e da Ordem)</i></li></ul><p>Se o Narrador deduzir que não é possível decidir a partir das ações do alvo que ele é justo ou não (alguns assuntos podem ter perspectivas diferentes), ele pode sinalizar a primeira pergunta com uma interrogação, ao invés de usar a escala de 0 a 5.</p><p>O poder <code>Julgamento Final</code> pode ser <b>ativado secretamente</b> pelo personagem, sem que o <b>alvo jamais saiba</b> que sua índole foi julgada, a excessão à regra são os outros <b>Cavaleiros de Giurad</b> presentes, que podem sim sentir a aura mágica deste poder.</p><p>Por fim, as informações do julgamento podem ser passadas ao jogador <b>secretamente ou em aberto</b>, a cargo do Narrador e do contexto.</p>",
+  "tags": ["grimo", "giurad"]
+}

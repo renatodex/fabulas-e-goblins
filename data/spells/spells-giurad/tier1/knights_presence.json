@@ -1,0 +1,15 @@
+{
+  "name": "Presença do cavaleiro",
+  "magic_cost": "5 P.M",
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiDwarfHelmet",
+  "element": null,
+  "caption": "A imponência dos cavaleiros impôe medo em seus inimigos, e de alguma forma faz com que hesitem em atacá-lo.",
+  "description": "<p>Você pode evocar este poder sempre que um <b>alvo sensciente</b> for atacá-lo em um espaço <b>adjacente</b> a você. (faça isso antes de rolar sua defesa)</p><p>Para isso, faça um <b>teste de Perícia</b> do atributo <b>Força</b>.</p><p><b>Se for bem sucedido</b>, o alvo hesita em te atacar por um instante, perdendo sua ação de ataque.</p><p>Só é possível usar a presença do Cavaleiro <b>uma única vez</b> por <b>inimigo sensciente</b> e <b>por combate</b>. <i>(ex: Se o combate tiver 3 inimigos senscientes, você pode usar Presença de Cavaleiro 3 vezes, uma vez para cada alvo.)</i></p>",
+  "tags": ["grimo", "giurad"]
+}

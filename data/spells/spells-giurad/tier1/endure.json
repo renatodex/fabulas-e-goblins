@@ -1,6 +1,6 @@
 {
   "name": "Endurecer",
-  "magic_cost": "2 P.M",
+  "magic_cost": "5 P.M",
   "duration_time": null,
   "attack_logic": null,
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiAura",
   "element": null,
   "caption": "Uma aura de proteção amarelada parece emanar de seu Grimo, cobrindo o seu corpo e fornecendo proteção contra os ataques inimigos.",
-  "description": "<p>A aura afeta apenas seu personagem e confere uma redução de 5*TIER pontos de dano no próximo ataque inimigo.<br/>Não é necessário realizar testes para usar este poder.<br/>Endurecer não custa uma ação, e pode ser usado antes de um ataque.</p>",
+  "description": "<p><b>Não exige testes.</b></p><p>Conjura uma <b>aura</b> que afeta apenas o seu personagem e <b>confere uma redução</b> de <code>8 * TIER</code> pontos de dano no <b>próximo ataque físico de um inimigo</b>.</p><p>Após receber <b>dano físico</b>, a aura é dispersa automaticamente.</p><p>Endurecer pode ser usado como uma <b>Ação Livre</b> antes do seu ataque.</p>",
   "tags": ["grimo", "giurad"]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Cicatrização Acelerada",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Passiva",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiHealing",
+  "element": null,
+  "caption": "Seu metabolismo se acelera, fechando feridas mais rapidamente.",
+  "description": "<p>Como uma habilidade Passiva, e apenas quando estiver em combate, recupere <code>1 * TIER</code> P.V no começo de cada turno seu. Pontos de Vida adicionais <b>recebidos por poderes</b> não podem ser recuperados.</p>",
+  "tags": ["grimo", "giurad"]
+}

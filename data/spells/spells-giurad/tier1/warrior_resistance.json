@@ -10,6 +10,6 @@
   "icon": "GiBattleTank",
   "element": null,
   "caption": "O Grimo lhe fornece passivamente um suspiro de vitalidade extra que você precisava para derrotar seus inimigos.",
-  "description": "<p>Sua experiência em combate aumenta sua resiliência, fornecendo 5 P.V extras.</p>",
+  "description": "<p>Sua experiência em combate aumenta sua resiliência, fornecendo <code>(TIER * 5 P.V)</code> extras.</p>",
   "tags": ["grimo", "giurad"]
 }

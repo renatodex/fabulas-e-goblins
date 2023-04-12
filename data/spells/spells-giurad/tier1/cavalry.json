@@ -10,6 +10,6 @@
   "icon": "GiHorseHead",
   "element": null,
   "caption": "O seu Grimo lhe concede conhecimentos da memória de seu criador, provendo uma experiência nata para cavalgar montarias.",
-  "description": "<p>A Habilidade Cavalgador é passiva, e não precisa ser ativada. Com ela você recebe +2 de Ataque caso ataque inimigos montado em uma montaria.<br/>Com esta habilidade, você passa a poder montar criaturas que exigem treinamento Nível Médio (personagens destreinados apenas podem montar criaturas de nível Fácil).<br/>Além disso, a Habilidade Cavalaria lhe concede velocidade adicional nas montarias, permitindo que viajens possam levar 1 dia a menos para você.</p>",
+  "description": "<p>A Habilidade Cavalgador é passiva, e não precisa ser ativada. Com ela você recebe <code>+2 de Ataque Físico</code> caso ataque inimigos <b>montado em uma montaria</b>.</p><p>Com esta habilidade, você passa a poder montar criaturas que exigem treinamento <b>Nível Médio</b> (personagens destreinados apenas podem montar criaturas de <b>nível Fácil</b>).</p><p>Além disso, a Habilidade Cavalaria lhe concede <b>velocidade adicional</b> nas montarias, permitindo que viajens possam levar <code>1 dia a menos</code> para você.</p>",
   "tags": ["grimo", "giurad"]
 }
