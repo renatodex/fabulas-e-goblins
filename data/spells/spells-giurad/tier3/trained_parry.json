@@ -10,6 +10,6 @@
   "icon": "GiLaserPrecision",
   "element": null,
   "caption": "Seus reflexos são superiores, e você pode aparar vários ataques, mesmo em situações desfavoráveis.",
-  "description": "<p>Receba 2 (dois) Tokens de Aparo.<br/>Duas vezes por dia, quando uma ação sua ou do inimigo gerar um ou mais ataques de oportunidade contra você, você pode gastar um token para aparar automaticamente todos os ataques da ocasião, evitando qualquer dano que seria causado. Os Tokens dessa Skill e da Skill anterior não se acumulam.</p>",
+  "description": "<p>Receba <code>2 Tokens de Aparo</code>. <i>(renovado por dia, não acumula)</i><p>Uma vez por dia, quando uma ação sua ou do inimigo gerar um ou mais <b>ataques de oportunidade</b> contra você, você pode gastar <code>1 Token</code> para <b>aparar automaticamente</b> todos os ataques da ocasião, sem realizar testes, evitando <b>qualquer dano</b> que seria causado.</p>",
   "tags": ["grimo", "giurad"]
 }
