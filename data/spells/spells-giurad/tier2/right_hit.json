@@ -10,6 +10,6 @@
   "icon": "GiSwordBrandish",
   "element": null,
   "caption": "A Experiência lhe mostrou que um golpe bem dado pode ser decisivo para uma vitória assertiva.",
-  "description": "<p>Seus ataques causam 1D8 adicional de dano quando o resultado do D20 de ataque for superior a 15. <br/>Esse dano é automaticamente maximizado (ou seja, aplicará 8 de dano), no caso de um Sucesso Crítico (tirar 20 no dado), mas ele não é aplicado de forma dobrada, como o dano da arma.</p>",
+  "description": "<p>Seus ataques causam <code>TIER*1d8</code> de <b>Dano Físico</b> quando o resultado final do seu ataque for <b>superior a 15</b>.</p><p>O resultado dos dados são automaticamente maximizados no caso de um <b>Triunfo</b> <i>(tirar 20 em um dos dados)</i>, mas <b>diferente do seu dano do ataque</b>, esse <code>TIER*1d8</code> adicional não é aplicado de forma dobrada.</p>",
   "tags": ["grimo", "giurad"]
 }

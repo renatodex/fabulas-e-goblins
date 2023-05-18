@@ -10,6 +10,6 @@
   "icon": "GiDervishSwords",
   "element": null,
   "caption": "Você usa toda sua inércia para realizar um ataque duplo, que pode causar o dobro de dano no inimigo.",
-  "description": "<p>Para usar o Ataque Duplo, você não poderá ter se movido no seu turno. Ele também também exige que você esteja em plena forma, por isso, não poderá estar sofrendo nenhuma condição Negativa, Doença ou Maldição.<br/>O Ataque Duplo é um ataque de origem mágica, que flui diretamente do seu Grimo, e por isso, possui um custo de Pontos de Magia.<br/>Ao utilizar este poder, você deverá rolar dois ataques, um seguido do outro, como se estivesse atacando duas vezes. A falha em um ataque não impede que o outro seja realizado, ambos os ataques são realizados de forma independente. (a não ser que uma Falha Crítica diga o contrário)</p>",
+  "description": "<p>Use este poder apenas com <b>ataques corpo-a-corpo</b> e apenas se <b>não tiver se movido</b> no seu turno.</p><p>Escolha um alvo. Ao invés de realizar um <b>Ataque Físico</b>, você pode escolher realizar <code>2 Ataques Físicos consecutivos</code>, como se estivesse atacando duas vezes. A falha em um ataque não impede que o outro seja realizado, pois ambos os ataques são realizados de forma independente. (a não ser que uma Falha Crítica diga o contrário).</p><p>Para utilizar <b>Ataque Duplo Focado</b>, o Personagem não poderá estar sofrendo nenhuma condição Negativa, Doença ou Maldição.</p>",
   "tags": ["grimo", "giurad"]
 }
