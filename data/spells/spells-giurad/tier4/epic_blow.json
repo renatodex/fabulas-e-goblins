@@ -10,6 +10,6 @@
   "icon": "GiFlyingDagger",
   "element": null,
   "caption": "Uma energia abrupta se materializa rapidamente em volta da lâmina do Cavaleiro, crescendo numa velocidade espantosa enquanto aqueles a sua volta se assustam com o poderoso estampido seco de pura liberação mágica causado pelo impacto do Petardo Épico.",
-  "description": "<p>Escolha um alvo e teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem succedido,</b> este ataque causa <code>Dano da Arma + 1d100</code> de <b>dano físico</b> ao inimigo.</p><p><b>Se não for bem sucedido,</b> você ainda causa <b>metade do dano</b> que causaria caso fosse bem sucedido.</p>",
+  "description": "<p>Escolha um alvo e teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem succedido,</b> este ataque causa <code>Dano da Arma + 2d100</code> de <b>dano físico</b> ao inimigo.</p><p><b>Se não for bem sucedido,</b> você ainda causa <b>metade do dano</b> que causaria caso fosse bem sucedido.</p>",
   "tags": ["grimo", "giurad"]
 }
