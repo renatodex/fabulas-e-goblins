@@ -10,6 +10,6 @@
   "icon": "GiDividedSpiral",
   "element": null,
   "caption": "Seu Grimo se enche de magia enquanto você rodopia sua arma no seu próprio eixo para causar um grande dano nos inimigos. A magia mantém sua estabilidade e lhe permite rodopiar com sua arma por vários segundos.  ",
-  "description": "<p>Você rodopia com sua arma no seu próprio eixo, criando um espiral que causa dano a todos inimigos adjacentes. Em seguida, realize um teste de <b>Ataque Físico</b> contra cada inimigo adjacente:</p><p><b>Para cada inimigo que for bem sucedido</b>, você causa <code>Dano da Arma + TIER*(10+4)</code> de <b>dano físico</b>.</p><p>Enquanto estiver com o <b>poder ativo</b>, você ainda pode se mover por <code>3 espaços</code>, causando dano a todos inimigos adjacentes a cada espaço que passar. <b>(cada inimigo só pode receber ataque dessa forma 1 vez por utilização)</b></p>",
+  "description": "<p>Você rodopia com sua arma no seu próprio eixo, criando um espiral que causa dano a todos inimigos adjacentes. Em seguida, realize um teste de <b>Ataque Físico</b> contra cada inimigo adjacente:</p><p><b>Para cada inimigo que for bem sucedido</b>, você causa <code>Dano da Arma + TIER*(d8+6)</code> de <b>dano físico</b>.</p><p>Enquanto estiver com o <b>poder ativo</b>, você ainda pode se mover por <code>3 espaços</code>, causando dano a todos inimigos adjacentes a cada espaço que passar. <b>(cada inimigo só pode receber ataque dessa forma 1 vez por utilização)</b></p>",
   "tags": ["grimo", "giurad"]
 }
