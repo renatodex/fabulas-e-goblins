@@ -10,6 +10,6 @@
   "icon": "GiLightningDome",
   "element": null,
   "caption": "Com o treinamento certo, o Espírito pode se blindar a um Elemento.",
-  "description": "<p>Ativa a aura de Instância Elemental ate o final do combate.<br/>Fornece 90% de redução de dano elemental (arredondado para cima) de um elemento a sua escolha.<br/>A Escolha precisa ser feita no momento em que o poder é escolhido no Grimo.<br/>Não é possível alterar o elemento posteriormente.</p>",
+  "description": "<p>Use como uma <b>ação livre</b> durante o seu turno.</p><p>A aura de Instância Elemental dura até o final do combate, e fornece <code>90% de redução de dano mágico elemental</code> (arredondado para cima) de um <b>elemento a sua escolha</b>.</p><p>A escolha desse elemento precisa ser feita no momento em que o poder é aprendido no Grimo, e não é possível alterá-la posteriormente.</p><p><i>Exemplo: Garin é um Cavaleiro que escolheu a Instância Elemental de Fogo, e por isso, recebe 90% menos de dano de fogo. Se Garin receber 74 de dano, ele receberá na verdade 8 de dano (74 * 0,1) = 8 (arredondando para cima).</i></p>",
   "tags": ["grimo", "giurad"]
 }

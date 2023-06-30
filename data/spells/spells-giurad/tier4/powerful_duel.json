@@ -3,13 +3,13 @@
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": "Físico",
-  "action_type": "Ativa",
+  "action_type": "Passiva",
   "cast_distance": 0,
   "range_amount": null,
   "range_type": null,
   "icon": "GiSabersChoc",
   "element": null,
   "caption": "O Verdadeiro Cavaleiro leva o Duelo até as últimas consequências.",
-  "description": "<p>O Efeito de Duelos agora dura até o fim do encontro.<br/>Vencer um inimigo após o Duelo concede uma Carga de Duelo que lhe garante 1D12 extra de dano ate o fim do combate.<br/>Com este poder, a habilidade Duelo pode ser usada gastando-se 0 (Zero) Pontos de Magia, mas ainda só pode ser utilizada 1 vez por turno.<br/>Limitação: Acumula até no máximo 10 cargas.</p>",
+  "description": "<p>O efeito de <b>Duelos</b> agora dura até o <b>fim do encontro</b>.</p><p>Além disso, vencer um inimigo afetado por <b>Duelo</b> concede uma <b>Carga de Duelo</b> que lhe garante <code>1d12 de dano extra</code> ate o <b>fim do combate</b>.</p><p>Com este poder, a habilidade <b>Duelo</b> pode ser usada gastando-se <code>0 (Zero) Pontos de Magia</code>, mas ainda só pode ser utilizada <b>1 vez por turno</b>.</p><p>Limitação: Acumula até no máximo <code>10 cargas</code>.</p>",
   "tags": ["grimo", "giurad"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiCrestedHelmet",
   "element": null,
   "caption": "O Treinamento dos Cavaleiros mais experiêntes podem otimizar enormemente o potencial de proteção de Armaduras.",
-  "description": "<p>Ao utilizar armaduras pesadas, qualquer ataque corpo a corpo causa -5d12 em você.</p>",
+  "description": "<p>Ao utilizar armaduras pesadas, qualquer <b>ataque corpo a corpo</b> causa <code>-5d12 de dano físico</code>.</p>",
   "tags": ["grimo", "giurad"]
 }
