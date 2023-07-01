@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "2",
   "range_type": "Círculo",
-  "icon": "GiPiercingSword",
+  "icon": "GiBurningPassion",
   "element": "holy",
   "caption": "Um brilho emana de seu Grimo cegando temporariamente os inimigos próximos.",
   "description": "<p>Inimigos em um raio de 2 quadrados à partir do Sacerdote são afetados por uma Cegueira que aplica uma penalidade de -3 em Ataques corpo-a-corpo até o próximo turno deles.</p>",

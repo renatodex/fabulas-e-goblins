@@ -7,7 +7,7 @@
   "cast_distance": "",
   "range_amount": "",
   "range_type": "",
-  "icon": "GiPiercingSword",
+  "icon": "GiAura",
   "element": null,
   "caption": "Sua proximidade Divina emite uma estranha aura que parece ter um efeito pacificador entre as pessoas.",
   "description": "<p>Qualquer Personagem ou NPC que seja afetado pelo status <code>Furia</code> tem seu efeito dissipado ao finalizar o turno adjacente ao Sacerdote.<br/>Em ocasiões sociais, a <b>Aura de Paz</b> tem efeito direto sobre NPCs nervosos, acalmando seus ânimos na presença do Sacerdote.<br/>Inimigos podem te atacar normalmente com a <b>Aura de Paz</b>, mas não podem fazer isso sob o efeito de <code>Fúria</code>.<br/>A Aura é invisível e possui um efeito natural, não sendo um efeito diretamente controlado pelo Sacerdote.<br/><br/><b>Sacerdotes com mais de 5 Ações Profanas transformam essa aura na Aura do Medo, fazendo com que pessoas puras próximas de você sintam um estranho desconforto e receio de se relacionar com você. Nesse caso, a Aura da Paz não tem mais efeito.<br/>A Aura do Medo pode beneficiar ou prejudicar o Sacerdote em testes sociais dependendo de quem ele está se relacionando.</b></p>",

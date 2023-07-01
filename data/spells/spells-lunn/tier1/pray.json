@@ -7,7 +7,7 @@
   "cast_distance": "5",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiPrayer",
   "element": "holy",
   "caption": "Canalizando a Fé diretamente de seu Grimo, você conjura uma Aura de Proteção em um Aliado, que aumenta a Defesa dele.",
   "description": "<p>A Oração não requer teste para ser usada. Quando usado em um aliado, <b>adiciona +2 de Modificador de Defesa Física e Mágica até o próximo turno do alvo</b>.</p>",
