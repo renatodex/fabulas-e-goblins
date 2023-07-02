@@ -7,9 +7,9 @@
   "cast_distance": 6,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiCrownedExplosion",
   "element": "holy",
   "caption": "Conjura uma potente explosão de Luz em um alvo Profano, purificando o mundo de sua presença.",
-  "description": "<p><b>Expurgar Profano</b> conjura uma Explosão de Luz que apenas pode afetar inimigos Profanos (Mortos-Vivos, Sombras, Demônios, etc).<br/>A Explosão se inicia na própria localidade do Alvo, consumindo qualquer elemento de Escuridão e Mal.<br/><br/>Causa <code>(TIER*d10+20)</code> dano em inimigos <b>Profanos</b>.<br/><br/><b>Sacerdotes com mais de 1 Ação Profana só podem conjurar a versão corrompida deste poder, podendo apenas Expurgar inimigos Divinos, como Anjos, Celestiais e Elementais da Luz</b></p>",
+  "description": "<p>Escolha um alvo a até <code>6 espaços de distância</code> e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você conjura uma <b>Explosão de Luz</b> que apenas pode afetar inimigos <b>Profanos</b> <i>(Mortos-Vivos, Sombras, Demônios, etc)</i>.</p><p>A Explosão se inicia no espaço ocupado pelo alvo e causa <code>TIER * (d10 + 20)</code> de <b>dano mágico Divino</b> <i>(elemento luz)</i> a ele e a todos os alvos numa <b>área circular</b> de <code>2 espaços</code> a sua volta.</p><hr/><p>Sacerdotes com mais de <code>5 Ações Profanas</code> passam a conjurar a <b>versão corrompida</b> deste poder, causando dano a qualquer alvo que <b>não seja Profano</b>.</p>",
   "tags": ["grimo", "lunn"]
 }
