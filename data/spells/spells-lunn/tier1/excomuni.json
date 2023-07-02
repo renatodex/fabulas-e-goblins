@@ -1,6 +1,6 @@
 {
   "name": "Excomungar",
-  "magic_cost": "3 P.M",
+  "magic_cost": "5 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiRingedBeam",
   "element": "holy",
   "caption": "O Grimo conjura um poderoso Raio de Luz, que desce dos céus emanado da própria vontade de Lunn para testar a Fé dos pecadores.",
-  "description": "<p>Conjura um <b>Feixe Elemental</b> que cai do céu como um <b>Raio de Luz</b>, causando dano apenas em inimigos não religiosos.<br/>Causa <code>2d4+(TIER*9)</code> de dano. <br/>A Oração dos Pecadores apesar de não obrigatória, é comumente falada pelos Sacerdotes que conjuram o Excomungo: <b>\"Lor'Menia Tiha'Nar\"</b> <i>(O Deus de Todos poupa os que temem)</i><br/><b>Os dados do dano são aprimorados para D10 no Tier 3 e para D12 no Tier 4.</b><br/><br/><b>A habilidade causa -1d4 de Dano para cada Token de Ação Profana. Não pode causar dano negativo.</b></p>",
+  "description": "<p>Só funciona em alvos <b>não-religiosos</b>. Escolha um alvo e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> Excomungar conjura um feixe elemental de luz que causa <code>TIER * (1d8 + 1d10 + 12)</code> de <b>dano mágico</b> e causa <code>Cegueira 1</code>.</p><p>Causa <code>-1d10 (ou d8, o que for maior)</code> de <b>dano mágico</b> para cada <b>Token de Ação Profana</b> acumulado. Não pode causar dano negativo.</p>",
   "tags": ["grimo", "lunn"]
 }
