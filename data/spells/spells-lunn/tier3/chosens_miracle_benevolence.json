@@ -7,7 +7,7 @@
   "cast_distance": "5",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiUpgrade",
   "element": null,
   "caption": "Sua elevação Divina permite que você possa conjurar o Milagre do Escolhido em seus aliados.",
   "description": "<p>O Aprimoramento transforma a habilidade <b>Milagre do Escolhido</b> em uma Habilidade Ativa que pode ser utilizada em aliados. É importante notar que depois do Aprimoramento, o <b>Benefício da Habilidade Passiva não poderá mais ser utilizado</b>. O Efeito do Milagre tem duração de <b>1 descanso curto</b><br/><br/>Cada personagem só pode se beneficiar da Aura uma única vez por dia. <b>(Exceto se o Sacerdote possuir mais de 5 Tokens de Ação Profana, neste caso, o limite se extende para 2)</b>.</p>",

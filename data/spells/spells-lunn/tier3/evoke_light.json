@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiLaserBurst",
   "element": "holy",
   "caption": "Você emite uma fonte intensa de Pura Luz, que pode iluminar até mesmo os confins mais profundos da escuridão.",
   "description": "<p>O Sacerdote conjura uma fonte intensa de Luz Divina em uma localidade extensa, que se alastra numa fração de segundos iluminando magicamente uma área de <b>até 120x120</b>. Nenhuma escuridão ou até mesmo sombra pode se projetar ou permanecer na claritude do efeito.<br/><br/><b>Criaturas das Trevas</b> são <b>automaticamente Translocadas</b> para a <b>Área externa</b> do efeito a menos que sejam bem sucedidas num teste de Resiliência com dificuldade igual <code>10 + TIER + Mod. Espírito</code>  </p>",

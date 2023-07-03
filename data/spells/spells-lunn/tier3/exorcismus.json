@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "2x2",
   "range_type": "Area",
-  "icon": "GiPiercingSword",
+  "icon": "GiFireflake",
   "element": "holy",
   "caption": "Transforma o Expurgar Profano em um grande clarão de Luz, que purifica o mundo da presença dos Profanos.",
   "description": "<p>Aprimora o poder <b>Expurgar Profano</b>, transformando-o em uma habilidade em área que afeta 2x2 quadrados.</p>",

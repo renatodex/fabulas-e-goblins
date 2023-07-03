@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "5x5",
   "range_type": "Circular",
-  "icon": "GiPiercingSword",
+  "icon": "GiLiar",
   "element": "holy",
   "caption": "A poderosa aura de fé do Sacerdote impede que qualquer um distorça a verdade na área próxima à sua presença.",
   "description": "<p>Conjura uma Aura visível de 5x5 que impede qualquer inimigo de distorcer ou proferir mentiras de forma oral. Alvos que tentarem resistir a Aura devem fazer um teste de Resiliência cuja dificuldade é<br/><code>10 + TIER + Mod. Espírito</code>.<br/><br/>Qualquer alvo que <b>falhe no teste</b> para proferir uma mentira na área da Aura será afetado por uma <b>dor indescritível de origem Divina</b>, recebendo <code>TIER*(2d12+30)</code> de <b>dano não letal</b>. <i>(caso o dano zere os P.V do Alvo, o mesmo ficará com apenas 1 P.V, sendo afetado constantemente por uma dor escruciante que impede o alvo de se movimentar ou realizar ações de combate)</i><br/><br/>Caso o Alvo consiga <b>passar no teste</b>, a mentira <b>não deve ser percebida pelo Sacerdote</b>, portanto, indica-se que as rolagens de resistências sejam feitas de <b>forma oculta</b>.<br/>Também é indicado que as rolagens <b>sempre sejam feitas pelo Narrador</b>, mesmo que se <b>trate de uma verdade</b>, pois dessa forma o Sacerdote <b>não poderá saber</b> se a ação se trata de uma verdade, ou se o teste de resistência foi bem sucedido.</p>",
