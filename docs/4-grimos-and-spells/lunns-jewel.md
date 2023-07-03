@@ -186,10 +186,10 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 <SpellFromJson expanded={false} spellData={mark_of_penitence} />
-<SpellFromJson expanded={false} spellData={exorcismus} />
 <SpellFromJson expanded={false} spellData={truth_aura} />
 <SpellFromJson expanded={false} spellData={light_pillar} />
 <SpellFromJson expanded={false} spellData={evoke_light} />
+<SpellFromJson expanded={false} spellData={exorcismus} />
 <SpellFromJson expanded={false} spellData={healing_pray} />
 <SpellFromJson expanded={false} spellData={faith_sacrifice} />
 <SpellFromJson expanded={false} spellData={redemption} />

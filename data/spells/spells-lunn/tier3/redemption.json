@@ -10,6 +10,6 @@
   "icon": "GiKneeling",
   "element": null,
   "caption": "Entra em comunhão com Lunn para absolver os seus pecados.",
-  "description": "<p>A Ação é um Ritual de Comunhão que pode como objetivo remover um único <b>Token de Ação Profana</b> do Sacerdote. A ação só pode ser feita uma única vez Diariamente.<br/><br/>O Ritual precisa ser realizado num <b>local tranquilo, silencioso e livre de ameaças nos entornos, e requer pelo menos 1 hora de atenção para ser completada.</b></p>",
+  "description": "<p>A Ação é um <b>Ritual de Comunhão</b> que pode como objetivo remover um único <b>Token de Ação Profana</b> do Sacerdote. O ritual só pode ser feito uma <b>única vez</b> Diariamente.</p><p>Precisa ser realizado num <b>local tranquilo, silencioso e purificado, e requer pelo menos 1 hora de atenção para ser completado.</b></p><p>Como resultado, o Sacerdote sacrifica <code>1d4 Pontos de Vida</code> para ganhar <code>1d4 Pontos de Magia</code>.</p><hr/><p>Se o Sacerdote tiver ao menos <code>5 Ações Profanas</code>, ele pode se conectar com deuses obscuros em locais corrompidos para remover <b>Tokens de Ações Iluminadas</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

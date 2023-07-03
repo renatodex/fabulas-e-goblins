@@ -1,5 +1,5 @@
 {
-  "name": "Oração: Poderosa",
+  "name": "Aprimoramento: Oração Poderosa",
   "magic_cost": "5 P.M",
   "duration_time": null,
   "attack_logic": "Aprimoramento",
@@ -10,6 +10,6 @@
   "icon": "GiUpgrade",
   "element": null,
   "caption": "Suas preces chegam ainda mais próximo de Lunn, e sua proteção é ainda mais efetiva.",
-  "description": "<p>Aprimora a habilidade <b>Oração</b>, que agora aumenta a <b>Defesa de um único Alvo</b> em +4 até o final do turno, além de fornecer imunidade ao <b>Dano do Elemento Trevas</b>.<br/><br/><b>Caso o Sacerdote possua mais de 3 Ações Profanas, o poder garante imunidade ao elemento Luz.</b></p>",
+  "description": "<p>Aprimora a habilidade <b>Oração</b>, que aumenta seu bônus para <code>+4 de Defesa Física e Mágica</code> até o final do turno, além de fornecer <b>imunidade</b> ao <code>Dano do Elemento Trevas</code>.</p><hr/><p>Se o Sacerdote possuir ao menos <code>3 Ações Profanas</code>, o poder garante imunidade ao elemento <b>Luz</b> ao invés de <b>Trevas</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

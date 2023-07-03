@@ -1,5 +1,5 @@
 {
-  "name": "Milagre do Escolhido 2",
+  "name": "Aprimoramento: Milagre do Escolhido 2",
   "magic_cost": "T3: 12 P.M / T4: 36 P.M",
   "duration_time": null,
   "attack_logic": "Aprimoramento",
@@ -9,7 +9,7 @@
   "range_type": "Alvo",
   "icon": "GiUpgrade",
   "element": null,
-  "caption": "Sua elevação Divina permite que você possa conjurar o Milagre do Escolhido em seus aliados.",
-  "description": "<p>O Aprimoramento transforma a habilidade <b>Milagre do Escolhido</b> em uma Habilidade Ativa que pode ser utilizada em aliados. É importante notar que depois do Aprimoramento, o <b>Benefício da Habilidade Passiva não poderá mais ser utilizado</b>. O Efeito do Milagre tem duração de <b>1 descanso curto</b><br/><br/>Cada personagem só pode se beneficiar da Aura uma única vez por dia. <b>(Exceto se o Sacerdote possuir mais de 5 Tokens de Ação Profana, neste caso, o limite se extende para 2)</b>.</p>",
+  "caption": "Ao cair em combate, o Aliado abençoado é envolto em uma majestosa luz radiante, transcendendo sua própria natureza mortal. A aura o ergue no ar e o revive com um sopro divino, trazendo-o de volta para a batalha com a força e a esperança de Lunn.",
+  "description": "<p>O Aprimoramento transforma a habilidade <b>Milagre do Escolhido</b> em uma Habilidade Ativa que pode ser utilizada em aliados. É importante notar que depois do Aprimoramento, o <b>Benefício da Habilidade Passiva não poderá mais ser utilizado</b>. O Efeito do Milagre tem duração de <b>1 descanso curto</b> e apenas 1 Benção de Milagre pode estar ativa simultaneamente.</p><p>Cada personagem só pode se beneficiar da Aura uma única vez por dia.</p><p>O aprimoramento também faz com que o Personagem abençoado volte a vida com <b>metade dos Pontos de Vida</b>, ao invés de apenas 1 P.V.</p><hr/><p>Se o Sacerdote possuir ao menos <b>5 Tokens de Ação Profana</b>, o limite de milagres se extende para 2, assim como no poder original.</b></p>",
   "tags": ["grimo", "lunn"]
 }

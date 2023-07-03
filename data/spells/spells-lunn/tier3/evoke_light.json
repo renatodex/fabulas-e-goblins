@@ -1,15 +1,15 @@
 {
   "name": "Evocar Luz",
-  "magic_cost": "1 P.M",
+  "magic_cost": "10 P.M",
   "duration_time": null,
-  "attack_logic": "Físico",
+  "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": 0,
-  "range_amount": "1",
-  "range_type": "Alvo",
+  "range_amount": "15x15",
+  "range_type": "Circular",
   "icon": "GiLaserBurst",
   "element": "holy",
-  "caption": "Você emite uma fonte intensa de Pura Luz, que pode iluminar até mesmo os confins mais profundos da escuridão.",
-  "description": "<p>O Sacerdote conjura uma fonte intensa de Luz Divina em uma localidade extensa, que se alastra numa fração de segundos iluminando magicamente uma área de <b>até 120x120</b>. Nenhuma escuridão ou até mesmo sombra pode se projetar ou permanecer na claritude do efeito.<br/><br/><b>Criaturas das Trevas</b> são <b>automaticamente Translocadas</b> para a <b>Área externa</b> do efeito a menos que sejam bem sucedidas num teste de Resiliência com dificuldade igual <code>10 + TIER + Mod. Espírito</code>  </p>",
+  "caption": "O Sacerdote convoca um clarão de Luz Divina que se expande rapidamente, banindo sombras e repelindo Criaturas das Trevas. Aqueles que permanecem sofrem dano divino intenso. A luz sagrada brilha como um sol implacável, afirmado o poder do divino.",
+  "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> o Sacerdote conjura um clarão de Luz Divina em uma área circular de até <code>15x15</code>, que se alastra numa fração de segundos iluminando magicamente toda a área, extinguindo qualquer sombra e empurrando qualquer <b>Criatura das Trevas</b> <i>(elemento trevas)</i> para fora da área iluminada.</p><p>As criaturas que se recusarem a sair da área iluminada, sofrem <code>TIER * (1d20 + 10)</code> de dano mágico divino <i>(elemento luz)</i>.</p><hr/><p>Se o Sacerdote tiver ao menos <code>5 Ações Profanas</code>, o poder se torna <b>\"Evocar Trevas\"</b>, criando um clarão de trevas que extingue toda a luz do local e causa <code>TIER * (1d20 + 20)</code> a criaturas Divinas que permanecerem na área.</p>",
   "tags": ["grimo", "lunn"]
 }
