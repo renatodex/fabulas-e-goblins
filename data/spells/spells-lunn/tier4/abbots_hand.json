@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiPointing",
   "element": "holy",
   "caption": "A Mão do Sacerdote paira sobre o ombro daquele que sofre, removendo as raízes mais profundas de suas aflições.",
   "description": "<p>Um Ritual de cura profundo e duradouro que permite remover permanentemente um Trauma adquirido por um alvo.<br/><br/>O Mestre Sacerdote precisa de consentimento para realizar a operação, assim como a consumação de uma <b>Gota de Fé</b>.<br/><br/>Assim como outros rituais do tipo, precisa ser realizado em ambiente silencioso e munido das forças da fé.</p>",

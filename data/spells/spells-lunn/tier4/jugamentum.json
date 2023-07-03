@@ -7,7 +7,7 @@
   "cast_distance": 7,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiCometSpark",
   "element": "holy",
   "caption": "Um raio de Luz cai sobre um inimigo, causando um dano gigantesco.",
   "description": "<p>Conjura um poderoso raio de luz que <b>oblitera instantaneamente</b> qualquer inimigo de Tier <b>inferior a \"Líder\"</b>. Para Líderes, Mini-Chefes e categorias mais poderosas, o Raio causa <code>3d20 + 30</code> de dano.<br/>O dano é duplicado caso a criatura seja do tipo <b>Profana</b>.</p>",

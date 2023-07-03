@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiMucousPillar",
   "element": "holy",
   "caption": "Sua cura agora evoca os Pilares de Luz para auxiliar na sua missão.",
   "description": "<p>Cada cura realizada como uma ação conjura <b>1 Pilar de luz</b> na coordenada onde a cura foi realizada. Pode conjurar até um máximo de <b>6 Pilares</b>. (considerando também os do poder <b>Pilar de Luz</b>)</p>",

@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiHeartWings",
   "element": "holy",
   "caption": "Ao recitar a sagrada Oração do Eczomaximum, você conjura um Pilar de Cura que envolve o corpo de um alvo selando todas suas feridas e protegendo-o contra feridas futuras.",
   "description": "<p>Cura <b>todos P.V de um aliado</b> e fornece <code>3d12+10 de PV</code> Temporario.<br/><b>Pode ser usado apenas uma vez por encontro</b>.</p>",

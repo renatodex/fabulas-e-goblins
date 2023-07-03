@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": "6x6",
   "range_type": "Circular",
-  "icon": "GiPiercingSword",
+  "icon": "GiAngelOutfit",
   "element": "holy",
   "caption": "Suas palavras de Fé evocam uma poderosa auréola mágica que se origina de sua posição e se expande para curar diversos aliados.",
   "description": "<p><b>Uma Auréola divina</b> se origina de sua coordenada, se expandindo por <b>6 quadrados</b> de diâmetro, e curando <code>3d12+20 P.V</code> de todos aliados atingindos.</p>",
