@@ -1,5 +1,5 @@
 {
-  "name": "Eczomaximum",
+  "name": "Eczomaxi",
   "magic_cost": "18 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
@@ -9,7 +9,7 @@
   "range_type": "Alvo",
   "icon": "GiHeartWings",
   "element": "holy",
-  "caption": "Ao recitar a sagrada Oração do Eczomaximum, você conjura um Pilar de Cura que envolve o corpo de um alvo selando todas suas feridas e protegendo-o contra feridas futuras.",
-  "description": "<p>Cura <b>todos P.V de um aliado</b> e fornece <code>3d12+10 de PV</code> Temporario.<br/><b>Pode ser usado apenas uma vez por encontro</b>.</p>",
+  "caption": "Nessa oração lendária, a fé e a magia se entrelaçam, invocando o poder divino para envolver o alvo em um Pilar de Cura, selando suas feridas e garantindo proteção contra futuros ferimentos..",
+  "description": "<p>Escolha 1 alvo e faça um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você profere a lendária oração de Eczomaxi, curando <b>todos os Pontos de Vida do alvo</b>, além de fornecer <code>6d20 + 40</code> de Pontos de Vida temporários.</p><p><b>Este poder só ser usado apenas uma vez por dia. (não conta uso se não for bem sucedido)</b></p><hr/><p>Se o Sacerdote possuir ao menos <code>5 Ações Profanas</code>, o poder se torna sombrio, passando a extrair toda a energia vital de um alvo, matando-o instantaneamente. Para isso, faça um teste contra a <b>Defesa Mágica</b> do alvo.</p><p><b>Se for bem sucedido,</b> você ergue o alvo no ar, extraindo toda sua energia vital e recuperando <b>todos os seus pontos de Vida e Magia</b> instantaneamente. Na versão Sombria, este poder custa <code>40 Pontos de Magia</code> e <b>conta o uso</b> mesmo em caso de falha. </p><p>Funciona em qualquer inimigo, mas inimigos <b>Nêmesis ou superior</b> exigem o uso de uma <b>Gota Sombria</b> <i>(a gota é consumida mesmo em caso de falha)</i>, além de um teste extra bem sucedido de <code>95 ou superior no d100</code>.</p>",
   "tags": ["grimo", "lunn"]
 }

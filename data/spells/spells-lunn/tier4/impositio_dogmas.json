@@ -1,15 +1,15 @@
 {
-  "name": "Impositio Dogmas",
+  "name": "Fatum Renovatio",
   "magic_cost": "18 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
-  "action_type": "Ativa",
-  "cast_distance": 0,
+  "action_type": "Reação",
+  "cast_distance": 7,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiFairyWand",
+  "icon": "GiHawkEmblem",
   "element": "holy",
-  "caption": "Caption",
-  "description": "<p><b>Como uma ação de Reação</b> que pode ser usada a qualquer momento, o Sacerdote pode realizar uma <b>ação adicional imediata</b>, mesmo que esteja fora do seu turno.<br/><br/>Com esta ação, o Sacerdote pode curar um aliado <b>como reação a um acerto que seria fatal</b>. (apenas aliados).<br/>Neste caso, <b>o Aliado não é abatido</b>, ao invés disso, ele tem seus <b>P.Vs zerados</b>, e logo em seguida recebe a Cura do Sacerdote.<br/><br/><b>Só pode ser usado uma vez por encontro.</b></p>",
+  "caption": "No limiar da derrota iminente, quando a sombra da morte paira sobre um aliado, o Sacerdote desencadeia um poder transcendental. Através de uma ação além do tempo, ele desafia o destino, anulando um golpe fatal. Num instante de puro milagre, o aliado renasce, seus pulsos são revitalizados pela cura divina. Uma vez por encontro, a esperança se ergue contra a escuridão.",
+  "description": "<p>Sempre que um alvo até <code>10 espaços de distância</code> receber um dano que seria fatal, você pode imediatamente realizar uma <b>Ação de Reação</b>. Se o fizer, faça um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido,</b> logo após o alvo zerar os <b>Pontos de Vida</b> e antes de receber um trauma, você cura <b>metade de seus Pontos de Vida</b>, como se ele nunca tivesse sido abatido.</p><p><b>Se não for bem sucedido,</b> o alvo recebe o dano letal e cai inconsciente no chão.</p><p>Só pode ser usado uma vez por combate.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -208,7 +208,5 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={infinitus} />
 <SpellFromJson expanded={false} spellData={jugamentum} />
 <SpellFromJson expanded={false} spellData={magnus_impositio} />
-<SpellFromJson expanded={false} spellData={abbots_hand} />
 <SpellFromJson expanded={false} spellData={ultimatum} />
-<SpellFromJson expanded={false} spellData={lunns_command} />
 <SpellFromJson expanded={false} spellData={healing_master} />

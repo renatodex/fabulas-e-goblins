@@ -1,6 +1,6 @@
 {
   "name": "Magnus Impositio",
-  "magic_cost": "3d12+10 P.M",
+  "magic_cost": "35 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
@@ -9,7 +9,7 @@
   "range_type": "Alvo",
   "icon": "GiGalaxy",
   "element": "holy",
-  "caption": "Você ora a Lunn para restaurar a Conexão Mágica de um alvo.",
-  "description": "<p>Magnus Impositio cura em <code>3d12+10</code> os P.M de um alvo. <b>O custo de Magia deste poder é o mesmo custo da Cura</b>.<br/>Portanto, o teste do Custo precisa ser realizado após a utilização do Poder ser anunciada ao Narrador. Caso o resultado do teste de Custo supere os Pontos de Magia do próprio sacerdote, o poder falha e o Sacerdote perde sua ação.<br/><br/><i>Por mais que a mecânica deste poder se pareça com uma \"transferência\" de P.M, este poder não é considerado como uma transferência.</i></p>",
+  "caption": "Como um condutor das energias arcanas, você entrelaça os fios da realidade, abrindo um portal para o plano mágico. Em um espetáculo transcendental, um pilar de luz cerúlea surge, emanando uma essência pura e fluida de magia. A conexão com os poços infinitos de Grimória se materializa, restaurando a energia arcana do alvo.",
+  "description": "<p>Escolha um alvo a até <code>10 espaços de distância</code> e faça um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você conjura um pilar de luz áurea que cura <code>5d12 + 20</code> <b>Pontos de Magia</b> do alvo.</p><p>Só pode ser usado uma vez por dia, e não pode ser usado em sí mesmo.</p>",
   "tags": ["grimo", "lunn"]
 }
