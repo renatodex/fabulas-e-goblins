@@ -10,6 +10,6 @@
   "icon": "GiDigHole",
   "element": null,
   "caption": "Se não pode resolver no Cajado, resolva nos Punhos!",
-  "description": "<p>Canaliza o elemento escolhido nas mãos do conjurador, causando um potente impacto a um único inimigo que causa <b>3d6+4</b> de dano.</p>",
+  "description": "<p>Escolha um alvo adjacente e faça um teste contra sua <b>Defesa Física</b> utilizando seu <b>Ataque Mágico</b>.</p><p><b>Se for bem sucedido</b>, você canaliza seu elemento nas suas próprias mãos, desferindo um golpe potente em um único inimigo, e causando <code>(TIER+1) * (d20)</code> de dano mágico elemental do seu elemento.</p>",
   "tags": ["grimo", "allura"]
 }
