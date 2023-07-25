@@ -7,7 +7,7 @@
   "cast_distance": 0,
   "range_amount": null,
   "range_type": "Sí mesmo",
-  "icon": "GiDigHole",
+  "icon": "GiAura",
   "element": null,
   "caption": "Na teia mística do elo eu me concentro, imóvel e imperturbável. Meu próximo golpe, impregnado de poder elemental, traz a força e a ira dos elementos.",
   "description": "<p>Consome uma <b>Ação Maior</b> e coloca o em <b>\"Modo Concentração\"</b>. Enquanto estiver concentrado, você <b>não poderá</b> se mover, atacar ou fazer qualquer interação a não ser falar.</p><p>No próximo turno, qualquer ataque realizado terá o <b>dano dobrado</b> caso acerte o inimigo.</p><p>O ataque também recebe um bônus de <code>TIER * d6</code> de <b>dano elemental</b> do seu elemento.<p>Se você for atacado ou afetado por qualquer <b>Condição Negativa</b> durante a concentração, a <b>Amplificação Arcana</b> é cancelada.</p>",

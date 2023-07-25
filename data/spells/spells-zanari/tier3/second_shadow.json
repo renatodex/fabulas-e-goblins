@@ -10,6 +10,6 @@
   "icon": "GiTwoShadows",
   "element": "darkness",
   "caption": "Você passa a ter duas sombras sobrepostas, que pode usar para conjurar multiplos Sombrizir.",
-  "description": "<p>Seu personagem passa a ter secretamente uma segunda sombra sobreposta, e pode usá-la para qualquer poder que <b>exija uma sombra</b>, ou para conjurar um <b>segundo Sombrizir</b>.</p>",
+  "description": "<p>Seu personagem passa a ter secretamente uma segunda sombra sobreposta, e pode usá-la para qualquer poder que <b>exija uma sombra</b>, ou para conjurar um <b>segundo Sombrizir</b>.</p><p>Ao ser consumida, uma sombra precisa de um Descanso longo para ser recuperada.</p>",
   "tags": ["grimo","zanari"]
 }

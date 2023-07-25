@@ -7,7 +7,7 @@
   "cast_distance": "7",
   "range_amount": "",
   "range_type": "Misto",
-  "icon": "GiDigHole",
+  "icon": "GiGlowingHands",
   "element": null,
   "caption": "Você domina o Elo Mágico, moldando seu elemento em formas inimagináveis, seja fogo ardente, raios fulminantes ou até mesmo luz sagrada. Você é o arquiteto da realidade.",
   "description": "<p>Faça um teste de Perícia de <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você pode criar e manipular qualquer objeto ou forma constituído 100% do seu elemento, a um volume que caiba em até <b>1 espaço</b>.</p><p>O objeto conjurado se mantém ativo até que o Personagem decida desfazer. A conjuração pode assumir qualquer forma que o dominador queira, desde objetos inanimados até formas orgânicas.</p><p>Caso seja usado para causar dano a um alvo, você também precisará testar contra a <b>Defesa Mágica</b> dele, podendo causar um dano equivalente à <b>Rajada do Aprendiz</b>, sem considerar aprimoramentos que venham de outros poderes.</p><p>O Local onde o Elemento será manipulado precisa estar visível ao manipulador, e dependendo do objeto e do propósito da sua conjuração, fica a cargo do Narrador interpretar o efeito das <b>propriedades naturais</b> do seu elemento (ex: O Fogo pode queimar, a Luz pode afetar mortos-vivos, o Raio pode eletrocutar, etc)</p>",

@@ -1,15 +1,15 @@
 {
   "name": "Onda de Magia",
-  "magic_cost": "3 P.M",
+  "magic_cost": "5 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": "0",
   "range_amount": "",
   "range_type": "Centro",
-  "icon": "GiDigHole",
+  "icon": "GiBeamsAura",
   "element": null,
   "caption": "Uma forte onda sônica que afasta os inimigos próximos enquanto causa dano.",
-  "description": "<p>Emite uma onda de Energia elemental que se origina da sua posição e atinge todos inimigos adjacentes causando 1d10+5, afastando-os por 2 quadrados. <i>(Também atinge aliados a menos que possua habilidade <b>Fogo Amigo</b></i>).</p>",
+  "description": "<p>Faça um teste contra a <b>Defesa Mágica</b> mais alta entre <b>todos inimigos adjacentes</b>.</p><p><b>Se for bem sucedido</b>, você emite uma onda de Energia elemental que se origina da sua posição e atinge todos os alvos adjacentes a você, causando <code>TIER * (2d10 + 8)</code>, além de <code>Empurrar 2</code>.</p>",
   "tags": ["grimo", "allura"]
 }

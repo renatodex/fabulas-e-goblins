@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiLightningDome",
   "element": null,
-  "caption": "Sua conexão com seu Grimo se intensifica, reduzindo drásticamente o dano causado pelo elemento oposto.",
-  "description": "<p>Reduz em <b>4d6+20</b> o dano causado por ataques do seu elemento oposto.</p>",
+  "caption": "Sua conexão com seu Grimo se intensifica, reduzindo o dano causado pelo elemento oposto.",
+  "description": "<p>Reduz em <code>TIER * (2d6 + 8)</code> o dano causado por ataques do seu elemento oposto.</p>",
   "tags": ["grimo", "allura"]
 }
