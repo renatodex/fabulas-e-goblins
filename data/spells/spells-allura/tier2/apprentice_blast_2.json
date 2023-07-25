@@ -1,6 +1,6 @@
 {
-  "name": "Rajada do Aprendiz 2",
-  "magic_cost": "4 P.M",
+  "name": "Aprimoramento: Rajada do Aprendiz",
+  "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
   "action_type": "Aprimoramento",
@@ -10,6 +10,6 @@
   "icon": "GiDigHole",
   "element": null,
   "caption": "A sua experiência com a Rajada do Aprendiz agora permite desferir um projétil mais potente e poderoso.",
-  "description": "<p>Expande a Rajada de Aprendiz para o nível 2, aumentando o Dano para <b>3d6+12</b></p>",
+  "description": "<p>Requer o poder <b>Rajada de Aprendiz</b>.</p><p>Expande o dano, passando a causar um <code>d8</code> adicional no <b>Tier 2</b>. Evolui para um <code>d12</code> no <b>Tier 3</b> e um <code>d20</code> no <b>Tier 4</b>.</p>",
   "tags": ["grimo", "allura"]
 }

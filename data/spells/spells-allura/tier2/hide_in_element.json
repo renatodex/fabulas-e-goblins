@@ -1,6 +1,6 @@
 {
   "name": "Ocultação Elemental",
-  "magic_cost": "4 P.M",
+  "magic_cost": "5 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiDigHole",
   "element": null,
   "caption": "Sua conexão com o seu elemento permite que você se mescle à sua presença, tornando-se oculto a um olhar destreinado.",
-  "description": "<p>Permite se ocultar na natureza elementar da sua dominação.<br/>Apenas pode ser utilizada quando <b>a fonte da sua dominação é latente na sua localidade</b>.<br/> <i>Exemplo: Ocultar-se no vento requer que o usuário esteja em uma localidade com fontes correntes de vento. Enquanto ocultar-se na Água em Timéria exige que o lugar esteja afetado por fortes correntes marítmas, pois em Teméria, os Elementos Água e Vento são análogos.</i><br/>Para saber o sucesso da Ocultação, você deverá fazer um teste de <b>Elo Mágico</b>. A dificuldade do Teste depende da <b>intensidade de presença</b> do elemento dominado, que deve ser avaliada pelo <i>Narrador</i>.<br/>Pode ser usada em combate como um efeito de <i>\"Invibilidade\"</i>, que dura até o momento em que o usuário atacar ou se mover por mais de <b>3 quadrados</b>.<br/>Caso o Personagem ataque ao sair imediatamente da Ocultação, a ação fornece a vantagem do modificador <b>Ataque Surpresa</b>.</p>",
+  "description": "<p>Se aproxime de uma manifestação do seu elemento e faça um teste do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você pode se ocultar completamente na natureza elementar da sua dominação, tornando-se invisível.</p><p>Apenas pode ser utilizada quando <b>a fonte da sua dominação é latente na sua localidade</b>. <i>Exemplo: Ocultar-se no vento requer que o usuário esteja em uma localidade com fontes correntes de vento. Enquanto ocultar-se na Água em Timéria exige que o lugar esteja afetado por fortes correntes marítmas, pois em Teméria, os Elementos Água e Vento são análogos.</i></p><p>A invisiblidade dura até que você ataque ou faça movimentos bruscos.</p><p>Atacar enquanto estiver invisível concede um <b>Ataque de Vantagem</b>.</p>",
   "tags": ["grimo", "allura"]
 }
