@@ -1,15 +1,15 @@
 {
-  "name": "Aprimorar Técnica",
-  "magic_cost": "+3 P.M",
+  "name": "Rei do Elemento",
+  "magic_cost": "8 P.M",
   "duration_time": null,
-  "attack_logic": null,
-  "action_type": "Aprimoramento",
+  "attack_logic": "Ativa",
+  "action_type": "Mágico",
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiCrown",
   "element": null,
-  "caption": "Aprende a canalizar um determinado conhecimento do Grimo de forma mais eficiente e poderosa.",
-  "description": "<p>Você pode melhorar de forma permanente o dano ou cura de qualquer poder. <br/>O valor é aumentado em <b>1d12+5</b> e o Custo de P.M é aumentado em <b>3 P.M</b>.<br/>Pode ser usado no Especial.</p>",
+  "caption": "Uma versão aprimorada do poder Criar elemento, permitindo que você possa manipular ainda mais volume elemental.",
+  "description": "<p>Uma versão aprimorada do poder <b>Criar Elemento</b>, que permite que você manipule até <code>6 espaços de elemento</code>, de forma unificada ou não.</p><p>Este é um aprimoramento especial que diferente de todos aprimoramentos, pode ser aprendido mesmo que você não tenha aprendido o poder base <b>Criar Elemento</b>.</p><p>Ao utilizar as formas elementais para atacar, ao invés de se basear o ataque na <b>Rajada do Aprendiz</b> comum, você pode considerar <b>Aprimoramentos</b> e <b>Bônus adicionais</b>, e inclusive utilizar o dano da <b>Rajada Dupla</b> para atacar com seus elementos. Lembrando que ao utilizar o dano da <b>Rajada Dupla</b>, você não poderá usar <b>Rajada Dupla</b> neste combate.</p>",
   "tags": ["grimo", "allura"]
 }

@@ -7,7 +7,7 @@
   "cast_distance": "0",
   "range_amount": "1",
   "range_type": "Objeto",
-  "icon": "GiDigHole",
+  "icon": "GiFireSpellCast",
   "element": null,
   "caption": "Expande o seu poder de leitura elemental, conseguindo acessar relances do passado de uma concentração mágica orgânica.",
   "description": "<p>Escolha um objeto inanimado que você possa tocar e que caiba em suas mãos e faça um teste de Perícia do atributo <b>Elo Mágico</b>.</p><p>Você pode alterar temporariamente a forma desse objeto, transmutando-o no seu elemento para que seja manipulado ou guardado.</p><p>Um Alluriano da Materia poderia transformar uma Chave em uma pedra, enquanto um Alluriano de Água poderia transformar uma Carta em um líquido e guardá-la em um Frasco de forma discreta.</p><p>Apenas 1 objeto pode ser transmutado simultaneamente, e o conjurador pode desfazer a conjuração pelo tempo que quiser.</p>",

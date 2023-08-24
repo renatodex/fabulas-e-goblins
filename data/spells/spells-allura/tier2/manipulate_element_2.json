@@ -7,7 +7,7 @@
   "cast_distance": "0",
   "range_amount": "0",
   "range_type": "Sí mesmo",
-  "icon": "GiDigHole",
+  "icon": "GiFireSilhouette",
   "element": null,
   "caption": "Em um vislumbre, seu corpo se transmorfa, fundindo-se à sua essência mágica e assumindo a forma pura do seu elemento.",
   "description": "<p>Faça um teste de perícia do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você converte seu corpo na sua essência elemental, tornando-se 100% materia elemental condensada, adquirindo uma <b>silhoueta elemental</b> que pode ser percebida com facilidade. Enquanto estiver nessa forma, você pode atravessar manifestações naturais ou mágicas do seu elemento, tornando-se temporariamente imune a qualquer dano dessa fonte.</p><p><b>Forma Elemental</b> tem duração de <code>3 turnos</code> ou <code>1 hora</code> caso utilizado fora do combate. Além disso, enquanto estiver nessa forma, qualquer dano recebido do elemento oposto causará <code>TIER * d12</code> adicional de dano mágico.</p>",

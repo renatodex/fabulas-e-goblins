@@ -7,7 +7,7 @@
   "cast_distance": "0",
   "range_amount": "1x6",
   "range_type": "Linha",
-  "icon": "GiDigHole",
+  "icon": "GiBeamWake",
   "element": null,
   "caption": "Traçando uma linha mortífera, você desencadeia um feixe elemental contínuo, obliterando inimigos com sua magia e causando mais e mais dano àqueles que resistirem.",
   "description": "<p>Escolha uma direção e trace uma linha à partir de sí mesmo com até <code>6 espaços</code> de comprimento, então faça um teste contra a maior <b>Defesa Mágica</b> dos alvos que ocupam este espaço.</p><p><b>Se for bem sucedido</b>, você conjura um feixe elemental contínuo que causa <code>TIER * (d8 + d6 + 12)</code> de <b>dano mágico</b> do seu elemento a todos os inimigos que estiverem na linha de efeito.</p><p>Ao final do seu turno, você pode gastar <code>3 P.M</code> adicionais para manter o <b>feixe conjurado</b> <i>(exige concentração)</i>. Se o fizer, os inimigos sofrem o dano novamente ao <b>final de seus turnos</b> caso decidam se manter no raio do feixe.</p><p>Este poder causará <code>1d6</code> de dano adicional para cada turno a mais que os inimigos permanecerem na linha do Feixe ao final de seus turnos, além de sofrerem <code>Exaurir 4</code> sempre que fizerem ações dentro do Feixe.</p>",

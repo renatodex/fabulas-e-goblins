@@ -1,0 +1,15 @@
+{
+  "name": "Tentáculos",
+  "magic_cost": "10 P.M",
+  "duration_time": null,
+  "attack_logic": "Mágico",
+  "action_type": "Aprimoramento",
+  "cast_distance": 7,
+  "range_amount": 1,
+  "range_type": "Alvo",
+  "icon": "GiInterlacedTentacles",
+  "element": null,
+  "caption": "Conjura tentáculos elementais que prendem um único alvo.",
+  "description": "<p>Escolha um alvo e faça um teste contra sua <b>Defesa Mágica ou Física</b> (a que for maior).</p><p><b>Se for bem sucedido,</b> você conjura tentáculos elementais a até <code>7 espaços</code> de distância que prendem um alvo causando <code>Constrição T=2</code></b>.</p><p>Enquanto estiver canalizando <b>Tentáculos</b>, você estará em modo concentração, não podendo conjurar outros poderes ou se movimentar até que o poder seja quebrado.</p>",
+  "tags": ["grimo", "allura"]
+}

@@ -7,7 +7,7 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiShadowFollower",
   "element": null,
   "caption": "Sua conexão com o seu elemento permite que você se mescle à sua presença, tornando-se oculto a um olhar destreinado.",
   "description": "<p>Se aproxime de uma manifestação do seu elemento e faça um teste do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você pode se ocultar completamente na natureza elementar da sua dominação, tornando-se invisível.</p><p>Apenas pode ser utilizada quando <b>a fonte da sua dominação é latente na sua localidade</b>. <i>Exemplo: Ocultar-se no vento requer que o usuário esteja em uma localidade com fontes correntes de vento. Enquanto ocultar-se na Água em Timéria exige que o lugar esteja afetado por fortes correntes marítmas, pois em Teméria, os Elementos Água e Vento são análogos.</i></p><p>A invisiblidade dura até que você ataque ou faça movimentos bruscos.</p><p>Atacar enquanto estiver invisível concede um <b>Ataque de Vantagem</b>.</p>",

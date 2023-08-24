@@ -1,5 +1,5 @@
 {
-  "name": "Barreira Elemental Etérea",
+  "name": "Parede Elemental Etérea",
   "magic_cost": "6 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
@@ -7,9 +7,9 @@
   "cast_distance": "5",
   "range_amount": "1x6",
   "range_type": "Linha",
-  "icon": "GiDigHole",
+  "icon": "GiFirewall",
   "element": null,
   "caption": "Conjura uma poderosa Barreira elemental para bloquear seus inimigos.",
-  "description": "<p>Faça um teste de Perícia de <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você pode criar uma Barreira elemental a até <code>5 espaços</code> de distância que ocupa até <code>6 espaços</code> continuos.</p><p>Encostar ou atravessar a barreira causa <code>TIER * (d8 + d10 + d12 + 6)</code> de dano mágico do seu elemento. Alvos que tentarem atravessar a barreira precisam fazer um teste de <code>Resiliência -2</code>. Caso falhe, o alvo será empurrado de volta sem conseguir atravessar.</p><p>A barreira tem constituição etérea e é translúcida até mesmo para Allurianos de Matéria ou Gelo.</p>",
+  "description": "<p>Faça um teste de Perícia de <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você pode criar uma Barreira elemental a até <code>5 espaços</code> de distância que ocupa até <code>6 espaços</code> em linha reta.</p><p>Encostar ou atravessar a barreira causa <code>TIER * (d8 + d10 + d12 + 6)</code> de dano mágico do seu elemento. Alvos que tentarem atravessar a barreira precisam fazer um teste de <code>Resiliência -2</code>. Caso falhe, o alvo será empurrado de volta sem conseguir atravessar.</p><p>A barreira tem constituição etérea e é translúcida até mesmo para Allurianos de Matéria ou Gelo.</p>",
   "tags": ["grimo", "allura"]
 }

@@ -7,7 +7,7 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiUpgrade",
   "element": null,
   "caption": "Nada como a experiência de um bom combate corpo a corpo. Você sabe exatamente onde socar seus inimigos, e seu ataque agora sabe concentrar a Magia Elemental de forma mais eficiente.",
   "description": "<p>Aprimora o poder <b>Punhos de Mago</b>, passando a causar <code>Empurrar 3</code>.</p><p>Se o resultado do dado de ataque for pelo menos 18 natural, o alvo também sofre <code>Derrubar</code>.</p>",
