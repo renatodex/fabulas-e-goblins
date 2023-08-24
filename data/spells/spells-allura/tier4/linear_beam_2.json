@@ -7,7 +7,7 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiHydraShot",
   "element": null,
   "caption": "Aprimora o Feixe Continuo para sua versão Suprema, permitindo conjurar diversos feixes simultâneos.",
   "description": "<p>Aprimora o seu poder Feixe contínuo, <b>aumentando para 4 a quantidade de Feixes</b> que você pode manter por turno, e aumentando o Dano para <code>TIER*(2d10+30)</code>.<br/><b>O Feixe não exige mais concentração.</b></p>",

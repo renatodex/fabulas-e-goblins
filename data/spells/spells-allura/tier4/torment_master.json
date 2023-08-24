@@ -7,7 +7,7 @@
   "cast_distance": "",
   "range_amount": "",
   "range_type": "",
-  "icon": "GiDigHole",
+  "icon": "GiEnrage",
   "element": null,
   "caption": "Conjura um poderoso Meteoro elemental que atinge uma grande área do campo dee batalha.",
   "description": "<p>Aprimora o poder <b>Tormenta de Allura</b>, aumentando o dano por turno para <code>TIER*(3d12+30)</code>.<br/>O Custo mínimo de P.M também aumenta para <b>16 P.M</b>.</p>",

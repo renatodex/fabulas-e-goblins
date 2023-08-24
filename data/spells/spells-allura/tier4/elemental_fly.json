@@ -7,7 +7,7 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiAngelWings",
   "element": null,
   "caption": "Seu elemento lhe torna leve, podendo erguê-lo a altas altitudes.",
   "description": "<p>Utiliza a manipulação do seu elemento para andar livremente pelo Eixo Z.<br/>Essa manipulação pode acontecer através de pontes sólidas geradas por seu elemento para permitir sua elevação, ou pode também ser usada como combustível para permitir sua levitação ou voo.<br/>O método de voo fica por conta de seu próprio estilo e criatividade.<br/>Seja como for, cada quadrado no Eixo Z <b>equivale a 1 metro cúbico (1 quadrado)</b>. Cada ação de movimento utilizada no Eixo Z ou para o Eixo Z <b>tem um custo irrisório de 1 P.M</b>.</p>",
