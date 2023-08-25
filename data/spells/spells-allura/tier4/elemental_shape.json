@@ -1,6 +1,6 @@
 {
   "name": "Elemental Supremo",
-  "magic_cost": "12 P.M",
+  "magic_cost": "16 P.M",
   "duration_time": "3",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiIfrit",
   "element": null,
   "caption": "Cada átomo de seu corpo se converte em pura essência elemental, tornando-se um só com seu elemento.",
-  "description": "<p>Você converte sua matéria, transformando-se em um Elemental que ocupa <code>9 espaços</code>.<br/>Enquanto estiver na forma elemental, você receberá os benefícios elementais simultâneos dos poderes <b>Manta Elemental</b> e <b>Escudo Elemental</b>, além de um adicional de  +5 de Defesa, e imunidade de dano de ataques do seu próprio elemento.<br/>Durante a duração do poder, ataques físicos inimigos recebem penalidade de -4 de Ataque em você.<br/>Além disso, a forma elemental de <b>Elemental Supremo</b> pode ser assustadora, e <b>Inimigos selvagens precisam fazer um teste de Resiliência para conseguirem te atacar</b>. <br/>O Efeito de Elemental Supremo <b>dura 3 turnos</b>.</p>",
+  "description": "<p>Faça um teste de Perícia do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você converte sua matéria, transformando-se em um Elemental que ocupa <code>9 espaços</code>.</p><p>Enquanto estiver na forma elemental, você receberá os benefícios elementais simultâneos dos poderes <b>Manta Elemental</b> e <b>Escudo Elemental</b>, além de um adicional de  <code>+5 de Defesa geral</code>, e <b>imunidade de dano</b> de ataques do seu próprio elemento.</p><p>Enquanto estiver na forma elemental, todos seus ataques receberão um adicional de <code>4d20</code> de dano elemental extra além de causar efeito <b>Cascata</b>, onde ataques direcionados a um único alvo também atingem os adjacentes.</p><p>Durante a duração deste poder, inimigos selvagens que estiverem a até <code>5 espaços</code> de distância precisam realizar um <b>teste de Resiliência</b> no início de seus turnos para conseguirem te atacar</b>.</p><p>O Efeito de Elemental Supremo <b>dura 3 turnos</b>.</p>",
   "tags": ["grimo", "allura"]
 }

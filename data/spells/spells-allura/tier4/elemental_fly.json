@@ -1,6 +1,6 @@
 {
-  "name": "Voo Elemental",
-  "magic_cost": "1 P.M",
+  "name": "Asas de Grimória",
+  "magic_cost": "1 P.M / espaço",
   "duration_time": null,
   "attack_logic": null,
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiAngelWings",
   "element": null,
   "caption": "Seu elemento lhe torna leve, podendo erguê-lo a altas altitudes.",
-  "description": "<p>Utiliza a manipulação do seu elemento para andar livremente pelo Eixo Z.<br/>Essa manipulação pode acontecer através de pontes sólidas geradas por seu elemento para permitir sua elevação, ou pode também ser usada como combustível para permitir sua levitação ou voo.<br/>O método de voo fica por conta de seu próprio estilo e criatividade.<br/>Seja como for, cada quadrado no Eixo Z <b>equivale a 1 metro cúbico (1 quadrado)</b>. Cada ação de movimento utilizada no Eixo Z ou para o Eixo Z <b>tem um custo irrisório de 1 P.M</b>.</p>",
+  "description": "<p>Faça um teste de Perícia do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido,</b>, você conjura asas elementais, entrando no modo Vôo, podendo voar livremente a uma altura de até <code>1000 espaços</code>.</p><p>Se preferir, seja livre para interpretar a forma como seu personagem passa a voar. Sugerimos asas, mas você pode usar sua criatividade para decidir o que faz mais sentido para o seu personagem.</p><p>O método de voo fica por conta de seu próprio estilo e criatividade.<br/>Seja como for, cada espaço de voo <b>equivale a 1 espaço de movimento</b>.</p><p>Cada <code>1 espaço</code> movimentado enquanto estiver em voo <b>tem o custo de 1 P.M</b>.</p>",
   "tags": ["grimo", "allura"]
 }
