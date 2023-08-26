@@ -7,6 +7,11 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C971
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
 import bash from './../../data/spells/spells-giurad/tier1/bash.json'
+import double_blast from './../../data/spells/spells-allura/tier3/double_blast.json'
+import apprentice_blast from './../../data/spells/spells-allura/tier1/apprentice_blast.json'
+import linear_beam from './../../data/spells/spells-allura/tier2/linear_beam.json'
+import upgrade_sombrizir from './../../data/spells/spells-zanari/tier3/upgrade_sombrizir.json'
+import super_runic_trail from './../../data/spells/spells-ixin/tier3/super_runic_trail.json'
 
 ![Como utilizar o mais poderoso dos recursos no combate](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C97132ead-7b95-40cb-ad24-8ac4af65d437.jpg)
 
@@ -193,3 +198,129 @@ Secretamente, o Narrador utilizará o valor 15 como a **Dificuldade do Teste** d
 
 Infelizmente, o **valor de 10** não é suficiente para obter um sucesso, já que o **Ataque Mágico do Fougrat é 15**. Nesse caso a Defesa falha, e Corbe recebe o Dano do Ataque do Fougrat.
 :::
+
+## Utilizando Poderes em GRAUS superiores
+
+Os Poderes de Grimo são separados em **GRAUS**, que variam de **GRAU 1** até **GRAU 4**.
+
+Geralmente, cada poder especifica uma quantidade de **Pontos de Magia** que precisam ser consumidos para utilizá-lo.
+
+Pegamos por exemplo o poder **Rajada do Aprendiz**, do Grimo de Allura de **GRAU 1**:
+
+<p>
+  <SpellFromJson expanded={false} spellData={apprentice_blast} />
+</p>
+
+Sempre que um personagem quiser usar a **Rajada do Aprendiz** no **GRAU 2**, ele gastará <code>3 P.M + 3 P.M</code>, resultando em um custo total de <code>6 P.M</code>!
+
+Então vamos lá:
+
+| Poder |  GRAU   | Custo |  Dano   |
+|-------|---------|--------|--------|
+| Rajada do Aprendiz | GRAU 1 | 3 P.M | 5d4 + 5 |
+| Rajada do Aprendiz | GRAU 2 | 6 P.M | 5d8 + 10 |
+| Rajada do Aprendiz | GRAU 3 | 9 P.M | 5d12 + 15 |
+| Rajada do Aprendiz | GRAU 4 | 12 P.M | 5d20 + 20 |
+
+Percebe como o Custo vai se acumulando a cada GRAU? Por via de regra, **para todo o poder cuja intensidade depende do GRAU** podemos usar a seguinte fórmula de custo <code>CustoGrau = GRAU * Custo</code>
+
+Isso também significa que esses poderes também podem ser utilizado em **GRAUS inferiores!**
+
+Como assim?
+
+### 1. Exemplo Simples
+
+Imagine que nosso **Mago de Allura** esteja no **GRAU 3**, e **Rajada do Aprendiz**, custaria para ele um total de **9 Pontos de Magia**.
+Porém, nosso Mago não tem toda essa quantidade de Pontos, ele já usou todo o seu poder no combate, e agora possui apenas **7 Pontos de Magia**.
+
+Uma coisa que ele pode fazer então é utilizar a **Rajada de Aprendiz** no **GRAU 2**, ao invés de utilizá-la no **GRAU 3**. Usar o poder no **GRAU 2** teria um custo de apenas **6 Pontos de Magia**, que ele poderia gastar, já que possui **7 Pontos**.
+
+| Poder |  GRAU   | Custo |  Dano   |
+|-------|---------|--------|--------|
+| Rajada do Aprendiz | GRAU 1 | 3 P.M | 5d4 + 5 |
+| **Rajada do Aprendiz** | **GRAU 2** | **6 P.M** | **5d8 + 10**     |
+| Rajada do Aprendiz | GRAU 3 | 9 P.M | 5d12 + 15 |
+| Rajada do Aprendiz | GRAU 4 | 12 P.M | 5d20 + 20 |
+
+### 2. Poderes de GRAU 2 ou superior
+
+A estratégia que comentamos na seção anterior é muito útil para qualquer aventureiro, mas existem poderes que não podem ser usados dessa maneira. Pegue por exemplo o poder **Feixe Linear**, do **GRAU 2** do Grimo de Allura:
+
+<p>
+  <SpellFromJson expanded={false} spellData={linear_beam} />
+</p>
+
+De acordo com a lista de poderes, o **Feixe Linear** só é introduzido ao **Mago de Allura** no **GRAU 2**, o que significa que não existe uma versão de **GRAU 1** do **Feixe Linear**.
+
+Mas e se eu quiser usar o **Feixe Linear** no **GRAU 1**? É possível?
+
+Sim, é possível, mas a regra é um pouco diferente, e criamos essa regra especificamente para permitir a interpretação no jogo.
+
+**Qualquer poder cuja intensidade é baseada em GRAU, e que tenha sido introduzido no GRAU 2 ou superior, poderá ser utilizado em qualquer GRAU inferior gastando-se metade do Custo (arredondado para cima).**
+
+Logo, a tabela de custo do **Feixe Linear** fica da seguinte maneira:
+
+| Poder |  GRAU   | Custo |  Dano   |
+|-------|---------|--------|--------|
+| **Feixe Linear** | **GRAU 1** | **4 P.M** | **d8 + d6 + 12** |
+| Feixe Linear | GRAU 2 | 8 P.M | 2d8 + 2d6 + 2d12 |
+| Feixe Linear | GRAU 3 | 16 P.M | 3d8 + 3d6 + 3d12 |
+| Feixe Linear | GRAU 4 | 24 P.M | 4d8 + 4d6 + 4d12 |
+
+### 3. Poderes com interações - Exemplo complexo
+
+Mesmo com a regra da Seção anterior para poderes introduzidos a partir do **GRAU 2**, existem poderes que podem ser ainda mais complexos!
+Para esse exemplo, vamos nos basear num poder que tem interação com outros poder:
+
+<p>
+  <SpellFromJson expanded={false} spellData={double_blast} />
+</p>
+
+A **Rajada Dupla** é um poder de **GRAU 3** que utiliza como Dano o valor de dano do poder **Rajada de Aprendiz**, que é de **GRAU 1**.
+
+Nesse caso, se o nosso Mago estiver no **GRAU 4** e quiser utilizar a **Rajada Dupla** no **GRAU 2**, ele pode? E qual é o custo?
+
+**Sim! Nesse caso ele pode!**
+
+A **Rajada Dupla** pode ser um poder de **GRAU 3**, mas a **intensidade dela** se baseia na intensidade de um poder de **GRAU 1**, logo é como se ela ignorasse a regra anterior, podendo ser usada normalmente no **GRAU 2**, respeitando a tabela:
+
+| Poder |  GRAU   | Custo |  Dano   |
+|-------|---------|--------|--------|
+| Rajada do Aprendiz | GRAU 1 | 6 P.M | 2x (5d4 + 5) |
+| **Rajada do Aprendiz** | **GRAU 2** | **12 P.M** | **2x (5d8 + 10)** |
+| Rajada do Aprendiz | GRAU 3 | 18 P.M | 2x (5d12 + 15) |
+| Rajada do Aprendiz | GRAU 4 | 24 P.M | 2x (5d20 + 20) |
+
+### 4. Poderes Aprimorados - Exemplo complexo
+
+Um outro exemplo comum é quando um **Aprimoramento** altera a **intensidade de um poder baseado em GRAU**:
+
+<p>
+  <SpellFromJson expanded={false} spellData={upgrade_sombrizir} />
+</p>
+
+Neste exemplo, o Aprimoramento altera a **fórmula de Dano** do Sombrizir, passando de ```TIER*1d6``` para ```TIER*1d12```.
+Como a mudança foi apenas na formula, a regra se mantém igual, a única diferença é que nossa tabela de danos muda à partir do momento que o personagem obtém o aprimoramento:
+
+**Antes de obter o aprimoramento:**
+
+| Poder |  GRAU   | Custo |  Dano   |
+|-------|---------|--------|--------|
+| Conjurar Sombrizir | GRAU 1 | 2 P.M | 1d6 |
+| Conjurar Sombrizir | GRAU 2 | 4 P.M | 2d6 |
+| Conjurar Sombrizir | GRAU 3 | 8 P.M | 3d6 |
+| Conjurar Sombrizir | GRAU 4 | 16 P.M | 4d6 |
+
+**Depois de obter o aprimoramento:**
+
+
+| Poder |  GRAU   | Custo |  Dano   |
+|-------|---------|--------|--------|
+| Conjurar Sombrizir | GRAU 1 | 2 P.M | 1d12 |
+| Conjurar Sombrizir | GRAU 2 | 4 P.M | 2d12 |
+| Conjurar Sombrizir | GRAU 3 | 8 P.M | 3d12 |
+| Conjurar Sombrizir | GRAU 4 | 16 P.M | 4d12 |
+
+## Errando Magias
+
+Muitas vezes, mesmo rolando 2d20, você vai errar magias

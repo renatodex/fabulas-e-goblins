@@ -4,12 +4,12 @@
   "duration_time": "0",
   "attack_logic": "Físico",
   "action_type": "Ativa",
-  "cast_distance": "10",
+  "cast_distance": "15",
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPocketBow",
   "element": "",
   "caption": "Se concentra mirando em um ponto efetivo do alvo para proferir o melhor dano possível",
-  "description": "<p>Você gasta uma <b>ação de ataque</b> para mirar em um único inimigo. <b>Não requer testes para ser bem sucedida</b>.<br/><br/>Sempre que você Mirar no Ponto Fraco, <b>seu próximo ataque</b> causará um <b>adicional de <code>Dano Arma + 1d10</code> de dano</b>.<br/>Pode ser acumulada quantas vezes for necessário.<br/>Pode ser utilizada com ataques normais ou ataques Mágicos.<br/><br/>Mirar no Ponto fraco pode ser usado mesmo se o <b>inimigo estiver parcialmente encoberto</b>, ou se estiver <b>além do alcance</b> do seu ataque.</p>",
+  "description": "<p>Escolha um alvo que você possa ver a até <code>15 espaços</code> de distância e faça um teste de Perícia do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido,</b> você gasta sua <b>Ação de Ataque</b> analizando o alvo e procurando por seu Ponto Fraco. <br/>Ao fazer isso, <b>seu próximo ataque será feito em vantagem</b>, além de causar um adicional de <code>(2x Dano Arma) + (TIER * 1d10)</code> de dano.</p><p>Pode ser acumulada quantas vezes for necessário.</p><p><b>Mirar no Ponto</b> fraco pode ser usado mesmo se o <b>inimigo estiver parcialmente encoberto</b>, ou se estiver <b>além do alcance</b> do seu ataque.</p>",
   "tags": ["grimo", "kanus"]
 }

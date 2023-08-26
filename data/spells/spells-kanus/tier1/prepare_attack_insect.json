@@ -1,5 +1,5 @@
 {
-  "name": "Nativo",
+  "name": "Banhar Armadura",
   "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
@@ -9,7 +9,7 @@
   "range_type": null,
   "icon": "GiPocketBow",
   "element": null,
-  "caption": "O seu Grimo compartilha com você gerações de conhecimento que lhe permitem entender trejeitos e se mesclar em novas culturas.",
-  "description": "<p>Você já esteve em muitos lugares, e pode entender e falar a lingua uma lingua adicional que permite aumentar os testes sociais com aquela cultura em até +4.</p>",
+  "caption": "Seu conhecimento como Caçador lhe permite utilizar óleos para banhar suas armaduras contra seus inimigos.",
+  "description": "<p>Funcionade forma idêntica a <b>Banhar Arma</b>, mas se aplica exclusivamente a <b>Armaduras</b>.</p>",
   "tags": ["grimo", "kanus"]
 }
