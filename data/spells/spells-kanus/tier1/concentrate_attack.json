@@ -10,6 +10,6 @@
   "icon": "GiPocketBow",
   "element": "",
   "caption": "Você extrai o conhecimento de seu Grimo para analisar o alvo pacientemente e entender suas fraquezas, para só assim desferir um poderoso ataque.",
-  "description": "<p>Escolha 1 alvo e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você desfere um poderoso ataque concentrado que causa <code>Dano da Arma + TIER * (1d10 + 10)</code> de <b>dano físico</b>.</p><p>Pode tanto ser disparado corpo a corpo como à distância.</p>",
+  "description": "<p>Escolha 1 alvo e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido,</b> você desfere um poderoso ataque concentrado que causa <code>Dano da Arma + TIER * (1d10 + 10)</code> de <b>dano físico</b>.</p><p>Pode tanto ser disparado corpo a corpo como à distância.</p>",
   "tags": ["grimo", "kanus"]
 }
