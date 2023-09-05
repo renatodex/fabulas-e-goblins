@@ -2,14 +2,14 @@
   "name": "Identificar Ponto Fraco",
   "magic_cost": "6 P.M",
   "duration_time": "0",
-  "attack_logic": "Mágico",
-  "action_type": "Ativa",
+  "attack_logic": "Físico",
+  "action_type": "Ação",
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPocketBow",
   "element": "",
   "caption": "Seus sentidos se ampliam para identificar a fraqueza de um inimigo..",
-  "description": "<p>Você pode realizar essa ação para entender o <b>ponto fraco</b> de um <b>único inimigo</b>.<br/>Se bem sucedida, essa ação confere <b>bônus permanente de TIER*1d6</b> em ataques futuros <b>contra o mesmo inimigo</b>.</b></p>",
-  "tags": ["grimo", "kanus"]
+  "description": "<p>Escolha um alvo e tente localizar um ponto fraco através de um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido</b>, você identifica um <b>ponto fraco</b> sutil no corpo do alvo. (descreva-o para o Narrador)</p><p>Até o final do combate, você receberá um <b>bônus permanente</b> de <code>TIER * 1d6</code> em ataques futuros <b>contra este inimigo</b>.</p>",
+  "tags": ["grimoz", "kanus"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiPocketBow",
   "element": "",
   "caption": "Um assobio sônico percorre uma extensa região, permitindo mapeá-la apenas com seus sentidos.",
-  "description": "<p>Faça um teste de Sobrevivência com Dificuldade definida pelo Narrador.<br/>Você emite um pequeno e preciso assobio sônico em uma região silenciosa que se propaga de forma mágica se espalhando pelas áreas internas que estão além da sua visão.<br/><br/>Ao escutar cuidadosamente a direção do seu som, você consegue ter uma idéia rústica da estrutura do local.<b>(O Narrador pode desenhar uma versão simplificada do mapa para você, com precisão baseada na sua rolagem)</b>.<br/><br/>Se você for Goblin, essa habilidade também poderá revelará Passagens Secretas e locais ocultos.</p>",
+  "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido</b>, você emite um pequeno e preciso assobio sônico em uma região silenciosa que se propaga de forma mágica se espalhando pelas áreas internas que estão além da sua visão. O assobio sônico é discreto e não chama a atenção de criaturas a menos que estejam a menos de 2 metros de você.</p><p>Ao escutar cuidadosamente a direção do seu som, você consegue ter uma idéia rústica da estrutura do local.<b>(O Narrador pode desenhar uma versão simplificada do mapa para você, com precisão baseada na sua rolagem)</b>.</p><p>Se você for Goblin, essa habilidade também poderá revelará <b>Passagens Secretas</b> e <b>locais ocultos</b>.</p>",
   "tags": ["grimo", "kanus"]
 }

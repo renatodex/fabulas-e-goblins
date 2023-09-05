@@ -1,6 +1,6 @@
 {
   "name": "Banhar Arma",
-  "magic_cost": "5 P.M",
+  "magic_cost": "3 P.M",
   "duration_time": "1 dia",
   "attack_logic": "Mágico",
   "action_type": "Ritual",

@@ -1,15 +1,15 @@
 {
   "name": "Comando Animal",
-  "magic_cost": "2 P.M",
+  "magic_cost": "0 P.M",
   "duration_time": "0",
-  "attack_logic": "Mágico",
-  "action_type": "Reação",
+  "attack_logic": null,
+  "action_type": "Ativa",
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiPocketBow",
   "element": "",
-  "caption": "Você se comunica com seu Animal, enviando a ele um comando de movimento ou ataque.",
-  "description": "<p>No turno do seu <b>Companheiro Animal</b>, você pode utilizar <b>Comando Animal</b> para realizar uma das ações do seu Animal.<br/>Você pode dar comandos simples como <b>\"Ataque tal inimigo\"</b>, ou <b>\"Saia daí!\"</b>, mas não pode especificar comandos complexos como <b>\"Morda o Rabo do inimigo\"</b>, ou <b>\"Mova-se para a posição X do Mapa\"</b></p>",
+  "caption": "Você se comunica com seu Animal, enviando a ele comandos diretos.",
+  "description": "<p><b>Exige Amigo Animal.</b></p></p><p>Você se torna mais íntimo do seu <b>Amigo Animal</b>, podendo dar comandos diretos a ele.</p><p>Ao invés de ser controlado pelo Narrador como se fosse um NPC, você passa a poder controlar diretamente seu ajudante no combate, podendo enviar comandos específicos a ele como <b>\"Ataque X inimigo\"</b> ou <b>\"Vá para tal lugar\"</b>.</p>",
   "tags": ["grimo", "kanus"]
 }
