@@ -1,0 +1,15 @@
+{
+  "name": "Seta do Refúgio",
+  "magic_cost": "10 P.M",
+  "duration_time": "",
+  "attack_logic": "",
+  "action_type": "Ativa",
+  "cast_distance": "Sí mesmo",
+  "range_amount": "",
+  "range_type": "",
+  "icon": "GiPocketBow",
+  "element": "chaos",
+  "caption": "Como um teste do destino, você desfere uma flecha imbuída de puro caos, materializando um portal do caos em pleno ar, que absorve todos os aliados e os envia para um local seguro. Mas tome cuidado, pois os efeitos do Caos podem ser imprevisíveis.",
+  "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Destino</b>.</p><p><b>Se for bem sucedido</b>, você lança uma <b>flecha do caos</b> que perfura o ar criando uma enorme <b>esfera instável</b> que absorve todos os aliados a uma distância de até <code>10 espaços</code>, <b>teleportando-os</b> para uma localidade teoricamente segura.</p><p><b>Se não for bem sucedido</b>, o resultado do teste é considerado um <b>Desastre</b>.</p>",
+  "tags": ["grimo", "kanus"]
+}
