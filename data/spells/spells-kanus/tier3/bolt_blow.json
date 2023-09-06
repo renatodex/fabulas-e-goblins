@@ -1,5 +1,5 @@
 {
-  "name": "Golpe do Trovão",
+  "name": "Golpe Relâmpago",
   "magic_cost": "6 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
@@ -10,6 +10,6 @@
   "icon": "GiPocketBow",
   "element": "eletric",
   "caption": "Carrega o poder dos Raios em um ataque, atingindo um inimigo num impacto impressionante.",
-  "description": "<p>O Ataque funciona tanto com Armas Corpo-a-Corpo como com Ármas de Projéteis. Em ambos casos, a Arma ou Projéteis se materializam com o poder de um Trovão, ferindo um único alvo com um Ataque Mágico que causa <code>TIER*(d12+8)</code> de Dano.</p>",
+  "description": "<p>Escolha um alvo ao <code>alcance da arma</code> e faça um <b>ataque normal</b> contra ele.</p><p><b>Se for bem sucedido</b>, além do seu dano de ataque, sua arma/projétil se transforma temporariamente na essência do trovão, desferindo um poderoso <b>relâmpago</b>, que causa <code>Atordoar 1</code>, além de <code>TIER * (1d12 + 8)</code> de <b>dano mágico Elétrico</b> adicional.</p>",
   "tags": ["grimo", "kanus"]
 }

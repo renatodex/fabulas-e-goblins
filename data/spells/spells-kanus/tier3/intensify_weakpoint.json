@@ -1,15 +1,15 @@
 {
-  "name": "Intensificar Ponto Fraco",
+  "name": "Aprimorar: Ponto Fraco",
   "magic_cost": "",
   "duration_time": "",
   "attack_logic": "",
-  "action_type": "Passiva",
+  "action_type": "Aprimoramento",
   "cast_distance": "",
   "range_amount": "",
   "range_type": "",
   "icon": "GiPocketBow",
   "element": "",
   "caption": "Seu vínculo com o Grimo intensifica o poder da sua percepção, fazendo com que possa explorar melhor o ponto fraco de seus inimigos.",
-  "description": "<p>Aprimora a habilidade <b>Identificar Ponto Fraco</b>, aumentando o Bônus permanente para <code>TIER*1d12</code></p>",
+  "description": "<p>Aprimora a habilidade <b>Identificar Ponto Fraco</b>, aumentando o Bônus permanente para <code>TIER * 1d12</code></p>",
   "tags": ["grimo", "kanus"]
 }

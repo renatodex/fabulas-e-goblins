@@ -34,7 +34,7 @@ import animal_evolution from './../../data/spells/spells-kanus/tier3/animal_evol
 import intensify_weakpoint from './../../data/spells/spells-kanus/tier3/intensify_weakpoint.json'
 import draquenin_ritual from './../../data/spells/spells-kanus/tier3/draquenin_ritual.json'
 import wind_walk from './../../data/spells/spells-kanus/tier3/wind_walk.json'
-import improve_explosive_trap from './../../data/spells/spells-kanus/tier3/improve_explosive_trap.json'
+import solar_arrow from './../../data/spells/spells-kanus/tier3/solar_arrow.json'
 import deep_wounds from './../../data/spells/spells-kanus/tier3/deep_wounds.json'
 import bolt_blow from './../../data/spells/spells-kanus/tier3/bolt_blow.json'
 import posthumous_explosion from './../../data/spells/spells-kanus/tier3/posthumous_explosion.json'
@@ -301,14 +301,14 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 <SpellFromJson expanded={false} spellData={animal_evolution} />
 <SpellFromJson expanded={false} spellData={intensify_weakpoint} />
-<SpellFromJson expanded={false} spellData={draquenin_ritual} />
-<SpellFromJson expanded={false} spellData={wind_walk} />
-<SpellFromJson expanded={false} spellData={improve_explosive_trap} />
 <SpellFromJson expanded={false} spellData={deep_wounds} />
 <SpellFromJson expanded={false} spellData={bolt_blow} />
 <SpellFromJson expanded={false} spellData={posthumous_explosion} />
 <SpellFromJson expanded={false} spellData={worm_hole} />
 <SpellFromJson expanded={false} spellData={tracker_mark} />
+<SpellFromJson expanded={false} spellData={solar_arrow} />
+<SpellFromJson expanded={false} spellData={wind_walk} />
+<SpellFromJson expanded={false} spellData={draquenin_ritual} />
 
 ### Habilidades - Tier 4
 
