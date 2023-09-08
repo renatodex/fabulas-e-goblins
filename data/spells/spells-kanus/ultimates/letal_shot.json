@@ -7,7 +7,7 @@
   "cast_distance": "20",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiBarbedArrow",
   "element": null,
   "caption": "Materializa um Arco Mágico para desferir um único disparo preciso e mortal, causando um dano gigantesco em um alvo.",
   "description": "<p>Escolha 1 alvo e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido,</b> você conjura um projétil mágico especial que acerta o inimigo no seu ponto mais fraco, causando <code>TIER * (2d10 + 25)</code> de <b>dano físico</b> direto e inflingindo <code>Sangramento 10*TIER</code> <b>(perda de vida por turno)</b> por <code>3 (três) turnos</code>.</p></p>",

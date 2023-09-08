@@ -1,15 +1,15 @@
 {
-  "name": "Sintonia Animal",
-  "magic_cost": "",
-  "duration_time": "",
+  "name": "Coração da Floresta",
+  "magic_cost": "12 P.M",
+  "duration_time": "10T/1hr",
   "attack_logic": "",
-  "action_type": "Passiva",
+  "action_type": "Ativa",
   "cast_distance": "",
   "range_amount": "",
   "range_type": "",
-  "icon": "GiPocketBow",
-  "element": "",
-  "caption": "Você masteriza a conexão com seu animal, permitindo que suas ações sejam cordenadas.",
-  "description": "<p>Permite ao Adepto controlar as ações de seu Companheiro Animal como quiser, sem a necessidades de comandos verbais.</p>",
+  "icon": "GiBurningPassion",
+  "element": "nature",
+  "caption": "Conectando-se ao coração da floresta, seus olhos queimam uma chama azulada, enquanto ganha uma conexão mística com a natureza que permite que ele sinta a presença de seres ao seu redor.",
+  "description": "<p>Se estiver na floresta, você pode fazer um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem-sucedido,</b> você canaliza uma poderosa aura que te conecta com o coração da floresta por <code>10 turnos</code> <i>(ou 1 hora se estiver fora de combate)</i>. Durante esse tempo, o Caçador possui <b>visão plena desobstruída</b> (<i>pode ver no escuro e através de árvores e obstáculos</i>), e pode <b>sentir a presença</b> de <b>qualquer ser vivo</b> em um raio de <code>30 espaços</code> de distância, mesmo se estiverem <b>escondidos ou invisíveis</b>.</p><p>Todas as rolagens de ataque são <b>feitas em vantagem</b>, você pode <b>andar normalmente</b> sobre <b>terrenos acidentados</b> sem penalidade, e a cada turno também recupera o equivalente a <code>1d20</code> P.V.</p>",
   "tags": ["grimo", "kanus"]
 }

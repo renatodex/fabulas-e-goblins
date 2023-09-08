@@ -7,7 +7,7 @@
   "cast_distance": "",
   "range_amount": "",
   "range_type": "Sí mesmo",
-  "icon": "GiPocketBow",
+  "icon": "GiCampfire",
   "element": "",
   "caption": "Cria um encantamento mágico em volta de um acampamento que permite que os aventureiros possam descansar em paz pelas próximas horas.",
   "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido,</b> você desenha um círculo em volta de um acampamento pequeno, tornando-o indetectável pelas próximas <code>6 horas</code>.</p><p>Qualquer um que avançar para fora da linha automaticamente cancelará o encantamento.</p>",

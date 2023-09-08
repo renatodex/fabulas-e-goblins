@@ -7,7 +7,7 @@
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Ponto",
-  "icon": "GiPocketBow",
+  "icon": "GiPortal",
   "element": "chaos",
   "caption": "Conjura um pequeno portal do Caos em uma Coordenada permitindo que você realize um ataque que se origina da Cordenada do Portal.",
   "description": "<p>Escolha um ponto a até <code>7 espaços</code> de distância e faça um <b>Teste de Perícia</b> do atributo <b>Destino</b>.</p><b>Se for bem sucedido</b>, você conjura um pequeno portal do Caos do tamanho da palma da sua mão.</p><p>Os portais podem ser utilizados como ponto de origem de ataques, permitindo que você <i>(e apenas você)</i> dispare projéteis ou faça ataques que se originam diretamente do portal escolhido. Neste caso, o <b>alcance do ataque</b> passa a contar à partir do portal, e não à partir do personagem.</p><p>Os portais podem ser conjurados em qualquer posição e altura, até mesmo em portas e superfícies rígidas. Não há limites para o número de portais conjurados, mas todos se dissolvem ao final do combate.</p><p>O Kanuriano precisa ter a visão do portal e do alvo caso queira realizar um ataque dele, caso contrário ainda poderá tentar, mas <b>rolará em desvantagem</b>.</p><p>Se você usa um portal para atacar um inimigo pelas costas,  <b>rolará com vantagem</b>.</p>",

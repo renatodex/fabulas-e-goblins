@@ -7,7 +7,7 @@
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiFastArrow",
   "element": "wind",
   "caption": "Você carrega seu ataque com o poder dos ventos, realizando um poderoso ataque que empurra seus inimigos.",
   "description": "<p>Escolha um alvo a até <code>7 espaços</code> de distância e faça um <b>ataque normal</b> contra ele.</p><p><b>Se for bem sucedido</b>, além do seu dano de ataque, você também desfere uma poderosa <b>rajada de vento</b>, causando <code>Empurrar 3</code>, além de <code>TIER * (1d10 + 7)</code> de <b>dano mágico de Ar</b> adicional.</p><p>Se o alvo colidir com algum outro inimigo ao ser empurrado, esse outro inimigo é afetado por <code>Derrubar</code>*. Se este inimigo estiver adjacente no momento do ataque, o alvo original também sofre <code>Derrubar</code>*, e o alvo adjacente sofre <b>o mesmo dano mágico adicional</b>.</p><p><i>* A regra de <code>Derrubar</code> não se aplica se o inimigo a ser derrubado for de uma Categoria de tamanho maior que o alvo original.</i></p>",

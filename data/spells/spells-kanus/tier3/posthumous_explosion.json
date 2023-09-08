@@ -7,7 +7,7 @@
   "cast_distance": "Arma",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiSpikyExplosion",
   "element": "arcane",
   "caption": "Conjura uma marca em um inimigo, que ao ser derrubado, emite uma explosão que atinge todos inimigos ao redor.",
   "description": "<p>Escolha 1 alvo e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido</b>, seu ataque infundirá o alvo com uma <b>marca arcana</b> que durará por <code>3 turnos</code>.</p><p>Caso o alvo seja abatido dentro do prazo da <b>marca arcana</b> <i>(ou caso seja abatido com este ataque)</i>, uma poderosa explosão irradiará do corpo do inimigo, causando <code>TIER * d20</code> de <b>dano mágico</b> a todos os inimigos adjacentes.</p>",

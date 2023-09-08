@@ -7,7 +7,7 @@
   "cast_distance": "",
   "range_amount": "",
   "range_type": "",
-  "icon": "GiPocketBow",
+  "icon": "GiUpgrade",
   "element": "",
   "caption": "Seu vínculo com o Grimo intensifica o poder da sua percepção, fazendo com que possa explorar melhor o ponto fraco de seus inimigos.",
   "description": "<p>Aprimora a habilidade <b>Identificar Ponto Fraco</b>, aumentando o Bônus permanente para <code>TIER * 1d12</code></p>",

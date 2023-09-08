@@ -7,7 +7,7 @@
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiImpactPoint",
   "element": "",
   "caption": "Você se comunica com seu Animal, enviando a ele comandos diretos.",
   "description": "<p><b>Exige Amigo Animal.</b></p></p><p>Você se torna mais íntimo do seu <b>Amigo Animal</b>, podendo dar comandos diretos a ele.</p><p>Ao invés de ser controlado pelo Narrador como se fosse um NPC, você passa a poder controlar diretamente seu ajudante no combate, podendo enviar comandos específicos a ele como <b>\"Ataque X inimigo\"</b> ou <b>\"Vá para tal lugar\"</b>.</p>",

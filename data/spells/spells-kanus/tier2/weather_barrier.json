@@ -7,7 +7,7 @@
   "cast_distance": "",
   "range_amount": "3x3",
   "range_type": "Círculo",
-  "icon": "GiPocketBow",
+  "icon": "GiLightningDome",
   "element": "",
   "caption": "Cria uma barreira mágica capaz de anular os efeitos de Climas extremos.",
   "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b> ou <b>Inteligência</b>.</p><p><b>Se for bem sucedido</b>, você cria uma <b>barreira mágica</b> com <code>1 P.V</code> em torno de sí mesmo que anula as <b>condições extremas</b> do Clima numa área de <code>3x3</code> centralizada em você.</p><p>Todos os indivíduos que estiverem <b>dentro da área da barreira</b> não sofrerão <b>efeitos negativos</b> causados por eventos climáticos como Tempestades de Areia, Chuvas Torrenciais, Ciclones e etc.</p><p>Isso inclui penalidades de movimentação e metabolismo (sede/fome) mas <b>exclui</b> qualquer penalidade sensorial como por exemplo <b>visão (provocada por Névoas).</b> e <b>audição (provocada por Tempestades de Areia)</b></p><p>O efeito da Barreira dura por até <b>1 hora</b> e pode ser dissipada a qualquer momento caso o conjurador deseje ou caso receba dano.</p>",

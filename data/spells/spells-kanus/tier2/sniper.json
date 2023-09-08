@@ -7,7 +7,7 @@
   "cast_distance": "",
   "range_amount": "",
   "range_type": "Sí mesmo",
-  "icon": "GiPocketBow",
+  "icon": "GiTargetShot",
   "element": "",
   "caption": "Envolve sua arma em uma Aura Mágica de precisão e força, impulsionando seus projéteis com magia e atingindo inimigos à dezenas de metros de distância.",
   "description": "<p>Uma vez por dia, você pode ativar sua <b>Instância do Atirador</b> para aumentar incrivelmente sua precisão. Para isso, faça um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, uma <i>aura esverdeada</i> se materializa em sua volta, tornando seus olhos esbranquiçados e concedendo impressionante visão e precisão de ataque.</p><p>A aura concede, durante <b>1 encontro</b> ou <code>1 hora de jogo</code>, um Bônus de <code>+10 de distância</code> para realizar <b>ataques normais com armas de projéteis</b> <i>(como Arcos, Pistolas e etc)</i> <b>sem sofrer qualquer penalidade</b>.</p><p>Projéteis que viajam mais de <code>12 espaços</code> para atingir inimigos recebem <code>TIER * 1d10</code> de dano físico adicional.</p>",

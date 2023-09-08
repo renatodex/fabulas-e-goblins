@@ -1,15 +1,15 @@
 {
-  "name": "Explosão de Flechas",
-  "magic_cost": "8 P.M",
+  "name": "Quebra-Almas",
+  "magic_cost": "12 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": "10",
-  "range_amount": "X",
-  "range_type": "Circular",
-  "icon": "GiPocketBow",
-  "element": "arcane",
-  "caption": "Uma explosão mágica de flechas é conjurada em todas as direções.",
-  "description": "<p>A <b>Explosão de Flechas</b> é um ataque que conjura <b>8 projéteis</b> em volta da sua coordenada. <b>Cada flecha assume uma única direção</b>, e <b>não causa dano a aliados</b>.<br/><br/>As Flechas Mágicas geram uma explosão arcana quando atingem seus alvos, causando <code>4d20+30</code> de Dano.<br/><br/>As Flechas possuem Alcance de 10 quadrados</p>",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiSplitBody",
+  "element": "",
+  "caption": "Lançando uma flecha espectral, Quebra-Almas acerta o seu alvo rompendo o plano espiritual, expulsando a alma do alvo por alguns instantes, tornando-o apenas um casulo vazio, e potencializando suas fraquezas mágicas por um breve período.",
+  "description": "<p>Escolha 1 alvo a até <code>7 espaços</code> de distância e faça um teste contra a <b>Defesa Mágica</b> dele.</p><p><b>Se for bem sucedido,</b> você dispara uma flecha etérea que causa <code>Dano da Arma + (4d20 + 30)</code>, <b>separando a alma do alvo</b>, e inflingindo-o <code>Desencorajar 1</code>, tornando-o extremamente vulnerável para receber dano mágico por <code>1 turno</code>.</p><p>Enquanto a alma estiver separada do estado, ele sofrerá <code>4d20 P.V</code> adicionais de <b>dano mágico</b> em cada ataque realizado contra ele. </p>",
   "tags": ["grimo", "kanus"]
 }

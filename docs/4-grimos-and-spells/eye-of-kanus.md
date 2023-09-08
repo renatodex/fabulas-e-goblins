@@ -42,13 +42,13 @@ import posthumous_explosion from './../../data/spells/spells-kanus/tier3/posthum
 import worm_hole from './../../data/spells/spells-kanus/tier3/worm_hole.json'
 import tracker_mark from './../../data/spells/spells-kanus/tier3/tracker_mark.json'
 
-import hunters_hunger from './../../data/spells/spells-kanus/tier4/hunters_hunger.json'
+import joromur_golden_arrow from './../../data/spells/spells-kanus/tier4/joromur_golden_arrow.json'
 import double_attack from './../../data/spells/spells-kanus/tier4/double_attack.json'
 import arrow_storm from './../../data/spells/spells-kanus/tier4/arrow_storm.json'
 import avatar_companion from './../../data/spells/spells-kanus/tier4/avatar_companion.json'
 import animal_sync from './../../data/spells/spells-kanus/tier4/animal_sync.json'
 import kanus_mark from './../../data/spells/spells-kanus/tier4/kanus_mark.json'
-import throw_explosive_trap from './../../data/spells/spells-kanus/tier4/throw_explosive_trap.json'
+import predators_eco from './../../data/spells/spells-kanus/tier4/predators_eco.json'
 import master_hunter from './../../data/spells/spells-kanus/tier4/master_hunter.json'
 import arrow_explosion from './../../data/spells/spells-kanus/tier4/arrow_explosion.json'
 import judgment_arrow from './../../data/spells/spells-kanus/tier4/judgment_arrow.json'
@@ -316,13 +316,13 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
-<SpellFromJson expanded={false} spellData={hunters_hunger} />
-<SpellFromJson expanded={false} spellData={double_attack} />
-<SpellFromJson expanded={false} spellData={arrow_storm} />
 <SpellFromJson expanded={false} spellData={avatar_companion} />
-<SpellFromJson expanded={false} spellData={animal_sync} />
-<SpellFromJson expanded={false} spellData={kanus_mark} />
-<SpellFromJson expanded={false} spellData={throw_explosive_trap} />
+<SpellFromJson expanded={false} spellData={arrow_storm} />
 <SpellFromJson expanded={false} spellData={master_hunter} />
-<SpellFromJson expanded={false} spellData={arrow_explosion} />
 <SpellFromJson expanded={false} spellData={judgment_arrow} />
+<SpellFromJson expanded={false} spellData={joromur_golden_arrow} />
+<SpellFromJson expanded={false} spellData={kanus_mark} />
+<SpellFromJson expanded={false} spellData={double_attack} />
+<SpellFromJson expanded={false} spellData={animal_sync} />
+<SpellFromJson expanded={false} spellData={predators_eco} />
+<SpellFromJson expanded={false} spellData={arrow_explosion} />

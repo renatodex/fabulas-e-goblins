@@ -7,7 +7,7 @@
   "cast_distance": "Alcance da Arma",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiChemicalArrow",
   "element": "darkness",
   "caption": "Carrega um ataque poderoso, ferindo profundamente um inimigo.",
   "description": "<p>Carrega seu próximo ataque com uma <b>energia obscura</b> que cria uma ferida mágica no Alvo. As feridas acumulam até 5x cargas e aumentam seus próximos <b>danos físicos</b> em até <code>1d8 por ferida</code>. <code>Ferida Profunda</code> é um <b>Efeito Negativo incurável</b> durante o combate.</p><p>Este poder pode ser usado à qualquer momento e sem consumir uma <b>Ação de Ataque</b>.</p>",

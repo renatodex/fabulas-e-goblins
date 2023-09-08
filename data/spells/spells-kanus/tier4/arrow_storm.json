@@ -1,15 +1,15 @@
 {
-  "name": "Tempestade de Flechas",
-  "magic_cost": "7 P.M",
+  "name": "Setas Torrenciais",
+  "magic_cost": "8 P.M",
   "duration_time": "0",
-  "attack_logic": "Mágico",
+  "attack_logic": "Físico",
   "action_type": "Ativa",
   "cast_distance": "7",
   "range_amount": "4x4",
   "range_type": "Área",
-  "icon": "GiPocketBow",
-  "element": "arcane",
-  "caption": "Conjura uma poderosa tempestade Mágica de Flechas, que atingem diversos inimigos.",
-  "description": "<p>Conjura uma tempestade de flechas poderosa, que ataca todos inimigos numa área de 4x4, causando <code>TIER*(d12+16)</code> de Dano Arcano.</p>",
+  "icon": "GiEnergyArrow",
+  "element": "",
+  "caption": "Conjura uma poderosa tempestade de Flechas, que atingem diversos inimigos.",
+  "description": "<p>Escolha uma área de <code>4x4 espaços</code> a até <code>7 espaços</code> de distância da sua posição e faça um teste contra a maior <b>Defesa Física</b> entre os inimigos na área.</p><p><b>Se for bem sucedido</b>, você conjura uma chuva de flechas torrencial que atingem várias vezes os alvos causando <code>TIER * (d12 + d6 + 8)</code> de <b>dano físico</b>.</p><p>Para saber a quantidade máxima de alvos atingidos pela tempestade de flechas, role <code>1d12 + 1d4</code>.</p>",
   "tags": ["grimo", "kanus"]
 }

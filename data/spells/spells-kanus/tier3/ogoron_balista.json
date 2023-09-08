@@ -7,7 +7,7 @@
   "cast_distance": "0",
   "range_amount": "1",
   "range_type": "Sí mesmo",
-  "icon": "GiPocketBow",
+  "icon": "GiHeavyArrow",
   "element": "materia",
   "caption": "Cravando uma flecha no solo, o Kanuriano invoca uma enorme balista de pedra e terra. Esta arma de artilharia, forjada pela essência de Ogoron, pode disparar projéteis devastadores, sendo a personificação da força telúrica em batalha",
   "description": "<p>Você crava uma flecha no chão enquanto canaliza sua magia, através de um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido</b>, você conjura braços de pedra que se interlaçam formando uma enorme balista de artilharia feita de pedra e terra que pode ser operada pelo Kanuriano.</p><p>As flechas de pedra se materializam na própria arma, e os ataques usam o mesmo <b>ataque físico</b> da sua arma. Cada projétil disparado causa <code>TIER * d24</code> de <b>dano físico</b> além de <code>TIER * 12</code> de <b>dano mágico</b> de matéria.</p><p>Lançar um projétil com a besta exige uma <b>Ação de Ataque</b> e uma <b>Ação de Movimento</b>, e não é possível utilizá-la caso o Kanuriano esteja engajado em combate.</p><p>A Besta possui <code>TIER * 50 P.V</code> e se desfaz automaticamente depois do combate. <i>(ou depois do uso)</i></p>",

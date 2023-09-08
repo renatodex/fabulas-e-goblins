@@ -1,5 +1,5 @@
 {
-  "name": "Mirar no Ponto Fraco",
+  "name": "Ataque Certeiro",
   "magic_cost": "0 P.M",
   "duration_time": "0",
   "attack_logic": "Físico",
@@ -7,9 +7,9 @@
   "cast_distance": "15",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiArrowScope",
   "element": "",
   "caption": "Se concentra mirando em um ponto efetivo do alvo para proferir o melhor dano possível",
-  "description": "<p>Escolha um alvo que você possa ver a até <code>15 espaços</code> de distância e faça um teste de Perícia do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido,</b> você gasta sua <b>Ação de Ataque</b> analizando o alvo e procurando por seu Ponto Fraco. <br/>Ao fazer isso, <b>seu próximo ataque será feito em vantagem</b>, além de causar um adicional de <code>(2x Dano Arma) + (TIER * 1d10)</code> de dano.</p><p>Pode ser acumulada quantas vezes for necessário.</p><p><b>Mirar no Ponto</b> fraco pode ser usado mesmo se o <b>inimigo estiver parcialmente encoberto</b>, ou se estiver <b>além do alcance</b> do seu ataque.</p>",
+  "description": "<p>Escolha um alvo que você possa ver a até <code>15 espaços</code> de distância e faça um teste de Perícia do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido,</b> você gasta sua <b>Ação de Ataque</b> analizando o alvo e procurando pelo melhor ponto para atacar. <br/>Ao fazer isso, <b>seu próximo ataque será feito em vantagem</b>, além de causar um adicional de <code>(2x Dano Arma) + (TIER * 1d10)</code> de dano.</p><p>Pode ser acumulada quantas vezes for necessário.</p><p><b>Ataque Certeiro</b> pode ser usado mesmo se o <b>inimigo estiver parcialmente encoberto</b>, ou se estiver <b>além do alcance</b> do seu ataque.</p>",
   "tags": ["grimo", "kanus"]
 }

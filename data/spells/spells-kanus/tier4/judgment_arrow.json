@@ -1,15 +1,15 @@
 {
   "name": "Flecha do Julgamento",
-  "magic_cost": "10 P.M",
+  "magic_cost": "8 P.M",
   "duration_time": "0",
-  "attack_logic": "Mágico",
+  "attack_logic": "Físico",
   "action_type": "Ativa",
-  "cast_distance": "10",
+  "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiSupersonicArrow",
   "element": "",
   "caption": "Arremessa uma Flecha para o Céu que caí sobre um único inimigo causando um Dano devastador.",
-  "description": "<p>Dispara uma poderosa flecha impulsionada por magia que cai em um único inimigo causando um Dano gigantesco.<br/><br/>Se o Caçador desejar, pode consumir uma <b>Petala Elemental</b> para conferir um elemento a este ataque.<br/>O Ataque aplica <b>Derrubar 18</b> e causa <code>4d20 + 60</code> de Dano.</p>",
+  "description": "<p>Escolha um alvo a até <code>7 espaços</code> e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido,</b> você lança uma poderosa flecha para cima que cai em um único inimigo causando <code>4d20 + 80</code> de <b>dano físico</b> e destruíndo o terreno em uma área circular de <code>raio 2</code> em volta do alvo tornando-o irregular <code>(2 Pontos por movimento)</code>.</p>",
   "tags": ["grimo", "kanus"]
 }

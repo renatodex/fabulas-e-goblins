@@ -1,15 +1,15 @@
 {
-  "name": "Marca de Kanus",
-  "magic_cost": "100% P.M",
-  "duration_time": "1h",
-  "attack_logic": "Mágico",
+  "name": "Domo de Flechas",
+  "magic_cost": "9 P.M",
+  "duration_time": "",
+  "attack_logic": "Físico",
   "action_type": "Ativa",
   "cast_distance": "0",
   "range_amount": "1",
   "range_type": "Sí mesmo",
-  "icon": "GiPocketBow",
-  "element": "darkness",
-  "caption": "Você conjura a Marca de Kanus em sí mesmo, extraindo o poder máximo do seu Grimo, e se tornando-se uma máquina irrefreável.",
-  "description": "<p>Quando a <b>Marca de Kanus</b> é conjurada, uma densa <b>Névoa de Trevas</b> cobre o campo de Batalha, <b>extinguindo imediatamente</b> qualquer outro efeito de Terreno que esteja atualmente aplicado numa <b>Área de 30x30 quadrados</b>.<br/><br/>A <b>Marca de Kanus</b> absorve para dentro do corpo do Adepto o <b>Grimo de Kanus</b>, fazendo com que o Adepto absorva para sí todo o poder do Artefato, se tornando uma <b>divindade</b> por alguns instantes.<br/><br/>Os Efeitos da <b>Marca de Kanus</b> são poderosísssimos, mas como sacrifício custam a própria essência do Adepto, conferindo a ele os seguintes benefícios: <ol><li>Movimentação à velocidade da Luz <i>(esse tipo de movimento não é considerado como Translocação, mas também não pode gerar ataques de oportunidade)</i>.</li><li>Aumento de Dano de ataque em <code>3d20+60</code> por ataque.</li><li>Imortalidade durante o tempo de efeito do Poder. (3 Turnos)</li><li>Pode realizar Duas Ações de Ataque (pode estacar com outros efeitos como <b>Ataque Duplo</b>)</li><li>Pode se mover no Eixo Y para atacar.</li><li>Poderes do Grimo não consomem Pontos de Magia</li></ol><br/>A Marca dura 3 turnos. Ao final do Efeito, o Corpo do Adepto é consumido pela devastadora concentração Mágica absorvida, emitindo um grande <b>clarão Mágico</b> que <b>Cega a todos os Alvos</b> numa <b>área de 30x30 quadrados</b>.<br/>Ao final do Clarão, a existência do Adepto é absorvida inteiramente pelo <b>Grimo de Kanus</b>, que finalmente cede e cai no Chão de forma inerte e sem forças.<hr/><i>Os Mestres da Doutrina de Kanus acreditam que a Marca de Kanus completa o ciclo do Caçador, entregando sua essência ao Artefato, e fazendo com o conhecimento adquirido em toda sua vida agora faça parte do Grimo, reiniciando o Ciclo para que um Novo Adepto possa aprender seus ensinamentos.</i></p>",
-  "tags": ["grimo", "kanus", "sacrifice"]
+  "icon": "GiPentarrowsTornado",
+  "element": "",
+  "caption": "Invocando a essência da sobrevivência, o Kanuriano ergue um Domo de Flechas, uma fortaleza móvel que avança e retrai, engolindo inimigos em seu vórtice cortante, tornando-se o escudo e a lâmina do campo de batalha.",
+  "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido</b>, você conjura um domo formado por centenas de flechas que circulam em volta de sí mesmo (adjacente) que possui <code>200 P.V</code> e pode ser <b>expandido e retraído</b> com uma <b>Ação de Movimento</b> em um raio que pode variar de <code>1 espaço</code> a até <code>4 espaços</code>, conforme o  Kanuriano quiser.</p><p>Cada inimigo atravessado por <b>Domo de Flechas</b> receberá instantaneamente <code>4d20</code> de <b>dano físico</b>, o dano causado ao inimigo também é subtraído dos P.Vs do Domo de Flechas.</p><p>Inimigos que terminarem seus turnos atravessados pela barreira recebem um ataque adicional do Domo.</p><p>Ataques do Kanuriano e dos aliados atravessam normalmente o domo de flechas.</p>",
+  "tags": ["grimo", "kanus"]
 }

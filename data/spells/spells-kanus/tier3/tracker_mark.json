@@ -7,7 +7,7 @@
   "cast_distance": "Alcance da Arma",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiDeerTrack",
   "element": "",
   "caption": "Seu ataque crava uma Marca de Rastreio em seu inimigo, fazendo com que você sempre saiba de sua localização.",
   "description": "<p>Escolha 1 alvo ao seu alcance e faça um <b>ataque normal</b> contra ele.</p><p><b>Se for bem sucedido</b>, você o infringirá com a <b>Marca do Rastreador</b>, uma maldição silenciosa que apenas você poderá ver e sentir, e que lhe permitirá sempre saber instintivamente a localização exata do alvo por um período de até <code>30 dias</code>.</p>",

@@ -7,7 +7,7 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiPocketBow",
+  "icon": "GiWalkingBoot",
   "element": null,
   "caption": "O Grimo de Kanus aumenta os suas capacidaddes físicas, lhe dando uma força adicional para escalar grandes alturas naturalmente.",
   "description": "<p>Sua habilidade como caçador lhe permite se mover para andares superiores, realizar manobras de escalada sem realizar testes de Agilidade ou Sobrevivência.</p><p><b>Subir numa árvore</b> durante o combate para você é como <b>realizar uma ação de movimento</b>. Para cada espaço elevado que você se mover, deverá gastar <b>2 espaços de movimentação</b>.</p>",
