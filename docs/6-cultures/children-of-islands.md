@@ -19,15 +19,15 @@ Muitos sabem que a riqueza cultural das Ilhas vale a pena ser conservada a qualq
 
 ## Crenças
 
-Nas Ilhas, divindades como Ogoron, Herodus e Dinímia são frequentemente veneradas, devido a sua conexão espiritual e sabedoria infinita.
+Nas Ilhas, divindades como Azarog, Herodus e Dinímia são frequentemente veneradas, devido a sua conexão espiritual e sabedoria infinita.
 
-Ogoron por exemplo é uma figura temida pelos **La'Mai** a gerações. Ele é simbolizado por um grande passaro negro coberto por trevas. É a representação essencial da própria escuridão, e sua presença sinaliza um grande desequílibrio, ou **"Agumane"** *(Agu: Oposto, Mane: Equilíbrio)*, na lingua Ancestral.
+Azarog por exemplo é uma figura temida pelos **La'Mai** a gerações. Ele é simbolizado nas ilhas por um grande passaro púrpura coberto por trevas. É a representação essencial da própria escuridão, e sua presença sinaliza um grande desequílibrio, ou **"Agumane"** *(Agu: Oposto, Mane: Equilíbrio)*, na lingua Ancestral.
 
-Outra Divindade muito conhecida é **Herodus**, ela é vista como uma Goblin idosa, cujas mãos carregam um belo Cajado rústico feito com Ossos cuidadosamente polidos.
-A civilização **Lunir** é conhecida historicamente por apoiar e exaltar a deusa Herodus, e acreditam que ela teria dado ao povo pré-**Lunir** o conhecimento para unificar os outros povos das ilhas, que estiveram em guerra por Milênios.
-Diferente de outros relatos de divindades, as escritas antigas dos Lunirs apontam que Herodus teria realmente vivido entre as montanhas de **Vonimus**, tendo sido inclusive responsável por desenvolver e registrar a evolução do Alfabeto Ancestral.
+Outra Divindade muito conhecida é **Herodus**, o primeiro portador da **Aldrava Primordial**, que por algum motivo nas ilhas é retratado como um poderoso **Gonshu** com braços e pernas, cujas mãos carregam um belo Cajado rústico feito com **conchas** cuidadosamente polidas.
+A civilização **Lunir** é conhecida historicamente por apoiar e exaltar **Herodus**, e acreditam que ele teria dado ao povo pré-**Lunir** o conhecimento para unificar os outros povos das ilhas, que estiveram em guerra por Milênios.
+Diferente de outros relatos de divindades, as escritas antigas dos Lunirs descrevem uma versão alternativa da história, onde Herodus teria realmente vivido entre os povos das ilhas, tendo sido inclusive responsável por desenvolver e registrar a evolução do Alfabeto Ancestral.
 
-Estudos da escrita bíblica dos **Lunirs** teriam revelado que o termo "Herodus" não era explicitamente o nome da Divindade, mas um título, que seria dado ao nascimento Divino do indivíduo escolhido para trazer a União. (Hoero => Divino, Odus => União). Na fala popular, o termo *"Hoero Odus"* acabou sendo encurtado para apenas "Herodus"
+Uma explicação para essa confusão estaria nos estudos da escrita bíblica dos **Lunirs**, onde afirmam que o termo "Herodus" não era explicitamente o nome da Divindade, mas um título, que seria dado ao nascimento Divino do indivíduo escolhido para trazer a União. (Hoero => Divino, Odus => União). Na fala popular, o termo *"Hoero Odus"* acabou sendo encurtado para apenas "Herodus".
 
 ## Tradições
 

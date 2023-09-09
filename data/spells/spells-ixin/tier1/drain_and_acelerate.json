@@ -10,6 +10,6 @@
   "icon": "GiWalkingBoot",
   "element": null,
   "caption": "Abatar inimigos lhe fornece um bônus cumulativo de de movimento.",
-  "description": "<p>Sempre que abater um inimigo, você recebe <code>+1 Ponto de Movimento</code> temporário que se acumula até o final do combate/cena. Não funciona com assistência, o personagem precisa ter dado o último golpe que derrotou o inimigo.</p>",
+  "description": "<p>Sempre que abater um inimigo, você recebe <code>+1 Ponto de Movimento</code> temporário que se acumula até o final do combate/cena.</p><p>Não funciona com assistência, o personagem precisa ter dado o <b>último golpe que derrotou o inimigo</b>.</p>",
   "tags": ["grimo","ixin"]
 }
