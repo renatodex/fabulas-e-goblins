@@ -66,7 +66,7 @@ As Culturas disponíveis são:
             <td>Filhos das Areias</td>
             <td>Resiliência, Força, Sobrevivência</td>
             <td>Túnicas Leves, Trajes acolchoados, e Fibra de Cacto</td>
-            <td>Moltron, Valamir, Valeon</td>
+            <td>Moltron, Valamika, Valeon</td>
             <td>Resiliência +1, Sobrevivência +1, Força +1, P.V +4</td>
         </tr>
         <tr>

@@ -15,7 +15,7 @@ Sempre com muitas histórias pra contar, os Filhos da Nau, também chamados de C
 
 Além das cidades portuárias, existem diversos **Reinos-Balsa** flutuantes, como **Ark'deria** e **Qae'dramar**, estabelecidos em pleno alto mar, com objetivo de fornecer abrigo e suporte a grande quantidade de embarcações que navegam pelo Mar de Calderia.
 
-Essas incríveis maravilhas da engenharia impressionam qualquer visitante, e são cada vez mais um incomodo aos reinos Terrestres, pois estão imunes a quaisquer jurisprudências territoriais de continentes como Galantia.
+Essas incríveis maravilhas da engenharia impressionam qualquer visitante, e são cada vez mais um incomodo aos reinos Terrestres, pois estão imunes a quaisquer jurisprudências territoriais de continentes como Galamtia.
 
 ## Crenças
 

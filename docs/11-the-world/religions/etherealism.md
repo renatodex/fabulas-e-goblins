@@ -243,7 +243,7 @@ Venerada por **Criaturas senscientes e obscuras**, **Cultistas** e **Arcanistas 
 
 Descrita como a silhoueta negra de uma imensa Golem metálica contida em um grande Cristal flutuante, **Igadash** é tida como uma das Divindades tradicionalmente veneradas pelos Luminins e por **Povos de Ifinia**. (da lingua ancestral **Ifi** = Mundo, **Nia** = Congelado).
 
-A quase **1 bilhão** de anos atrás, quando as **Terras Místicas** atingiam sua Geografia estável, as primeiras civilizações ancestrais começavam a aparecer, como os antigos **Gudrash**, os **Gobolurs** e os **Lunir**.
+A quase **1 bilhão** de anos atrás, quando as **Terras Místicas** atingiam sua Geologia estável, as primeiras civilizações ancestrais começavam a aparecer, como os antigos **Gudrash**, os **Gobolurs** e os **Lunir**.
 
 Contam as **Lendas Etéreas** que os Deuses criadores temiam que sua presença ativa no mundo poderia prejudicar a evolução de seus recém desenvolvidos filhos senscientes. Por isso, uma reunião entre os **Etéreos** foi organizada com a ajuda das **Monções de Ehphyros**, e os Deuses discutiram sobre o destino do mundo, num encontro que os Eterealitas chamam de **O Sínodo dos Deuses**.
 
