@@ -1,5 +1,5 @@
 {
-  "name": "Espiral",
+  "name": "Tornado",
   "magic_cost": "8 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
@@ -7,9 +7,9 @@
   "cast_distance": "0",
   "range_amount": null,
   "range_type": "Sí mesmo",
-  "icon": "GiDigHole",
+  "icon": "GiTornado",
   "element": null,
-  "caption": "O Grimo se ilumina, enquanto transfere para o conjurador um incrível poder cinético para conjurar um poderoso espiral elemental.",
-  "description": "<p>Você conjura uma <b>espiral elemental</b> em uma área de até 2 quadrados em volta de sí mesmo.<br/>A espiral causa <b>3d12+12</b> de dano a todos os inimigos.</p>",
+  "caption": "O Grimo se ilumina, enquanto transfere para o conjurador um incrível poder cinético para conjurar um poderoso tornado elemental.",
+  "description": "<p>Você conjura uma <b>tornado elemental</b> em uma área de até <code>2 espaços</code> em volta de sí mesmo.</p><p>Ao fazê-lo, faça um teste contra a maior <b>Defesa Mágica</b> entre os inimigos adjacentes.</p><p><b>Se for bem sucedido,</b> espiral causa <code>4d12 + 35</code> de dano a todos os inimigos no TIER 3 e <code>8d12 + 50</code> no TIER 4.</p>",
   "tags": ["grimo", "allura"]
 }

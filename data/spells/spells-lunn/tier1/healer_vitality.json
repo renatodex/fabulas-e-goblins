@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "",
   "range_type": "",
-  "icon": "GiPiercingSword",
+  "icon": "GiHealthIncrease",
   "element": null,
   "caption": "Para espalhar a influência de Lunn num mundo tão agressivo como o das Terras Místicas, é preciso primeiro sobreviver.",
-  "description": "<p>Ao desbloquear essa Benção, <b>você receberá um bônus de Vigor permanente</b> que durará pelo tempo em que o Grimo estiver conectado a você.<br/>A Benção fornece a você um aumento de <code>TIER*8-(TIER*2)</code> Pontos de Vida.</p>",
+  "description": "<p>Ao aprender esta benção, você receberá um bônus de <b>Pontos de Vida</b> permanente que durará pelo tempo em que o Grimo estiver conectado a você.</p><p>A benção fornece um aumento de <code>TIER * 8</code> Pontos de Vida.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiElfHelmet",
   "element": null,
   "caption": "O Grimo de Lunn destrava o conhecimento supremo da arte da Cura.",
-  "description": "<p>Potencializa ao máximo o poder <b>Toque de Cura/Oração de Cura</b>, aumentando a fórmula de efeito para <code>TIER*d20+30</code>.</p>",
+  "description": "<p>Potencializa ao máximo o poder <b>Toque de Cura</b>, aumentando a fórmula de efeito para <code>8d20 + 60</code>.</p>",
   "tags": ["grimo", "lunn"]
 }

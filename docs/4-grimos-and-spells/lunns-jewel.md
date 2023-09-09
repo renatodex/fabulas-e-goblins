@@ -186,14 +186,14 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 <SpellFromJson expanded={false} spellData={mark_of_penitence} />
-<SpellFromJson expanded={false} spellData={exorcismus} />
 <SpellFromJson expanded={false} spellData={truth_aura} />
 <SpellFromJson expanded={false} spellData={light_pillar} />
 <SpellFromJson expanded={false} spellData={evoke_light} />
+<SpellFromJson expanded={false} spellData={exorcismus} />
 <SpellFromJson expanded={false} spellData={healing_pray} />
-<SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={faith_sacrifice} />
 <SpellFromJson expanded={false} spellData={redemption} />
+<SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={powerful_pray} />
 
 ### Habilidades - Tier 4
@@ -208,7 +208,5 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 <SpellFromJson expanded={false} spellData={infinitus} />
 <SpellFromJson expanded={false} spellData={jugamentum} />
 <SpellFromJson expanded={false} spellData={magnus_impositio} />
-<SpellFromJson expanded={false} spellData={abbots_hand} />
 <SpellFromJson expanded={false} spellData={ultimatum} />
-<SpellFromJson expanded={false} spellData={lunns_command} />
 <SpellFromJson expanded={false} spellData={healing_master} />

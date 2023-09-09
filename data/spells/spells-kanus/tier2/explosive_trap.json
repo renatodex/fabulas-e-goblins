@@ -7,9 +7,9 @@
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Ponto",
-  "icon": "GiPocketBow",
+  "icon": "GiMineExplosion",
   "element": "",
   "caption": "Você materializa uma concentração mágica em um único ponto, que explode ao entrar em contato com um alvo.",
-  "description": "<p>A Armadilha pode ser armada como uma ação normal que não requer testes adicionais. Ela conta como uma ação de ataque, e apenas podem haver <b>3 Armadilhas Simultâneas</b>.<br/><br/>A Armadilha é <b>invisível para os inimigos</b> e ocupa apenas <b>1 quadrado</b>.<br/>Caso seja <b>tocada/atravessada</b> por um alvo (aliado ou não), causa <code>TIER*(1d6+12)</code> de Dano Mágico.</p>",
+  "description": "<p>Escolha um espaço a até <code>7 espaços</code> de distância e faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido,</b> você conjura uma armadilha mágica invisível para os inimigos na posição escolhida. Caso seja <b>tocada/atravessada</b> por um inimigo, ela explode causando <code>TIER * (1d12 + 15)</code> de Dano Mágico ao alvo.</p>",
   "tags": ["grimo", "kanus"]
 }

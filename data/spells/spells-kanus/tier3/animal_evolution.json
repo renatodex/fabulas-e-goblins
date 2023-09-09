@@ -1,5 +1,5 @@
 {
-  "name": "Evolução Animal",
+  "name": "Mutação Animal",
   "magic_cost": "",
   "duration_time": "",
   "attack_logic": "",
@@ -7,9 +7,9 @@
   "cast_distance": "",
   "range_amount": "",
   "range_type": "",
-  "icon": "GiPocketBow",
+  "icon": "GiBeastEye",
   "element": "",
-  "caption": "Fornece uma Aura de poder ao seu Companheiro Animal, fortalecendo seus ataques.",
-  "description": "<p>Um Bônus permanente é aplicado ao seu companheiro animal. Escolha um dos 3 Bônus a seguir:<ul><li>Uma <b>Áura de Crescimento</b> atinge o seu animal, aumentando seu <b>Tamanho em 1</b> e fazendo com que seus Ataques do seu Animal causam 2d10 de dano adicionais.</li><li>Uma <b>Aura Venenosa</b> fortalece seu Animal, fazendo com que todos Ataques causem <b>Envenenamento 12/TIER*4</b>.</li><li>Uma estranha <b>Aura Fantasmagórica</b> recobre permanentemente seu Animal, permitindo que ele se mova através de Translocação. Todos os alvos adjacentes à Translocação recebem <b>1d12 de Dano</b>.</li></ul></p>",
+  "caption": "O companheiro animal do Caçador sofre uma metamorfose evolutiva, recebendo poderosos dons e habilidades ancestrais.",
+  "description": "<p>Uma mutação permanente é aplicada ao seu companheiro animal. Escolha um dos Bônus a seguir:<ul><li><b>Crescimento Acelerado</b>: Aumenta <b>Tamanho em 1</b>. Ataques causam <code>2d10</code> de <b>dano físico</b> adicionais.</li><li><b>Garras Afiadas:</b> Seu animal adquire garras afiadas (ou ainda mais afiadas se já tiver),  concedendo <code>(TIER * 1)</code> adicionais de <b>Ataque Físico</b>.</li><li><b>Espinhos</b>: Inimigos engajados com seu ajudante recebem <code>TIER * d4</code> de dano físico por turno.</li><li><b>Chifre</b>: Pode Empalar o inimigo, causando <code>TIER * (d12 + 15)</code> e <code>Danificar N=1</code>.</li><li><b>Patas Corredoras</b>: Permite andar por <b>terrenos acidentados</b> sem penalidade, dar <b>saltos acrobáticos</b> e subir em <b>terrenos elevados</b> sem realizar testes.</li><li><b>Patas Escavadoras</b>: Pode cavar buracos e andar pelo subterrâneo.</li><li><b>Patas Astutas:</b> Permite <b>andar sorrateiramente</b> e realizar <b>saltos precisos</b> sem fazer ruídos.</li><li><b>Pele Escamada</b>: Aumenta a <b>Defesa Física</b> em <code>(TIER * 1)</code>.</li><li><b>Dentes Afiados:</b> Mordidas causam <code>Sangramento D=5*TIER</code>.</li><li><b>Bafo Elemental (escolha o elemento uma vez só)</b>: Pode atacar com uma Baforada elemental do elemento escolhido que causa <code>TIER * (d12 + d6 + 6)</code> a um alvo adjacente.</li><li><b>Anfíbio</b>: Permite respirar na água, nadar contra correntezas e realizar <code>3 Ações de Movimento</code> em combate caso esteja em ambiente submerso.</li><li><b>Pernas Fortes</b>: Pode usar uma <code>Ação de Movimento</code> para atropelar um inimigo. Inflige <code>Derrubar</code> e causa <code>Dano ataque + TIER*d6</code></li><li><b>Venenoso:</b> Ataques do animal causam <code>Envenenar D=(TIER*d10) T=3</code></li><li><b>Olhos Laser</b>: Pode disparar um Feixe Laser contra <code>1 alvo</code> a até <code>5 espaços</code> de distância, causando <code>TIER * (d12 + 10)</code> de <b>dano mágico</b>.</li><li><b>Alado:</b> Seu animal adquire asas que o permitem voar a uma distância de até <code>5 espaços</code> verticalmente.</li></ul></p><p>Algumas mutações permitem usar ataques físicos, como Mordida, Empalar, etc, nesses caso, o Ajudante testa contra a <b>Defesa Física</b> de um único alvo. No caso de dano mágico, testa-se contra a <b>Defesa Mágica</b> de um único alvo também.</p><p><b>Mutação Animal</b> pode ser aprendida várias vezes seguidas, desde que se escolham mutações diferentes.</p>",
   "tags": ["grimo", "kanus"]
 }

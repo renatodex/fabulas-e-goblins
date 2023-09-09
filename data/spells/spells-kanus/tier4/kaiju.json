@@ -1,0 +1,15 @@
+{
+  "name": "Kaiju",
+  "magic_cost": "8 P.M",
+  "duration_time": "1 ataque",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "7",
+  "range_amount": "4x4",
+  "range_type": "Área",
+  "icon": "GiSharpSmile",
+  "element": "",
+  "caption": "Conjura a energia do seu Grimo no seu companheiro animal para transformá-lo em uma Criatura Enorme, causando um dano massivo em seu próximo ataque.",
+  "description": "<p>Escolha um Avatar animal e faça um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você lança um feixe mágico que transforma o Avatar temporariamente em uma <b>Criatura Enorme (3x3)</b></p><p>Atacar na forma avatar causa, além do seu dano de ataque, um adicional de <code>2d20</code> de dano físico. Após realizar o Ataque, a criatura volta instantaneamente para o tamanho original.</p><p><ul><li>Caso seu ajudante tenha uma <b>Mutação Animal</b> de <b>Crescimento Acelerado</b>, ele se transforma temporariamente em uma <b>Criatura Gigante (4x4)</b>, causando um adicional extra de <code>+50</code> de <b>dano físico</b>.</li><li>Caso tenha  uma <b>Mutação Animal</b> que forneça um poder de <b>Ataque Físico</b> ou <b>Ataque mágico</b>, este ataque agora pode ser feito em uma área de <code>3x3</code>.</li><li>Se o seu ajudante tiver uma ou mais mutações de <b>Mutação Animal</b>, mas nenhuma delas se enquadrar nas categorias anteriores, ele receberá <code>200 P.V</code> adicionais enquanto estiver no estado de Kaiju.</li></ul></p>",
+  "tags": ["grimo", "kanus"]
+}

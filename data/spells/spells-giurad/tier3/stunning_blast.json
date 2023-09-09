@@ -1,6 +1,6 @@
 {
   "name": "Rajada Atordoante",
-  "magic_cost": "10 P.M",
+  "magic_cost": "8 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiIonCannonBlast",
   "element": null,
   "caption": "A ira do Cavaleiro desce sobre seus inimigos, canalizando uma energia incrível que flui do Grimo para sua arma, disparando uma rajada poderosa que atordoa seus inimigos.",
-  "description": "<p>Você canaliza o poder do Grimo em sua arma, desferindo uma forte rajada numa área 2x2, causando Dano da Arma + 3D8+6 de dano e atordoando todos inimigos atingidos.</p>",
+  "description": "<p>Escolha uma <code>área de 2x2</code> a até <code>5 espaços de distância</code>. Em seguida, teste contra a <b>Defesa Física</b> de todos inimigos na área:</p><p><b>Para cada inimigo que for bem sucedido</b>, você causa <code>Dano da Arma + TIER*(D12+4)</code> de dano, além de infligir <code>Atordoar 1</code>.</p><p><b>Para cada inimigo que falhar</b>, você causa <b>metade do dano</b> e não inflige <code>Atordoar</code>.</p>",
   "tags": ["grimo", "giurad"]
 }

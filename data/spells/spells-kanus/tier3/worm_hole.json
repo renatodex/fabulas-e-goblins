@@ -4,12 +4,12 @@
   "duration_time": "1h",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": "10",
+  "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Ponto",
-  "icon": "GiPocketBow",
+  "icon": "GiPortal",
   "element": "chaos",
   "caption": "Conjura um pequeno portal do Caos em uma Coordenada permitindo que você realize um ataque que se origina da Cordenada do Portal.",
-  "description": "<p>Faça um <b>teste de Elo Mágico</b> para conjurar um <b>portal do Caos</b> em uma determinada coordenada a até <b>10 Quadrados de distância</b>. A <b>dificuldade padrão do teste é 10</b>, mas o Narrador <b>pode modificá-la</b> a depender do contexto.<br/><br/>Ao conjurar o portal, ele <b>poderá ser usado como fonte para disparo de ataques Físicos ou Mágicos</b>.<br/><br/>Os Portais do Caos <b>podem ser conjurados através de barreiras físicas</b> como muros e paredes, porém, o Adepto <b>precisa ter alguma noção da localização do Alvo</b> para realizar um ataque bem sucedido. O <b>nível de sucesso</b> na abertura do portal também definirá a facilidade com a qual os alvos poderão ser atingidos.<br/><br/>Atacar alvos sem visão gera <b>uma penalidade de -6 de Ataque</b>, mas portais bem posicionados podem mitigar essa penalidade. Por padrão, os portais fornecem um <b>Bônus de Ataque de +3</b> pelo fator Tático. Portais bem colocados podem anular completamente a penalidade de atacar alvos sem ter visão.<br/><br/>Apenas o Adepto que conjurou o Portal pode utilizá-lo. Não há limite de Portais, mas todos os portais se dissolvem após o final de um encontro.<br/>Se utilizados fora de combate, os Portais tem duração de 1h.<br/><br/>Portais podem ser dissolvidos por <b>Magos do Caos</b> através de um teste de <b>Manipulação do Caos</b> com dificuldade 16.</p>",
+  "description": "<p>Escolha um ponto a até <code>7 espaços</code> de distância e faça um <b>Teste de Perícia</b> do atributo <b>Destino</b>.</p><b>Se for bem sucedido</b>, você conjura um pequeno portal do Caos do tamanho da palma da sua mão.</p><p>Os portais podem ser utilizados como ponto de origem de ataques, permitindo que você <i>(e apenas você)</i> dispare projéteis ou faça ataques que se originam diretamente do portal escolhido. Neste caso, o <b>alcance do ataque</b> passa a contar à partir do portal, e não à partir do personagem.</p><p>Os portais podem ser conjurados em qualquer posição e altura, até mesmo em portas e superfícies rígidas. Não há limites para o número de portais conjurados, mas todos se dissolvem ao final do combate.</p><p>O Kanuriano precisa ter a visão do portal e do alvo caso queira realizar um ataque dele, caso contrário ainda poderá tentar, mas <b>rolará em desvantagem</b>.</p><p>Se você usa um portal para atacar um inimigo pelas costas,  <b>rolará com vantagem</b>.</p>",
   "tags": ["grimo", "kanus"]
 }

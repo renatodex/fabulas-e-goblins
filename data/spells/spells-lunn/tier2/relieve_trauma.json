@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiMagicPalm",
   "element": "holy",
   "caption": "As aranhas estão saindo por todos os lados. Eu posso perceber o medo que aflige meu aliado, e com a ajuda de meu Grimo, Oro um Salmo para acalmar seus temores, permitindo que ele esqueça seus traumas, e lute bravamenne como a Graça de Lunn.",
-  "description": "<p>Você posiciona suas mãos sobre o Alvo, aplicando uma Benção que <b>dura 3 turnos</b>, e <b>anula temporariamente o efeito negativo</b> de um único trauma que esteja afetando o alvo.<br/><br/><i>Exemplo: Seu aliado tem trauma de aranhas, e está batalhando contra aranhas recebendo ativamente -2 em testes de ataque todo turno. Ao conjurar a benção no seu aliado, ele vai receber a coragem necessária para enfrentar as aranhas pelos próximos 3 turnos sem sofrer penalidade do Trauma.<br/>Outras fontes de penalidade e outros traumas se aplicam normalmente.</i><br/><br/><b>Caso seja conjurada fora de combate em ambiente calmo, tranquilo e sem ameaças próximas, a benção é mais eficiente e dura por 1 hora. (ou até o próximo encontro iniciar)</b></p>",
+  "description": "<p>Escolha um <b>alvo adjacente</b> e faça um <b>Teste de Perícia</b> do atributo <b>Espirito</b>.</p><p><b>Se for bem sucedido,</b> você posiciona suas mãos sobre o Alvo, aplicando uma Benção que <b>dura 3 turnos</b>, e <b>anula temporariamente o efeito negativo</b> de um único trauma que esteja afetando o alvo.</p><p><i>Exemplo: Seu aliado tem trauma de aranhas, e está batalhando contra aranhas recebendo ativamente -2 em testes de ataque todo turno. Ao conjurar a benção no seu aliado, ele vai receber a coragem necessária para enfrentar as aranhas pelos próximos 3 turnos sem sofrer penalidade do Trauma.<br/>Outras fontes de penalidade e outros traumas se aplicam normalmente.</i></p><p><b>Caso seja conjurada fora de combate em ambiente calmo, tranquilo e sem ameaças próximas, a benção é mais eficiente e dura por 1 hora. (ou até o próximo encontro iniciar)</b></p>",
   "tags": ["grimo", "lunn"]
 }

@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": null,
   "range_type": "Sí mesmo",
-  "icon": "GiDigHole",
+  "icon": "GiMagicPalm",
   "element": null,
   "caption": "Naquele momento crucial, você arruma forças do fundo de sua essência para mais um ataque.",
-  "description": "<p>Se estiver sem Pontos de Magia, pode utilizar o Suspiro Mágico para conjurar um poder adicional (exceto Especial) sem pagar seu Custo de Magia.<br/><b>Só pode ser utilizado uma vez a cada descanso prolongado.</b></p>",
+  "description": "<p>Se estiver sem <b>Pontos de Magia</b> <i>(PM = 0)</i>, você pode utilizar o <b>Suspiro Mágico</b> para conjurar um poder adicional (exceto Especial) sem pagar seu custo de magia.</p><p><b>Só pode ser utilizado uma vez a cada descanso prolongado.</b></p>",
   "tags": ["grimo", "allura"]
 }

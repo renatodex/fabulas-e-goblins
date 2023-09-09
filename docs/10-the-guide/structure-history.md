@@ -172,7 +172,7 @@ Você pode popular o seu mundo com diversos conflitos *políticos*, *religiosos*
 Num mundo como esse, os Personagens dos Jogadores **precisarão escolher os conflitos que mais lhe interessam**, e ao fazer essa escolha, eles gerarão diversas **ramificações na história** do jogo, que você poderá utilizar para **introduzir novos NPCs** ou até mesmo **mudar o alinhamento** de personagens existentes.
 
 :::note
-O grupo dos Jogadores acaba de encontrar um importante Ancião, que vive numa vila isolada da qual eles salvaram recentemente. Ele teria informações cruciais para a missão dos personagens, mas pede que antes o grupo leve uma carta à cidade de Galamtia com urgência, pois ele estaria convencido que uma invasão em larga escala infringiria o Reino em breve.
+O grupo dos Jogadores acaba de encontrar um importante Ancião, que vive numa vila isolada da qual eles salvaram recentemente. Ele teria informações cruciais para a missão dos personagens, mas pede que antes o grupo leve uma carta à cidade de Galamtia com urgência, pois ele estaria convencido que uma invasão em larga escala inflingiria o Reino em breve.
 
 Após dias de viagem, quando o grupo se dirigia ao Reino, os heróis são informados que uma Chuva de Meteoros havia caído próximo ao local da Vila que salvaram, e que os minerais contido nos detritos ocasionaria um novo conflito, que provavelmente destruiria a Vila e todos os seus habitantes, que o grupo deu tanto duro para salvar. Além disso, o Ancião estaria correndo perigo gravíssimo, e sua integridade é crucial para os personagens, já que ele possui informações sobre a importante missão.
 

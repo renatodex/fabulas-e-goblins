@@ -4,12 +4,12 @@
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": "7",
+  "cast_distance": "Arma",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiSpikyExplosion",
   "element": "arcane",
   "caption": "Conjura uma marca em um inimigo, que ao ser derrubado, emite uma explosão que atinge todos inimigos ao redor.",
-  "description": "<p>Para ser conjurada, a Marca precisa ser cravada no inimigo por um <b>Ataque normal bem sucedido</b>.<br/>Ao anunciar um Ataque normal, conjure a <b>Marca da Explosão Final</b> gastando os Pontos de Magia necessários. Ao ser conjurada <i>(não requer testes)</i>, uma Marca Mágica <b>banhará sua lâmina ou a ponta de sua flecha ou projétil</b>, e que durará até que você dispare ou ataque.<br/></br>A Marca precisa ser conjurada <b>antes de entrar em contato físico com o inimigo</b> (ou mágico no caso de Armas Mágicas), e pode ser feito antes de seu ataque como uma <b>ação livre</b>.<br/>A Marca em sí não causa <b>nenhum dano adicional</b>, e cada marca dura até o <b>final do encontro</b>.<br/><br/>Quando um inimigo marcado <b>for abatido no campo de batalha</b> a uma distância de até <b>30 quadrados</b> de você, a Marca reagirá e uma <b>explosão Arcana</b> será conjurada <b>à partir da cordenada do inimigo abatido</b>, atingindo todos os alvos no entorno de uma <b>área circular de 2 Quadrados</b>.<br/><br/>A Explosão causa <code>TIER*(d20)</code> de Dano.<br/><b>Não há limite de marcas</b>.</p>",
+  "description": "<p>Escolha 1 alvo e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido</b>, seu ataque infundirá o alvo com uma <b>marca arcana</b> que durará por <code>3 turnos</code>.</p><p>Caso o alvo seja abatido dentro do prazo da <b>marca arcana</b> <i>(ou caso seja abatido com este ataque)</i>, uma poderosa explosão irradiará do corpo do inimigo, causando <code>TIER * d20</code> de <b>dano mágico</b> a todos os inimigos adjacentes.</p>",
   "tags": ["grimo", "kanus"]
 }

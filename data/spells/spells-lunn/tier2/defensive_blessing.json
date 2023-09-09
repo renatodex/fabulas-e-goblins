@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiHealingShield",
   "element": "holy",
   "caption": "Suas mãos tocam um aliado, fornecendo a ele uma benção protetora que o projete contra os ataques inimigos.",
-  "description": "<p>A benção concede um <b>escudo protetor</b> invisível ao aliado, que neutraliza os ataques inimigos. O Escudo possui <b>TIER*2d10 de Pontos de Vida</b>, dura até o final do encontro, e não pode acumular com outros escudos ou bençãos. A benção pode ser dissolvida <b>apenas pelo Sacerdote</b>, e em qualquer momento. Para ser aplicada, <b>precisa de consentimento</b>.</p>",
+  "description": "<p>Escolha um <b>alvo aliado adjacente</b> e faça um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido e o alvo aceitar,</b> ele receberá um <b>domo mágico de proteção de luz</b> que o protegerá contra ataques inimigos, sejam físicos ou mágicos. O escudo possui <code>TIER * 2d10</code> de Pontos de Vida, e dura até o <b>final do encontro</b>, ou até ser dissolvido.</p><p>Não pode acumular com <b>outros escudos ou bençãos</b>. A benção pode ser dissolvida apenas pelo Sacerdote, e a qualquer momento.</p><hr/>Se o Sacerdote possuir mais de <b>5 Tokens Profanos</b>, o Domo possui o mesmo efeito mas passa a ser criado com o elemento <b>Trevas</b>.</p>",
   "tags": ["grimo", "lunn"]
 }

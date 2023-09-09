@@ -1,15 +1,15 @@
 {
   "name": "Estancar Feridas",
-  "magic_cost": "3 P.M",
+  "magic_cost": "5 P.M",
   "duration_time": "3",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": "",
   "range_amount": "",
   "range_type": "Sí mesmo",
-  "icon": "GiPocketBow",
+  "icon": "GiStigmata",
   "element": "",
   "caption": "Seu Grimo amplia sua vitalidade, sendo capaz até de resistir a certos venenos.",
-  "description": "<p>Qualquer veneno físico ou picada que lhe fizer perder Pontos de Vida por turno é suspendido por 3 turnos.</p>",
+  "description": "<p>Escolha um alvo e faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>. (pode usar <b>Resiliência</b> se o Alvo for você mesmo).</p><p><b>Se for bem sucedido</b>, você pode estancar temporariamente por <code>3 turnos</code> qualquer efeito de <code>Sangramento</code> ou <code>Envenenamento</code> que esteja aplicado ao alvo.</p><p>O tempo de duração da Ferida/Veneno é congelado até que se passem os 3 turnos.</p><p>Caso seja feito fora de combate, os <code>3 turnos</code> podem ser adaptados para <code>3 horas</code>.",
   "tags": ["grimo", "kanus"]
 }

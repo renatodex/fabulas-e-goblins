@@ -1,15 +1,15 @@
 {
-  "name": "Ler Elemento 2",
-  "magic_cost": "2 P.M",
+  "name": "Transmutar Objeto",
+  "magic_cost": "5 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": "7",
+  "cast_distance": "0",
   "range_amount": "1",
-  "range_type": "Alvo",
-  "icon": "GiDigHole",
+  "range_type": "Objeto",
+  "icon": "GiFireSpellCast",
   "element": null,
   "caption": "Expande o seu poder de leitura elemental, conseguindo acessar relances do passado de uma concentração mágica orgânica.",
-  "description": "<p>Expande o poder <b>Ler Elemento</b> para o nível 2.<br/>Agora é possível Ler <b>criaturas constituídas pelo elemento escolhido</b>, permitindo ao seu conjurador visualizar relances do passado do alvo contra sua vontade.<br/>Se utilizada numa criatura/npc/inimigo, a Ação gera o Efeito <u>\"Exaustão 1\"</u>.</p>",
+  "description": "<p>Escolha um objeto inanimado que você possa tocar e que caiba em suas mãos e faça um teste de Perícia do atributo <b>Elo Mágico</b>.</p><p>Você pode alterar temporariamente a forma desse objeto, transmutando-o no seu elemento para que seja manipulado ou guardado.</p><p>Um Alluriano da Materia poderia transformar uma Chave em uma pedra, enquanto um Alluriano de Água poderia transformar uma Carta em um líquido e guardá-la em um Frasco de forma discreta.</p><p>Apenas 1 objeto pode ser transmutado simultaneamente, e o conjurador pode desfazer a conjuração pelo tempo que quiser.</p>",
   "tags": ["grimo", "allura"]
 }

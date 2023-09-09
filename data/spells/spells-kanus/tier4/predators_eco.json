@@ -1,0 +1,15 @@
+{
+  "name": "Eco do Predador",
+  "magic_cost": "7 P.M",
+  "duration_time": "3T",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "0",
+  "range_amount": "",
+  "range_type": "Sí mesmo",
+  "icon": "GiHunterEyes",
+  "element": "",
+  "caption": "Você passa a enxergar Armadilhas ocultas, e pode arremessá-las diretamente em seus inimigos.",
+  "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b></p><p><b>Se for bem sucedido,</b> você ativa uma poderosa eco de sentidos extendidos por <code>3 turnos</code>, que permite identificar passivamente <b>pontos fracos</b> de qualquer inimigo em um raio de <code>15 espaços</code>. (aplica o dano extra do poder <b>Ponto Fraco</b> sem aprimoramentos caso você não tenha aprendido)</p><p>Além disso, enquanto estiver com <b>Eco do Predador</b>, você pode realizar <code>2 Ações de Movimento</code> por turno.</p>",
+  "tags": ["grimo", "kanus"]
+}

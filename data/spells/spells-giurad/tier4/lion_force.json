@@ -10,6 +10,6 @@
   "icon": "GiLion",
   "element": null,
   "caption": "No campo de batalha você possui a força de um leão, derrubando inimigo após inimigo numa fúria épica.",
-  "description": "<p>Seus ataques agora possuem a propriedade Derrubar 20</p>",
+  "description": "<p>Seus ataques normais agora possuem a propriedade <code>Derrubar</code>.</p>",
   "tags": ["grimo", "giurad"]
 }

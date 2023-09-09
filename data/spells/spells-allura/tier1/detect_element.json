@@ -1,15 +1,15 @@
 {
   "name": "Detectar Elemento",
-  "magic_cost": "0 P.M",
+  "magic_cost": "2 P.M",
   "duration_time": "0",
   "attack_logic": null,
   "action_type": "Ativa",
   "cast_distance": null,
   "range_amount": "100m",
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiNoseSide",
   "element": null,
   "caption": "A chama do seu elemento cintila numa frequencia específica, e você pode detectá-lo a vários metros de distância.",
-  "description": "<p>A qualquer momento você pode realizar um teste de <b>Elo Mágico</b> para sentir a presença do seu elemento a até <b>100 metros</b> de distância. A dificuldade do teste é definida pelo Narrador, e a qualidade do seu resultado pode te dar orientações instintivas de como chegar até essa fonte do seu elemento. A percepção do elemento pode ser vista como um Sétimo sentido, comparada frequente ao olfato ou audição.</p>",
+  "description": "<p>Como uma <b>Ação Livre</b>, faça um teste de Perícia de <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você poderá sentir a presença do seu elemento a até <b>100 metros</b> de distância. <i>(Ex: Allurianos de Água podem usar <b>Detectar Elemento</b> para procurar o rio mais próximo, enquanto Allurianos do Trovão podem detectar uma tempestade se aproximando.)</i></p><p></p>A qualidade do seu sucesso nos dados e a sua distância da concentração elemental dirão o quão preciso você será capaz de localizar a fonte deste elemento.</p><p>Essa percepção do elemento pode ser vista como uma espécie de <b>sétimo sentido</b>, comparada frequente ao olfato ou audição.</p>",
   "tags": ["grimo", "allura"]
 }

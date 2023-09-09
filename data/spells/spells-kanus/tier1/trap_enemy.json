@@ -7,9 +7,9 @@
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPocketBow",
+  "icon": "GiBarbedWire",
   "element": "",
   "caption": "Você retira forças de seu Grimo para conjurar uma Boleadeira mágica, prendendo seu inimigo no lugar e restringindo suas ações.",
-  "description": "<p>Você conjura uma <b>Boleadeira mágica</b> que <b>prende seu inimigo</b> por <b>1 turno</b>, impossibilitando-o de se Mover ou Atacar.<br/>Você deverá passar num teste contra a <b>Defesa Física</b> do alvo para ser bem sucedido.<br/><b>Não funciona com alvos Grandes.</b></p>",
+  "description": "<p>Escolha 1 alvo e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido,</b> você conjura uma <b>boleadeira mágica</b> que causa <code>Constrição T=1</code>.</p>",
   "tags": ["grimo", "hunter"]
 }

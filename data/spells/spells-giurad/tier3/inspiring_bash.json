@@ -1,6 +1,6 @@
 {
-  "name": "Pancada Inspiradora",
-  "magic_cost": "5 P.M",
+  "name": "Pancada Inspiradora (ou não)",
+  "magic_cost": "3 P.M",
   "duration_time": null,
   "attack_logic": "Físico",
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiShieldBash",
   "element": null,
   "caption": "A beleza de seus movimento renova a esperança de um aliado, que se sente motivados a atacar seus inimigos com a sua bravura.",
-  "description": "<p>Quando um ataque normal for realizado atravéz da Pancada Inspiradora, você causará um Dano extra de 2d10. Além disso, um aliado a sua escolha receberá um bônus de 2d10 de dano caso acerte o ataque em seu turno (turno do aliado).</p>",
+  "description": "<p>Como uma ação livre e antes de efetuar um ataque normal, escolha um aliado ao seu <b>alcance de visão</b> e declare o uso da <b>Pancada Inspiradora</b>. <i>Neste momento, você pode fazer um contato visual ou dizer algumas palavras inspiradoras antes do seu ataque)</i></p><p><b>Se este ataque for bem sucedido</b>, você causará um <b>Dano extra</b> de <code>TIER*d10</code> de dano físico. Então, o aliado escolhido sente-se inspirado pela sua performance, recebendo um bônus de <code>TIER*d10</code> de dano caso acerte um ataque normal no turno dele.</p><p><b>Se o ataque não for bem sucedido</b>, além de não acertar, você também transmite insegurança ao aliado escolhido, reduzindo o dano de seu próximo ataque em <code>TIER*d10</code>.</p>",
   "tags": ["grimo", "giurad"]
 }

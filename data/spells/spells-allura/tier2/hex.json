@@ -1,15 +1,15 @@
 {
   "name": "Enfeitiçar",
-  "magic_cost": "4 P.M",
+  "magic_cost": "6 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": "7",
   "range_amount": null,
   "range_type": "Alvo",
-  "icon": "GiDigHole",
+  "icon": "GiCursedStar",
   "element": null,
   "caption": "Você conjura a corrupção de seu elemento em um inimigo, aplicando um terrível efeito negativo.",
-  "description": "<p>Faça um teste para aplicar o <b>Efeito Elemental <a href=\"/docs/9-combat-rules/negative-effects\">(T=2,D=8,N=1,C=16,P=2,M=2)</a></b> em um único inimigo. O inimigo recebe o efeito como uma Maldição, e apenas pode se livrar dela a partir de seu próximo turno.</p>",
+  "description": "<p>Escolha um alvo e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido</b>, você aplica o <b>Efeito Negativo <a href=\"/docs/9-combat-rules/negative-effects\">(T=2,D=8,N=1,C=16,P=2,M=3)</a> do seu elemento</b> em um único alvo.</p><p>O alvo recebe o efeito como uma Maldição. Cada Efeito Negativo especifica sua aplicação de dano, duração e penalidades.</p>",
   "tags": ["grimo", "allura"]
 }

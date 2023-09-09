@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "2",
   "range_type": "Círculo",
-  "icon": "GiPiercingSword",
+  "icon": "GiBurningPassion",
   "element": "holy",
   "caption": "Um brilho emana de seu Grimo cegando temporariamente os inimigos próximos.",
-  "description": "<p>Inimigos em um raio de 2 quadrados à partir do Sacerdote são afetados por uma Cegueira que aplica uma penalidade de -3 em Ataques corpo-a-corpo até o próximo turno deles.</p>",
+  "description": "<p>Escolha qualquer número de alvos adjacentes em um raio de <code>2 espaços</code> ao redor do Sacerdote e faça apenas um teste contra a maior <b>Defesa Mágica</b> entre os alvos.</code></p><p><b>Se for bem sucedido,</b> aplica <code>Cegueira 1</code> e <code>Exaurir 2</code> a todos os alvos.</p><p><b>Se não for bem sucedido,</b> nada acontece.</p><p>O efeito de Cegueira é aplicado independentemente do alvo estar ou não engajado em combate.</p>",
   "tags": ["grimo", "lunn"]
 }

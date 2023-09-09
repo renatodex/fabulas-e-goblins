@@ -39,7 +39,7 @@ import elemental_curse from './../../data/spells/spells-allura/tier3/elemental_c
 import elemental_heal from './../../data/spells/spells-allura/tier3/elemental_heal.json'
 import elemental_shield from './../../data/spells/spells-allura/tier3/elemental_shield.json'
 import friendly_fire from './../../data/spells/spells-allura/tier3/friendly_fire.json'
-import mage_fist_3 from './../../data/spells/spells-allura/tier3/mage_fist_3.json'
+import tentacles from './../../data/spells/spells-allura/tier3/tentacles.json'
 import planar_meditation from './../../data/spells/spells-allura/tier3/planar_meditation.json'
 import spiral from './../../data/spells/spells-allura/tier3/spiral.json'
 import upgrade_skill from './../../data/spells/spells-allura/tier3/upgrade_skill.json'
@@ -264,7 +264,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={elemental_heal} />
 <SpellFromJson expanded={false} spellData={elemental_shield} />
 <SpellFromJson expanded={false} spellData={friendly_fire} />
-<SpellFromJson expanded={false} spellData={mage_fist_3} />
+<SpellFromJson expanded={false} spellData={tentacles} />
 <SpellFromJson expanded={false} spellData={planar_meditation} />
 <SpellFromJson expanded={false} spellData={spiral} />
 <SpellFromJson expanded={false} spellData={upgrade_skill} />

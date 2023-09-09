@@ -1,15 +1,15 @@
 {
-  "name": "Manipular Elemento",
-  "magic_cost": "1 P.M",
+  "name": "Gosma Bomba",
+  "magic_cost": "5 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": "5",
-  "range_amount": "2x2",
-  "range_type": "Área",
-  "icon": "GiDigHole",
+  "cast_distance": "3",
+  "range_amount": "1",
+  "range_type": "Ponto",
+  "icon": "GiTransparentSlime",
   "element": null,
-  "caption": "Sua intimidade com seu elemento permite manipulá-lo em pequena quantidade.",
-  "description": "<p>Você pode mover ou dissolver uma manifestação elemental do seu elemento com as mãos. O Custo para essa ação é de <b>1 P.M</b>, e o jogador apenas pode Manipular o equivalente a <i>1 metro cúbico</i> do elemento de cada vez. Se Manipular Elemento for usado como forma de ataque, exige um teste difícil de Concentração que pode ser testado com Intelecto. O dano causado nesse caso é o mesmo do <b>Rajada de Aprendiz</b>.</p>",
+  "caption": "Invoca uma criatura gosmenta do seu elemento que, ao tocar um inimigo, explode causando dano mágico devastador.",
+  "description": "<p>Faça um teste de Perícia usando o atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você pode conjurar uma <b>pequena criatura Gosmenta</b> do seu elemento a até <code>3 espaços</code> de distância.</p><p>A criatura não ataca, mas pode se mover a até <code>4 espaços</code> por turno.</p><p>Ao colidir com um inimigo ou objeto, ou ser atacada, a Gosma explode causando um estrondo elemental do seu elemento, afligindo os alvos adjacentes em <code>TIER * (2d10 + 12)</code> de dano mágico.</p>",
   "tags": ["grimo", "allura"]
 }

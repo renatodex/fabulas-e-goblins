@@ -1,15 +1,15 @@
 {
   "name": "Santificar o Solo",
   "magic_cost": "20 P.M",
-  "duration_time": "?",
+  "duration_time": "1h~12h",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": 2,
   "range_amount": "20x20",
   "range_type": "Área",
-  "icon": "GiPiercingSword",
+  "icon": "GiFruitTree",
   "element": "holy",
   "caption": "O Poder Divino do Grimo flui para suas mãos e suas palavras, enquanto você canaliza sua fé para blindar uma região contra as forças profanas",
-  "description": "<p>Santificar Solo cria um encantamento poderoso numa area de até <b>20x20</b>, que dura por até 8 horas e causa <b>2d12+8 de Dano Divino por turno</b> em todas as criaturas <b>Profanas</b> que adentrarem a área.<br/><br/>Este poder é um <b>Ritual</b>, e para ser conjurado precisa necessariamente ser <b>feito numa área silenciosa, pacífica e livre de ameaças nos entornos</b>. O <b>tempo de duração</b> do Ritual depende das <b>condições do local</b>, e pode variar <b>entre 1h e 12h de duração</b>. Durante o tempo do Ritual, o <b>Sacerdote estará 100% focado</b>, realizando orações e salmos divinos para Santificar a área.<br/>Quaisquer distrações constantes, ameaça ou agitação nos entornos da Área do Ritual <b>automaticamente cancelará o mesmo</b>, obrigando o Sacerdote a <b>reiniciar o processo</b> apenas quando a região estiver pacificada novamente.<br/><br/>O tempo de persistencia do Ritual pode ser extendido <b>em até 1 ano</b> através da consumação de uma <b><u>Gota de Fé</u></b> durante o processo.<br/><br/><b>Criaturas consideradas Profanas:</b> Mortos-Vivos, Demônios, Aparições, Criaturas das Trevas, Fantasmas e monstros conjurados por Necromancia.<br/><br/><b>Sacerdotes com mais de 1 Ação Profana precisam fazer um teste de Elo Mágico com dificuldade 15+ para Santificar o Solo.</b></p>",
+  "description": "<p>Escolha uma área de <code>5x5</code> e faça um <b>Teste de Perícia</b> de <b>Intelecto</b>.</p><p><b>Se for bem sucedido,</b> você cria um encantamento poderoso numa area de até <code>5x5</code>, que dura por até <code>8 horas</code> e causa <code>TIER * (2d12 + 10)</code> de <b>dano mágico divino</b> (elemento luz) <b>por turno</b></b> em todas as criaturas <b>Profanas</b> que adentrarem a área.</p><p>Este poder é um <b>Ritual</b>, e para ser conjurado precisa necessariamente ser <b>feito numa área silenciosa, pacífica e livre de ameaças nos entornos</b>. O <b>tempo de duração</b> do Ritual depende das <b>condições do local</b>, e pode variar <b>entre 1h e 12h de duração</b>. Durante o tempo do Ritual, o <b>Sacerdote estará 100% focado</b>, realizando orações e salmos divinos para Santificar a área.<br/>Quaisquer distrações constantes, ameaça ou agitação nos entornos da Área do Ritual <b>automaticamente cancelará o mesmo</b>, obrigando o Sacerdote a <b>reiniciar o processo</b> apenas quando a região estiver pacificada novamente.</p><p>O tempo de persistencia do Ritual pode ser extendido <b>em até 1 ano</b> através da consumação de uma <b><u>Gota de Fé</u></b> durante o processo.</p><p><b>Criaturas consideradas Profanas:</b> Mortos-Vivos, Demônios, Aparições, Criaturas das Trevas, Fantasmas e monstros conjurados por Necromancia.</p><hr/><p>Sacerdotes com mais de <code>5 Ações Profanas</code> transformam a habilidade em <b>Corromper o Solo</b>, fazendo com <b>quaisquer criaturas que não sejam profanas</b> sejam afetadas pelo efeito do poder, causando dano de <b>Trevas</b> ao invés de dano <b>Divino</b> (elemento Luz). Quando conjurado desta maneira, o poder é considerado como uma maldição que possui <code>Resiliência = TIER * 10</code>.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -1,15 +1,15 @@
 {
   "name": "Bolha",
   "magic_cost": "2 P.M",
-  "duration_time": "3 dias",
+  "duration_time": null,
   "attack_logic": null,
   "action_type": "Ativa",
-  "cast_distance": "3",
-  "range_amount": null,
+  "cast_distance": "7",
+  "range_amount": "1",
   "range_type": "Alvo",
   "icon": "GiGoldShell",
   "element": "water",
   "caption": "Conjura uma Aura Invisível de Proteção que permite a um Terrano se adaptar ao mundo Submerso.",
-  "description": "<p>Para ser realizado, exige um teste de Elo Mágico com Dificuldade 15. Caso tenha sucesso, o alvo pode Respirar e Andar no ambiente submerso por tempo indeterminado sem grandes problemas. Caso falhe, os P.M são consumidos normalmente. A Magia apenas pode ser desfeita remotamente com um Feitiço de Dissipação poderoso. Pode ser dissipada pelo Alvo a qualquer momento.</p>",
+  "description": "<p>Escolha um alvo a até <code>7 espaços</code> e faça um <b>Teste de Perícia</b> de <b>Intelecto</b> ou <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você envolve o alvo em uma <b>Bolha</b>, permitindo que ele respire no ambiente submerso por tempo indeterminado.</p><p>A Bolha também pode ser usada para atacar, elevando o alvo no ar e a estourando abruptamente, para causar <code>TIER * (3d6 + 8)</code> de <b>dano mágico de água</b></p>",
   "tags": ["cultural", "children-of-depths"]
 }

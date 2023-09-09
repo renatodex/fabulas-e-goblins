@@ -7,9 +7,9 @@
   "cast_distance": "0",
   "range_amount": "1000x1000",
   "range_type": "Sí mesmo",
-  "icon": "GiDigHole",
+  "icon": "GiExplodingPlanet",
   "element": null,
   "caption": "Seu corpo se transforma em uma instância de pura energia elemental, eclodindo num Cataclisma de proporções inigualáveis, causando estrago por Kilômetros de distância e culminando na sua própria extinção.",
-  "description": "<p>Seu corpo se eleva no ar enquanto um brilho de energia se irradia do centro de seu corpo. Durante 5 turnos, seu corpo está em um estado de torpor, protegido por <b>12 instâncias</b> de <b>Domo de Proteção</b> que se conjuram em volta de você.<br/><b>Após 5 turnos de canalização</b>, a energia elemental em você eclode abruptamente com a <b>intensidade de um evento cataclísmico</b>. A intensidade é tal, que o clarão e o tremor de seu impacto <u>podem ser percebido por kilômetros de distância de sua localidade</u>.<br/><b>Quase nada</b> no mundo pode evitar o impacto da sua destruição. Causa <b>50d12+350</b> de Dano a todos que estiverem na área. O dano aos aliados não pode ser prevenido pelo poder <b>Fogo Amigo</b>, mas é reduzido em até 1/8 do dano total dependendo da distância que eles estiverem do epicentro do Cataclisma.<br/>Ao final do poder, sua existência é consumida e enviada ao Plano Primal do seu elemento.</p>",
+  "description": "<p>Faça dois testes de Perícia. Um do atributo <b>Intelecto</b> e outro de <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido em ambos os testes,</b> você se eleva no ar enquanto um brilho de energia se irradia do centro de seu corpo. Durante <code>5 turnos</code>, seu corpo ficará em um <b>estado de torpor</b>, protegido por um <b>casulo mágico do seu elemento em formato oval</b>, com <code>1d200 + 120 P.V</code></p><p><b>Após 5 turnos de canalização</b>, a energia elemental em você eclode abruptamente com a <b>intensidade de um evento cataclísmico</b>. A intensidade é tal, que o clarão e o tremor de seu impacto <u>podem ser percebido por kilômetros de distância de sua localidade</u>.</p><p><b>Quase nada</b> no mundo pode evitar o impacto da sua destruição. E explosão causará <code>1d600 + 350</code> de Dano a todos inimigos na área.</p><p>Ao final do poder, sua existência é consumida e enviada ao Plano Primal do seu elemento.</p>",
   "tags": ["grimo", "allura","sacrifice"]
 }

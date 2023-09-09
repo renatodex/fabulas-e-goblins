@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiBellShield",
   "element": null,
   "caption": "Seu Elo Mágico é forte, e seu elemento oferece a proteção necessária para resistir aos males da sua própria natureza.",
-  "description": "<p>Qualquer dano sofrido utilizando o elemento do Dominador é reduzido em <b>2d6+5</b>.</p>",
+  "description": "<p>Qualquer dano sofrido que seja do seu elemento é reduzido permanentemente em <code>TIER * (2d6 + 5)</code>.</p>",
   "tags": ["grimo", "allura"]
 }

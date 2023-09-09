@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiRollingEnergy",
   "element": "holy",
-  "caption": "As poderosas palavras de Fé permitem que um aliado possa recuperar sua coragem momentânea para acertar seus inimigos de forma precisa.",
-  "description": "<p>Como uma <b>ação de reação</b>, você conjura uma Benção em um único Aliado que o permite <b>Re-rolar um resultado</b> mal sucedido no dado.</p>",
+  "caption": "Com um gesto majestoso, você convoca uma bênção divina sobre um aliado escolhido. Sob a égide dessa proteção sagrada, eles têm o poder de reescrever o destino, redefinindo um resultado desafortunado no dado. O curso do destino é alterado, enquanto a esperança renasce em meio às chamas do combate.",
+  "description": "<p>A qualquer momento, como uma <b>Ação de Reação</b>, faça um <b>Teste de Perícia</b> do atributo <b>Espírito</b>.</p><p><b>Se for bem sucedido,</b> você conjura uma <b>Benção</b> em um único alvo que o permite <b>re-rolar o resultado de um teste</b>.",
   "tags": ["grimo", "lunn"]
 }

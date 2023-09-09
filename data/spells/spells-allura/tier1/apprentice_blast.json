@@ -1,15 +1,15 @@
 {
   "name": "Rajada do Aprendiz",
-  "magic_cost": "2 P.M",
+  "magic_cost": "3 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": "7",
   "range_amount": null,
   "range_type": "Alvo",
-  "icon": "GiDigHole",
+  "icon": "GiRingedBeam",
   "element": null,
-  "caption": "Dispara uma rajada de energia elemental em um único inimigo.",
-  "description": "<p>O projétil mágico se transloca desde o Grimo do conjurador até o alvo. O ataque deve ser feito contra a defesa mágica do inimigo. Causa <b>2d6+6</b> de dano.</p>",
+  "caption": "Concentro o meu poder arcano, e do meu Grimo surge um projétil fulgurante do meu elemento. Eu o lanço com maestria. A rajada avança rapidamente, rasgando o ar com a velocidade de um Cogaran, alvejando meu inimigo com precisão.",
+  "description": "<p>Escolha um alvo a até <code>7 espaços</code> de distância e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você conjura um projétil mágico, que se origina do seu Grimo, atingindo o alvo escolhido e causando <code>5d4 + TIER*5</code> de dano elemental do seu elemento.</p><p>O dado do dano evolui para <code>d8</code> no Tier 2, <code>d12</code> no Tier 3 e <code>d20</code> no Tier 4.</p>",
   "tags": ["grimo", "allura"]
 }

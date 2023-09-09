@@ -1,5 +1,5 @@
 {
-  "name": "Exorcismus",
+  "name": "Aprimoramento: Exorcismus",
   "magic_cost": "10 P.M",
   "duration_time": null,
   "attack_logic": "Aprimoramento",
@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "2x2",
   "range_type": "Area",
-  "icon": "GiPiercingSword",
+  "icon": "GiFireflake",
   "element": "holy",
   "caption": "Transforma o Expurgar Profano em um grande clarão de Luz, que purifica o mundo da presença dos Profanos.",
-  "description": "<p>Aprimora o poder <b>Expurgar Profano</b>, transformando-o em uma habilidade em área que afeta 2x2 quadrados.</p>",
+  "description": "<p>Aprimora o poder <b>Expurgar Profano</b>, transformando-o em uma habilidade em área que afeta <code>3x3 espaços</code>.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiBlackKnightHelm",
   "element": null,
   "caption": "Todo o seu treinamento passado o distingue de meros lutadores. Você sabe o que faz, e o resultado é nítido no campo de batalha.",
-  "description": "<p>Confere um bônus +1 permanente no Modificador de Ataque em ataques corpo a corpo.</p>",
+  "description": "<p>Confere um bônus de <code>+1 de Ataque Físico</code> sempre que realizar ataques corpo-a-corpo <i>(não se aplica a magias)</i>.</p>",
   "tags": ["grimo", "giurad"]
 }

@@ -1,15 +1,15 @@
 {
   "name": "Manta Elemental",
-  "magic_cost": "3 P.M",
-  "duration_time": "X",
+  "magic_cost": "9 P.M",
+  "duration_time": "?/1h",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": "0",
   "range_amount": null,
   "range_type": "Sí mesmo",
-  "icon": "GiDigHole",
+  "icon": "GiAura",
   "element": null,
   "caption": "Sua afinidade elemental permite conjurar uma manta elemental que pode ferir inimigos que tentem se aproximar.",
-  "description": "<p>Você conjura uma manta elemental em torno do próprio corpo, causando 2d12+12 de dano elemental em qualquer inimigo que realizar um ataque Corpo-a-Corpo bem sucedido. A forma consome <b>3 P.M por turno</b> e pode ser desligada a qualquer momento a um <b>custo adicional de 1 P.M</b>.<br/>Se o personagem chegar a <b>0 P.M</b> enquanto a Aura está ativa, ela será interrompida abruptamente, e o Personagem <b>sofrerá um efeito de Auto-Combustão elemental</b>, causando a sí mesmo <code>TIER*(1D12+12)</code> de dano.</p>",
+  "description": "<p>Faça um teste do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma <b>manta elemental</b> do seu elemento em volta de sí mesmo que causa <code>TIER * (d10 + 10)</code> de <b>dano mágico</b> a qualquer alvo que realizar um ataque corpo-a-corpo bem sucedido contra você.</p><p>Após receber um ataque, faça um teste de <b>Intelecto</b> novamente para manter a manta ativa. Caso falhe, a manta se desfaz imediatamente.</p><p>A manta tem duração de até <code>1 hora</code> ou até ser desfeita pelo conjurador.</p>",
   "tags": ["grimo", "allura"]
 }

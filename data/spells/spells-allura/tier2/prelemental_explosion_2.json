@@ -1,15 +1,15 @@
 {
-  "name": "Explosão Prelementar 2",
-  "magic_cost": "6 P.M",
+  "name": "Aprimoramento: Explosão Prelementar",
+  "magic_cost": null,
   "duration_time": null,
   "attack_logic": null,
   "action_type": "Aprimoramento",
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiUpgrade",
   "element": null,
   "caption": "Sua experiência com explosões elementais lhe permite extrair ainda mais poder de seu Grimo, conjurando explosões mais poderosas.",
-  "description": "<p>Expande a Explosão Prelementar para o nível 2, aumentando o Dano para <code>(TIER)*(1d8+7)</code>.</p>",
+  "description": "<p>Aprimora a <b>Explosão Prelementar</b>, causando <code>TIER * d4</code> de dano mágico adicional.</p>",
   "tags": ["grimo", "allura"]
 }

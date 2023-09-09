@@ -10,6 +10,6 @@
   "icon": "GiFist",
   "element": null,
   "caption": "Um bom soldado é aquele que consegue resistir ao peso de sua própria espada. A Força Aprimorada lhe concede bônus adicionais de força.",
-  "description": "<p>Você recebe um bônus passivo de +1 em seu atributo Força. (Devido ao cálculo de P.V, essa habilidade ztambém lhe fornece um bônus de +2 P.V adicionais.)</p>",
+  "description": "<p>Recebe um <b>bônus permanente</b> de <code>+1 de Força</code>. <i>(Devido a mecânica da Ficha de Personagem, essa habilidade também lhe concede um bônus permanente de <code>+2 Pontos de Vida</code> adicionais.)</o></p>",
   "tags": ["grimo", "giurad"]
 }

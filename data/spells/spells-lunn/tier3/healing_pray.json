@@ -1,15 +1,15 @@
 {
-  "name": "Toque de Cura / Oração de Cura",
+  "name": "Aprimoramento: Toque de Cura Duplo",
   "magic_cost": "13 P.M",
   "duration_time": null,
   "attack_logic": "Aprimoramento",
   "action_type": "Ativa",
   "cast_distance": 0,
-  "range_amount": "1",
+  "range_amount": "2",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiPrayer",
   "element": "holy",
   "caption": "Lunn concede as suas preces propriedades curativas, transformando suas palavras em verdadeiras bençãos divinas.",
-  "description": "<p>Aprimora o poder <b>Toque de Cura</b>, que agora não requer necessariamete mais toque e <b>pode também ser pronunciado</b> em forma de Oração, a fórmula de Cura também é atualizada para <code>TIER*D12+20</code>.<br/><br/>Além disso, o poder agora pode ser utilizado uma vez por dia <b>sem consumir os Pontos de Magia</b>.</p>",
+  "description": "<p>Aprimora o poder <b>Toque de Cura 2</b>, que agora permite que você cure <b>2 alvos adjacentes</b> ao mesmo tempo.</p>",
   "tags": ["grimo", "lunn"]
 }

@@ -3,13 +3,13 @@
   "magic_cost": "6 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
-  "action_type": "Reação",
+  "action_type": "Ação",
   "cast_distance": "7",
   "range_amount": "1",
   "range_type": "Ponto",
   "icon": "GiPocketBow",
   "element": "",
   "caption": "Você comanda o seu animal de estimação para realizar uma investida em um inimigo.",
-  "description": "<p>Ordena seu <b>Companheiro Animal</b> a investir contra um Alvo (da escolha do Animal) e realizar dois ataques consecutivos. Você não tem controle do Alvo que será atacado, a menos que use este poder em conjunto com <b>Comando Animal</b>.<br/><b>Só pode ser usado no turno do Animal</b>.</p>",
+  "description": "<p><b>Use apenas no turno do seu ajudante.</b></p><p>Ordena seu <b>Companheiro Animal</b> a investir contra um Alvo (da escolha do Animal) e realizar dois ataques consecutivos. Você não tem controle do Alvo que será atacado, a menos que use este poder em conjunto com <b>Comando Animal</b>.</p><p><b>Só pode ser usado no turno do Animal</b>.</p>",
   "tags": ["grimo", "kanus"]
 }

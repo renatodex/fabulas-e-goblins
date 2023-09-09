@@ -1,15 +1,15 @@
 {
   "name": "Columna Lucis",
-  "magic_cost": "0 P.M",
+  "magic_cost": "5 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
-  "action_type": "Passiva",
+  "action_type": "Reação",
   "cast_distance": 0,
   "range_amount": "1",
   "range_type": "Alvo",
-  "icon": "GiPiercingSword",
+  "icon": "GiMucousPillar",
   "element": "holy",
   "caption": "Sua cura agora evoca os Pilares de Luz para auxiliar na sua missão.",
-  "description": "<p>Cada cura realizada como uma ação conjura <b>1 Pilar de luz</b> na coordenada onde a cura foi realizada. Pode conjurar até um máximo de <b>6 Pilares</b>. (considerando também os do poder <b>Pilar de Luz</b>)</p>",
+  "description": "<p>Sempre que realizar uma <b>cura mágica</b>, você pode fazer um <b>Teste de Perícia</b> usando o atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você conjura <b>1 Pilar de Luz</b> na coordenada de um alvo curado <b>(apenas 1 Pilar pode ser conjurado por Reação)</b>.</p><p>Pode conjurar até um máximo de <b>6 Pilares</b>. (esse número já conta com os do poder <b>Pilar de Luz</b>). Os Pilares conjurados se comportam da mesma maneira que no poder <b>Pilar de Luz</b>, mas os Pilares conjurados por este poder não podem ser conjurados na mesma coordenada que um já existente.</p><p>Este poder não é um aprimoramento, e pode ser aprendido mesmo que você não possua o poder <b>Pilar de Luz</b>.</p><hr/><p>Se o Sacerdote possuir ao menos <code>5 Ações Profanas</code>, ao invés de serem conjurados como resposta a uma cura, os Pilares só podem ser conjurados quando inimigos tiverem a vida <b>absorvida</b> por poderes das Trevas.</p>",
   "tags": ["grimo", "lunn"]
 }

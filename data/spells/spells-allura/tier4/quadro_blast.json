@@ -1,15 +1,15 @@
 {
   "name": "Rajada Quadro",
-  "magic_cost": "15 P.M",
+  "magic_cost": "25 P.M",
   "duration_time": null,
   "attack_logic": null,
   "action_type": "Aprimoramento",
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiHeavyRain",
   "element": null,
   "caption": "O seu domínio supremo da Rajada Dupla permite conjurar 4 projéteis simultâneos em um inimigo.",
-  "description": "<p>Aprimora o poder <b>Rajada Dupla</b>, podendo agora efetuar quatro disparos, ao invés de 2.<br/>O dano se mantém o mesmo.</p>",
+  "description": "<p>Aprimora o poder <b>Rajada Dupla</b>, podendo agora efetuar <b>quatro disparos</b>, ao invés de 2.</p><p>O dano se mantém o mesmo.</p><p>Só é possível usar <b>Rajada Quadro</b> uma vez por combate.</p>",
   "tags": ["grimo", "allura"]
 }

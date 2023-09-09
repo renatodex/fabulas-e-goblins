@@ -7,9 +7,9 @@
   "cast_distance": 0,
   "range_amount": "6x6",
   "range_type": "Circular",
-  "icon": "GiPiercingSword",
+  "icon": "GiAngelOutfit",
   "element": "holy",
   "caption": "Suas palavras de Fé evocam uma poderosa auréola mágica que se origina de sua posição e se expande para curar diversos aliados.",
-  "description": "<p><b>Uma Auréola divina</b> se origina de sua coordenada, se expandindo por <b>6 quadrados</b> de diâmetro, e curando <code>3d12+20 P.V</code> de todos aliados atingindos.</p>",
+  "description": "<p>Faça um <b>Teste de Perícia</b> do atributo <b>Intelecto</b> (INT).</p><p><b>Se for bem sucedido,</b>, uma <b>Auréola divina</b> se origina de sua coordenada, se expandindo por <b>6 espaços</b> de diâmetro, e curando <code>4d20 + 40 P.V</code> de todos aliados atingindos.</p><hr/><p>Se o Sacerdote tiver ao menos <code>5 Ações Profanas</code>, o poder se torna <b>\"Demônicus\"</b>, criando uma aura de <code>6 espaços</code> que causa <code>2d20 + 20</code> de <b>dano mágico divino</b> <i>(elemento luz)</i> a cada alvo <b>não profano</b> na área. A soma do dano causado pode ser distribuída à qualquer aliado na área. <i>(ex: Se 100 de Dano for drenado dessa forma. você pode distribuir 10 a um aliado, 50 a outro e 40 a você mesmo.)</i></p>",
   "tags": ["grimo", "lunn"]
 }

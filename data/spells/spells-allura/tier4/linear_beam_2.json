@@ -1,5 +1,5 @@
 {
-  "name": "Feixe Linear 2",
+  "name": "Aprimoramento: Feixe Linear",
   "magic_cost": "12 P.M",
   "duration_time": null,
   "attack_logic": null,
@@ -7,9 +7,9 @@
   "cast_distance": null,
   "range_amount": null,
   "range_type": null,
-  "icon": "GiDigHole",
+  "icon": "GiHydraShot",
   "element": null,
-  "caption": "Aprimora o Feixe Continuo para sua versão Suprema, permitindo conjurar diversos feixes simultâneos.",
-  "description": "<p>Aprimora o seu poder Feixe contínuo, <b>aumentando para 4 a quantidade de Feixes</b> que você pode manter por turno, e aumentando o Dano para <code>TIER*(2d10+30)</code>.<br/><b>O Feixe não exige mais concentração.</b></p>",
+  "caption": "Aprimora o <b>Feixe Linear</b> para sua versão Suprema, permitindo conjurar diversos feixes simultâneos.",
+  "description": "<p>Aprimora o seu poder <b>Feixe Linear</b>, <b>aumentando para <code>4</code> a quantidade de Feixes</b> que você pode manter por turno, e aumentando o Dano para <code>TIER * (2d10 + 20)</code>.</p><p><b>O Feixe não exige mais concentração.</b></p>",
   "tags": ["grimo", "allura"]
 }

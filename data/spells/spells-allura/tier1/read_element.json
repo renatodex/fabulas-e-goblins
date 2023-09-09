@@ -7,9 +7,9 @@
   "cast_distance": 7,
   "range_amount": null,
   "range_type": "Alvo/Área",
-  "icon": "GiDigHole",
+  "icon": "GiSemiClosedEye",
   "element": null,
   "caption": "Você visualiza o mundo com os olhos do seu elemento, entrando em comunhão breve com seus pensamentos e suas memórias.",
-  "description": "<p>Você pode se comunicar com uma manifestação ativa do seu elemento para visualizar um evento passado relacionado a essa manifestação.<br/>Exemplo: Você pode utilizá-lo em um incêndio para identificar o seu causador, ou se comunicar com um Rio fluente para visualizar quem passou por seu leito.<br/><b>Não pode ser utilizado em criaturas/inimigos/npcs.</b></p>",
+  "description": "<p>Faça um teste de Perícia do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você pode se comunicar com uma <b>manifestação ativa do seu elemento</b> para visualizar um <b>evento passado</b> relacionado a essa manifestação.</p><p>Exemplo, Allurianos de fogo podem utilizar <b>Ler Elemento</b> em um incêndio para identificar o seu causador, enquanto um Alluriano de Água pode se comunicar com um rio fluente para visualizar quem passou por seu leito.</p>",
   "tags": ["grimo", "allura"]
 }

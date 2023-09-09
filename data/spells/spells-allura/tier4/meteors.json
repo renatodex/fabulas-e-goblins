@@ -7,9 +7,9 @@
   "cast_distance": "7",
   "range_amount": "4x4",
   "range_type": "Área",
-  "icon": "GiDigHole",
+  "icon": "GiMeteorImpact",
   "element": null,
   "caption": "Conjura um poderoso Meteoro elemental que atinge uma grande área do campo de batalha.",
-  "description": "<p>Dano em área 4x4 Catastrófico: <code>TIER*4d12+40</code></p>",
+  "description": "<p>Escolha uma área de <code>4x4 espaços</code> e faça um teste contra a maior <b>Defesa Mágica</b> entre os inimigos na área.</p><p><b>Se for bem sucedido,</b>, você conjura um enorme Meteoro no céu que atinge a área e causa <code>7d20 + 40</code> de <b>dano mágico elemental</b>.</p><p>O poderoso impacto do Meteoro também causa dano no terreno que atingiu.</p>",
   "tags": ["grimo", "allura"]
 }

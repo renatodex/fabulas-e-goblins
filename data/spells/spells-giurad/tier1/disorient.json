@@ -10,6 +10,6 @@
   "icon": "GiOppression",
   "element": null,
   "caption": "Uma forte pressão parece emanar de sua arma, que desfere um poderoso ataque, desorientando seus inimigos.",
-  "description": "<p>Você canaliza energia do seu Grimo para realizar um ataque que causa o efeito &quot;Desorientar 12&quot;, causando Dano da Arma + 1D6+4 ao inimigo e deixando-o atordoado. Para acertar, você deverá fazer um teste contra a Defesa do alvo.</p><p>O inimigo se recupera do atordoamento no turno dele, mas devido ao efeito do atordoamento, não poderá realizar uma ação de ataque, e poderá se mover apenas com metade de seu movimento.</p><p>Não pode ser usado contra alvos de porte Grande ou superior, a menos que o ataque seja feito contra um ponto fraco.</p>",
+  "description": "<p>Escolha um alvo que esteja adjacente a você e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido</b>, você canaliza energia do seu Grimo para desferir um golpe que inflige <code>Atordoar 1</code>, além de causar <code>Dano da Arma + 1D12</code> de <b>Dano físico</b><p>O inimigo se recupera do atordoamento ao final do turno dele, mas não poderá realizar nenhuma ação, inclusive de movimento.</p><p>Não pode ser usado contra alvos de categoria <b>Enorme</b> ou superior, a menos que o ataque seja feito <b>contra um ponto fraco</b>.</p>",
   "tags": ["grimo", "giurad"]
 }

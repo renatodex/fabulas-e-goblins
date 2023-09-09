@@ -1,0 +1,15 @@
+{
+  "name": "Flecha Dourada de Joromur",
+  "magic_cost": "100% P.M",
+  "duration_time": "",
+  "attack_logic": "Mágico",
+  "action_type": "Ativa",
+  "cast_distance": "18",
+  "range_amount": "1",
+  "range_type": "Alvo",
+  "icon": "GiWingedArrow",
+  "element": "",
+  "caption": "Na aurora dos tempos, Joromur, o celeste arqueiro, esculpiu um arco do próprio astro solar, conhecido como o Arco Dourado de Joromur. Dizem os antigos que quando o mal crescia o horizonte, o Arco resplandecia, lançando uma flecha dourada que poderia extinguir até mesmo a escuridão mais profunda. Mas aqueles além de Joromur que ousassem domar tal poder pagariam um preço, e tornariam-se eternos vigilantes do tempo, petrificados como estátuas de ouro.",
+  "description": "<p>Escolha 1 alvo a até <code>18 espaços</code> e faça um último teste contra a <b>Defesa Física</b> dele.</p><p><b>Se for bem sucedido</b>, seu corpo é tomado por uma poderosa aura dourada e o personagem entra em um estágio divino de canalização que dura um total de <code>3 turnos</code> até se completar.</p><p>Ao final dos turnos, você conjura o <b>Lendário Arco Dourado de Joromur</b> e dispara uma flecha mágica contra seu inimigo, reduzindo em <code>100% seus Pontos de Vida</code>.</p><p>Ao lançar a flecha, a Névoa do Blecaute se ativa ao seu redor, sendo atraída ao seu entorno e <b>petrificando seu corpo</b> enquanto seus olhos testemunham a última imagem da <b>Flecha de Joromur</b> penetrando o corpo de seu nêmesis, desintegrando-o completamente.</p><p>Ao final da conjuração, o corpo do <b>Kanuriano</b> é afetado por um tipo irreversível de petrificação, que não pode ser dissolvida por meios comum ou mesmo magia, transformando o personagem em uma estátua imóvel eternamente.</p>",
+  "tags": ["sacrifice", "grimo", "kanus"]
+}

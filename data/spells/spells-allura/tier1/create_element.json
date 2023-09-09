@@ -1,15 +1,15 @@
 {
   "name": "Criar Elemento",
-  "magic_cost": "1 P.M",
+  "magic_cost": "2 P.M",
   "duration_time": "0",
   "attack_logic": "Mágico",
   "action_type": "Ativa",
   "cast_distance": "7",
   "range_amount": "",
   "range_type": "Misto",
-  "icon": "GiDigHole",
+  "icon": "GiGlowingHands",
   "element": null,
-  "caption": "Sua intimidade com seu elemento permite manipulá-lo de várias maneiras.",
-  "description": "<p>Pode criar e manipular uma pequena quantidade do Elemento escolhido em uma área que caiba na <b>palma de sua mão</b> por apenas <b>1 P.M</b>. O Elemento tem suas propriedades aplicadas normalmente e se mantem ativo até que o Personagem decida desfazer. A Conjuração pode assumir qualquer forma que o dominador queira, desde objetos inanimados até formas orgânicas. Pode ser usado para Manipulação e Blefe. Caso seja usado para causar dano, causa <b>1d6+3</b> de dano.</p><p>O Local onde o Elemento será manipulado precisa estar visível ao manipulador.</p>",
+  "caption": "Você domina o Elo Mágico, moldando seu elemento em formas inimagináveis, seja fogo ardente, raios fulminantes ou até mesmo luz sagrada. Você é o arquiteto da realidade.",
+  "description": "<p>Faça um teste de Perícia de <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido</b>, você pode criar e manipular qualquer objeto ou forma constituído 100% do seu elemento, a um volume que caiba em até <b>1 espaço</b>.</p><p>O objeto conjurado se mantém ativo até que o Personagem decida desfazer. A conjuração pode assumir qualquer forma que o dominador queira, desde objetos inanimados até formas orgânicas.</p><p>Se você desejar que a manipulação se mova de um ponto A ao B, você deverá utilizar uma <b>Ação Menor</b> para movê-la.</p><p>Caso seja usada para causar dano a um alvo, faça um teste contra a <b>Defesa Mágica</b> dele <i>(usando o seu Ataque Mágico)</i>, podendo causar um dano equivalente à <b>Rajada do Aprendiz</b>, sem considerar aprimoramentos que venham de outros poderes. Neste caso, a manipulação elemental se desfaz automaticamente após causar dano. </p><p>O Local onde o Elemento será manipulado precisa estar visível ao manipulador, e dependendo do objeto e do propósito da sua conjuração, fica a cargo do Narrador interpretar o efeito das <b>propriedades naturais</b> do seu elemento (ex: O Fogo pode queimar, a Luz pode afetar mortos-vivos, o Raio pode eletrocutar, etc)</p>",
   "tags": ["grimo", "allura"]
 }
