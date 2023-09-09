@@ -80,7 +80,7 @@ As Culturas disponíveis são:
             <td>Filhos das Arcádia</td>
             <td>Estudo, Conhecimento, Inovação</td>
             <td>Túnicas chamativas com Algodão Oxidado, Trajes de Frio com muitas camadas</td>
-            <td>Zaravos, Ysanar, Qabalis</td>
+            <td>Záravos, Ysanar, Qabalis</td>
             <td>Intelecto +1, Elo Mágico +1, Destino +1, P.M +3</td>
         </tr>
        <tr>

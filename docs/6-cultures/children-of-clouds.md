@@ -20,11 +20,11 @@ Os Arcadianos, diferente dos Calderianos de alto mar, são tradicionalmente conh
 
 Enquanto uns preferem a agitação da exploração e a aventura, os Arcadianos são acostumados ao silêncio de uma boa biblioteca. Para eles, é lá que a grande aventura realmente se encontra, escondida nos rodapés dos grandes livros empoeirados, esquecidos por civilizações antigas, e que enterram em suas páginas conhecimentos essenciais para o futuro da Civilização.
 
-E é natural que, com toda essa sede de conhecimento, os Arcadianos sintam afinidade por divindades Eruditas como Zaravos, Ysanar e até Qabalis.
+E é natural que, com toda essa sede de conhecimento, os Arcadianos sintam afinidade por divindades Eruditas como Záravos, Ysanar e até Qabalis.
 
-Záravos, por exemplo, é representado por um grande e velho Mago com características etéreas, e é por muitos considerado o Patrono de todo conhecimento do mundo. Ele possuiria, de acordo com as lendas, o corpo formado inteiramente por energia arcanas, vestidas por densos trajes mágicos de um erudito ancestral.
+Záravos, por exemplo, é representado por uma besta mística guardiã de Grimória, o plano da magia, e é por muitos considerado o Patrono de todo conhecimento do mundo. Ele possuiria, de acordo com as lendas, o corpo formado inteiramente por energia arcanas e é frequentemente retratado com uma longa pelagem branca, patas negras e a cabeça em formato bumerangue.
 
-A divindade teria abdicado das limitações físicas, convertendo o próprio corpo em uma massa de energia atemporal. De acordo com Záravos, seria apenas através do sacrifício dos próprios limites, que a verdade permanente poderia ser alcançada.
+A divindade teria abdicado de suas limitações físicas, convertendo o próprio corpo em uma massa de energia atemporal. De acordo com as lendas, Záravos tem o dever de manter o equilíbrio mágico do mundo, e teria abdicado-se da obrigação de impedir o feitiço do Blecaute pois acreditava qu isso acabaria com o desequilíbrio mágico causado pelo uso desenfreado da magia.
 
 ## Tradições
 

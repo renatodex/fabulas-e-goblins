@@ -20,7 +20,7 @@ A história dos Etéreos é contada no livro dos **Eterealistas**, conhecido com
 | Balum   | Caos | Caos, Anarquia, Destruição |
 | Koroma  | Água | Espiritualidade, Auto-conhecimento, Mente |
 | Quaemanir   | Trovão | Justiça, Igualdade, Equilíbrio |
-| Zaravos   | Arcano | Arcanismo, Transformação, Dualidade |
+| Záravos   | Arcano | Arcanismo, Transformação, Dualidade |
 | Ogoron  | Terra | Conexão, Essência, Estabilidade |
 | Somonir   | Luz | Vida, Renovação, União |
 | Azarog  | Trevas | Morte, Escuridão, Corrupção |
@@ -89,19 +89,19 @@ Frequentemente associada ao Equilíbrio e à Justiça, ela é frequentemente ven
 - A justiça é como um raio, que pode partir até mesmo o mais forte dos resilientes.
 - Aceitaras Quaemanir como a fonte de sua energia, vontade e força.
 
-## Zaravos
+## Záravos
 
-Zaravos é representado como uma grande besta de pelos brancos e patas escuras, cuja cabeça horizontal lembraria a forma de um bomerangue, com olhos transbordando de magia Arcana e uma robusta proteção rochosa partindo de sua cabeça como uma tira e percorrendo toda sua coluna dorsal. Seu corpo transbordaria a pura essência da magia arcana, e sua extensão continental poderia ser vista a kilômetros de distância.
+Záravos é representado como uma grande besta de pelos brancos e patas escuras, cuja cabeça horizontal lembraria a forma de um bomerangue, com olhos transbordando de magia Arcana e uma robusta proteção rochosa partindo de sua cabeça como uma tira e percorrendo toda sua coluna dorsal. Seu corpo transbordaria a pura essência da magia arcana, e sua extensão continental poderia ser vista a kilômetros de distância.
 
-Essa criatura é tida como a essência do elemento Arcano e guardiã do plano da Magia (frequentemente referidia como Grimória). Augúrios de tempos passados relatam ter tido encontros espirituais com uma criatura que lembraria a descrição de **Zaravos**, dizendo que ele atuaria como uma espécie de mediador, ou conselheiro para aqueles prestes a tomarem decisões difíceis.
+Essa criatura é tida como a essência do elemento Arcano e guardiã do plano da Magia (frequentemente referidia como Grimória). Augúrios de tempos passados relatam ter tido encontros espirituais com uma criatura que lembraria a descrição de **Záravos**, dizendo que ele atuaria como uma espécie de mediador, ou conselheiro para aqueles prestes a tomarem decisões difíceis.
 
 As origens de **Záravos** se confundem com a semente do próprio mundo, e sua existência no Eterealismo é frequentemente vista como uma espécie de cuidador, responsável por manter os outros elementos em equilíbrio.
 
-Contam as **Lendas Etéreas** que por 3 vezes **Zaravos** teria impedido que a dualidade entre **Somonir** e **Azarog** resultassem na destruição completa das **Terras Místicas**. As lendam mencionam que a besta arcana descansa em sua **torre prismática** em **Grimória**, onde se mantém atenta a qualquer desequilíbrio mágico ou elemental que possa ocorrer no mundo.
+Contam as **Lendas Etéreas** que por 3 vezes **Záravos** teria impedido que a dualidade entre **Somonir** e **Azarog** resultassem na destruição completa das **Terras Místicas**. As lendam mencionam que a besta arcana descansa em sua **torre prismática** em **Grimória**, onde se mantém atenta a qualquer desequilíbrio mágico ou elemental que possa ocorrer no mundo.
 
-Os **profetas do Eteralismo** sempre acreditaram que a **banalização mágica** estava causando um terrível desequilíbrio à **Grimória**, e afirmam que **Zaravos** teria escolhido não impedir a conjuração do Blecaute, por saber que o feitiço selaria de vez a entrada para **Grimória** e daria um fim ao desequilíbrio mágico do mundo.
+Os **profetas do Eteralismo** sempre acreditaram que a **banalização mágica** estava causando um terrível desequilíbrio à **Grimória**, e afirmam que **Záravos** teria escolhido não impedir a conjuração do Blecaute, por saber que o feitiço selaria de vez a entrada para **Grimória** e daria um fim ao desequilíbrio mágico do mundo.
 
-Venerado por feiticeiros, Arcanistas e estudiosos, Zaravos é a personificação do Arcanismo, da Transformação e da Dualidade.
+Venerado por feiticeiros, Arcanistas e estudiosos, Záravos é a personificação do Arcanismo, da Transformação e da Dualidade.
 
 ### Ensinamentos:
 
