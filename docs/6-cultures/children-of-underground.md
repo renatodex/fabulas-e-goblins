@@ -20,18 +20,18 @@ Todo Reino que se preze precisa ter independencia Agrícola, e uma fonte abundan
 E diferente do mundo real, o mundo subterrâneo das Terras Místicas é conhecido por suas Florestas Subterrâneas e Rios de Gruta formados naturalmente pela ação vulcânica e um toque de vida selvagem, que podem fornecer todos os elementos que um reino estável precisa para prosperar.
 
 Nas florestas inclusive, é possível vivenciar ciclos completos de condensação de chuva, graças as propriedades de umidade única desses locais.
-As altas paredes das câmaras subterrâneas costumam conter Cristais que podem refletir e emitir luz própria, criando um horizonte que pode facilmente se confundir com o horizonte ao ar livre. Este lindo efeito nos céus das Grutas é também um motivo constante de turismo e exploração desses locais, como o Reino de Balgom, ao sul de Galamtia.
+As altas paredes das câmaras subterrâneas costumam conter Cristais que podem refletir e emitir luz própria, criando um horizonte que pode facilmente se confundir com o horizonte ao ar livre. Este lindo efeito nos céus das Grutas é também um motivo constante de turismo e exploração desses locais, como o **Reino de Balgom**, ao sul de Galamtia.
 
 ## Crenças
 
-A cultura do Subterrâneo é marcada pela união dos povos, que precisaram ignorar suas diferenças para sobreviver em um mundo com constante ameaças, onde a fúria selvagem e o Blecaute eram os únicos inimigos em comum.
+A cultura do Subterrâneo é marcada pela resiliência de um povo que precisou ignorar suas diferenças para sobreviver em um mundo com constante ameaças, onde a fúria selvagem e o Blecaute eram os únicos inimigos em comum.
 
-Movimentos de migração acabaram criando uma identidade religiosa bastante diversa entre os Povos do Subterrâneo, o que inclui a veneração de Divindades como Herodus, Xenosh e Icaron, todas elas envolvendo grande sabedoria sobre a sobrevivência, força e a resiliência de um povo, além de conhecimentos ocultos sobre a Magia.
+O modo de vida oprimido do povo do subterrâneo acabou criando uma identidade religiosa bastante caótica entre os Povos do Subterrâneo, o que inclui a veneração de Divindades cruéis como **Ludélia**, **Xenosh** e até mesmo **Alastor**! Muitas das divindades foram adoradas em momentos de necessidade, onde o ímpeto pela sobrevivência, a força e a resiliência de um povo era a única moeda que importava. Por outro lado, a adoração dessas figuras sombrias também aproximou o povo do subterrâneo à práticas duvidosas da Magia.
 
-A afinidade de Herodus com o Povo do Subterrâneo é que este teria nascido e vivido muitos anos em um ambiente montanhoso, tendo esse também contribuído de alguma forma para a exploração das grandes Grutas, onde muitos reinos estão localizados.
+A afinidade de **Alastor** com o Povo do Subterrâneo é que este teria nascido e vivido muitos anos em um ambiente montanhoso, tendo esse também contribuído de alguma forma para a exploração das grandes Grutas, onde muitos reinos estão localizados.
 
-Já Xenosh é um Deus Etéreo, sendo representado como uma Ardoq gigante, guardiã do Elemento Ácido, e que tem uma conotação mais cultista. A explicação da afinidade à veneração de Ardoq está explicada nos minérios e liquores encontrados nas Grutas profundas, onde diversos tipos de Toxinas e Venenos permitiram o desenvolvimento da `Alquimia Mineral`.
-Essa Alquimia foi responsável pela criação exclusiva de diversos compostos, extraídos apenas nos minerais e rochas subterrâneos, e que podem aumentar ou danificar de várias formas a resiliência ou poder de um usuário.
+Já **Xenosh** é um Deus Etéreo, sendo representado como uma **Ardoq** gigante, guardiã do Elemento Ácido, e que tem uma conotação mais cultista. A explicação da afinidade à veneração de Ardoq está explicada nos minérios e liquores encontrados nas Grutas profundas, onde diversos tipos de Toxinas e Venenos permitiram o desenvolvimento da `Alquimia Ácida`.
+A Alquimia do subterrâneo se popularizou pelo resto do mundo, devido as condições exclusivas de temperatura para preparação de certos **frascos mágicos** que só podem ser criados nas grutas mais profundas da terra.
 
 ## Tradições
 

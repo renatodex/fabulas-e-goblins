@@ -85,23 +85,23 @@ As Culturas disponíveis são:
         </tr>
        <tr>
             <td>Filhos das Ilhas</td>
-            <td>Espiritismo, Misticismo, Conexão</td>
+            <td>Ocultismo, Espiritismo, Misticismo, Conexão</td>
             <td>Trajes tribais, Mantos rúnicos e muitos adereços</td>
-            <td>Ogoron, Herodus, Dinímia</td>
+            <td>Azarog, Herodus, Dinímia</td>
             <td>Espírito +1, Elo Mágico +1,Sobrevivência +1, P.M +4</td>
         </tr>
        <tr>
             <td>Filhos do Subterrâneo</td>
             <td>Proteção, Forja, União</td>
             <td>Trajes metálicos e de couro com muitas camadas</td>
-            <td>Herodus, Xenosh, Icaron</td>
+            <td>Alastor, Xenosh, Ludélia</td>
             <td>P.V +5, Pontos de Defesa +1, Pontos de Ataque +1, Resiliência +1</td>
         </tr>
         <tr>
             <td>Filhos da Tempestade</td>
             <td>Doutrina, Religião, Ordem</td>
             <td>Túnicas elegantes, capuzes e adereços religiosos</td>
-            <td>Quaemanir, Dzeranir, Ysanar</td>
+            <td>Quaemanir, Heliodes, Ysanar</td>
             <td>Destino +1, Influência +1, Espírito +1</td>
         </tr>
         <tr>
