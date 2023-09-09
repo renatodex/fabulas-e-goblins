@@ -57,13 +57,15 @@ import letal_shot from './../../data/spells/spells-kanus/ultimates/letal_shot.js
 
 ![Os Adeptos de Kanus são caçadores letrados na arte da sobrevivência e da caça...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C20e7b68e-e4ab-49e2-9cd1-8240cd9be936.png)
 
-A Guilda de Kanus é conhecida por formar exímios sobreviventes letrados na arte da Caça. Diversos Eremitas e Viajantes distantes procuram a Guilda todos os dias para buscar aprender os conhecimentos necessários para se viver e viajar pelo mundo de forma independente e segura.
+Os Kanurianos são poderosos caçadores especializados em sobrevivência. Seu conhecimento sobre a natureza e sobre criaturas é inestimável, o que os torna aliados formidáveis em qualquer aventura.
 
-Além disso, a ajuda dos **Adeptos de Kanus** são sempre bem vistas em Reinos civilizados, oferecendo prêmios em `Temirs` para os **Adeptos** que completarem contratos de Caça estabelecidos pela Guilda.
-Os contratos podem ser obtidos por **Adeptos** viajando por Reinos onde a Guilda é ativa.
+O arco e adaga são seus companheiros fiéis, e não há sequer uma situação em que um Caçador de Kanus não possa improvisar e escapar ileso (ou o mais próximo disso)
 
-Para aqueles que iniciam o treinamento básico na **Guilda de Kanus**, é entregue para cada **Adepto** o artefato imbuído de essência Mágica conhecido como `Olho de Kanus`.<br/>
-O Artefato possui conhecimentos de Caça específicos que vão sendo revelados ao Adepto conforme sua afinidade com a arte da Caça se aprimora.
+Cada Caçador possui um **Olho de Kanus**, um artefato mágico fornecido pela **Guilda dos Caçadores** (ou Guilda de Kanus), que permite que esses guerreiros canalizem a magia para potencializar seus ataques.
+
+A Guilda é uma organização influente e poderosa, conectando Caçadores pelo mundo todo, e oferecendo **Caçadas** para que sejam recompensados com `Temirs` caso derrotem a criatura.
+
+Os **Adeptos de Kanus**, como também são chamados, são sempre bem vistos e muito requisitados em Reinos civilizados, sempre em busca de contratos e conhecimento para melhorarem suas técnicas de combate.
 
 ## Criando um Adepto de Kanus
 
@@ -71,9 +73,9 @@ Ao escolher esse caminho, existem algumas coisas que você precisa saber:
 
 ### 1. Contratos de Caça
 
-Uma das grandes vantagens de ser um **Adepto de Kanus** é que vocÊ estará naturalmente habilitado a obter **Contratos de Caça** nas diversas filiais da **Guilda de Kanus** espalhadas pelo mundo. **Contratos de Caça** ficam reservados a você, mas expiram após um determinado prazo estabelecido.
+Uma das grandes vantagens de ser um **Caçador de Kanus** é que você poderá obter **Contratos de Caça** nas diversas **Guildas de Caçadores** espalhadas pelo mundo. **Contratos de Caça** ficam reservados a você, mas expiram após um determinado prazo estabelecido.
 
-Cada **Adepto** pode possuir até 3 contratos de Caça em seu nome, sendo que cada contrato especifica suas condições de tempo e outros detalhes que podem variar de local para local.
+Cada **Caçador** pode possuir até 3 contratos de Caça em seu nome, sendo que cada contrato especifica suas condições de tempo e outros detalhes que podem variar de local para local.
 
 ### 2. Escolher seus Poderes Iniciais
 
@@ -227,17 +229,15 @@ Ao utilizar o **Olho de Kanus**, você terá a sua disposição um arsenal de ha
 
 O estilo de Kanus prioriza um combate ágil, preciso e letal, mas também possui grande flexibilidade para se adaptar a condições de terreno, e utilizar o ambiente para maximar a letalidade de seus ataques.
 
-## Origem do Olho de Kanus
+## Origem do Grimo
 
-A **Guilda de Kanus** nasceu como uma necessidade emergente de lidar com evento do Blecaute.<br/>
-Quando a Magia cessou entre os Goblins e outras espécies, as criaturas selvagens perceberam naturalmente uma brecha, uma oportunidade única para recuperar os territórios que foram tomados pelas Civilizações, mas que antes pertenciam a eles.
+Dizem que o **Olho de Kanus** teria sido forjado à partir dos conhecimentos de combate do lendário **Avérnico Joromur**.
 
-Então, diversos ataques começaram a ocorrer em reinos considerados populosos e seguros, pois muitos dos Domos de Proteção que antes eram sustentados por magia cairam, e o poderio mágico dos grandes Arcanistas não era mais suficiente para proteger os contornos das cidades contra as diversas e constantes ondas de invasão, que a cada semana se intensificavam.
+Essa lenda Avernicista conta que **Joromur** e seu **Baguar**, ao final de sua vida, teriam viajado para o **Templo dos Mestres-Elo do Norte**, para criar um artefato que concentraria todo seu conhecimento de vida, para que um dia pudesse ser entregue ao mundo como um presente.
 
-E foi com o enfraquecimento das defesas cidades, que um grupo de indivíduos treinados e inicialmente liderados pelo Célebre Caçador `Duric Abarde`, começaram a tomar a ofensiva, e caçar as **Criaturas Alfa** antes mesmo que elas pudessem organizar ataques as cidades.
-`Duric` teria herdado o primeiro Grimo, **Olho de Kanus** de seu Tataravó `Kanus Abarde`, e teria sido a partir da iniciativa de `Duric` que os `Mestres-Elos` começaram a forjar o Grimo em grande escala, para auxiliar seus aliados na difícil batalha contra as criaturas selvagens.
+Nem mesmo os Caçadores ancestrais sabem confirmar, mas alguns acreditam que o artefato de Joromur poderia ter dado origem ao **Olho de Kanus**.
 
-Foi apenas após diversas incursões bem sucedidas que `Duric` e seus aliados decidiram fundar a `Guilda de Kanus`, uma homenagem ao seu Tataravô, cujas estatuas e bustos estão sempre dispostas nas filiais da Guilda. Com o tempo, os Mestres-Elos replicaram o `Olho de Kanus` para os Adeptos da Guilda, e o conhecimento para utilizar o `Grimo` foi assim transferido para seus aprendizes, criando uma forte comunidade de Caçadores que quase 1 milênio depois ainda é responsável pela proteção de diversos Reinos nas Terras Místicas.
+Foi apenas séculos depois do Blecaute que **Kanus Abarde**, o fundador da **Guilda de Kanus**, teria utilizado uma misteriosa pedra mágica para potencializar técnicas de arquearia com magia. Anos depois, **Kanus** teria se juntado ao **Mestre-Elo Duric** para criar replicas do artefato, o que teria popularizado a Guilda dos Caçadores pelo mundo.
 
 ## Armas Iniciais
 
