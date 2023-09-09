@@ -45,7 +45,7 @@ import tracker_mark from './../../data/spells/spells-kanus/tier3/tracker_mark.js
 import joromur_golden_arrow from './../../data/spells/spells-kanus/tier4/joromur_golden_arrow.json'
 import double_attack from './../../data/spells/spells-kanus/tier4/double_attack.json'
 import arrow_storm from './../../data/spells/spells-kanus/tier4/arrow_storm.json'
-import avatar_companion from './../../data/spells/spells-kanus/tier4/avatar_companion.json'
+import kaiju from './../../data/spells/spells-kanus/tier4/kaiju.json'
 import animal_sync from './../../data/spells/spells-kanus/tier4/animal_sync.json'
 import kanus_mark from './../../data/spells/spells-kanus/tier4/kanus_mark.json'
 import predators_eco from './../../data/spells/spells-kanus/tier4/predators_eco.json'
@@ -316,7 +316,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
-<SpellFromJson expanded={false} spellData={avatar_companion} />
+<SpellFromJson expanded={false} spellData={kaiju} />
 <SpellFromJson expanded={false} spellData={arrow_storm} />
 <SpellFromJson expanded={false} spellData={master_hunter} />
 <SpellFromJson expanded={false} spellData={judgment_arrow} />
