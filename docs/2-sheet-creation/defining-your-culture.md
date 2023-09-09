@@ -74,7 +74,7 @@ As Culturas disponíveis são:
             <td>Exploração, Adaptação, Disciplina</td>
             <td>Trajes Leves e Quentes, Tecidos a base de Algodão e Couro especiais para baixas temperaturas</td>
             <td>Ehphyros, Valis, Estiros</td>
-            <td>Agilidade +1, Influência +1, Resiliência +1, Iniciativa +2</td>
+            <td>Agilidade +1, Influência +1, Resiliência +1, Iniciativa +1</td>
         </tr>
          <tr>
             <td>Filhos das Arcádia</td>
@@ -108,7 +108,7 @@ As Culturas disponíveis são:
             <td>Filhos do Povo Livre</td>
             <td>Agricultura, Comércio, Fronteiras</td>
             <td>Trajes típico de viajantes, com muitas aberturas e bolsos</td>
-            <td>Somonir, Joromur, Aypheria</td>
+            <td>Ogoron, Joromur, Aypheria</td>
             <td>Influência +1, Agilidade +1, Pontos de Ataque +1</td>
         </tr>
         <tr>
