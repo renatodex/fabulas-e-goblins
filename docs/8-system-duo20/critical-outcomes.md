@@ -1,7 +1,7 @@
 ---
 id: critical-outcomes
 title: Triunfos e Desastres
-slug: /8-system-2d20/critical-outcomes
+slug: /8-system-duo20/critical-outcomes
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccf94b240-1dce-4de1-9b46-e8602cb202b5.jpg
 ---
 
@@ -9,7 +9,7 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ccf9
 
 Ao rolar dados de 20 Faces, existem **dois números especiais** que são considerados como resultados críticos:
 
-No **Sistema 2d20**, Triunfos e Desastres são bastante comuns, e acontecem a uma chance de **aproximadamente 20%** por rolagem. (Sendo 10% de **Triunfos** e 10% de **Desastres**).
+No **Sistema Duo20**, Triunfos e Desastres são bastante comuns, e acontecem a uma chance de **aproximadamente 20%** por rolagem. (Sendo 10% de **Triunfos** e 10% de **Desastres**).
 
 Portanto, é importante **relevar a intensidade** desses resultados, para evitar que o jogo fique **muito apelativo**.
 

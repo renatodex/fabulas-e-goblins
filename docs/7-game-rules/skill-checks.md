@@ -20,10 +20,10 @@ Sempre que realizar ações assim, você deverá somar **o valor do seu atributo
 Dizemos que essas ações são **imediatas**, pois assim que o jogador **rola o dado** de forma aberta, o Narrador pode imediatamente dizer a ele se sua ação foi bem sucedida ou não.
 
 Também incentivamos que a maioria das rolagens seja realizada dessa forma, pois isso traz transparência e previsibilidade ao jogo.
-
+Epic20
 ## Como realizar um teste?
 
-Seguindo as regras do [Sistema 2d20](/docs/8-system-2d20/system-introduction), para passar em um teste você deve rolar 2 (dois) d20, e então escolher o maior resultado (exceto em caso de **Desastre**),
+Seguindo as regras do [Sistema Duo20](/docs/8-system-duo20/system-introduction), para passar em um teste você deve rolar 2 (dois) d20, e então escolher o maior resultado (exceto em caso de **Desastre**),
 
 Para saber se passou no teste, você **deverá rolar o dado** e **comparar** o resultado com a **tabela abaixo**. Dependendo do **tipo da rolagem**, sua ação será caracterizada de uma **forma diferente**. Falaremos também de cada um desses resultados:
 
