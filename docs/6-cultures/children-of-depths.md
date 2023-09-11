@@ -5,9 +5,9 @@ slug: /6-cultures/children-of-depths
 ---
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
-import FatigueImmunity from './../../data/spells/spells/fatigue_immunity.json'
-import SeaMagic from './../../data/spells/spells/sea_magic.json'
-import AquaShell from './../../data/spells/spells/aqua_shell.json'
+import whistle_shoal from './../../data/spells/spells/whistle_shoal.json'
+import sea_magic from './../../data/spells/spells/sea_magic.json'
+import aqua_shell from './../../data/spells/spells/aqua_shell.json'
 
 Enquanto as Espécies da superfície batizaram o extenso mar das Terras Místicas como Caldera, para os povos dessa cultura, ele é muito mais que um mero impecílio de transporte.<br/>
 Batizado pelos antigos **Valdari** como o Mar de **Timeria**, ele representa todo o território dos oceanos submersos (não se engane, pois existem Oceanos suspensos!). Por esse motivo, é muito comum se referir ao Povo Submerso como Timerianos.
@@ -36,34 +36,13 @@ O couro da `Alga Garbalena` é frequentemente utilizado para construção de Tra
 
 Na parte de adereços, o `Arbum` (ou Tinta de `Blob`), é frequentemente usada para tatuagens corporais que simbolizam o orgulho aos Reinos Submersos, além das **Runas Tatúnicas** (forjadas pelos Bruxos de `Pomedon`), que se fundem aos corpos do `Timeriano` como uma marca corporal, e que concedem bençãos permanentes até que seja desequipadas.
 
-## A Fatiga do Fôlego
+## Nota sobre Conjuração Mágica
 
-Um **Goblin** ou **Armadon** nascidos em `Timéria` não são fisicamente diferente de um **Goblin** ou **Armadon** `Terrano`. Porém, há uma característica anatômica importante.
+Magias de **Fogo** podem ser conjuradas normalmente em `Timéria`, a única diferença é que seu efeito luminoso não é tão intenso como no meio terrestre, e sua textura costuma ser mais "gelatinosa".
 
-Quando um `Terrano` desce aos reinos Submersos, ele pode utilizar equipamentos próprios para respirar no Oceano, ou pode ser envolto por uma `Magia de Contenção` (`Aquashell`), muito segura e frequentemente utilizada.
+Além disso, em `Timéria`, o elemento `Ar` não existe como um Elemento Mecânico, além de tecnicamente não haverem criaturas do tipo `Ar`. Itens ou Magias que aplicam efeitos ou dano baseados no elemento `Ar` podem ser utilizados normalmente, mas seus efeitos elementais são substituidos mecanicamente pelo elemento `Água`.
 
-A `Aquashell` permite ao terrano respirar normalmente abaixo D'agua, por tempo indeterminado até que ela seja removida pelo conjurador.<br/>
-Então teoricamente, os Reinos de Timéria podem ser visitados normalmente por `Terranos`, com uma única ressalva:
-
-Sempre que um `Terrano` faz um **Descanço Prolongado** nos Oceanos salgados de Timéria, ele recebe uma carga de `Fatiga de Fôlego`. Esse efeito reduz de forma temporária **-2 P.V** do `Terrano`.<br/>
-Se um `Terrano` passar 3 dias abaixo d'agua, ele receberá 3 cargas de `Fatiga de Fôlego`, reduzindo seus P.V totais em **-6 P.V**.
-
-O efeito negativo apenas será removido se o `Terrano` retornar a Terra e passar lá fora o mesmo tempo que passou dentro do Oceano.<br/>
-Em outras palavras mais mecânicas, a cada **Descanço Prolongado** que o `Terrano` tiver em terra firme, ele recuperará 1 (uma) carga de `Fatiga do Fôlego`, o equivalente a `+2 P.V`.
-
-A diferença entre `Terranos` e `Timerianos`, é que os `Timerianos` nativos não são afetados pela `Fatiga de Fôlego`.
-
-A única excessão se aplica a Espécie `Valdari`, que não precisa de uma Mágica para respirar dentro dágua, pois é uma espécie Híbrida, mas ainda é afetada pela `Fatiga de Fôlego`, a menos que também tenha a cultura `Filhos de Timéria`.
-
-## Conjuração Mágica
-
-Para um `Terrano`, conjurar Magia em `Timéria` pode ser ligeiramente mais difícil.
-Enquanto um `Timeriano` pode utilizar seu `Grimo` normalmente, a conjuração Mágica para os `Terranos` possui um Custo adicional base de **+2 P.M**.<br/>
-Outros poderes podem especificar um custo pré-definido para ser conjurado dentro D'água.
-
-Além disso, mesmo Elementos normalmente opostos como o **Fogo** podem ser conjurados normalmente em `Timéria`, a única diferença é que seu efeito luminoso não é tão intenso como na Terra, e sua textura costuma ser mais "gelatinosa".
-
-Em `Timéria`, o elemento `Ar` não existe como um Elemento Mecânico, além de não haverem criaturas do tipo `Ar`. Itens ou Magias que aplicam efeitos ou dano baseados no elemento `Ar` podem ser utilizados normalmente, mas seus efeitos elementais são substituidos mecanicamente pelo elemento `Água`.
+De qualquer forma, diferente de outras culturas, os **Timerianos** possuem uma facilidade enorme em conjurar magias de `Agua` ou de `Ar`.
 
 ## Criando um Filho de Timéria
 
@@ -83,6 +62,6 @@ Ao escolher essa cultura, você receberá os seguintes Bônus:
 
 ## Habilidades
 
-<SpellFromJson spellData={FatigueImmunity} />
-<SpellFromJson spellData={SeaMagic} />
-<SpellFromJson spellData={AquaShell} />
+<SpellFromJson spellData={whistle_shoal} />
+<SpellFromJson spellData={sea_magic} />
+<SpellFromJson spellData={aqua_shell} />

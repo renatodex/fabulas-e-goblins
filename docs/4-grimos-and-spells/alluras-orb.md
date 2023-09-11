@@ -200,10 +200,10 @@ As descobertas de **Drako** no primeiro Século após o Blecaute teriam salvo se
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   |
-| ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C176956f9-2502-452c-963e-181799550369.png" width="80" /> | Orbe do Iniciante + 0 | Mágico | D4 + 4 | Orbe inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas | Elo Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc8623aa6-2402-42d2-8633-faa7bd679ddd.png" width="80" /> | Cetro do Iniciante + 0 | Físico | D6 + 4 | Cetro inicial do Aventureiro, ataque corpo-a-corpo. | 3 Cargas | Intelecto |
+| Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   | Tipo de Arma |
+| ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- | -- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C176956f9-2502-452c-963e-181799550369.png" width="80" /> | Orbe do Iniciante + 0 | Mágico | D4 + 4 | Orbe inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas | Elo Mágico | Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc8623aa6-2402-42d2-8633-faa7bd679ddd.png" width="80" /> | Cetro do Iniciante + 0 | Físico | D6 + 4 | Cetro inicial do Aventureiro, ataque corpo-a-corpo. | 3 Cargas | Intelecto | Contusivo |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 

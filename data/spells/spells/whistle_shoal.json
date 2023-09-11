@@ -1,0 +1,15 @@
+{
+  "name": "Silvo de Cardumes",
+  "magic_cost": null,
+  "duration_time": null,
+  "attack_logic": null,
+  "action_type": "Reação",
+  "cast_distance": null,
+  "range_amount": null,
+  "range_type": null,
+  "icon": "GiAtSea",
+  "element": null,
+  "caption": "Com um assobio inaudível, você atrai um cardume próximo para auxiliá-lo de formas diversas.",
+  "description": "<p>Em ambiente submerso, e a qualquer momento, faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido</b>, você assobia, atraíndo um cardume de peixes nas proximidades.</p><p>Por alguns instantes, você pode comandar o Cardume de peixes para:<ul><li>Atravessar o espaço de um alvo de <b>tamanho padrão</b>, causando <code>Desorientar T=1</code>.</li><li>Atrair o cardume à sua posição, criando uma barreira que concede <b>Vantagem</b> ao se defender de <b>ataques físicos ou mágicos</b>.</li><li>Criar uma corrente de água que concede <code>+3 de Movimento</code> a um alvo a sua escolha até o final do próximo turno dele.</li></ul></p><p>O <b>Silvo de Cardumes</b> só pode ser usado <b>uma vez por combate</b>.</p>",
+  "tags": ["cultural", "children-of-depths"]
+}

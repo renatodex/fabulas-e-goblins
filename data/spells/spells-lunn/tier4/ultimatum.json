@@ -1,6 +1,6 @@
 {
   "name": "Ultimatum",
-  "magic_cost": "40 P.M",
+  "magic_cost": "100% P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Ativa",

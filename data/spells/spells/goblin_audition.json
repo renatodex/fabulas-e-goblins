@@ -10,6 +10,6 @@
   "icon": "GiElfEar",
   "element": null,
   "caption": "Suas enormes orelhas conseguem perceber até mesmo pequenas variações sonoras no ar, vibrando em reação ao som em sinal de alerta.",
-  "description": "Como uma ação de percepção, você pode sentir pequenos cuídos ou barulhos no ar, que seriam imperceptíveis para outros Indivíduos.<br/><p´>Essa habilidade é praticamente sensorial para os Goblins, de forma similar à Geolocalização dos Armadons.</p><p>Contudo, por não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes sonoras podem facilmente confundir a precisão dos sentidos de um Goblin.</p>",
+  "description": "<p>Ao ser <b>bem sucedido</b> em uma <b>Ação de Perícia</b> do atributo <b>Agilidade</b>, você pode sentir <b>pequenos ruídos</b> ou barulhos no ar, que seriam imperceptíveis para outros indivíduos.</p><p>Essa habilidade é praticamente sensorial para os Goblins, de forma similar à Geolocalização dos Armadons.</p><p>Contudo, por não controlarem precisamente essa percepção sensorial (pelo menos não sem treinamento especializado), fontes sonoras podem facilmente confundir a precisão dos sentidos de um Goblin.</p>",
   "tags": ["racial", "goblin"]
 }

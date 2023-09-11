@@ -1,15 +1,15 @@
 {
-    "name": "Nadar",
+    "name": "Ecoreação",
     "magic_cost": null,
     "duration_time": null,
     "attack_logic": null,
-    "action_type": "Ativa",
+    "action_type": "Passiva",
     "cast_distance": null,
     "range_amount": null,
     "range_type": null,
     "icon": "GiBubbles",
     "element": null,
-    "caption": "Devido as suas características evolutivas, os Valdari foram adaptados para se locomover rapidamente no ambiente submerso, sendo capazes de se movimentar de forma muito mais veloz.",
-    "description": "Valdari gastar duas ações (Movimento e Ataque) para realizar a Ação Nadar.<br />Quando estiverem utilizando essa ação, além de poder realizar duas ações de movimento, receberão um bônus de +3 de movimento.",
+    "caption": "Valdaris são adaptados ao ambiente aquático, e por isso podem perceber ameaças a dezenas de metros de distância.",
+    "description": "<p>Valdaris podem perceber presenças se movimentando no oceano aberto em um raio de até <code>15 espaços</code> em todas as direções.</p><p>Por isso, são imunes a emboscadas em campos abertos, e podem inclusive detectar quais tipos de inimigos estão se aproximando.</p>",
     "tags": ["racial", "valdari"]
 }

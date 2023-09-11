@@ -1,6 +1,6 @@
 {
   "name": "Banimento Supremo",
-  "magic_cost": "15 P.M",
+  "magic_cost": "100% P.M",
   "duration_time": "3",
   "attack_logic": "Mágico",
   "action_type": "Ativa",

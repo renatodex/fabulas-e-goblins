@@ -10,6 +10,6 @@
     "icon": "GiSwimfins",
     "element": null,
     "caption": "Enquanto outras Espécies podem sentir uma pequena dificuldade para se locomover no mundo submerso, Valdari são habitantes natos deste mundo, se movendo normalmente como se estivessem andando sobre a terra.",
-    "description": "Outras espécies recebem -1 de penalidade ao se locomover dentro da água. Valdari ignoram essa penalidade, podendo se locomover normalmente.",
+    "description": "Valdaris podem realizar <b>2 Ações de Movimento</b> ao combater em ambiente submerso.",
     "tags": ["racial", "valdari"]
 }

@@ -6,6 +6,7 @@ slug: /4-grimos-and-spells/introduction
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
 import healing_touch from './../../data/spells/spells-lunn/tier1/healing_touch.json'
+import letal_shot from './../../data/spells/spells-kanus/ultimates/letal_shot.json'
 
 ![grimos-mesa2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C71a4558e-2a88-4451-a90f-a13874de2ab1.jpg)
 
@@ -52,3 +53,15 @@ Logo, se o nosso **Adepto de Lunn** quiser usar **Toque de Cura** no **GRAU 4**,
 </div>
 
 Caso nosso **Adepto de Lunn** não possua Magia suficiente para conjurar um **Toque de Cura GRAU 4**, ele poderá escolher gastar menos magia, e curar menos, utilizando um **Toque de Cura GRAU 3** ou inferior.
+
+# Usando poderes especiais
+
+Todos os personagens começam o jogo com 1 poder especial do seu Grimo.
+Esse poder por padrão só pode ser usado uma vez a cada descanso, e vêm sinalizado de forma diferenciada no Grimo.
+
+Vamos pegar como exemplo o **Disparo Letal**, do **Grimo de Kanus**:
+
+<SpellFromJson expanded={false} spellData={letal_shot} />
+
+Repare que este poder possui um **Custo de 8 P.M**.
+Isso significa que esse poder especial possui custo diferenciado baseado no Grau do seu Grimo:
