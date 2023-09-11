@@ -1,6 +1,6 @@
 {
   "name": "Armagni",
-  "magic_cost": "40 P.M",
+  "magic_cost": "25 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiRobotGolem",
   "element": null,
   "caption": "Todos os Magnis se juntam ao corpo de um alvo, formando uma poderosa armadura que fornece capacidades físicas incríveis.",
-  "description": "<p>Não requer testes. Exige a <b>quantidade máxima</b> de <b>Magnis ativos</b> que você pode ter.</p><p>Escolha <b>1 (um) alvo</b>.</p><p>Todos os Magnis se sacrificam para formar uma <b>poderosa armadura</b> em volta desse alvo. A Armadura fornece ao alvo uma amplificação de suas capacidades físicas, incluíndo:</p><ul><li><code>+5 Pontos de Movimento</code> adicionais.</li><li><code>8d12 P.V</code> de dano físico adicional para ataques desarmado.</li><li>Capacidade de saltar/alcançar obstáculos a até <code>8 metros</code> de altura.</li><li>Respiração submersa e <code>remoção da penalidade de movimento submersa</code>.</li><li><code>+2 Pontos de Força</code> temporários enquanto estiver com a armadura.</li><li>Imunidade a <code>Derrubar</code>, <code>Empurrar</code> e <code>Queimar</code></li><li>Magias do elemento fogo causam <code>metade do dano</code>.</li><li><code>+8 Pontos de Defesa</code> física. <i>(somados à sua própria Defesa Física)</i></li></ul><p>O alvo que recebe a armadura também passa a ser do tipo <code>Constructo</code>.</p><p>A armadura tem duração de um combate e também é destruída após receber <code>100 P.V</code> de dano. <i>(Os pontos de vida oriundos da força extra fornecida pela armadura já estão calculados dentro desses 100 P.V)</i></p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>. Exige a <b>quantidade máxima</b> de <b>Magnis ativos</b> que você pode ter.</p><p>Escolha <b>1 (um) alvo</b>.</p><p>Todos os Magnis se sacrificam para formar uma <b>poderosa armadura</b> em volta desse alvo. A Armadura fornece ao alvo uma amplificação de suas capacidades físicas, incluíndo:</p><ul><li><code>+5 Pontos de Movimento</code> adicionais.</li><li><code>8d12 P.V</code> de dano físico adicional para ataques desarmado.</li><li>Capacidade de saltar/alcançar obstáculos a até <code>8 metros</code> de altura.</li><li>Respiração submersa e <code>remoção da penalidade de movimento submersa</code>.</li><li><code>+2 Pontos de Força</code> temporários enquanto estiver com a armadura.</li><li>Imunidade a <code>Derrubar</code>, <code>Empurrar</code> e <code>Queimar</code></li><li>Magias do elemento fogo causam <code>metade do dano</code>.</li><li><code>+8 Pontos de Defesa</code> física. <i>(somados à sua própria Defesa Física)</i></li></ul><p>O alvo que recebe a armadura também passa a ser do tipo <code>Constructo</code>.</p><p>A armadura tem duração de um combate e também é destruída após receber <code>100 P.V</code> de dano. <i>(Os pontos de vida oriundos da força extra fornecida pela armadura já estão calculados dentro desses 100 P.V)</i></p>",
   "tags": ["grimo","nomegrimooumonstro"]
 }

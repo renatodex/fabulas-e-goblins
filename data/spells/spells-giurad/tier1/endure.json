@@ -10,6 +10,6 @@
   "icon": "GiAura",
   "element": null,
   "caption": "Uma aura de proteção amarelada parece emanar de seu Grimo, cobrindo o seu corpo e fornecendo proteção contra os ataques inimigos.",
-  "description": "<p><b>Não exige testes.</b></p><p>Conjura uma <b>aura</b> que afeta apenas o seu personagem e <b>confere uma redução</b> de <code>8 * TIER</code> pontos de dano no <b>próximo ataque físico de um inimigo</b>.</p><p>Após receber <b>dano físico</b>, a aura é dispersa automaticamente.</p><p>Endurecer pode ser usado como uma <b>Ação Livre</b> antes do seu ataque.</p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Resiliência</b> para ser conjurada.</p><p>Conjura uma <b>aura</b> que afeta apenas o seu personagem e <b>confere uma redução</b> de <code>8 * TIER</code> pontos de dano no <b>próximo ataque físico de um inimigo</b>.</p><p>Após receber <b>dano físico</b>, a aura é dispersa automaticamente.</p><p>Endurecer pode ser usado como uma <b>Ação Livre</b> antes do seu ataque.</p>",
   "tags": ["grimo", "giurad"]
 }

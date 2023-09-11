@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/qatuns-illusion
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C382483ac-5970-4beb-a518-cc4f4f5b4509.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import alter_face from './../../data/spells/spells-qatun/tier1/alter_face.json'

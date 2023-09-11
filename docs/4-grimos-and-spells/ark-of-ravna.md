@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/ark-of-ravna
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ceae0b53c-a0bf-4f9a-bfb3-a0fceb6a3471.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import savage_connection from './../../data/spells/spells-ravna/ultimates/savage_connection.json'
@@ -225,7 +227,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={savage_connection} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
 
 <SpellFromJson expanded={false} spellData={bloom} />
 <SpellFromJson expanded={false} spellData={bison_strength} />
@@ -240,7 +242,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={prickly_instance} />
 <SpellFromJson expanded={false} spellData={eye_of_the_beast} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
 
 <SpellFromJson expanded={false} spellData={bone_shield} />
 <SpellFromJson expanded={false} spellData={controlled_discharge} />
@@ -253,7 +255,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={leech} />
 <SpellFromJson expanded={false} spellData={ear_of_the_beast} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
 
 <SpellFromJson expanded={false} spellData={blood_bound} />
 <SpellFromJson expanded={false} spellData={maddening_pulse} />
@@ -266,7 +268,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={savage_jump} />
 <SpellFromJson expanded={false} spellData={short_circuit} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={4} />
 
 <SpellFromJson expanded={false} spellData={command_the_beast} />
 <SpellFromJson expanded={false} spellData={instigate_beast} />

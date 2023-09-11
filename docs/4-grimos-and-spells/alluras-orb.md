@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/alluras-orb
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C8548fbf5-72f8-43bd-b97f-dc516719a265.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import alluras_torment from './../../data/spells/spells-allura/ultimates/alluras_torment.json'
@@ -224,7 +226,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={alluras_torment} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={3} />
 
 <SpellFromJson expanded={false} spellData={apprentice_blast} />
 <SpellFromJson expanded={false} spellData={arcane_amplification} />
@@ -239,7 +241,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={prelemental_explosion} />
 <SpellFromJson expanded={false} spellData={read_element} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -254,7 +256,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={prelemental_explosion_2} />
 <SpellFromJson expanded={false} spellData={read_element_2} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -269,7 +271,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={spiral} />
 <SpellFromJson expanded={false} spellData={upgrade_skill} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

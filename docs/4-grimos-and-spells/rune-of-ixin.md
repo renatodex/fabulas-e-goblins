@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/rune-of-ixin
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import absorv_energy from './../../data/spells/spells-ixin/tier1/absorv_energy.json'

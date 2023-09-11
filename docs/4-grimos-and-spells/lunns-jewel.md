@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/lunns-jewel
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cec64c19f-1952-4ee1-a992-750c8c36014c.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import lunns_echo from './../../data/spells/spells-lunn/ultimates/lunns_echo.json'
@@ -149,7 +151,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={lunns_echo} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={3} />
 
 Essas são as habilidades iniciais do Grimo de Lunn. Normalmente, um Sacerdote inicial seleciona duas dessas habilidades para compor sua build inicial.
 
@@ -166,7 +168,7 @@ Essas são as habilidades iniciais do Grimo de Lunn. Normalmente, um Sacerdote i
 <SpellFromJson expanded={false} spellData={healer_vitality} />
 <SpellFromJson expanded={false} spellData={magical_blessing} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -181,7 +183,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={lunns_communion} />
 <SpellFromJson expanded={false} spellData={chosens_miracle} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={3} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -196,7 +198,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={powerful_pray} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={6} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

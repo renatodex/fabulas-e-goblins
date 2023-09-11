@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/flask-of-zanari
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd1228abf-a02d-4b6d-8a35-ebc7663ad446.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import realm_of_shadow from './../../data/spells/spells-zanari/ultimates/realm_of_shadow.json'
@@ -147,7 +149,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={realm_of_shadow} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={1} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
@@ -164,7 +166,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={thirsty_instance} />
 <SpellFromJson expanded={false} spellData={venomous_blade} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={1} downCost={1} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -179,7 +181,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={suffocate} />
 <SpellFromJson expanded={false} spellData={summon_sombrizir} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={1} downCost={1} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -194,7 +196,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={exploit_poisoned} />
 <SpellFromJson expanded={false} spellData={poison} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

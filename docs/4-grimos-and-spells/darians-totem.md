@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/darians-totem
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbc4cda2-fe19-4913-a4ee-90ef7780d68a.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import acclaim_souls from './../../data/spells/spells-darian/ultimates/acclaim_souls.json'
@@ -198,7 +200,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={acclaim_souls} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
@@ -215,7 +217,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={willowhisp_canon} />
 <SpellFromJson expanded={false} spellData={willowhisp_fire} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -230,7 +232,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={triple_ethereal_bound} />
 <SpellFromJson expanded={false} spellData={weapon_of_eternal_flame} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -245,7 +247,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={possession} />
 <SpellFromJson expanded={false} spellData={disembody} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={7} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

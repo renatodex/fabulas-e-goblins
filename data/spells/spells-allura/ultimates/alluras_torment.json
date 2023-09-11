@@ -1,6 +1,6 @@
 {
   "name": "Tormenta de Allura",
-  "magic_cost": "8 P.M",
+  "magic_cost": "6 P.M",
   "duration_time": "5",
   "attack_logic": "Mágico",
   "action_type": "Ativa",

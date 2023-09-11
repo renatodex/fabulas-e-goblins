@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/eye-of-kanus
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C20e7b68e-e4ab-49e2-9cd1-8240cd9be936.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import aim_week_point from './../../data/spells/spells-kanus/tier1/aim_week_point.json'
@@ -265,7 +267,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={letal_shot} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial seleciona duas dessas habilidades para compor sua build.
 
@@ -281,7 +283,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial 
 <SpellFromJson expanded={false} spellData={hunters_favor} />
 <SpellFromJson expanded={false} spellData={prepare_attack_insect} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -297,7 +299,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={sniper} />
 <SpellFromJson expanded={false} spellData={safe_camp} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -312,7 +314,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={solar_arrow} />
 <SpellFromJson expanded={false} spellData={ogoron_balista} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={3} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

@@ -10,6 +10,6 @@
   "icon": "GiHand",
   "element": null,
   "caption": "Emana a energia de Qatun para enaltecer as virtudes de um aliado.",
-  "description": "<p>Este poder não exige testes. Escolha um aliado.</p><p>Este poder <b>aumenta temporariamente um atributo</b> do alvo a sua escolha em <code>+2</code> até o fim do próximo turno do alvo. Se o atributo conceder P.V ou P.M adicionais, estes são adicionados como <b>pontos extras temporários</b>.</p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> de <b>Elo Mágico</b>. Escolha um aliado.</p><p>Este poder <b>aumenta temporariamente um atributo</b> do alvo a sua escolha em <code>+2</code> até o fim do próximo turno do alvo. Se o atributo conceder P.V ou P.M adicionais, estes são adicionados como <b>pontos extras temporários</b>.</p>",
   "tags": ["grimo","qatun"]
 }
