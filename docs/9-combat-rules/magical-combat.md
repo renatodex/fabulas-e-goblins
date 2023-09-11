@@ -323,11 +323,45 @@ Como a mudança foi apenas na formula, a regra se mantém igual, a única difere
 
 ## Errando Magias
 
-Se pensarmos tecnicamente, qualquer magia no jogo pode ser dividida em 2 momentos:
+Se pensarmos tecnicamente, qualquer magia no jogo pode ser dividida em 2 etapas:
 
-- Canalizar
-- Lançar
+- Canalizar a magia
+- Lançar a magia
 
-Canalizar é o ato de consumir seus **Pontos de Magia** para de fato materializar uma concentração mágica de qualquer natureza.Já Lançar é o ato de manipular aquela concentração de magia já concretizada, e direcioná-la aos alvos desejados.
+Canalizar é o ato de consumir seus **Pontos de Magia** para de fato materializar uma concentração mágica de qualquer natureza. Já Lançar é o ato de manipular aquela concentração já concretizada, e direcioná-la aos alvos desejados.
 
-Mas nas regras do nosso  Muitas vezes, mesmo rolando 2d20, você vai errar magias
+Vamos pegar como exemplo o poder **Rajada de Aprendiz** do Grimo de Allura:
+
+<SpellFromJson expanded={false} spellData={apprentice_blast} />
+<br/>
+Este poder é bastante simples. O personagem canaliza um projétil mágico elemental e o dispara em direção a um inimigo.
+
+Mas vamos supor que você siga as instruções do poder e faça uma rolagem contra a **Defesa Mágica** do inimigo, e então falhe nessa rolagem.
+
+Nesse caso, em qual etapa da conjuração você falhou? Na Canalização ou no Lançamento?
+
+A diferença entre essas duas situações é que na primeira, você nunca teria de fato **canalizado o poder**, e por isso nunca teria gasto seus **Pontos de Magia**. É como se você estivesse muito nervoso ou não se concentrasse corretamente para conjurar aquele poder.
+
+Já na segunda situação, você teria de fato materializado a **Rajada**, gastando seus **Pontos de Magia**, e falhando apenas no **lançamento dela**, possivelmente **errando o alvo**, ou até mesmo se o próprio alvo tivesse bloqueado ou absorvido o poder.
+
+Para o jogador, parece que a primeira opção é muito mais interessante certo? Afinal de contas, isso preservaria os seus **Pontos de Magia**, beneficiando-o mecanicamente.
+
+Mas qual é o certo? Abaixo sugerimos duas formas distintas na qual essa dinâmica possa se desenrolar. Nenhuma delas é certa ou errada, e vai depender do seu grupo de jogo como um todo definir o que é mais interessante.
+
+### A autonomia é do Narrador
+
+No caso da **Rajada do Aprendiz**, ela especificamente diz que você só conjura o projétil mágico **caso seja bem sucedido** no dado, mas por outro lado, sua rolagem não é uma **Ação de Perícia** que depende só das suas habilidades como Personagem, e sim uma **Ação de Desafio** contra a **Defesa Mágica** de um outro inimigo, o que por si só também deduz que o inimigo estaria "desviando" ou "absorvendo" um ataque que **já teria sido canalizado**.
+
+Sabemos que isso dá margem para interpretar um mesmo ataque de duas maneiras diferentes, e por isso, neste formato, o próprio Narrador pode decidir se a **canalização ocorreu ou não**.
+
+Dessa forma ele pode criar situações inusitadas onde inimigos estão constantemente se desviando de ataques, ou até situações onde por algum motivo os Personagens estão com dificuldades de canalizar a conexão de seus Grimos com seus **Elo Mágicos**. Cada uma dessas formas afetará o campo de batalha de forma única.
+
+### A autonomia é do Jogador
+
+Geralmente, uma grande maioria dos poderes mágicos assume que na ocasião de uma falha, é a **Canalização** do poder em sí que falhou, e não o seu **Lançamento**.
+
+Fazemos isso pois pensamos que seria mais interessante para o jogador preservar seus **Pontos de Vida** para evitar frustrações desnecessárias, afinal de contas, você **já está errando sua ação de ataque** e vai precisar esperar **todo mundo jogar** pra tentar novamente.
+
+Neste formato, o próprio jogador pode decidir se prefere narrar a falha no **lançamento do poder**, ou se prefera narrar a falha na **canalização do poder**, porque em alguns momentos pode ser interessante para você preservar seus **Pontos de Magia** naquele momento.
+
+Lembre-se que **falhar frequentemente** na **canalização** de um poder pode ser ruim para a **auto-estima** do seu personagem! (caso ele tenha uma)
