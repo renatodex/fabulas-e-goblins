@@ -14,7 +14,7 @@ O ataque com armas é uma das **ações mais comuns** de um combate. Seja uma es
 Nesta seção falaremos sobre dois tipos de Armas:
 
 1. O Ataque e Defesa com Armas físicas, ou seja, aquelas que causam **Dano Físico no oponente** e não dependem de magia para funcionar.
-2. O Ataque e Defesa com Armas mágicas, ou sseja, aquelas que causam **Dano Mágico no oponente** e dependem de alguma magia para funcionar.
+2. O Ataque e Defesa com Armas mágicas, ou seja, aquelas que causam **Dano Mágico no oponente** e dependem de alguma magia para funcionar.
 
 ## Atacando com uma Arma
 
