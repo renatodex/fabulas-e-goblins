@@ -1,6 +1,6 @@
 {
   "name": "Portal Interetéreo",
-  "magic_cost": "160 P.M",
+  "magic_cost": "80 P.M",
   "duration_time": "30 segundos",
   "attack_logic": null,
   "action_type": "Ativa",

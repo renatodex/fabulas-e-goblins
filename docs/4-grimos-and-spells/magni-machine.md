@@ -215,7 +215,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={fire_cross} />
 <SpellFromJson expanded={false} spellData={auto_destruction} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -230,7 +230,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={load_balancer} />
 <SpellFromJson expanded={false} spellData={missile_module} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={2} />
+### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

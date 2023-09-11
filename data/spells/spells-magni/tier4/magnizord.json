@@ -1,6 +1,6 @@
 {
   "name": "Magnizord",
-  "magic_cost": "25 P.M",
+  "magic_cost": "20 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Ativa",

@@ -173,7 +173,7 @@ Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, nã
 <SpellFromJson expanded={false} spellData={runelar_irruption} />
 <SpellFromJson expanded={false} spellData={eyes_of_the_zigurat} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
 
 <SpellFromJson expanded={false} spellData={absorv_energy} />
 <SpellFromJson expanded={false} spellData={anti_air_beam} />
@@ -188,7 +188,7 @@ Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, nã
 <SpellFromJson expanded={false} spellData={runic_trails} />
 <SpellFromJson expanded={false} spellData={store_energy} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -204,7 +204,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={runic_orbs} />
 <SpellFromJson expanded={false} spellData={weapon_toss} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -219,7 +219,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={suspension_seal} />
 <SpellFromJson expanded={false} spellData={zigurate_pillar} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={4} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

@@ -1,6 +1,6 @@
 {
   "name": "Mestre da Conjuração",
-  "magic_cost": "24 P.M",
+  "magic_cost": "20 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Ativa",
