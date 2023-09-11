@@ -323,4 +323,11 @@ Como a mudança foi apenas na formula, a regra se mantém igual, a única difere
 
 ## Errando Magias
 
-Muitas vezes, mesmo rolando 2d20, você vai errar magias
+Se pensarmos tecnicamente, qualquer magia no jogo pode ser dividida em 2 momentos:
+
+- Canalizar
+- Lançar
+
+Canalizar é o ato de consumir seus **Pontos de Magia** para de fato materializar uma concentração mágica de qualquer natureza.Já Lançar é o ato de manipular aquela concentração de magia já concretizada, e direcioná-la aos alvos desejados.
+
+Mas nas regras do nosso  Muitas vezes, mesmo rolando 2d20, você vai errar magias
