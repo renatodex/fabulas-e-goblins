@@ -10,6 +10,6 @@
   "icon": "GiMineExplosion",
   "element": "",
   "caption": "Você materializa uma concentração mágica em um único ponto, que explode ao entrar em contato com um alvo.",
-  "description": "<p>Escolha um espaço a até <code>7 espaços</code> de distância e faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido,</b> você conjura uma armadilha mágica invisível para os inimigos na posição escolhida. Caso seja <b>tocada/atravessada</b> por um inimigo, ela explode causando <code>TIER * (1d12 + 15)</code> de Dano Mágico ao alvo.</p>",
+  "description": "<p>Escolha um espaço a até <code>7 espaços</code> de distância e faça um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido,</b> você conjura uma armadilha mágica invisível para os inimigos na posição escolhida. Caso seja <b>tocada/atravessada</b> por um inimigo, ela explode causando <code>GRAU * (1d12 + 15)</code> de Dano Mágico ao alvo.</p>",
   "tags": ["grimo", "kanus"]
 }

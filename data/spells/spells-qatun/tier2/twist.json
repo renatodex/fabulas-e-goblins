@@ -10,6 +10,6 @@
   "icon": "GiBrokenBone",
   "element": null,
   "caption": "Contorce o corpo de um alvo psiquicamente, quebrando seus ossos por dentro e fazendo que receba dano.",
-  "description": "<p>Escolha um alvo e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> o alvo é afligido por uma poderosa força invisível que contorce o seu corpo contra a sua vontade, quebrando seus ossos e causando <code>TIER * (1d12 + 10)</code>, além de afligir <code>Constrição C=14 T=3</code>.</p>",
+  "description": "<p>Escolha um alvo e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> o alvo é afligido por uma poderosa força invisível que contorce o seu corpo contra a sua vontade, quebrando seus ossos e causando <code>GRAU * (1d12 + 10)</code>, além de afligir <code>Constrição C=14 T=3</code>.</p>",
   "tags": ["grimo","qatun"]
 }

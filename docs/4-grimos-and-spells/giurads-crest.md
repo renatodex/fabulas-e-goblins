@@ -82,7 +82,7 @@ A nomeação no primeiro momento pode ser tão simples como: Meu Tutor chama-se 
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 ## Virtudes do Grimo
@@ -176,7 +176,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={knights_fury} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
 
@@ -193,7 +193,7 @@ Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavale
 <SpellFromJson expanded={false} spellData={squire_specialization} />
 <SpellFromJson expanded={false} spellData={warrior_resistance} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -208,7 +208,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={stock} />
 <SpellFromJson expanded={false} spellData={wear_resistance} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -223,7 +223,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={stunning_blast} />
 <SpellFromJson expanded={false} spellData={trained_parry} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

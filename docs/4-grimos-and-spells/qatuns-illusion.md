@@ -71,7 +71,7 @@ Além de Mestres do **Ilusionismo** e dominadores de uma forma bastante peculiar
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 ## Virtudes
@@ -160,7 +160,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={hive_mind} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
@@ -177,7 +177,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={delay} />
 <SpellFromJson expanded={false} spellData={sharp_stake} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -192,7 +192,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={suggest} />
 <SpellFromJson expanded={false} spellData={twist} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -207,7 +207,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={snake_hairdo} />
 <SpellFromJson expanded={false} spellData={fairy_dust} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

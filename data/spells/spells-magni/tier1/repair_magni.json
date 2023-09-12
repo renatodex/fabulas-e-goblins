@@ -10,6 +10,6 @@
   "icon": "GiHealing",
   "element": null,
   "caption": "Cura o seu Magni instantaneamente fazendo um reparo telecinético.",
-  "description": "<p>Escolha um Magni ativo. Você repara o Magni, recuperando <code>TIER*d10</code> de seus P.V. Não exige testes.</p>",
+  "description": "<p>Escolha um Magni ativo. Você repara o Magni, recuperando <code>GRAU*d10</code> de seus P.V. Não exige testes.</p>",
   "tags": ["grimo","magni"]
 }

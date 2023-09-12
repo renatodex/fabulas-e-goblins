@@ -10,6 +10,6 @@
   "icon": "GiVortex",
   "element": "darkness",
   "caption": "Empunha o poder de sua sombra para conjurar um poderoso ataque giratório causando dano a todos inimigos no raio.",
-  "description": "<p>Você consome <b>uma de suas sombras por 1 turno</b> para criar um <b>vórtice sombrio</b> em <b>torno de você</b> numa área <b>Circular de raio 2</b>.</p><p>Teste contra a <b>Defesa Mágica</b> de  cada inimigo no raio. Os que falharem receberão <code>TIER*(4d12+20)</code> de dano Sombrio.</p>",
+  "description": "<p>Você consome <b>uma de suas sombras por 1 turno</b> para criar um <b>vórtice sombrio</b> em <b>torno de você</b> numa área <b>Circular de raio 2</b>.</p><p>Teste contra a <b>Defesa Mágica</b> de  cada inimigo no raio. Os que falharem receberão <code>GRAU*(4d12+20)</code> de dano Sombrio.</p>",
   "tags": ["grimo","zanari"]
 }

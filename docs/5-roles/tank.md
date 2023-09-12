@@ -52,11 +52,11 @@ Possuem uma quantidade superior de **Pontos de Vida**, assim como uma progressã
       <td>Força ou Resiliência</td>
     </tr>
     <tr>
-      <td>Pontos de Vida por Nível e Tier</td>
+      <td>Pontos de Vida por Nível e Grau</td>
       <td>+5/+5/+10/+10</td>
     </tr>
     <tr>
-      <td>Pontos de Magia por Nível e Tier</td>
+      <td>Pontos de Magia por Nível e Grau</td>
       <td>+2/+4/+4/+6</td>
     </tr>
   </tbody>

@@ -10,6 +10,6 @@
   "icon": "GiHabitatDome",
   "element": null,
   "caption": "Conjura uma barreira astral que proteje o usuário contra dano mágico.",
-  "description": "<p>Escolha um alvo. Você pode conjurar uma barreira astral de até <b>1x3 de comprimento</b>.</p><p>A Barreira é instransponível e se mantém intacta até que o conjurador a desfaça, ou até que receba <code>TIER * 40</code> de Dano.</p><p>Entidades etéreas como aparições e fantasmas também não são capazes de atravessar a barreira.</p>",
+  "description": "<p>Escolha um alvo. Você pode conjurar uma barreira astral de até <b>1x3 de comprimento</b>.</p><p>A Barreira é instransponível e se mantém intacta até que o conjurador a desfaça, ou até que receba <code>GRAU * 40</code> de Dano.</p><p>Entidades etéreas como aparições e fantasmas também não são capazes de atravessar a barreira.</p>",
   "tags": ["grimo","darian"]
 }

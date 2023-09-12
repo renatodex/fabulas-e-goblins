@@ -10,6 +10,6 @@
   "icon": "GiGlowingHands",
   "element": "holy",
   "caption": "Você aprimora sua técnica de Cura, extraindo ainda mais de sua Fé para regenerar seus aliados",
-  "description": "<p>Aprimora o poder <b>Toque de Cura</b>, atualizando a fórmula de Cura para <code>TIER * (1d20 + 10)</code>.</p>",
+  "description": "<p>Aprimora o poder <b>Toque de Cura</b>, atualizando a fórmula de Cura para <code>GRAU * (1d20 + 10)</code>.</p>",
   "tags": ["grimo", "lunn"]
 }

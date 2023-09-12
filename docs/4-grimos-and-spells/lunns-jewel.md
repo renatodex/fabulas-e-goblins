@@ -86,7 +86,7 @@ O **Mentor** adiciona novos personagens na história que o `Narrador de Jogo` po
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 ## Virtudes do Grimo
@@ -109,7 +109,7 @@ Os Tokens afetam a vida do Sacerdote de várias maneiras:
 
 A Luz do **Grimo de Lunn** protege o Sacerdote contra os caprichos das Trevas.
 
-Reduz em `(TIER*d10)` o dano recebido por **Ataques do Elemento Trevas**.
+Reduz em `(GRAU*d10)` o dano recebido por **Ataques do Elemento Trevas**.
 
 Sacerdotes Profanos (que possuem mais **Ações Profanas** do que **Ações Iluminadas**) passam a possuuir Proteção contra a **Luz** ao invés das **Trevas**.
 
@@ -151,7 +151,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={lunns_echo} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={3} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={3} />
 
 Essas são as habilidades iniciais do Grimo de Lunn. Normalmente, um Sacerdote inicial seleciona duas dessas habilidades para compor sua build inicial.
 
@@ -168,7 +168,7 @@ Essas são as habilidades iniciais do Grimo de Lunn. Normalmente, um Sacerdote i
 <SpellFromJson expanded={false} spellData={healer_vitality} />
 <SpellFromJson expanded={false} spellData={magical_blessing} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -183,7 +183,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={lunns_communion} />
 <SpellFromJson expanded={false} spellData={chosens_miracle} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={3} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={3} downCost={3} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -198,7 +198,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={chosens_miracle_benevolence} />
 <SpellFromJson expanded={false} spellData={powerful_pray} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={6} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={6} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

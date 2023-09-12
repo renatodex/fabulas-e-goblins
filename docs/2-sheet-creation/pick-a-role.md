@@ -47,12 +47,10 @@ Mas os Grimos servem apenas para possibilitar o seu personagem de ter acesso a u
 ## Então como funciona na prática?
 
 Todo personagem, quando criado, deverá escolher **1 Papel de Jogo** inicial.
-Sempre que o seu personagem passar de nível, no momento que atinger um nível de Tier (5, 10, 15, 20), ele poderá, se quiser trocar o seu Papel de Jogo. A mudança não é feita retroativamente, e pode ser feita apenas 1 vez por Tier.
-Portanto, caso tenha se arrependido da mudança, seu personagem deverá aguardar até a progressão do próximo tier para trocar novamente.
 
 O Papel dita qual é a "Prioridade de Treinamento" do seu personagem. Ele dita como o seu personagem deseja se comportar numa batalha, e essa decisão se reflete em seus atributos e modificadores.
 
-Por exemplo, personagens Carregadores ganharão mais Pontos de Vida quando passarem de Nível, e personagens Conjuradores ganharão mais Pontos de Magia quando passarem de Nível.
+Por exemplo, personagens Carregadores ganharão mais **Pontos de Vida** quando passarem de Nível, e personagens Conjuradores ganharão mais **Pontos de Magia** quando passarem de Nível.
 É por isso que a escolha do seu Papel pode ditar diversos aspectos Técnicos do seu personagem.
 
 Para prosseguir com a criação do seu personagem, escolha um Papel:

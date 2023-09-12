@@ -10,6 +10,6 @@
   "icon": "GiMagicPalm",
   "element": null,
   "caption": "Você prática sua interação mágica para ganhar um folego extra com seu Grimo.",
-  "description": "<p>Essa habilidade fornece <code>(TIER * 5) P.M</code> extras permanentemente.</p>",
+  "description": "<p>Essa habilidade fornece <code>(GRAU * 5) P.M</code> extras permanentemente.</p>",
   "tags": ["grimo", "giurad"]
 }

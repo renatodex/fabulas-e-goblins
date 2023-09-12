@@ -10,6 +10,6 @@
   "icon": "GiNightSleep",
   "element": null,
   "caption": "Toca um alvo sonolento para plantar um sonho perigoso.",
-  "description": "<p>Toque em um alvo adjacente que esteja em <b>sono profundo</b>. (pode ser usado em combate)</p><p>Sem exigir quaisquer testes, você pode plantar um sonho extremamente realista na mente do alvo, fazendo com que ele se cure ou receba dano durante o sonho.</p><p>Você pode causar ou curar até <code>TIER * (2d12 + 15)</code> de dano mágico não elemental.</p><p>Se decidir <b>causar dano</b>, o alvo acorda do sono no momento em que receber o dano. O conjurador pode controlar o tempo em que isso acontecerá no sonho.</p><p>Para que o dano ou cura seja aplicado, o conjurador precisa contar o sonho para o Narrador (em voz alta ou não).</p>",
+  "description": "<p>Toque em um alvo adjacente que esteja em <b>sono profundo</b>. (pode ser usado em combate)</p><p>Sem exigir quaisquer testes, você pode plantar um sonho extremamente realista na mente do alvo, fazendo com que ele se cure ou receba dano durante o sonho.</p><p>Você pode causar ou curar até <code>GRAU * (2d12 + 15)</code> de dano mágico não elemental.</p><p>Se decidir <b>causar dano</b>, o alvo acorda do sono no momento em que receber o dano. O conjurador pode controlar o tempo em que isso acontecerá no sonho.</p><p>Para que o dano ou cura seja aplicado, o conjurador precisa contar o sonho para o Narrador (em voz alta ou não).</p>",
   "tags": ["grimo","qatun"]
 }

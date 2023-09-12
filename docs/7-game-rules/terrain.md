@@ -58,7 +58,7 @@ Abaixo, listamos 4 Níveis que podem afetar a **movimentação e ações dos per
 
 Alguns lugares mágicos como as **Montanhas de Valegor** podem sofrer constantemente da ação de **chuva de Detritos**, uma espécie de **tempestade de granizo** intensa, que podem **danificar** qualquer um que seja atingido por ela.
 
-Abaixo, listamos 4 Tiers que podem afetar os Personagens durante uma Chuva de Detritos.
+Abaixo, listamos 4 Graus que podem afetar os Personagens durante uma Chuva de Detritos.
 
 Para efeito de comparação, assumiremos na tabela abaixo que os detritos são **esféricos e regulares**, e compararemos eles através de seu diâmetro.
 

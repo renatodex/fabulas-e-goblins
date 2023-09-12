@@ -10,6 +10,6 @@
   "icon": "GiShadowGrasp",
   "element": "darkness",
   "caption": "Força a sombra do alvo a agarra-lo, paralizando-o até seu proximo turno.",
-  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p>Se for bem sucedido, a sombra do alvo se descola, atacando-o e causando <code>TIER*(1d12 + 15)</code> de dano <b>Sombrio</b>.</p>",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p>Se for bem sucedido, a sombra do alvo se descola, atacando-o e causando <code>GRAU*(1d12 + 15)</code> de dano <b>Sombrio</b>.</p>",
   "tags": ["grimo","zanari"]
 }

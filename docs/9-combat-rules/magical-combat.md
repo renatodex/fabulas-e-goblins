@@ -118,9 +118,9 @@ Por isso, Ramón **rolará 2d20 + 3** para determinar se ele conseguirá **acert
 
 O **valor final de 14** é suficiente para atingir o Fougrat, **cuja defesa física é 14**.
 
-Agora Ramón aplicará o **Dano da Pancada**, que de acordo com a **Ficha de Poder**, possui a seguinte fórmula: `Dano da Arma + TIER*(1D12+5)`
+Agora Ramón aplicará o **Dano da Pancada**, que de acordo com a **Ficha de Poder**, possui a seguinte fórmula: `Dano da Arma + GRAU*(1D12+5)`
 
-Como o **Grimo de Ramón** está no **TIER 1** e o **Dano do Machado** é `1d12 + 3`, o Dano final que **Ramón** aplicará será de `1d12 + 3 + 1d12 + 5`, que podemos simplificar para `2d12 + 8`.
+Como o **Grimo de Ramón** está no **GRAU 1** e o **Dano do Machado** é `1d12 + 3`, o Dano final que **Ramón** aplicará será de `1d12 + 3 + 1d12 + 5`, que podemos simplificar para `2d12 + 8`.
 
 Ramón rola os dois D12, tirando 5 e 12, que somados com 8, resultam em **25 de Dano**!
 :::
@@ -316,7 +316,7 @@ Um outro exemplo comum é quando um **Aprimoramento** altera a **intensidade de 
   <SpellFromJson expanded={false} spellData={upgrade_sombrizir} />
 </p>
 
-Neste exemplo, o Aprimoramento altera a **fórmula de Dano** de **Conjurar Sombrizir**, passando de ```TIER*1d6``` para ```TIER*1d12```.
+Neste exemplo, o Aprimoramento altera a **fórmula de Dano** de **Conjurar Sombrizir**, passando de ```GRAU*1d6``` para ```GRAU*1d12```.
 Como a mudança foi apenas na formula, a regra se mantém igual, a única diferença é que nossa tabela de danos muda à partir do momento que o personagem obtém o aprimoramento:
 
 **Antes de obter o aprimoramento:**

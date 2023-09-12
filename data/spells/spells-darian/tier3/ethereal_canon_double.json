@@ -10,6 +10,6 @@
   "icon": "GiRingedBeam",
   "element": null,
   "caption": "Seu Canhão Fátuo se torna mais forte, disparando dois poderosos projéteis simultâneos de puro fogo fátuo.",
-  "description": "<p>Aprimora o poder <b>Canhão Fátuo</b>, que agora pode disparar <b>dois projéteis simultâneos</b>, mas que passam a causar dano reduzido de <code>TIER * (d12 + 10)</code> para cada projétil.</p><p>Você precisa testar o acerto de cada projétil individualmente contra a <b>Defesa Mágica</b> do alvo. Os projéteis também podem ser direcionados a alvos diferentes.</p><p>Ao escolher este aprimoramento, você perde o <b>Bônus do Tier 4</b> de <code>+20 de dano</code> fornecido pelo poder <b>Canhão Fátuo</b></p>",
+  "description": "<p>Aprimora o poder <b>Canhão Fátuo</b>, que agora pode disparar <b>dois projéteis simultâneos</b>, mas que passam a causar dano reduzido de <code>GRAU * (d12 + 10)</code> para cada projétil.</p><p>Você precisa testar o acerto de cada projétil individualmente contra a <b>Defesa Mágica</b> do alvo. Os projéteis também podem ser direcionados a alvos diferentes.</p><p>Ao escolher este aprimoramento, você perde o <b>Bônus do Grau 4</b> de <code>+20 de dano</code> fornecido pelo poder <b>Canhão Fátuo</b></p>",
   "tags": ["grimo","darian"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiAura",
   "element": null,
   "caption": "Sua afinidade elemental permite conjurar uma manta elemental que pode ferir inimigos que tentem se aproximar.",
-  "description": "<p>Faça um teste do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma <b>manta elemental</b> do seu elemento em volta de sí mesmo que causa <code>TIER * (d10 + 10)</code> de <b>dano mágico</b> a qualquer alvo que realizar um ataque corpo-a-corpo bem sucedido contra você.</p><p>Após receber um ataque, faça um teste de <b>Intelecto</b> novamente para manter a manta ativa. Caso falhe, a manta se desfaz imediatamente.</p><p>A manta tem duração de até <code>1 hora</code> ou até ser desfeita pelo conjurador.</p>",
+  "description": "<p>Faça um teste do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma <b>manta elemental</b> do seu elemento em volta de sí mesmo que causa <code>GRAU * (d10 + 10)</code> de <b>dano mágico</b> a qualquer alvo que realizar um ataque corpo-a-corpo bem sucedido contra você.</p><p>Após receber um ataque, faça um teste de <b>Intelecto</b> novamente para manter a manta ativa. Caso falhe, a manta se desfaz imediatamente.</p><p>A manta tem duração de até <code>1 hora</code> ou até ser desfeita pelo conjurador.</p>",
   "tags": ["grimo", "allura"]
 }

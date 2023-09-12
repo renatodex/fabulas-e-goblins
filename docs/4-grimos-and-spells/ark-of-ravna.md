@@ -87,7 +87,7 @@ Definir seu mentor na criação do seu personagem faz com que o Narrador possa i
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 ## Virtudes
@@ -105,13 +105,13 @@ A ação custa **Pontos de Magia** que variam dependendo da categoria da criatur
 | Alfa             | 4 P.M           | 3 Fragmentos             |
 | Nemesis          | 6 P.M           | 6 Fragmentos             |
 
-Os **Fragmento de Zirgônio** são muito utilizados na criação de itens mágicos, e podem ser vendido nos grandes reinos por uma média de `TIER * 40 Temirs`.
+Os **Fragmento de Zirgônio** são muito utilizados na criação de itens mágicos, e podem ser vendido nos grandes reinos por uma média de `GRAU * 40 Temirs`.
 
 Fragmentos podem ser vendidos nos **Templos de Ravna**, e também utilizado na confecção de Armas e Encantamento de Itens com a propriedade **Zirgoniana**. (utilizadas para causar dano ou ter resistência adicional contra um tipo especifico de inimigo).
 
-:::info Tier dos Fragmentos
-É importante ressaltar que cada Fragmento gerado pertence ao **Tier** da criatura abatida.
-Se o conjurador fossilizou 2 (duas) criaturas do **Tier 1**, e logo em seguida passou para o **Tier 2**, esses Fragmentos ainda são considerados **Tier 1**, pois foram adquiridos com criaturas desse Tier.
+:::info Grau dos Fragmentos
+É importante ressaltar que cada Fragmento gerado pertence ao **Grau** da criatura abatida.
+Se o conjurador fossilizou 2 (duas) criaturas do **Grau 1**, e logo em seguida passou para o **Grau 2**, esses Fragmentos ainda são considerados **Grau 1**, pois foram adquiridos com criaturas desse Grau.
 :::
 
 ### 2. Mimesis (Custo: 1 P.M)
@@ -120,7 +120,7 @@ Como uma **ação de reação**, o **Adepto de Ravna** pode memorizar uma habili
 
 Se a habilidade possuir uma restrição de usos, o **Adepto de Ravna** também deverá respeitar essas restrições, bem como restrições de alcance. **Poderes de Reação** e **Poderes Especiais** não podem ser memorizados.
 
-Como os poderes de criatura não possuem Custo de **Pontos de Magia**, o Custo de conjuração da magia memorizada é de `TIER * 9`, onde **TIER** é o Nível de Desafio da Criatura.
+Como os poderes de criatura não possuem Custo de **Pontos de Magia**, o Custo de conjuração da magia memorizada é de `GRAU * 9`, onde **GRAU** é o Nível de Desafio da Criatura.
 
 :::info Materialização Mágica
 Se o poder mágico a ser mimetizado utilizar uma das partes da criatura (chifres, garras, etc), essa parte será magicamente materializada no momento da utilização do poder.
@@ -227,7 +227,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={savage_connection} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={2} />
 
 <SpellFromJson expanded={false} spellData={bloom} />
 <SpellFromJson expanded={false} spellData={bison_strength} />
@@ -242,7 +242,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={prickly_instance} />
 <SpellFromJson expanded={false} spellData={eye_of_the_beast} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={3} downCost={2} />
 
 <SpellFromJson expanded={false} spellData={bone_shield} />
 <SpellFromJson expanded={false} spellData={controlled_discharge} />
@@ -255,7 +255,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={leech} />
 <SpellFromJson expanded={false} spellData={ear_of_the_beast} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={2} downCost={2} />
 
 <SpellFromJson expanded={false} spellData={blood_bound} />
 <SpellFromJson expanded={false} spellData={maddening_pulse} />
@@ -268,7 +268,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={savage_jump} />
 <SpellFromJson expanded={false} spellData={short_circuit} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={4} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={4} />
 
 <SpellFromJson expanded={false} spellData={command_the_beast} />
 <SpellFromJson expanded={false} spellData={instigate_beast} />

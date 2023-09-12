@@ -10,6 +10,6 @@
   "icon": "GiDrippingBlade",
   "element": "acid",
   "caption": "Escalda sua arma com uma gosma ácida, fazendo com que o proximo ataque cause um efeito corrosivo no alvo.",
-  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Agilidade</b>.</p><p>Você conjura uma densa gosma ácida que encanta sua arma, fazendo com que seu próximo <b>ataque físico</b> cause <code>Corroer N2 D10</code><i>(o Dano aumenta em <code>+10</code> a cada novo Tier)</i>.</p><p><b>Corroer</b> pode danificar tanto armas como Armaduras, portanto, você deve dizer no momento do ataque qual arma ou armadura você deseja corroer.</p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Agilidade</b>.</p><p>Você conjura uma densa gosma ácida que encanta sua arma, fazendo com que seu próximo <b>ataque físico</b> cause <code>Corroer N2 D10</code><i>(o Dano aumenta em <code>+10</code> a cada novo Grau)</i>.</p><p><b>Corroer</b> pode danificar tanto armas como Armaduras, portanto, você deve dizer no momento do ataque qual arma ou armadura você deseja corroer.</p>",
   "tags": ["grimo","zanari"]
 }

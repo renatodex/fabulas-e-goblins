@@ -10,6 +10,6 @@
   "icon": "GiNightVision",
   "element": null,
   "caption": "Você utiliza cada gota da sua conexão mágica para continuar canalizando poderes do seu Grimo.",
-  "description": "<p>Toda vez que você chegar em <code>0 P.M</code>, você pode rolar <code>TIER*1d6</code> para recuperar essa quantidade de P.Ms. Só pode ser usado <code>1</code> vez por encontro. Os Pontos de Magia recuperados dessa forma só podem ser usados em magias ofensivas ou que pretendem potencializar o dano do conjurador.</p>",
+  "description": "<p>Toda vez que você chegar em <code>0 P.M</code>, você pode rolar <code>GRAU*1d6</code> para recuperar essa quantidade de P.Ms. Só pode ser usado <code>1</code> vez por encontro. Os Pontos de Magia recuperados dessa forma só podem ser usados em magias ofensivas ou que pretendem potencializar o dano do conjurador.</p>",
   "tags": ["role", "caster", "encounter"]
 }

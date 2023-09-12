@@ -10,6 +10,6 @@
   "icon": "GiPointySword",
   "element": null,
   "caption": "Lança sua arma contra um inimigo, causando dano adicional.",
-  "description": "<p>Escolha um alvo a até <code>5 espaços</code> de distância e teste contra sua <code>Defesa Física</code>.</p><p>Você arremessa sua arma com força para causar <code>Dano da Arma + (TIER * d12)</code> de <b>dano físico</b>.</p><p><b>Caso erre o ataque, </b>o inimigo bloqueia seu ataque e sua arma é lançada a <code>d10 espaços</code> em qualquer direção escolhida pelo Narrador.</p><p><b>Caso acerte o ataque,</b> você pode realizar uma <b>ação de movimento</b> adicional para buscar sua arma (ou não). Se não tiver se movido e <b>não for se mover</b> neste turno, você também pode <b>conjurar sua arma de volta</b> para sua mão.</p>",
+  "description": "<p>Escolha um alvo a até <code>5 espaços</code> de distância e teste contra sua <code>Defesa Física</code>.</p><p>Você arremessa sua arma com força para causar <code>Dano da Arma + (GRAU * d12)</code> de <b>dano físico</b>.</p><p><b>Caso erre o ataque, </b>o inimigo bloqueia seu ataque e sua arma é lançada a <code>d10 espaços</code> em qualquer direção escolhida pelo Narrador.</p><p><b>Caso acerte o ataque,</b> você pode realizar uma <b>ação de movimento</b> adicional para buscar sua arma (ou não). Se não tiver se movido e <b>não for se mover</b> neste turno, você também pode <b>conjurar sua arma de volta</b> para sua mão.</p>",
   "tags": ["grimo","ixin"]
 }

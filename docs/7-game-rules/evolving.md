@@ -39,17 +39,17 @@ Aqui está um resumo dessa tabela de evolução:
 | Pontos de Vida por Nível  | 4/4/8/8                 | 2/4/4/6          | 3/3/6/6               | 2/4/4/6          | 5/5/10/10        | 3/3/6/6       |
 | Pontos de Magia por Nível | 2/4/4/6                 | 4/4/8/8          | 3/3/6/6               | 5/5/10/10        | 2/4/4/6          | 3/3/6/6       |
 
-Tanto Personagens quanto Grimos são divididos em 4 Categorias de Evolução que chamamos de **Tiers**.<br/>
-Na tabela acima, as Barras separam os **valores para cada Tier**. (cada Tier equivale a 5 Níveis)
+Tanto Personagens quanto Grimos são divididos em 4 Categorias de Evolução que chamamos de **Graus**.<br/>
+Na tabela acima, as Barras separam os **valores para cada Grau**. (cada Grau equivale a 5 Níveis)
 
 Por exemplo, a tabela diz que personagens **Carregadores** recebem `4/4/8/8` **Pontos de Vida** por Nível.<br/>Isso significa que:
 
-- No **Tier 1** *(níveis 1, 2, 3, 4, 5)*, eles ganharão **4 Pontos de Vida** por Nível
-- No **Tier 2** *(níveis 6, 7, 8, 9, 10)*, eles ganharão **4 Pontos de Vida** por Nível
-- No **Tier 3** *(níveis 11, 12, 13, 14, 15)*, eles ganharão **8 Pontos de Vida** por Nível
-- No **Tier 4** *(níveis 16, 17, 18, 19, 20)*, eles ganharão **8 Pontos de Vida** por Nível
+- No **Grau 1** *(níveis 1, 2, 3, 4, 5)*, eles ganharão **4 Pontos de Vida** por Nível
+- No **Grau 2** *(níveis 6, 7, 8, 9, 10)*, eles ganharão **4 Pontos de Vida** por Nível
+- No **Grau 3** *(níveis 11, 12, 13, 14, 15)*, eles ganharão **8 Pontos de Vida** por Nível
+- No **Grau 4** *(níveis 16, 17, 18, 19, 20)*, eles ganharão **8 Pontos de Vida** por Nível
 
-Você verá lá na frente que esse mesmo Sistema de **Evolução por Tiers** também se aplica a diversos poderes dos Grimos.
+Você verá lá na frente que esse mesmo Sistema de **Evolução por Graus** também se aplica a diversos poderes dos Grimos.
 
 ## Atributos de Personagem
 
@@ -103,7 +103,7 @@ Aqui listamos alguns tipos de Selos comuns:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo da Auto Ascensão | Permite ao personagem subir 1 Nível (os Pontos de Aventura são zerados) |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo da Ascensão Grimônica | Evolui o Grimo alvo em 1 Nível (os Pontos de Aventura do Grimo são zerados) |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo de Sobrecarga Grimal | Permite ao personagem aprender um segundo Poder Especial no Grimo |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Estudo Grimal | Permite ao personagem aprender um Poder adicional do Grimo (pode especificar um Tier) |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Estudo Grimal | Permite ao personagem aprender um Poder adicional do Grimo (pode especificar um Grau) |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" /> | Selo do Esquecimento Grimal | Permite ao personagem re-distribuir seus Poderes de um Grimo |
 
 Esses são apenas alguns Selos conhecidos.

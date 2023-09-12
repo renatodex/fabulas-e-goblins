@@ -10,6 +10,6 @@
   "icon": "GiChargedArrow",
   "element": "eletric",
   "caption": "Carrega o poder dos Raios em um ataque, atingindo um inimigo num impacto impressionante.",
-  "description": "<p>Escolha um alvo ao <code>alcance da arma</code> e faça um <b>ataque normal</b> contra ele.</p><p><b>Se for bem sucedido</b>, além do seu dano de ataque, sua arma/projétil se transforma temporariamente na essência do trovão, desferindo um poderoso <b>relâmpago</b>, que causa <code>Atordoar 1</code>, além de <code>TIER * (1d12 + 8)</code> de <b>dano mágico Elétrico</b> adicional.</p>",
+  "description": "<p>Escolha um alvo ao <code>alcance da arma</code> e faça um <b>ataque normal</b> contra ele.</p><p><b>Se for bem sucedido</b>, além do seu dano de ataque, sua arma/projétil se transforma temporariamente na essência do trovão, desferindo um poderoso <b>relâmpago</b>, que causa <code>Atordoar 1</code>, além de <code>GRAU * (1d12 + 8)</code> de <b>dano mágico Elétrico</b> adicional.</p>",
   "tags": ["grimo", "kanus"]
 }

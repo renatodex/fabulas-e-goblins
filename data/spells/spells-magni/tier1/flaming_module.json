@@ -10,6 +10,6 @@
   "icon": "GiMicrochip",
   "element": "fire",
   "caption": "Instala um módulo no seu ajudante que permite que ele cause dano de fogo adicional.",
-  "description": "<p><b>Este módulo só pode ser instalado em um Magni.</b></p><p>Instala um módulo em um único Magni que altera seu ataque.</p><p>O <b>ataque normal</b> passa a causar dano flamejante, resultando em <code>TIER * d10</code> de <b>dano de fogo</b> extra além do dano normal que seria causado pela arma.</p><p>Poderes de módulo só podem ser instalados um de cada vez em um Magni de cada vez. Pode ser usado em sí mesmo.</p>",
+  "description": "<p><b>Este módulo só pode ser instalado em um Magni.</b></p><p>Instala um módulo em um único Magni que altera seu ataque.</p><p>O <b>ataque normal</b> passa a causar dano flamejante, resultando em <code>GRAU * d10</code> de <b>dano de fogo</b> extra além do dano normal que seria causado pela arma.</p><p>Poderes de módulo só podem ser instalados um de cada vez em um Magni de cada vez. Pode ser usado em sí mesmo.</p>",
   "tags": ["grimo","magni"]
 }

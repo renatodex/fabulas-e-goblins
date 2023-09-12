@@ -10,6 +10,6 @@
   "icon": "GiDeadlyStrike",
   "element": null,
   "caption": "Conjura o poderoso <b>Pilar do Zigurate</b> dos céus, um espesso feixe de energia rúnica que atravessa o campo de batalha transversalmente, queimando todos inimigos que toca numa area circular em volta do conjurador.",
-  "description": "<p>Ao usar este poder, você conjura um feixe de energia dos céus, que atravessa o campo de batalha e cria um feixe denso numa <code>área circular de 3x3</code> em volta de sí mesmo.</p><p>Em seguida, faça um teste contra a <b>Defesa Mágica</b> de cada inimigo na área.</p><p><b>Para cada teste bem sucedido</b>, você causa <code>TIER * (d12 + 15)</code> de <b>dano mágico não elemental</b>, e o alvo é afligido por <code>Silenciar 1</code> e <code>Cegueira 1</code>.</p><p><b>Para cada teste mal sucedido, (exceto Desastre)</b>, o alvo é afligido com <code>Cegueira 1</code>.</p>",
+  "description": "<p>Ao usar este poder, você conjura um feixe de energia dos céus, que atravessa o campo de batalha e cria um feixe denso numa <code>área circular de 3x3</code> em volta de sí mesmo.</p><p>Em seguida, faça um teste contra a <b>Defesa Mágica</b> de cada inimigo na área.</p><p><b>Para cada teste bem sucedido</b>, você causa <code>GRAU * (d12 + 15)</code> de <b>dano mágico não elemental</b>, e o alvo é afligido por <code>Silenciar 1</code> e <code>Cegueira 1</code>.</p><p><b>Para cada teste mal sucedido, (exceto Desastre)</b>, o alvo é afligido com <code>Cegueira 1</code>.</p>",
   "tags": ["grimo","ixin"]
 }

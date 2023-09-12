@@ -10,6 +10,6 @@
   "icon": "GiPointySword",
   "element": null,
   "caption": "Conjura a Chama Eterna temporariamente em uma arma.",
-  "description": "<p>Escolha uma Arma alvo dentro do alcance de <code>6 espaços</code> e faça um <b>Teste de Perícia</b> do atributo <b>Espírito</b>.</p><p><b>Se for bem sucedido,</b> a arma em questão é envolta por uma aura de chamas azuladas, causando <code>TIER*10</code> de <b>dano espiritual</b> extra durante <code>3 turnos</code>.</p><p>Alvos acertados pela Chama Eterna recebem <b>-2 de Penalidade</b> para se defenderem de poderes espirituais até o final do seu próximo turno. (isso inclui o próprio ataque da Chama Eterna)</p>",
+  "description": "<p>Escolha uma Arma alvo dentro do alcance de <code>6 espaços</code> e faça um <b>Teste de Perícia</b> do atributo <b>Espírito</b>.</p><p><b>Se for bem sucedido,</b> a arma em questão é envolta por uma aura de chamas azuladas, causando <code>GRAU*10</code> de <b>dano espiritual</b> extra durante <code>3 turnos</code>.</p><p>Alvos acertados pela Chama Eterna recebem <b>-2 de Penalidade</b> para se defenderem de poderes espirituais até o final do seu próximo turno. (isso inclui o próprio ataque da Chama Eterna)</p>",
   "tags": ["grimo","darian"]
 }

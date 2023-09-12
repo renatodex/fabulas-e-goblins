@@ -10,6 +10,6 @@
   "icon": "GiNightVision",
   "element": null,
   "caption": "Você desafia os limites da Magia para curar seus aliados com mais eficiência.",
-  "description": "<p>Uma vez por encontro, um poder de cura ou uma poção de recuperação cura um adicional de <code>TIER*1d8</code> de Dano.</p>",
+  "description": "<p>Uma vez por encontro, um poder de cura ou uma poção de recuperação cura um adicional de <code>GRAU*1d8</code> de Dano.</p>",
   "tags": ["role", "support", "encounter"]
 }

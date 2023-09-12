@@ -10,6 +10,6 @@
   "icon": "GiPointySword",
   "element": "fire",
   "caption": "Conjura enormes garras de fogo que atingem um inimigo próximo.",
-  "description": "<p>O poder precisa ser usado em um alvo adjacente, causando <code>TIER*(2d10+6)</code> de dano do Elemento Fogo. Não causa queimaduras no inimigo.</p>",
+  "description": "<p>O poder precisa ser usado em um alvo adjacente, causando <code>GRAU*(2d10+6)</code> de dano do Elemento Fogo. Não causa queimaduras no inimigo.</p>",
   "tags": ["grimo","ravna"]
 }

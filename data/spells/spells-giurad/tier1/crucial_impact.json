@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": null,
   "caption": "Uma Energia incrível emana de seu Grimo, e você canaliza um poderoso ataque, que consome sua própria vitalidade para causar dano em um alvo.",
-  "description": "<p>Escolha um alvo que esteja adjacente a você e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido</b>, você canaliza magia em sua arma para desferir um <code>Impacto Crucial</code>, sacrificando <code>(NIVEL/2)*1d4 de P.V</code> do seu Personagem para causar dano físico e mágico simultaneamente:<ul><li><code>(NIVEL/2) * 1d10</code> de <b>Dano Físico</b> (Nivel/2 é sempre arredondado para cima)</li><li><code>(20 * TIER)</code> de <b>Dano Mágico</b>.</li></ul>",
+  "description": "<p>Escolha um alvo que esteja adjacente a você e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido</b>, você canaliza magia em sua arma para desferir um <code>Impacto Crucial</code>, sacrificando <code>(NIVEL/2)*1d4 de P.V</code> do seu Personagem para causar dano físico e mágico simultaneamente:<ul><li><code>(NIVEL/2) * 1d10</code> de <b>Dano Físico</b> (Nivel/2 é sempre arredondado para cima)</li><li><code>(20 * GRAU)</code> de <b>Dano Mágico</b>.</li></ul>",
   "tags": ["grimo", "giurad"]
 }

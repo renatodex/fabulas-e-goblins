@@ -10,6 +10,6 @@
   "icon": "GiPentagramRose",
   "element": null,
   "caption": "Amaldiçoa seus inimigos com a corrupção mágica do seu elemento.",
-  "description": "<p>Escolha uma área de <code>3x3 espaços</code> e faça um <b>teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma grande bolha  elemental corrompida do seu elemento que expande até explodir abruptamente causando <code>TIER * (2d8 + 10)</code> a todos <b>inimigos e aliados</b> na área.</p><p>A bolha corrompida aplica o <b>Efeito Negativo <a href=\"/docs/9-combat-rules/negative-effects\">(T=1,D=5,N=1,C=17,P=2,M=3)</a> do seu elemento.</b></p>",
+  "description": "<p>Escolha uma área de <code>3x3 espaços</code> e faça um <b>teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma grande bolha  elemental corrompida do seu elemento que expande até explodir abruptamente causando <code>GRAU * (2d8 + 10)</code> a todos <b>inimigos e aliados</b> na área.</p><p>A bolha corrompida aplica o <b>Efeito Negativo <a href=\"/docs/9-combat-rules/negative-effects\">(T=1,D=5,N=1,C=17,P=2,M=3)</a> do seu elemento.</b></p>",
   "tags": ["grimo", "allura"]
 }

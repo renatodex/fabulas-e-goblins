@@ -17,7 +17,7 @@ Os Grimos são artefatos mágicos criados em tempos ancestrais extremamente remo
 
 Para ser utilizado, o Grimo <b>exige que um usuário se vincule a ele</b>, desenvolvendo uma <b>relação particular e única</b> com o Artefato. Conforme essa relação se solidifica, o Usuário passa a poder acessar mais e mais conhecimento da <b>Pedra de Grimônio</b>, mineral que contém o poder mágico, e de onde se deriva o nome destes curiosos Artefatos.
 
-No *Fábulas & Goblins*, assim como os personagens, os Grimos possuem sua própria **curva de progressão**, com **20 Níveis** que se dividem em **4 Camadas de poder (Tiers)**. Com o tempo, os personagens passam a poder se **vincular com múltiplos Grimos**, e cada Grimo possui seu próprio Nível e curva de progressão.
+No *Fábulas & Goblins*, assim como os personagens, os Grimos possuem sua própria **curva de progressão**, com **20 Níveis** que se dividem em **4 Camadas de poder (Graus)**. Com o tempo, os personagens passam a poder se **vincular com múltiplos Grimos**, e cada Grimo possui seu próprio Nível e curva de progressão.
 
 Mas os Grimos não são apenas items mágicos comuns, eles são artefatos criados e preparados por Escolas e Academias de todo mundo, onde os Adeptos que querem receber seu primeiro Grimo passam por um **treinamento inicial**, onde aprenderão as **doutrinas**, o **estilo de batalha**, e a forma de se **comunicar com o Artefato** para acessar seus poderes e seus conhecimentos.
 

@@ -10,6 +10,6 @@
   "icon": "GiClusterBomb",
   "element": null,
   "caption": "Arremessa uma bomba em um Magni, que a consome, amplificando seu poder e causando dano em uma área muito maior.",
-  "description": "<p><b>Esse poder apenas funciona com bombas.</b></p><p>Ao invés de arremessar sua bomba em um inimigo, você a lança em um <b>Magni ativo</b>.</p><p>O Magni <b>consumirá a bomba</b>, amplificando seu poder e <b>explodindo no processo</b>, causando <code>TIER * d20</code> de <b>dano físico</b> adicional, em uma <code>area de 4x4</code> em volta dele.</p><p>Para causar dano, assim como no seu ataque com a bomba, você deverá realizar uma <b>Ação de Desafio</b> contra a <b>defesa física</b> de todos inimigos na área.</p>",
+  "description": "<p><b>Esse poder apenas funciona com bombas.</b></p><p>Ao invés de arremessar sua bomba em um inimigo, você a lança em um <b>Magni ativo</b>.</p><p>O Magni <b>consumirá a bomba</b>, amplificando seu poder e <b>explodindo no processo</b>, causando <code>GRAU * d20</code> de <b>dano físico</b> adicional, em uma <code>area de 4x4</code> em volta dele.</p><p>Para causar dano, assim como no seu ataque com a bomba, você deverá realizar uma <b>Ação de Desafio</b> contra a <b>defesa física</b> de todos inimigos na área.</p>",
   "tags": ["grimo","magni"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiAchillesHeel",
   "element": "",
   "caption": "Seus sentidos se ampliam para identificar a fraqueza de um inimigo..",
-  "description": "<p>Escolha um alvo e tente localizar um ponto fraco através de um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido</b>, você identifica um <b>ponto fraco</b> sutil no corpo do alvo. (descreva-o para o Narrador)</p><p>Até o final do combate, você receberá um <b>bônus permanente</b> de <code>TIER * 1d6</code> em ataques futuros <b>contra este inimigo</b>.</p>",
+  "description": "<p>Escolha um alvo e tente localizar um ponto fraco através de um <b>Teste de Perícia</b> do atributo <b>Sobrevivência</b>.</p><p><b>Se for bem sucedido</b>, você identifica um <b>ponto fraco</b> sutil no corpo do alvo. (descreva-o para o Narrador)</p><p>Até o final do combate, você receberá um <b>bônus permanente</b> de <code>GRAU * 1d6</code> em ataques futuros <b>contra este inimigo</b>.</p>",
   "tags": ["grimoz", "kanus"]
 }

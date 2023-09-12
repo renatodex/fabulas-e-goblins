@@ -96,7 +96,7 @@ A escolha do **Mentor** permitirá ao Narrador aprofundar os vínculos do seu pe
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 ## Virtudes
@@ -136,7 +136,7 @@ Assim como as Pessoas, o **Dariano** também poderá diferenciar o Espírito de 
 
 Existem apenas duas preocupações que o Dariano precisa ter enquanto estiver na forma de Andarilho:
 
-1. O **Espírito** não poderá se afastar a mais de ```TIER * 20m``` de distância de seu corpo.
+1. O **Espírito** não poderá se afastar a mais de ```GRAU * 20m``` de distância de seu corpo.
 Caso o faça, o **Darianista** quebrará o **Elo Espiritual**, cairá inconsciente em uma espécie de coma, e seu Espírito será enviado ao **Plano Astral**, sendo o **Dariano** incapaz de retomar seus sentidos até que o Espírito encontre o caminho de volta.<br/>
 Conforme chega próximo ao limite do Elo, o **Espírito** pode sentir a tração do **Elo Espiritual**, e o Narrador **deve** informar o Jogador para que ele saiba onde deve parar.
 
@@ -200,7 +200,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={acclaim_souls} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
@@ -217,7 +217,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={willowhisp_canon} />
 <SpellFromJson expanded={false} spellData={willowhisp_fire} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -232,7 +232,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={triple_ethereal_bound} />
 <SpellFromJson expanded={false} spellData={weapon_of_eternal_flame} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -247,7 +247,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={possession} />
 <SpellFromJson expanded={false} spellData={disembody} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={7} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={7} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

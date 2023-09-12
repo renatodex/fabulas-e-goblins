@@ -10,6 +10,6 @@
   "icon": "GiRingedBeam",
   "element": "holy",
   "caption": "O Grimo conjura um poderoso Raio de Luz, que desce dos céus emanado da própria vontade de Lunn para testar a Fé dos pecadores.",
-  "description": "<p>Só funciona em alvos <b>não-religiosos</b>. Escolha um alvo e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> Excomungar conjura um feixe elemental de luz que causa <code>TIER * (1d8 + 1d10 + 12)</code> de <b>dano mágico</b> e causa <code>Cegueira 1</code>.</p><p>Causa <code>-1d10 (ou d8, o que for maior)</code> de <b>dano mágico</b> para cada <b>Token de Ação Profana</b> acumulado. Não pode causar dano negativo.</p>",
+  "description": "<p>Só funciona em alvos <b>não-religiosos</b>. Escolha um alvo e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> Excomungar conjura um feixe elemental de luz que causa <code>GRAU * (1d8 + 1d10 + 12)</code> de <b>dano mágico</b> e causa <code>Cegueira 1</code>.</p><p>Causa <code>-1d10 (ou d8, o que for maior)</code> de <b>dano mágico</b> para cada <b>Token de Ação Profana</b> acumulado. Não pode causar dano negativo.</p>",
   "tags": ["grimo", "lunn"]
 }

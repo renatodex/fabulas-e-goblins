@@ -10,6 +10,6 @@
   "icon": "GiEggDefense",
   "element": null,
   "caption": "Conjura uma barreira de energia que bloqueia ataques de projéteis.",
-  "description": "<p>Escolha uma <code>área de 3x3 espaços</code>.</p><p>Você conjura um domo de energia que <b>só pode ser atingido por projéteis</b> e possui <code>TIER * 40</code> Pontos de Vida.</p><p>Qualquer projétil que entre em contato com a barreira será instantaneamente dissolvido e causará dano à sua integridade <b>até mesmo se não tiver acertado o alvo pretendido</b> <i>(Pois mesmo não acertando o alvo, ele entrará na barreira mesmo asssim)</i>.</p><p>Projéteis de natureza mágica atravessam a barreira normalmente sem danificá-la, mas projéteis materiais sólidos como Gelo e Pedra lançados por poderes mágicos podem ser barrados também.</p>",
+  "description": "<p>Escolha uma <code>área de 3x3 espaços</code>.</p><p>Você conjura um domo de energia que <b>só pode ser atingido por projéteis</b> e possui <code>GRAU * 40</code> Pontos de Vida.</p><p>Qualquer projétil que entre em contato com a barreira será instantaneamente dissolvido e causará dano à sua integridade <b>até mesmo se não tiver acertado o alvo pretendido</b> <i>(Pois mesmo não acertando o alvo, ele entrará na barreira mesmo asssim)</i>.</p><p>Projéteis de natureza mágica atravessam a barreira normalmente sem danificá-la, mas projéteis materiais sólidos como Gelo e Pedra lançados por poderes mágicos podem ser barrados também.</p>",
   "tags": ["grimo","ixin"]
 }

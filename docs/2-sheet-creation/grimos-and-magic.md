@@ -26,9 +26,9 @@ Quando estiver criando seu personagem, você deverá **escolher entre um dos vá
 
 No geral, o Grimo **segue a mesma lógica de Progressão do Personagem**, o que significa que **se você passar 1 Nível**, o Grimo **também passará 1 Nível**.
 
-Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 níveis de progressão** do Grimo. Cada Tier confere **habilidades disruptivas** que podem mudar **completamente** a **performance** do seu personagem no campo de batalha.
+Grimos são divididos em **4 Graus de Poder**, que **destravam** a **cada 5 níveis de progressão** do Grimo. Cada Grau confere **habilidades disruptivas** que podem mudar **completamente** a **performance** do seu personagem no campo de batalha.
 
-**A cada 2 níveis de evolução do Grimo**, você poderá **aprender uma nova habilidade de qualquer Tier que você já destravou anteriormente**.
+**A cada 2 níveis de evolução do Grimo**, você poderá **aprender uma nova habilidade de qualquer Grau que você já destravou anteriormente**.
 
 <table>
   <thead>
@@ -48,7 +48,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       1 (um)
       </td>
     <td>
-      2 habilidades iniciais do Tier 1
+      2 habilidades iniciais do Grau 1
       </td>
     </tr>
   <tr>
@@ -64,7 +64,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       3 (três)
       </td>
     <td>
-      +1 Habilidade Tier 1
+      +1 Habilidade Grau 1
       </td>
     </tr>
   <tr>
@@ -80,7 +80,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       5 (cinco)
       </td>
     <td>
-      +1 Habilidade Tier 1 ou 2
+      +1 Habilidade Grau 1 ou 2
       </td>
     </tr>
   <tr>
@@ -96,7 +96,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       7 (sete)
       </td>
     <td>
-      +1 Habilidade Tier 1 ou 2
+      +1 Habilidade Grau 1 ou 2
       </td>
     </tr>
   <tr>
@@ -112,7 +112,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       9 (nove)
       </td>
     <td>
-      +1 Habilidade Tier 1 ou 2
+      +1 Habilidade Grau 1 ou 2
       </td>
     </tr>
   <tr>
@@ -120,7 +120,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       10 (dez)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 3
+      +1 Habilidade Grau 1, 2 ou 3
       </td>
     </tr>
   <tr>
@@ -136,7 +136,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       12 (doze)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 3
+      +1 Habilidade Grau 1, 2 ou 3
       </td>
     </tr>
   <tr>
@@ -152,7 +152,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       14 (catorze)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 3
+      +1 Habilidade Grau 1, 2 ou 3
       </td>
     </tr>
   <tr>
@@ -168,7 +168,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       16 (dezesseis)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 4
+      +1 Habilidade Grau 1, 2 ou 4
       </td>
     </tr>
   <tr>
@@ -184,7 +184,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       18 (dezoito)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 4
+      +1 Habilidade Grau 1, 2 ou 4
       </td>
     </tr>
    <tr>
@@ -200,7 +200,7 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
       20 (vinte)
       </td>
     <td>
-      +1 Habilidade Tier 1, 2 ou 4
+      +1 Habilidade Grau 1, 2 ou 4
       </td>
     </tr>
     </tbody>
