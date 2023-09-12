@@ -10,6 +10,6 @@
   "icon": "GiScythe",
   "element": "darkness",
   "caption": "Sombras cobrem sua arma, aumentando seu tamanho e transformando-a em uma enorme Foice das Trevas.",
-  "description": "<p>Não exige testes.</p><p>Transforma sua arma em uma foice das trevas que aumenta o dano da sua arma em <code>3d12 + 50</code> de dano sombrio.</p><p>Essa instância também faz com que seus ataques normais agora passem a causar <b>100% de dano sombrio</b>. Nesse caso, você continua testando contra a <b>Defesa Física</b> dos inimigos, o que muda é apenas o tipo de dano causado.</p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Agilidade</b>.</p><p>Transforma sua arma em uma foice das trevas que aumenta o dano da sua arma em <code>3d12 + 50</code> de dano sombrio.</p><p>Essa instância também faz com que seus ataques normais agora passem a causar <b>100% de dano sombrio</b>. Nesse caso, você continua testando contra a <b>Defesa Física</b> dos inimigos, o que muda é apenas o tipo de dano causado.</p>",
   "tags": ["grimo","zanari"]
 }

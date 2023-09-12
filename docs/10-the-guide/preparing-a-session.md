@@ -70,9 +70,9 @@ Nesses momentos, os jogadores vão precisar alternar entre a pele do Personagem 
 Esse tipo de desafio também pode ser opcional, mas pode ser apresentado de uma forma que intrigue os Personagens.
 
 :::note Exemplo de Enigma
-Enquanto seguem avançando nos corredores, uma Estátua de pedra de um grande Goblin meio-pássaro é uma homenagem à  Ogoron, o Pássaro Negro. A estatua chama a atenção dos Aventureiros.
+Enquanto seguem avançando nos corredores, uma Estátua de pedra de um grande Drogo de Areia é uma homenagem à  Ogoron, o Deus supremo da Terra. A estatua chama a atenção dos Aventureiros.
 
-A figura possui 4 Braços, e em cada mão, há um espelho que reflete a luz natural em paineis de Pedra no lado oposto da Sala.
+A figura bestial possui 4 Braços, e em cada mão, há um espelho que reflete a luz natural em paineis de Pedra no lado oposto da Sala.
 
 Entender a combinação correta pode destravar um item, ou até reavivar uma criatura adormecida.
 

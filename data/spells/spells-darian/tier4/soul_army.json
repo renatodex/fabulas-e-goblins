@@ -1,6 +1,6 @@
 {
   "name": "Exército das Almas",
-  "magic_cost": "30 P.M",
+  "magic_cost": "20 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Passiva",
@@ -10,6 +10,6 @@
   "icon": "GiMinions",
   "element": null,
   "caption": "Diversos pequenos portais Etéreos surgem ao redor do Dariano, trazendo os mortos para realizarem sua vingança.",
-  "description": "<p>Não exige testes. Você conjura <b>10 Almas Etéreas</b> que possuem <code>1 P.V</code>, <code>+10 de Ataque e Defesa</code> <code>4 Pontos de Movimento</code>, e atacam com armas corpo a corpo, causando <code>50 pontos</code> de dano físico cada.</p><p><b>Todas as Almas agem ao mesmo tempo, e em um único turno</b> ao <b>final da rodada</b>, e cada alma se desfaz após o primeiro ataque bem sucedido. O Dariano pode desfazer as Almas a qualquer momento.</p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Espírito</b> para ser utilizada. Você conjura <b>10 Almas Etéreas</b> que possuem <code>1 P.V</code>, <code>+10 de Ataque e Defesa</code> <code>4 Pontos de Movimento</code>, e atacam com armas corpo a corpo, causando <code>50 pontos</code> de dano físico cada.</p><p><b>Todas as Almas agem ao mesmo tempo, e em um único turno</b> ao <b>final da rodada</b>, e cada alma se desfaz após o primeiro ataque bem sucedido. O Dariano pode desfazer as Almas a qualquer momento.</p>",
   "tags": ["grimo","darian"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiAwareness",
   "element": "darkness",
   "caption": "Envia uma mensagem mental a um alvo através de sua sombra.",
-  "description": "<p>Não requer testes.</p><p>Escolha um alvo. Você <b>envia uma mensagem</b> que pode ser ouvida de <b>forma clara e sutil</b> como se você estivesse verbalizando para o alvo. O alvo só consegue saber que foi você que enviou a mensagem caso ele <b>reconheça sua voz</b>. (ou caso possua algum tipo de identificação de origem mágica)</p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Influência</b>.</p><p>Escolha um alvo. Você <b>envia uma mensagem</b> que pode ser ouvida de <b>forma clara e sutil</b> como se você estivesse verbalizando para o alvo. O alvo só consegue saber que foi você que enviou a mensagem caso ele <b>reconheça sua voz</b>. (ou caso possua algum tipo de identificação de origem mágica)</p>",
   "tags": ["grimo","zanari"]
 }

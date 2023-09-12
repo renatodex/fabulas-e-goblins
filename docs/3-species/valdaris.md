@@ -16,7 +16,7 @@ import MoveUnderwater from './../../data/spells/spells/move_underwater.json'
 
 ## Descrição
 
-Os Valdaris são uma espécie de Anfíbios que dominam primariamente os extensos rios e oceanos de Galantia. Fisicamente eles se desenvolveram para se adaptar a viverem submersos, possuindo a capacidade de respirar normalmente tanto dentro quanto fora d'agua.
+Os Valdaris são uma espécie de Anfíbios que dominam primariamente os extensos rios e oceanos de Galamtia. Fisicamente eles se desenvolveram para se adaptar a viverem submersos, possuindo a capacidade de respirar normalmente tanto dentro quanto fora d'agua.
 
 Enquanto as Espécies da superfície batizaram o extenso mar das Terras Místicas como Caldera, para os Valdaris, ele é muito mais que um mero impecílio de transporte. Frequentemete mencionado pelos mais antigos como **Timeria**, ele representa todo o espaço submerso que os Valdari entendem Caldera. Por esse motivo, é muito comum se referir ao Povo Submerso como Timerianos.
 

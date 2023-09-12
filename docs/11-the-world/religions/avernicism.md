@@ -21,14 +21,14 @@ Com o passar das eras, 10 (dez) encarnações de **Avérnicos** viveram no mundo
 | Avérnico | Arma     | Traços |
 | ------   | -------- | ------ |
 | Herodus   |  Cajado   |  União, Ubuntu, Paz |
-| Mino   |  Cruz   |  Despertar, Fé, Espiritualidade |
+| Minali   |  Cruz   |  Despertar, Fé, Espiritualidade |
 | Joromur   |  Arco   |  Bravura, Caça, Conexão |
 | Valamika   |  Espada   |  Resiliência, Justiça, Vingança |
 | Rugro   |  Harpão   |  Exploração, Aliança, Reconstrução |
 | Alastor   |  Orbe   |  Guerra, Ódio, Repressão |
 | Ysanar   |  Tábua   |  Renascimento, Magia, Conhecimento |
 | Valis   |  Correntes   |  Liberdade, Justiça, Luta |
-| Beremord   |  Jarro   |  Fartura, Beneolência, Bondade |
+| Beremord   |  Jarro   |  Fartura, Benevolência, Bondade |
 | Lazan   |  Tridente   |  Domínio, Poder, Liderança |
 
 ## Herodus

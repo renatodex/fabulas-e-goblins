@@ -22,12 +22,12 @@ O Povo Livre acredita nas forças que regem o equilíbrio das Terras Místicas. 
 
 Filósofos, Estudiosos e Exploradores possuem afinidade natural com os Zíngaros, pois seu povo geralmente é dotado de grande sabedoria e conhecimento sobre muitas as culturas e muitos os povos, passados de geração a geração.
 
-Dentre as divindades se encontram `Somonir`, `Aypheria` e `Joromur`.
+Dentre as divindades se encontram `Ogoron`, `Aypheria` e `Joromur`.
 
-A Adoração a Somonir por exemplo vêm da cultura Razalan. A divindade representa o elemento Divino, frequentemente ilustrada como um grande Anjo dourado com a forma de um Razalan e três pares de asas, sentado em seu trono infinito.
-Diziam que ele podia recuperar a vida em regiões desérticas e mortas, trazendo a luz de volta e dando um fim aos extensos períodos lunares do norte, que impediam o crescimento saudável de campos inteiros.
+A Adoração a Ogoron por exemplo vêm da conexão do Povo Livre com a terra. A divindade representa a própria Matéria, e é frequentemente ilustrada como um **Drogo de areia** com enormes Garras de Pedra e três pares de asas.
+Diziam que ele podia recuperar a vida em regiões desérticas e mortas, trazendo a vida e dando um fim aos extensos períodos lunares do norte, que impediam o crescimento saudável de campos inteiros.
 
-Os Zíngaros, que tiveram seu surgimento no Norte, acreditam que sua passagem pela terra é abençoada por Somonir, e que milagres da Agricultura já foram presenciados pelo seu povo diversas vezes na história dos reinos Itinerantes, como `Zíngar`, `Abenia` e `Ga'jhara`.
+Os Zíngaros, que tiveram seu surgimento no Norte, acreditam que sua passagem pela terra é abençoada por Ogoron, e que milagres da Agricultura já foram presenciados pelo seu povo diversas vezes na história dos reinos Itinerantes, como `Zíngar`, `Abenia` e `Ga'jhara`.
 
 ## Seus Trajes
 

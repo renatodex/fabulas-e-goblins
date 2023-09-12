@@ -10,6 +10,6 @@
   "icon": "GiBoltSpellCast",
   "element": "eletric",
   "caption": "Utiliza o Implemento do Tempesto para conjurar um Raio de Julgamento em um Inimigo impuro.",
-  "description": "Não requer testes, mas não terá efeito ao ser usada em Filhos da Tempestade ou indivíduos Puros. Causa (TLv*D12 + 1*TLv) de Dano Elétrico",
+  "description": "Exige um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>, mas não terá efeito ao ser usada em Filhos da Tempestade ou indivíduos Puros. Causa (TLv*D12 + 1*TLv) de Dano Elétrico",
   "tags": ["racial", "children-of-storms"]
 }

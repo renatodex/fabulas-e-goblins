@@ -1,6 +1,6 @@
 {
   "name": "Absorver Energia",
-  "magic_cost": "TIER * 4 P.M",
+  "magic_cost": "4 P.M",
   "duration_time": null,
   "attack_logic": "Mágico",
   "action_type": "Ativa",

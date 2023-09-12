@@ -65,7 +65,7 @@ Os **Armadons** também demonstram grande poder contra o avanço dos **Algul's**
 
 Nessa Era, grandes pactos de aliança entre os povos são estabelecidos para possibilitar a exploração de outros continentes.
 
-Aqui vemos as primeiras versões dos **contornos mapeados** dos continentes de **Astraka**, **Prismus** e **Galantia**, sendo **Vônimus** o último a integrar o conjunto dos territórios já explorados.
+Aqui vemos as primeiras versões dos **contornos mapeados** dos continentes de **Astraka**, **Prismus** e **Galamtia**, sendo **Vônimus** o último a integrar o conjunto dos territórios já explorados.
 
 Uma versão do mapa das **terras conhecidas** começa a se popularizar pelo mundo, sendo pela primeira vez referida como as **Terras Místicas**.
 

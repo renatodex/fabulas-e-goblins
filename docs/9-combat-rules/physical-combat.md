@@ -14,7 +14,7 @@ O ataque com armas é uma das **ações mais comuns** de um combate. Seja uma es
 Nesta seção falaremos sobre dois tipos de Armas:
 
 1. O Ataque e Defesa com Armas físicas, ou seja, aquelas que causam **Dano Físico no oponente** e não dependem de magia para funcionar.
-2. O Ataque e Defesa com Armas mágicas, ou sseja, aquelas que causam **Dano Mágico no oponente** e dependem de alguma magia para funcionar.
+2. O Ataque e Defesa com Armas mágicas, ou seja, aquelas que causam **Dano Mágico no oponente** e dependem de alguma magia para funcionar.
 
 ## Atacando com uma Arma
 
@@ -34,7 +34,7 @@ A fórmula para determinar o resultado do **teste de ataque** é:
 
 ![Rolagem-Ataque.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cb29f1e52-3cc0-46d4-97b1-5b9e9edd2c06.jpg)
 
-Lembrando que os *Bônus* e o *Ataque da Arma* devem ser somados ao **número mais alto dos 2d20**, seguindo as regras do [Sistema 2d20](/docs/8-system-2d20/system-introduction).
+Lembrando que os *Bônus* e o *Ataque da Arma* devem ser somados ao **número mais alto dos 2d20**, seguindo as regras do [Sistema Duo20](/docs/8-system-duo20/system-introduction).
 
 ### 2. Determinando o Sucesso de um Ataque
 
@@ -123,7 +123,7 @@ Seja como for, a fórmula para determinar o resultado do **teste de defesa** é:
 
 ![Rolagem-Defesa-2.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6e18d813-d0f2-47c5-9ba8-3deb096d6915.jpg)
 
-Lembrando que os *Bônus* e o *Ataque da Arma* devem ser somados ao **número mais alto dos 2d20**, seguindo as regras do [Sistema 2d20](/docs/8-system-2d20/system-introduction).
+Lembrando que os *Bônus* e o *Ataque da Arma* devem ser somados ao **número mais alto dos 2d20**, seguindo as regras do [Sistema Duo20](/docs/8-system-duo20/system-introduction).
 
 No momento da ação, o Narrador especificará se o Ataque é Físico ou Mágico. Para ataques Físicos, você deve usar sua **Defesa Física**, já para ataques Mágicos, você deve usar sua **Defesa Mágica**.
 

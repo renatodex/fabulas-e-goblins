@@ -30,8 +30,6 @@ Grimos são divididos em **4 Tiers de Poder**, que **destravam** a **cada 5 nív
 
 **A cada 2 níveis de evolução do Grimo**, você poderá **aprender uma nova habilidade de qualquer Tier que você já destravou anteriormente**.
 
-A **única excessão** é o **Nível 10**, que é considerado um **Nível especial**, onde você, **além de destravar alguns benefícios**, passa a poder **utilizar Magias de Tier 3**.
-
 <table>
   <thead>
   <tr>

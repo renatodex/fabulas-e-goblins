@@ -10,6 +10,6 @@
   "icon": "GiInvisible",
   "element": "darkness",
   "caption": "Camufla-se em uma sombra, substituindo sua forma.",
-  "description": "<p>Não exige testes.</p><p>Escolha uma sombra alvo. Você mergulha na sombra escolhida, camuflando sua presença física por tempo indeterminado.</p><p>Enquanto estiver camuflado, a sombra do alvo assumirá a forma de sua sombra, denunciando sua camuflagem para olhos atentos.</p><p><b>Se atacar um alvo que não percebeu sua presença</b> à partir da sombra, você receberá um bônus de <code>+5 de Ataque (físico ou mágico)</code></p><p>Se você ficar inconsciente, ou se a sombra do alvo desaparecer, o feitiço se desfaz instantaneamente e você é cuspido para fora da camuflagem.</p>",
+  "description": "<p>Exige um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p>Escolha uma sombra alvo. Você mergulha na sombra escolhida, camuflando sua presença física por tempo indeterminado.</p><p>Enquanto estiver camuflado, a sombra do alvo assumirá a forma de sua sombra, denunciando sua camuflagem para olhos atentos.</p><p><b>Se atacar um alvo que não percebeu sua presença</b> à partir da sombra, você receberá um bônus de <code>+5 de Ataque (físico ou mágico)</code></p><p>Se você ficar inconsciente, ou se a sombra do alvo desaparecer, o feitiço se desfaz instantaneamente e você é cuspido para fora da camuflagem.</p>",
   "tags": ["grimo","zanari"]
 }

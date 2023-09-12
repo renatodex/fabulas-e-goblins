@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/magni-machine
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca5225d62-9e7e-41ed-aa22-9bf7da0aa99b.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import pulse_cannon from './../../data/spells/spells-magni/ultimates/pulse_cannon.json'
@@ -148,10 +150,10 @@ Com o passar do tempo, enormes **templos de metal** conhecidos como  **Cubos de 
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e74fe53-1a59-4a12-b983-03853213d10f.PNG" width="80" /> | Bomba Comum + 0 | Mágico | D4 + 3 | Bomba mágica que atinge alvos em uma área 2x2 escolhida pelo usuário. **(custo: 1 P.M)** | 3 Cargas | Intelecto |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Caff778c3-7731-4b7b-99c5-4b4273c07a2d.png" width="80" /> | Manopla de Energia Comum + 0 | Físico e Mágico | D10 + 2 | Manopla de energia que desfere um ataque físico, mas causa dano mágico não elemental. | 3 Cargas | Intelecto |
+| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
+| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | --- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e74fe53-1a59-4a12-b983-03853213d10f.PNG" width="80" /> | Bomba Comum + 0 | Mágico | D4 + 3 | Bomba mágica que atinge alvos em uma área 2x2 escolhida pelo usuário. **(custo: 1 P.M)** | 3 Cargas | Intelecto | Queimadura, Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Caff778c3-7731-4b7b-99c5-4b4273c07a2d.png" width="80" /> | Manopla de Energia Comum + 0 | Físico e Mágico | D10 + 2 | Manopla de energia que desfere um ataque físico, mas causa dano mágico não elemental. | 3 Cargas | Intelecto | Contusão, Mágico |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
 
@@ -181,7 +183,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={pulse_cannon} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
@@ -198,7 +200,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={flaming_module} />
 <SpellFromJson expanded={false} spellData={short_circuit} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -213,7 +215,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={fire_cross} />
 <SpellFromJson expanded={false} spellData={auto_destruction} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -228,7 +230,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={load_balancer} />
 <SpellFromJson expanded={false} spellData={missile_module} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

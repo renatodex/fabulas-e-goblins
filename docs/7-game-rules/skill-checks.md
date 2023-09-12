@@ -5,26 +5,44 @@ slug: /7-game-rules/skill-checks
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C927c13b1-80cd-418a-83f3-34aca47b708b.png
 ---
 
+import RollTable from '@site/src/components/roll_table/index'
+
 ![Realizando testes no jogo](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C927c13b1-80cd-418a-83f3-34aca47b708b.png)
 
-Ações de Perícias são aquelas realizadas com a ajuda de seus Atributos.
+Chamamos de **Ações de Perícia** as ações realizadas com a ajuda de seus Atributos.
 
-A maioria das ações do jogo, excluindo as de combate, são ações de perícia.<br/>
-Fazer um salto de um telhado para o outro por exemplo pode se beneficiar do Atributo **Agilidade**, enquanto empurrar uma **Porta pesada** pode exigir alguns pontos em **Força**.
+Essas ações são diferente das ações de ataque e defesa de combate, pois para essas na maioria das vezes você utiliza seus Recursos no lado direito da ficha, como seus **Pontos de Ataque Mágico** ou **Defesa Física**.<br/>
 
-Ao realizar ações de **Perícia**, o Narrador na maioria das vezes solicitará que você use um **determinado atributo** para **complementar seu teste**.
+Um exemplo de uma **Ação de Perícia** seria fazer um salto de um telhado para o outro. Nesse caso, o Narrador poderia pedir uma Ação de Perícia do atributo **Agilidade**, enquanto ao empurrar uma **Porta pesada**, ele pode exigir um teste de **Força**.
+
+Sempre que realizar ações assim, você deverá somar **o valor do seu atributo** ao resultado do maior dado obtido na rolagem padrão de ```2d20```.
 
 Dizemos que essas ações são **imediatas**, pois assim que o jogador **rola o dado** de forma aberta, o Narrador pode imediatamente dizer a ele se sua ação foi bem sucedida ou não.
 
 Também incentivamos que a maioria das rolagens seja realizada dessa forma, pois isso traz transparência e previsibilidade ao jogo.
-
+Epic20
 ## Como realizar um teste?
 
-Seguindo as regras do [Sistema 2d20](/docs/8-system-2d20/system-introduction), para passar em um teste você deve rolar 2 (dois) d20, e então escolher o maior resultado (exceto em caso de **Desastre**),
+Seguindo as regras do [Sistema Duo20](/docs/8-system-duo20/system-introduction), para passar em um teste você deve rolar 2 (dois) d20, e então escolher o maior resultado (exceto em caso de **Desastre**),
 
 Para saber se passou no teste, você **deverá rolar o dado** e **comparar** o resultado com a **tabela abaixo**. Dependendo do **tipo da rolagem**, sua ação será caracterizada de uma **forma diferente**. Falaremos também de cada um desses resultados:
 
-![SkillRolls.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C58b75b7b-5df0-4245-a2e9-7e6bec013012.png)
+<RollTable />
+
+
+## Exemplos de Testes e seus atributos
+
+| Atributo | Exemplos de Ações |
+|----------|---------|
+| Força    | Empurrar objetos pesados, desvencilhar-se de amarras, abrir portas à força, etc  |
+| Agilidade    | Pular vãos/buracos com precisão, alcançar alvos móveis rapidamente, etc  |
+| Resiliência    | Resistir a dor física/mental, caminhar longos trechos sem comida, etc |
+| Intelecto    | Pesquisar em livros, decifrar objetos/mecanismos complexos, etc  |
+| Elo Mágico    | Interagir com objetos/entidades mágicas, detectar presenças arcanas/elementais, etc  |
+| Espírito    | Comunicar-se com entidades etéreas, manipular artefatos espirituais, etc |
+| Sobrevivência    | Criar ferramentas improvisadas, orientar-se em territórios desconhecidos, rastrear, etc |
+| Influência    | Persuadir ou intimidar pessoas, obter informações privilegiadas, integrar-se discretamente, etc  |
+| Destino    | Alterar ou reconhecer o curso de eventos futuros, sentir desvios ou interações no próprio caminho de vida, perceber acontecimentos predestinados, evitar ou realizar profecias, etc |
 
 ### Desastre
 

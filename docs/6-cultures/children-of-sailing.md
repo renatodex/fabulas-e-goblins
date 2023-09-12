@@ -15,7 +15,7 @@ Sempre com muitas histórias pra contar, os Filhos da Nau, também chamados de C
 
 Além das cidades portuárias, existem diversos **Reinos-Balsa** flutuantes, como **Ark'deria** e **Qae'dramar**, estabelecidos em pleno alto mar, com objetivo de fornecer abrigo e suporte a grande quantidade de embarcações que navegam pelo Mar de Calderia.
 
-Essas incríveis maravilhas da engenharia impressionam qualquer visitante, e são cada vez mais um incomodo aos reinos Terrestres, pois estão imunes a quaisquer jurisprudências territoriais de continentes como Galantia.
+Essas incríveis maravilhas da engenharia impressionam qualquer visitante, e são cada vez mais um incomodo aos reinos Terrestres, pois estão imunes a quaisquer jurisprudências territoriais de continentes como Galamtia.
 
 ## Crenças
 
@@ -31,7 +31,7 @@ Os Adoradores de Ehphyros contam que seu Deus é tido para os Calderianos como o
 
 Já Valis, é uma Lenda e uma divindade Calderiana, que conta a história sobre um Metalóide prisioneiro de Guerra que teria se tornado Corsário e libertado os Metalóides na Guerra contra a opressão dos Razalans. A Lenda conta que suas Correntes Mágicas teriam sido usadas para trazer a liberdade para o Povo nativo do Oriente.
 
-Por último, temos Estiros como uma Divindade do Panteão Avérnico, sendo ele o primeiro Filho da Deusa Ludélia com o Deus Valeon, considerado como o Primogênito do Deus Supremo, Tronus.
+Por último, temos **Estiros** como uma Divindade do Panteão Avérnico, sendo ele o primeiro Filho da Deusa **Ludélia** com o Deus **Valeon**, considerado como o Primogênito do Deus Supremo, **Tronus**.
 Estiros, visto constantemente como o Deus da Liberdade, da Independência e da Igualdade, deixou Zahadia, a morada dos Deuses, para viajar pelo reino das criaturas inferiores e aprender mais sobre o mundo. Dizem as lendas que os poderes permitiam manipular o ar, o clima e a temperatura, para criar e descriar tempestades ao seu bel prazer.
 
 ## Tradições

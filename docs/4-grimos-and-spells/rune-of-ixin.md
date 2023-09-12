@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/rune-of-ixin
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7b768311-0f72-41b7-9758-58b040efeac0.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import absorv_energy from './../../data/spells/spells-ixin/tier1/absorv_energy.json'
@@ -143,8 +145,8 @@ Você pode escolher entre duas armas iniciais:
 
 | Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
 | ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | ----- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 | Físico | D12 + 3 | Bastão comum embedado em energia rúnica. | 3 Cargas | Agilidade | Impacto |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto | Perfuração |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 | Físico | D12 + 3 | Bastão comum embedado em energia rúnica. | 3 Cargas | Agilidade | Contusão |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto | Perfurante |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 | Físico | D12 + 3 | Espada comum embedada com energia rúnica. | 3 Cargas | Força | Cortante |
 
 **A distância padrão para Armas de Alcance é de 6 quadrados.*
@@ -171,7 +173,7 @@ Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, nã
 <SpellFromJson expanded={false} spellData={runelar_irruption} />
 <SpellFromJson expanded={false} spellData={eyes_of_the_zigurat} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
 
 <SpellFromJson expanded={false} spellData={absorv_energy} />
 <SpellFromJson expanded={false} spellData={anti_air_beam} />
@@ -186,7 +188,7 @@ Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, nã
 <SpellFromJson expanded={false} spellData={runic_trails} />
 <SpellFromJson expanded={false} spellData={store_energy} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -202,7 +204,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={runic_orbs} />
 <SpellFromJson expanded={false} spellData={weapon_toss} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -217,7 +219,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={suspension_seal} />
 <SpellFromJson expanded={false} spellData={zigurate_pillar} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={4} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

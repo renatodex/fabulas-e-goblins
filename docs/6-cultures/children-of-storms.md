@@ -29,14 +29,14 @@ Muitos daqueles que entram para a Seita cometeram erros gravíssimos no Passado,
 Isso é possível porque a Seita possui Pactos Diplomáticos com todos os Reeinos conhecidos, que garantem que os **Tempestos**, desde que sob responsabilidade da Seita, possam ser "perdoados" de seus Crimes.
 Mesmo não podendo ser mais caçados, quando aceitam participar da Seita, os **Tempestos Expurgados** jamais poderão retornar à socidade a qual pertenciam anteriormente.
 
-Entre suas divindades, estão principalmente Quaemanir, seguidas de Dzeranir e Ysanar. Deuses justos, mas que governam seus planos a punho firme, punindo severamente infratores que desrespeitem seus costumes.
+Entre suas divindades, estão principalmente Quaemanir, seguidas de Heliodes e Ysanar. Deuses justos, mas que governam seus planos a punho firme, punindo severamente infratores que desrespeitem seus costumes.
 
 Quaemanir, por exemplo é descrita como uma massiva serpente de um único Chifre energizado. Essa criatura representa o próprio Trovão, e é frequentemente relatada como uma lendária Serpente cujo corpo é coberto por runas. A Quaemanir é descrita em histórias dormindo em grandes cadeias de montanhas com seu corpo gigante e imponente.
 Através do seu Chifre, ela teria o poder de canalizar o mais fatal de todos os Trovões, sendo capaz de repartir o próprio seio da terra com seu poder.
 Frequentemente associada a Justiça e ao Equilíbrio, é também venerada por outras Seitas como a Ordem do Protetorado.
 
-Sabe-se também que existem muitos Mistérios e Segredos dentro da Seita. Figuras suspeitas, e pactos paralelos que podem fugir da apresentação oficial da Religião.
-Não se sabe muito sobre esses Segredos, mas o que se sabe é que os **Líderes da Tempestade** mantém a Faca afiada para aqueles que querem mais do que precisam.
+Sabe-se também que existem muitos mistérios e segredos dentro da Seita. Figuras suspeitas, e pactos paralelos que podem fugir da apresentação oficial da Religião.
+Não se sabe muito sobre esses segredos, mas o que se sabe é que os **Líderes da Tempestade** mantém a faca afiada para aqueles que querem mais do que precisam.
 
 ## Seus Trajes
 

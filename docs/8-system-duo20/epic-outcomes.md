@@ -1,13 +1,13 @@
 ---
 id: epic-outcomes
 title: Ações Épicas
-slug: /8-system-2d20/epic-outcomes
+slug: /8-system-duo20/epic-outcomes
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C081a3f36-e5fb-4e40-a832-8ef0011e5d77.jpg
 ---
 
 ![Lidando com Ações Épicas](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C081a3f36-e5fb-4e40-a832-8ef0011e5d77.jpg)
 
-No **Sistema 2d20**, um **Desastre Épico** e o **Triunfo Épico** ocorre quando um lançamento de 2d20 resulta em **dois Desastres** ou **dois Trinfos**
+No **Sistema Duo20**, um **Desastre Épico** e o **Triunfo Épico** ocorre quando um lançamento de 2d20 resulta em **dois Desastres** ou **dois Trinfos**
 
 Esses lançamentos especiais são **extremamente raros**, e portanto, devem ser interpretados de **forma igualmente épica**, pois a chance de acontecerem numa rolagem é de apenas **0,25%**. (**em tese, seriam necessárias 400 rolagens com 2d20 para que um único Triunfo Épico acontecesse!**)
 

@@ -10,6 +10,6 @@
   "icon": "GiSunbeams",
   "element": null,
   "caption": "Conjura um poderoso brilho runico que causa cegueira a todos em volta do conjurador.",
-  "description": "<p>Esse poder não exige testes.</p><p>Todos os alvos num raio (circular) de <code>5 espaços</code> em volta de você são infrinigidos com <code>Cegueira 1</code>.</p>",
+  "description": "<p>Esse poder exige um <b>Teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p>Todos os alvos num raio (circular) de <code>5 espaços</code> em volta de você são infrinigidos com <code>Cegueira 1</code>.</p>",
   "tags": ["grimo","ixin"]
 }

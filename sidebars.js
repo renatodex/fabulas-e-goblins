@@ -111,13 +111,13 @@ const sidebars = {
         'game-rules/evolving',
         'game-rules/game-etiquette',
       ],
-      '8. Sistema 2d20': [
-        'system-2d20/system-introduction',
-        'system-2d20/critical-outcomes',
-        'system-2d20/epic-outcomes',
-        'system-2d20/matching-outcomes',
-        'system-2d20/nulled-outcomes',
-        'system-2d20/advantage-rolls',
+      '8. Sistema Duo20': [
+        'system-duo20/system-introduction',
+        'system-duo20/critical-outcomes',
+        'system-duo20/epic-outcomes',
+        'system-duo20/matching-outcomes',
+        'system-duo20/nulled-outcomes',
+        'system-duo20/advantage-rolls',
       ],
       '9. Regras  de Combate': [
         'combat-rules/combat-intro',

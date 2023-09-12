@@ -66,9 +66,9 @@ Mas mesmo sabendo como escavar, os Armadons perderam completamente a memória ge
 ## Religião e Divindades
 
 A Cultura Armadon vêm dos continentes Mediterrâneos, onde o Panteão dos Heróis é tradicionalmente venerado.
-Entre eles, os deuses **Valamir**, **Mino** e **Ysanar** são frequentemente cultuados, por serem conhecidos como exímios exploradores e responsáveis pelo grande desenvolvimento do Povo Armadon pelo mundo.
+Entre eles, os deuses **Valamika**, **Valeon** ,**Moltron** e **Aypheria** são frequentemente cultuados, por serem conhecidos como exímios guerreiros ou exploradores, responsáveis pela proteção do Povo Armadon pelo mundo, ou até mesmo como provedores da fartura, a exemplo da deusa Aypheria, a semente de Arzala.
 
-Esses heróis, portando suas Espadas e Foices Lendárias, abriram espaço para as novas terras com a força de seus punhos, e semearam o solo seco para brotar vida mesmo nos áridos campos desérticos.
+Enquanto algumas dessas divindades portavam suas armas Lendárias, outras atenderam os pedidos dos Armadons quando eles mais precisavam, abrindo espaço para as novas terras com a força de seus punhos, semeando o solo seco com as bençãos de Aypheria para brotar vida mesmo nos áridos campos desérticos.
 
 Estátuas dessas Divindades preenchem os muros das Megalópolis dos Armadons, contando histórias de como esses Deuses teriam descido ao mundo para criar a cultura e povo Armadon, plantando a semente de uma nova civilização em meio ao Caos da vida selvagem.
 

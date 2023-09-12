@@ -19,11 +19,11 @@ Reinos como Gemênia, Saibron e Arkamar estão localizados no coração do deser
 
 ## Crenças & Tradições
 
-A fundação dos reinos desérticos se iniciou com a vinda dos Armadons para Galantia, que possuiam tanto o conhecimento para lidar com esse bioma, como também a tecnologia para trazer segurança e proteção aos seus habitantes.
+A fundação dos reinos desérticos se iniciou com a vinda dos Armadons para Galamtia, que possuiam tanto o conhecimento para lidar com esse bioma, como também a tecnologia para trazer segurança e proteção aos seus habitantes.
 
 Os Armadons foram cruciais para que esses reinos pudessem nascer no coração da areia, e junto com Armadons, muitos de seus costumes e culturas também foram mesclados as fundações das cidades.
 
-Moltron, o Espírito do Fogo, é representado como um grande Aburu de Lava e venerado como o Deus do Fogo e da Força pelos povos Saibron. Outra Igreja muito presente nos Povos da Areia é a Igreja de Valamir, que enaltece o Herói, Profeta e Explorador, cuja posse da Espada Lendária "Sabre dos ventos" ajudou a conquistar os Reinos do Mediterrâneo e que de acordo com antigos manuscritos, teria também culminado na chegada dos Armadons em Galantia.
+Moltron, o Espírito do Fogo, é representado como um grande Aburu de Lava e venerado como o Deus do Fogo e da Força pelos povos Saibron. Outra Igreja muito presente nos Povos da Areia é a Igreja de Valamika, que enaltece a Heroína e Explorador, cuja posse da lendária "Espada de Quatro Lâminas" ajudou a conquistar os Reinos do Mediterrâneo e que de acordo com antigos manuscritos, teria também culminado na chegada dos Armadons em Galamtia.
 
 Também muito venerado entre os Povos de Areia é o Deus Valeon, uma divindade do Panteão Avérnico que é dita como filho do Deus Supremo conhecido como Tronus. Valeon, o Primeiro Cavaleiro, teria libertado os povos antigos, através da sua conexão com a poderosa Energia Arcana.
 

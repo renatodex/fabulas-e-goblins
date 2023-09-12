@@ -11,7 +11,7 @@ import ImageContent from '../../src/components/image_content/index'
 
 O **Fábulas & Goblins** conta a história de um mundo vasto conhecido como as **Terras Místicas**.
 
-Quatro continentes iniciais compõem o espectro de tudo aquilo que já foi explorado e descoberto um dia. São eles **Galantia**, **Astraka**, **Vonimus** e **Prismus**.
+Quatro continentes iniciais compõem o espectro de tudo aquilo que já foi explorado e descoberto um dia. São eles **Galamtia**, **Astraka**, **Vonimus** e **Prismus**.
 
 Muitos outros lugares se escondem por trás da densa névoa que ainda remanesce desde o dia em que o Blecaute foi conjurado.
 
@@ -20,10 +20,10 @@ Aqui nessa seção, contamos um pouco dos Quatro continentes e suas característ
 # O Mapa
 
 ![Terras-Místicas-All.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C481469f3-95c8-49b3-af87-2c504c1519cd.jpg)
-# Galantia
+# Galamtia
 
 <ImageContent src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C988fae63-f308-4a7b-a791-c2837a8d12b4.jpg">
-  <p>Galantia é um vasto e arborizado território que conta atualmente com a maior população Goblin das <b>Terras Místicas</b>.</p>
+  <p>Galamtia é um vasto e arborizado território que conta atualmente com a maior população Goblin das <b>Terras Místicas</b>.</p>
   <p>Seu clima no geral é quente e úmido, permitindo que uma massiva variedade de flora e fauna possa se desenvolver com abundância. Os campos floridos e as densas florestas são uma característica marcante dessa terra.</p>
   <p>O continente também conta com um enorme rio de mais de 3000 kilômetros de extensão que corre do coração do continente até o oceano de Caldera.</p>
   <p>As grandes cadeias de montanhas são lar de diversas criaturas selvagens e de poderosos <b>Reinos Armadônios</b>.</p>

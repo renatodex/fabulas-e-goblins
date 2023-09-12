@@ -66,7 +66,7 @@ As Culturas disponíveis são:
             <td>Filhos das Areias</td>
             <td>Resiliência, Força, Sobrevivência</td>
             <td>Túnicas Leves, Trajes acolchoados, e Fibra de Cacto</td>
-            <td>Moltron, Valamir, Valeon</td>
+            <td>Moltron, Valamika, Valeon</td>
             <td>Resiliência +1, Sobrevivência +1, Força +1, P.V +4</td>
         </tr>
         <tr>
@@ -74,41 +74,41 @@ As Culturas disponíveis são:
             <td>Exploração, Adaptação, Disciplina</td>
             <td>Trajes Leves e Quentes, Tecidos a base de Algodão e Couro especiais para baixas temperaturas</td>
             <td>Ehphyros, Valis, Estiros</td>
-            <td>Agilidade +1, Influência +1, Resiliência +1, Iniciativa +2</td>
+            <td>Agilidade +1, Influência +1, Resiliência +1, Iniciativa +1</td>
         </tr>
          <tr>
             <td>Filhos das Arcádia</td>
             <td>Estudo, Conhecimento, Inovação</td>
             <td>Túnicas chamativas com Algodão Oxidado, Trajes de Frio com muitas camadas</td>
-            <td>Zaravos, Ysanar, Qabalis</td>
+            <td>Záravos, Ysanar, Qabalis</td>
             <td>Intelecto +1, Elo Mágico +1, Destino +1, P.M +3</td>
         </tr>
        <tr>
             <td>Filhos das Ilhas</td>
-            <td>Espiritismo, Misticismo, Conexão</td>
+            <td>Ocultismo, Espiritismo, Misticismo, Conexão</td>
             <td>Trajes tribais, Mantos rúnicos e muitos adereços</td>
-            <td>Ogoron, Herodus, Dinímia</td>
+            <td>Azarog, Herodus, Dinímia</td>
             <td>Espírito +1, Elo Mágico +1,Sobrevivência +1, P.M +4</td>
         </tr>
        <tr>
             <td>Filhos do Subterrâneo</td>
             <td>Proteção, Forja, União</td>
             <td>Trajes metálicos e de couro com muitas camadas</td>
-            <td>Herodus, Xenosh, Icaron</td>
+            <td>Alastor, Xenosh, Ludélia</td>
             <td>P.V +5, Pontos de Defesa +1, Pontos de Ataque +1, Resiliência +1</td>
         </tr>
         <tr>
             <td>Filhos da Tempestade</td>
             <td>Doutrina, Religião, Ordem</td>
             <td>Túnicas elegantes, capuzes e adereços religiosos</td>
-            <td>Quaemanir, Dzeranir, Ysanar</td>
+            <td>Quaemanir, Heliodes, Ysanar</td>
             <td>Destino +1, Influência +1, Espírito +1</td>
         </tr>
         <tr>
             <td>Filhos do Povo Livre</td>
             <td>Agricultura, Comércio, Fronteiras</td>
             <td>Trajes típico de viajantes, com muitas aberturas e bolsos</td>
-            <td>Somonir, Joromur, Aypheria</td>
+            <td>Ogoron, Joromur, Aypheria</td>
             <td>Influência +1, Agilidade +1, Pontos de Ataque +1</td>
         </tr>
         <tr>

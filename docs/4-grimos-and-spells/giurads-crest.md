@@ -5,6 +5,8 @@ slug: /4-grimos-and-spells/giurads-crest
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C43c7657b-30a2-40f3-b289-5f39646c7e20.png
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
 import knights_fury from './../../data/spells/spells-giurad/tier1/knights_fury.json'
@@ -154,10 +156,10 @@ Uma das grandes virtudes que se destacam na criação do Grimo é sua criativida
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo de Dano | Dano | Descrição | Durabilidade | Atributo |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | --------|
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | Físico | D12 + 4 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Resiliência |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | Físico | D12 + 4 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Força |
+| Imagem | Nome da Arma | Tipo de Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
+| ------ | ------------ | ---- | --------- | ------------ | -------- | --------| --- |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | Físico | D12 + 4 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Resiliência | Cortante |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | Físico | D12 + 4 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Força | Cortante |
 
 ## Requisito de entrada
 
@@ -174,7 +176,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={knights_fury} />
 
-### Habilidades - Tier 1
+### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavaleiro inicial seleciona duas dessas habilidades para compor sua build inicial.
 
@@ -191,7 +193,7 @@ Essas são as habilidades iniciais do Grimo do Cavaleiro. Normalmente, um Cavale
 <SpellFromJson expanded={false} spellData={squire_specialization} />
 <SpellFromJson expanded={false} spellData={warrior_resistance} />
 
-### Habilidades - Tier 2
+### Habilidades - Tier 2 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -206,7 +208,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={stock} />
 <SpellFromJson expanded={false} spellData={wear_resistance} />
 
-### Habilidades - Tier 3
+### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -221,7 +223,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={stunning_blast} />
 <SpellFromJson expanded={false} spellData={trained_parry} />
 
-### Habilidades - Tier 4
+### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 
