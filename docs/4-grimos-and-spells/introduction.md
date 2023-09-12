@@ -24,31 +24,3 @@ Mas os Grimos não são apenas items mágicos comuns, eles são artefatos criado
 No jogo, cada personagem escolhe **1 (um) Grimo inicial** para se vincular, mas conforme progride no jogo, pode se vincular a Grimos adicionais.
 
 A seguir, você aprenderá sobre alguns Grimos já conhecidos e muito populares no mundo.
-
-## Custo de Magia
-
-Cada poder no Grimo possui seu próprio custo de magia especificado no cartão de magia.
-Aqui está um exemplo do Toque de Cura:
-
-<SpellFromJson expanded={false} spellData={healing_touch} />
-<br/>
-
-O Custo deste poder é de <code>7 Pontos de Magia</code>.
-
-Como você pode ver, o valor de Cura que o <b>Adepto de Lunn</b> causa ao utilizar <b>Toque de Cura</b> depende do valor do GRAU que o Grimo está.
-
-Então se a fórmula for ```GRAU * (1d12 + 8)```, e o Grimo estiver no <b>GRAU 2</b>, significa que a fórmula final será ```2d12 + 16```.
-
-Mas qual é o custo de Magia caso você utilize **Toque de Cura** no **GRAU 2**?
-
-Sempre que você utilizar o poder num Grau superior, deverá somar <b><u>metade do custo do poder arredondado para cima para cada GRAU acima do grau inicial.</u></b>
-
-Logo, se o nosso **Adepto de Lunn** quiser usar **Toque de Cura** no **GRAU 4**, o custo final será:
-
-<div style={{marginBottom: '20px'}}>
-  <code>Custo = 7 (GRAU 1) + 7/2 (GRAU 2) + 7/2 (GRAU 3) + 7/2 (GRAU 4)</code><br/>
-  <code>Custo = 7 (GRAU 1) + 4 (GRAU 2) + 4 (GRAU 3) + 4 (GRAU 4)</code><br/>
-  <code>Custo = 7 + 12 = <b>19 Pontos de Magia</b>.</code>
-</div>
-
-Caso nosso **Adepto de Lunn** não possua Magia suficiente para conjurar um **Toque de Cura GRAU 4**, ele poderá escolher gastar menos magia, e curar menos, utilizando um **Toque de Cura GRAU 3** ou inferior.

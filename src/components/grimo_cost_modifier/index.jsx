@@ -3,10 +3,10 @@ import {
   PiSealQuestionDuotone,
 } from 'react-icons/pi'
 
-export default function GrimoCostModifier ({ cost, downCost, upCost }) {
+export default function GrimoCostModifier ({ cost, downCost, upCost, marginClass="mt-3" }) {
   return (
     <div className="tailwindpage" style={{display: "inline-block"}}>
-      <div className="flex border-2 font-semibold rounded bg-purple-100 italic px-2 text-lg border-purple-400 mt-3">
+      <div className={`shadow-md flex border-2 font-semibold rounded bg-purple-100 italic px-2 text-lg border-purple-400 ${marginClass}`}>
         {!!cost && (
           <p>
             Mod Custo PM: <span>+-{cost}</span>

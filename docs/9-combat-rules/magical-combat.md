@@ -5,11 +5,15 @@ slug: /9-combat-rules/magical-combat
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C97132ead-7b95-40cb-ad24-8ac4af65d437.jpg
 ---
 
+import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
+
 import { SpellFromJson } from './../../src/components/skill_block/index'
+import lunns_echo from './../../data/spells/spells-lunn/ultimates/lunns_echo.json'
 import bash from './../../data/spells/spells-giurad/tier1/bash.json'
 import double_blast from './../../data/spells/spells-allura/tier3/double_blast.json'
 import apprentice_blast from './../../data/spells/spells-allura/tier1/apprentice_blast.json'
 import linear_beam from './../../data/spells/spells-allura/tier2/linear_beam.json'
+import summon_sombrizir from './../../data/spells/spells-zanari/tier2/summon_sombrizir.json'
 import upgrade_sombrizir from './../../data/spells/spells-zanari/tier3/upgrade_sombrizir.json'
 import super_runic_trail from './../../data/spells/spells-ixin/tier3/super_runic_trail.json'
 
@@ -211,40 +215,49 @@ Pegamos por exemplo o poder **Rajada do Aprendiz**, do Grimo de Allura de **GRAU
   <SpellFromJson expanded={false} spellData={apprentice_blast} />
 </p>
 
-Sempre que um personagem quiser usar a **Rajada do Aprendiz** no **GRAU 2**, ele gastará <code>3 P.M + 3 P.M</code>, resultando em um custo total de <code>6 P.M</code>!
+Sempre que um personagem quiser usar a **Rajada do Aprendiz** no **GRAU 2**, ele deverá verificar o **"Modificador de Custo de PM"** para o **GRAU 2**. Essa informação pode ser consultada diretamente na página do Grimo. No caso, o modificador do GRAU 2 deste Grimo é o seguinte:
 
-Então vamos lá:
+<GrimoCostMod upCost={2} downCost={2} marginClass="" />
+<br/><br/>
 
-| Poder |  GRAU   | Custo |  Dano   |
-|-------|---------|--------|--------|
-| Rajada do Aprendiz | GRAU 1 | 3 P.M | 5d4 + 5 |
-| Rajada do Aprendiz | GRAU 2 | 6 P.M | 5d8 + 10 |
-| Rajada do Aprendiz | GRAU 3 | 9 P.M | 5d12 + 15 |
-| Rajada do Aprendiz | GRAU 4 | 12 P.M | 5d20 + 20 |
+Isso significa que utilizar **Rajada do Aprendiz** num GRAU superior ao dele <i>(no caso superior ao GRAU 1)</i>, custará um adicional de <code>+2 Pontos de Magia</code>.
 
-Percebe como o Custo vai se acumulando a cada GRAU? Por via de regra, **para todo o poder cuja intensidade depende do GRAU** podemos usar a seguinte fórmula de custo <code>CustoGrau = GRAU * Custo</code>
+Enquanto ao utilizar um poder de <code>GRAU 3</code> no <code>GRAU 2</code>, você poderá reduzir seu custo em <code>-2 Pontos de Magia</code>
 
-Isso também significa que esses poderes também podem ser utilizado em **GRAUS inferiores!**
+Essa regra serve para que o jogador possa utilizar seus poderes de forma estratégica, podendo conjurar "versões mais fracas" dos poderes que gastam menos pontos de magia, e vice versa.
 
-Como assim?
+Vejamos como ficaria a tabela de conjuração da Rajada em cada GRAU:
+
+| Poder |  GRAU   | Custo | Modificador de P.M | Dano   |
+|-------|---------|--------|--------|----|
+| Rajada do Aprendiz | GRAU 1 | 3 P.M | --  | 5d4 + 5 |
+| Rajada do Aprendiz | GRAU 2 | 5 P.M | 3 + 2 | 5d8 + 10 |
+| Rajada do Aprendiz | GRAU 3 | 7 P.M | 3 + 2 + 2 | 5d12 + 15 |
+| Rajada do Aprendiz | GRAU 4 | 12 P.M | 3 + 2 + 2 + 5 | 5d20 + 20 |
+
+Percebe como o Custo vai se acumulando a cada GRAU? Por via de regra, **para todo o poder que possui Fórmula de Dano/Cura com GRAU** podemos usar a seguinte fórmula de custo <code>CustoPoder = CustoOriginal + ModificadoresDeCustoDoGrauUtilizado</code>
+
+Dessa forma, o Personagem pode utilizar seus poderes em **GRAUS inferiores!**
+
+Vamos ver alguns exemplos?
 
 ### 1. Exemplo Simples
 
-Imagine que nosso **Mago de Allura** esteja no **GRAU 3**, e **Rajada do Aprendiz**, custaria para ele um total de **9 Pontos de Magia**.
-Porém, nosso Mago não tem toda essa quantidade de Pontos, ele já usou todo o seu poder no combate, e agora possui apenas **7 Pontos de Magia**.
+Imagine que nosso **Mago de Allura** queira utilizar a **Rajada do Aprendiz** no **GRAU 3**, o que custaria a ele um total de **7 Pontos de Magia**.
+Porém, nosso Mago não tem toda essa quantidade de Pontos, ele já usou todo o seu poder no combate, e agora possui apenas **6 Pontos de Magia**.
 
-Uma coisa que ele pode fazer então é utilizar a **Rajada de Aprendiz** no **GRAU 2**, ao invés de utilizá-la no **GRAU 3**. Usar o poder no **GRAU 2** teria um custo de apenas **6 Pontos de Magia**, que ele poderia gastar, já que possui **7 Pontos**.
+Uma coisa que ele pode fazer então é utilizar a **Rajada de Aprendiz** no **GRAU 2**, ao invés de utilizá-la no **GRAU 3**. Usar o poder no **GRAU 2** teria um custo de apenas **5 Pontos de Magia**, que ele poderia gastar, já que possui **6 Pontos**.
 
 | Poder |  GRAU   | Custo |  Dano   |
 |-------|---------|--------|--------|
 | Rajada do Aprendiz | GRAU 1 | 3 P.M | 5d4 + 5 |
-| **Rajada do Aprendiz** | **GRAU 2** | **6 P.M** | **5d8 + 10**     |
-| Rajada do Aprendiz | GRAU 3 | 9 P.M | 5d12 + 15 |
+| **Rajada do Aprendiz** | **GRAU 2** | **5 P.M** | **5d8 + 10**     |
+| Rajada do Aprendiz | GRAU 3 | 7 P.M | 5d12 + 15 |
 | Rajada do Aprendiz | GRAU 4 | 12 P.M | 5d20 + 20 |
 
 ### 2. Poderes de GRAU 2 ou superior
 
-A estratégia que comentamos na seção anterior é muito útil para qualquer aventureiro, mas existem poderes que não podem ser usados dessa maneira. Pegue por exemplo o poder **Feixe Linear**, do **GRAU 2** do Grimo de Allura:
+A estratégia que comentamos na seção anterior é muito útil para qualquer aventureiro. Pegue por exemplo o poder **Feixe Linear**, do **GRAU 2** do Grimo de Allura:
 
 <p>
   <SpellFromJson expanded={false} spellData={linear_beam} />
@@ -254,18 +267,21 @@ De acordo com a lista de poderes, o **Feixe Linear** só é introduzido ao **Mag
 
 Mas e se eu quiser usar o **Feixe Linear** no **GRAU 1**? É possível?
 
-Sim, é possível, mas a regra é um pouco diferente, e criamos essa regra especificamente para permitir a interpretação no jogo.
+Sim, é possível, e a regra é a mesma. Para isso, você deverá olhar o **valor negativo** do **"Modificador de Custo de PM"** do GRAU que você deseja usar o poder, no caso, o GRAU 1. No Grimo de Allura, você encontraria esse valor:
 
-**Qualquer poder cuja intensidade é baseada em GRAU, e que tenha sido introduzido no GRAU 2 ou superior, poderá ser utilizado em qualquer GRAU inferior gastando-se metade do Custo (arredondado para cima).**
+<GrimoCostMod downCost={3} marginClass="" />
+<br/><br/>
+
+Isso significa que quando você usar o **Feixe Linear**, ao invés de custar **8 P.M**, ele custará apenas **5 P.M**:
 
 Logo, a tabela de custo do **Feixe Linear** fica da seguinte maneira:
 
-| Poder |  GRAU   | Custo |  Dano   |
-|-------|---------|--------|--------|
-| **Feixe Linear** | **GRAU 1** | **4 P.M** | **d8 + d6 + 12** |
-| Feixe Linear | GRAU 2 | 8 P.M | 2d8 + 2d6 + 2d12 |
-| Feixe Linear | GRAU 3 | 16 P.M | 3d8 + 3d6 + 3d12 |
-| Feixe Linear | GRAU 4 | 24 P.M | 4d8 + 4d6 + 4d12 |
+| Poder |  GRAU   | Custo | Modificador de P.M | Dano   |
+|-------|---------|--------|---|--------|
+| **Feixe Linear** | **GRAU 1** | **5 P.M** | **8 - 3** | **d8 + d6 + 12** |
+| Feixe Linear | GRAU 2 | 8 P.M |  --   |2d8 + 2d6 + 2d12 |
+| Feixe Linear | GRAU 3 | 10 P.M | 8 + 2  |3d8 + 3d6 + 3d12 |
+| Feixe Linear | GRAU 4 | 15 P.M | 8 + 2 + 5 | 4d8 + 4d6 + 4d12 |
 
 ### 3. Poderes com interações - Exemplo complexo
 
@@ -282,44 +298,45 @@ Nesse caso, se o nosso Mago estiver no **GRAU 4** e quiser utilizar a **Rajada D
 
 **Sim! Nesse caso ele pode!**
 
-A **Rajada Dupla** pode ser um poder de **GRAU 3**, mas a **intensidade dela** se baseia na intensidade de um poder de **GRAU 1**, logo é como se ela ignorasse a regra anterior, podendo ser usada normalmente no **GRAU 2**, respeitando a tabela:
+A **Rajada Dupla** pode ser um poder de **GRAU 3**, mas a **intensidade dela** se baseia na intensidade de um poder de **GRAU 1**, logo devemos o custo base da **Rajada do Aprendiz GRAU 1**, aplicar a fórmula de Custo da **Rajada Dupla** (2x P.M), e então montar a tabela de custo seguindo a mesma regra do primeiro exemplo:
 
 | Poder |  GRAU   | Custo |  Dano   |
 |-------|---------|--------|--------|
-| Rajada do Aprendiz | GRAU 1 | 6 P.M | 2x (5d4 + 5) |
-| **Rajada do Aprendiz** | **GRAU 2** | **12 P.M** | **2x (5d8 + 10)** |
-| Rajada do Aprendiz | GRAU 3 | 18 P.M | 2x (5d12 + 15) |
-| Rajada do Aprendiz | GRAU 4 | 24 P.M | 2x (5d20 + 20) |
+| Rajada Dupla | GRAU 1 | 3+3 P.M | 2x (5d4 + 5) |
+| **Rajada Dupla** | **GRAU 2** | **5+5 P.M** | **2x (5d8 + 10)** |
+| Rajada Dupla | GRAU 3 | 7+7 P.M | 2x (5d12 + 15) |
+| Rajada Dupla | GRAU 4 | 12+12 P.M | 2x (5d20 + 20) |
 
 ### 4. Poderes Aprimorados - Exemplo complexo
 
 Um outro exemplo comum é quando um **Aprimoramento** altera a **intensidade de um poder baseado em GRAU**:
 
 <p>
+  <SpellFromJson expanded={false} spellData={summon_sombrizir} />
   <SpellFromJson expanded={false} spellData={upgrade_sombrizir} />
 </p>
 
-Neste exemplo, o Aprimoramento altera a **fórmula de Dano** do Sombrizir, passando de ```TIER*1d6``` para ```TIER*1d12```.
+Neste exemplo, o Aprimoramento altera a **fórmula de Dano** de **Conjurar Sombrizir**, passando de ```TIER*1d6``` para ```TIER*1d12```.
 Como a mudança foi apenas na formula, a regra se mantém igual, a única diferença é que nossa tabela de danos muda à partir do momento que o personagem obtém o aprimoramento:
 
 **Antes de obter o aprimoramento:**
 
-| Poder |  GRAU   | Custo |  Dano   |
-|-------|---------|--------|--------|
-| Conjurar Sombrizir | GRAU 1 | 2 P.M | 1d6 |
-| Conjurar Sombrizir | GRAU 2 | 4 P.M | 2d6 |
-| Conjurar Sombrizir | GRAU 3 | 8 P.M | 3d6 |
-| Conjurar Sombrizir | GRAU 4 | 16 P.M | 4d6 |
+| Poder |  GRAU   | Custo | Modificador de P.M |  Dano   |
+|-------|---------|--------|--|--------|
+| Conjurar Sombrizir | GRAU 1 | 2 P.M | 4 - 2  | 1d6 |
+| Conjurar Sombrizir | GRAU 2 | 4 P.M | -- | 2d6 |
+| Conjurar Sombrizir | GRAU 3 | 6 P.M | 4 + 2  | 3d6 |
+| Conjurar Sombrizir | GRAU 4 | 11 P.M | 4 + 2 + 5  | 4d6 |
 
 **Depois de obter o aprimoramento:**
 
 
-| Poder |  GRAU   | Custo |  Dano   |
-|-------|---------|--------|--------|
-| Conjurar Sombrizir | GRAU 1 | 2 P.M | 1d12 |
-| Conjurar Sombrizir | GRAU 2 | 4 P.M | 2d12 |
-| Conjurar Sombrizir | GRAU 3 | 8 P.M | 3d12 |
-| Conjurar Sombrizir | GRAU 4 | 16 P.M | 4d12 |
+| Poder |  GRAU   | Custo | Modificador de P.M |  Dano   |
+|-------|---------|--------|--|--------|
+| Conjurar Sombrizir | GRAU 1 | 2 P.M | 4 - 2 | 1d12 |
+| Conjurar Sombrizir | GRAU 2 | 4 P.M | -- | 2d12 |
+| Conjurar Sombrizir | GRAU 3 | 6 P.M | 4 + 2 | 3d12 |
+| Conjurar Sombrizir | GRAU 4 | 11 P.M | 4 + 2 + 5 | 4d12 |
 
 ## Errando Magias
 
@@ -365,3 +382,29 @@ Fazemos isso pois pensamos que seria mais interessante para o jogador preservar 
 Neste formato, o próprio jogador pode decidir se prefere narrar a falha no **lançamento do poder**, ou se prefera narrar a falha na **canalização do poder**, porque em alguns momentos pode ser interessante para você preservar seus **Pontos de Magia** naquele momento.
 
 Lembre-se que **falhar frequentemente** na **canalização** de um poder pode ser ruim para a **auto-estima** do seu personagem! (caso ele tenha uma)
+
+## Conjurando Poderes especiais
+
+Todo Grimo possui ao menos **1 Poder especial**. Esse poder geralmente só pode ser usado uma vez por **descanso de jogo**, e costuma ser bastante poderoso e impactante.
+
+Diferente de todos os outros poderes, os Especiais podem ser conjurados mesmo que você **não tenha os Pontos de Magia necessários** para canalizá-lo.
+
+Pegue por exemplo o poder **Eco de Lunn**, do **Grimo de Lunn**:
+
+<SpellFromJson expanded={false} spellData={lunns_echo} />
+<br/>
+
+Este poder tem um custo de **7 P.M**, e assim como outros poderes, ele também escala seu custo conforme utilizado em Graus superiores, veja a tabela:
+
+| Poder |  GRAU   | Custo | Modificador de P.M  |
+|-------|---------|--------|--------|
+| Eco de Lunn | GRAU 1 | 7 P.M | -- |
+| Eco de Lunn | GRAU 2 | 9 P.M | 7 + 2 |
+| Eco de Lunn | GRAU 3 | 11 P.M | 7 + 2 + 2 |
+| Eco de Lunn | GRAU 4 | 16 P.M | 7 + 2 + 2 + 5 |
+
+Mas o que acontece se você não tiver **Pontos de Magia** suficiente para conjurar seu especial?
+
+Se por exemplo você quiser usar o **Eco de Lunn** no **GRAU 3** mas possuir apenas <code>8 P.M</code>, você poderá usar o **especial** mesmo assim, simplesmente zerando todos os seus Pontos. Para isso, é obrigatório que você tenha pelo menos **1 Ponto de Magia**.
+
+Dessa forma, mesmo personagens com o **Elo Mágico** enfraquecido podem brilhar novamente no auge do combate e utilizar seu **poder especial**, mesmo estando abaixo da quantidade de pontos necessários.
