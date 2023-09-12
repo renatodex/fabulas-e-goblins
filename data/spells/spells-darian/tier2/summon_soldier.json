@@ -10,6 +10,6 @@
   "icon": "GiGhost",
   "element": null,
   "caption": "Conjura um Soldado Etéreo que luta ao seu lado.",
-  "description": "<p>Escolha um ponto vazio. Você pode conjurar o espírito de um soldado nesse ponto.</p><p>A entidade é visível a todos <b>e pode atacar causando <code>TIER*(2d10+10)</code> de dano físico</b>. Não é capaz de se defender, possuindo apenas <code>1 P.V</code>.</p><p>Pode se mover <b>através de paredes</b> e <b>compartilha a visão</b> com o conjurador. O soldado age <b>por ultimo</b>, tem apenas uma ação de ataque e uma de movimento, <i>possuindo os mesmos pontos de movimento do Dariano</i>. O soldado não pode atravessar inimigos.</p><p>O espírito não pode se distanciar o equivalente a mais de 15 espaços do conjurador (sem contar diagonais), caso contrário, será dissolvido.</p>",
+  "description": "<p>Escolha um ponto vazio. Você pode conjurar o espírito de um soldado nesse ponto.</p><p>A entidade é visível a todos <b>e pode atacar causando <code>GRAU*(2d10+10)</code> de dano físico</b>. Não é capaz de se defender, possuindo apenas <code>1 P.V</code>.</p><p>Pode se mover <b>através de paredes</b> e <b>compartilha a visão</b> com o conjurador. O soldado age <b>por ultimo</b>, tem apenas uma ação de ataque e uma de movimento, <i>possuindo os mesmos pontos de movimento do Dariano</i>. O soldado não pode atravessar inimigos.</p><p>O espírito não pode se distanciar o equivalente a mais de 15 espaços do conjurador (sem contar diagonais), caso contrário, será dissolvido.</p>",
   "tags": ["grimo","darian"]
 }

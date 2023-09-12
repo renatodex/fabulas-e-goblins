@@ -135,7 +135,7 @@ export default () => {
 
             {[1,2,3,4].map(tier => (
               <div className={styles['spells-tier']}>
-                <h2>Tier {tier}</h2>
+                <h2>Grau {tier}</h2>
                 {grimoSpells.filter(spell => spell.folder == `tier${tier}` && !spell.tags.includes("ultimate")).map((spell) => (
                   <SpellFromJson
                     selected={selectedSpells.find(selectedSpell => selectedSpell.name == spell.name)}

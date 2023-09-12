@@ -10,6 +10,6 @@
   "icon": "GiAwareness",
   "element": "materia",
   "caption": "Espinhos se materializam em seu corpo, dificultando a vida de seus inimigos.",
-  "description": "<p>Cresce espinhos em seu corpo, de forma que qualquer contato com aliado ou inimigo cause <code>TIER*1d4</code> de dano extra. Estar engajado com outros aliados/inimigos fazem com que o dano seja causado a todo turno.</p><p>Esse poder custa <code>5 P.M</code> para ser conjurado, mas não exige testes e pode ser dissolvido a qualquer momento pelo conjurador.</p><p>Apenas 1 poder do tipo <b>Instância</b> pode estar ativo ao mesmo tempo.",
+  "description": "<p>Cresce espinhos em seu corpo, de forma que qualquer contato com aliado ou inimigo cause <code>GRAU*1d4</code> de dano extra. Estar engajado com outros aliados/inimigos fazem com que o dano seja causado a todo turno.</p><p>Esse poder custa <code>5 P.M</code> para ser conjurado, mas não exige testes e pode ser dissolvido a qualquer momento pelo conjurador.</p><p>Apenas 1 poder do tipo <b>Instância</b> pode estar ativo ao mesmo tempo.",
   "tags": ["grimo","ravna","instance"]
 }

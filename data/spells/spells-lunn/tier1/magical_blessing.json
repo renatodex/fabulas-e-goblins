@@ -10,6 +10,6 @@
   "icon": "GiClassicalKnowledge",
   "element": null,
   "caption": "A Benção estreita os seus traços com o Grimo, destravando conhecimentos que otimizam sua conexão com a Magia.",
-  "description": "<p>Ao aprender esta benção, você receberá um bônus de <b>Pontos de Magia</b> permanente que durará pelo tempo em que o Grimo estiver conectado a você.</p><p>A benção fornece um aumento de <code>TIER * 10</code> Pontos de Magia.</p>",
+  "description": "<p>Ao aprender esta benção, você receberá um bônus de <b>Pontos de Magia</b> permanente que durará pelo tempo em que o Grimo estiver conectado a você.</p><p>A benção fornece um aumento de <code>GRAU * 10</code> Pontos de Magia.</p>",
   "tags": ["grimo", "lunn"]
 }

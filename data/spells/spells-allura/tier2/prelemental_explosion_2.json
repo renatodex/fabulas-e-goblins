@@ -10,6 +10,6 @@
   "icon": "GiUpgrade",
   "element": null,
   "caption": "Sua experiência com explosões elementais lhe permite extrair ainda mais poder de seu Grimo, conjurando explosões mais poderosas.",
-  "description": "<p>Aprimora a <b>Explosão Prelementar</b>, causando <code>TIER * d4</code> de dano mágico adicional.</p>",
+  "description": "<p>Aprimora a <b>Explosão Prelementar</b>, causando <code>GRAU * d4</code> de dano mágico adicional.</p>",
   "tags": ["grimo", "allura"]
 }

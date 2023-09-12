@@ -12,4 +12,4 @@ slug: /10-the-guide/evolving-characters
 
 ## Existe diferença entre o Balanceamento de propriedades Físicas e Mágicas?
 
-## Quanto seria a Armadura, Ataque e Dano de Itens de Nível 20 (Tier 4)?
+## Quanto seria a Armadura, Ataque e Dano de Itens de Nível 20 (Grau 4)?

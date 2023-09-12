@@ -10,6 +10,6 @@
   "icon": "GiUpgrade",
   "element": "darkness",
   "caption": "Seu vínculo com o Grimo aprimora sua conexão com as Sombras, fortalecendo seu Sombrizir.",
-  "description": "<p>Com este aprimoramento, seu Sombrizir se torna mais forte, papssando a causar <code>TIER*1d12</code> de dano.</p>",
+  "description": "<p>Com este aprimoramento, seu Sombrizir se torna mais forte, papssando a causar <code>GRAU*1d12</code> de dano.</p>",
   "tags": ["grimo","zanari"]
 }

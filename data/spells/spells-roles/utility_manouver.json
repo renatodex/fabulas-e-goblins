@@ -10,6 +10,6 @@
   "icon": "GiBubbles",
   "element": null,
   "caption": "Sua flexibilidade te permite se adaptar a um combate e realizar uma manobra utilitária especial.",
-  "description": "<p>Uma vez por encontro, e a qualquer momento, escolha um:</p><ul><li>Durante seu turno, receba <code>+4</code> de movimento.</li><li>Durante seu turno, aumente sua alcance de ataque em <code>+2</code>.</li><li>Durante seu turno, aumente o dano causado no seu próximo ataque em <code>TIER*5</code></li><li>Forneça <code>+2</code> de Ataque ou Defesa a um aliado. (especificar se é Físico ou Mágico)</li>",
+  "description": "<p>Uma vez por encontro, e a qualquer momento, escolha um:</p><ul><li>Durante seu turno, receba <code>+4</code> de movimento.</li><li>Durante seu turno, aumente sua alcance de ataque em <code>+2</code>.</li><li>Durante seu turno, aumente o dano causado no seu próximo ataque em <code>GRAU*5</code></li><li>Forneça <code>+2</code> de Ataque ou Defesa a um aliado. (especificar se é Físico ou Mágico)</li>",
   "tags": ["role", "utility", "encounter"]
 }

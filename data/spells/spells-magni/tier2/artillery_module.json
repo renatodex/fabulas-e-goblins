@@ -10,6 +10,6 @@
   "icon": "GiMicrochip",
   "element": null,
   "caption": "Instala uma arma de artilharia que causa dano para cada espaço de distancia que o Magni está do alvo.",
-  "description": "<p><b>Compatível com Magnis ativos ou Conjurador.</b></p><p>Instala e usa o modulo escolhido.</p><p>Cada ataque normal do Magni ou seu (dependendo de quem foi instalado) agora pode ser realizado a até <b>12 espaços de distância</b>, além de causar um adicional de <code>TIER * 1</code> de <b>dano físico</b> para <b>cada espaço de distância do alvo</b> dentro do <b>alcance de ataque</b>.</p>",
+  "description": "<p><b>Compatível com Magnis ativos ou Conjurador.</b></p><p>Instala e usa o modulo escolhido.</p><p>Cada ataque normal do Magni ou seu (dependendo de quem foi instalado) agora pode ser realizado a até <b>12 espaços de distância</b>, além de causar um adicional de <code>GRAU * 1</code> de <b>dano físico</b> para <b>cada espaço de distância do alvo</b> dentro do <b>alcance de ataque</b>.</p>",
   "tags": ["grimo","magni"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiBubbles",
   "element": null,
   "caption": "Antes mesmo de um combate iniciar, você sabe avaliar seus inimigos e se preparar para o combate de forma mais eficiente.",
-  "description": "<p>Quando um encontro iniciar, escolha um</p><ul><li>Iniciar o encontro com <code>TIER*5</code> P.M temporários.</li><li>Iniciar o encontro com <code>TIER*5</code> P.V temporários.</li><li>Iniciar o encontro com <code>+4</code> de Iniciativa</li><li>Iniciar o encontro com <code>+4</code> de Bônus de Ataque.</li><li>Iniciar o encontro com <code>+4</code> de Bônus de Defesa.</li>",
+  "description": "<p>Quando um encontro iniciar, escolha um</p><ul><li>Iniciar o encontro com <code>GRAU*5</code> P.M temporários.</li><li>Iniciar o encontro com <code>GRAU*5</code> P.V temporários.</li><li>Iniciar o encontro com <code>+4</code> de Iniciativa</li><li>Iniciar o encontro com <code>+4</code> de Bônus de Ataque.</li><li>Iniciar o encontro com <code>+4</code> de Bônus de Defesa.</li>",
   "tags": ["role", "utility"]
 }

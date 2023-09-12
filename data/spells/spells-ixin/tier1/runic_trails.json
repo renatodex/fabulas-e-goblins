@@ -10,6 +10,6 @@
   "icon": "GiInterstellarPath",
   "element": null,
   "caption": "Conjura uma linha de energia rúnica no chão que se extende à sua frente causando dano a todos inimigos e sobrecarregando máquinas.",
-  "description": "<p>Escolha uma direção para conjurar <b>linha de energia runica no chão</b> que se extende por até <code>5 espaços</code> à sua frente.</p><p>Para cada inimigo atingido no caminho da trilha, faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b>, você causa <code>TIER * (2d8 + 12)</code> de dano mágico não elemental, além de inflingir <code>Sobrecarregar 1</code>.</p>",
+  "description": "<p>Escolha uma direção para conjurar <b>linha de energia runica no chão</b> que se extende por até <code>5 espaços</code> à sua frente.</p><p>Para cada inimigo atingido no caminho da trilha, faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b>, você causa <code>GRAU * (2d8 + 12)</code> de dano mágico não elemental, além de inflingir <code>Sobrecarregar 1</code>.</p>",
   "tags": ["grimo","ixin"]
 }

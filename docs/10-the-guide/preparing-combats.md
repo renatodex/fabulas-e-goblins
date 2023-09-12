@@ -67,22 +67,22 @@ Ao checar nosso [Bestiário](/database/monsters), você frequentemente encontrar
 
 Uma das características de balanceamento mais importantes deste sistema é o que chamamos de **Expectativa de Dano**:
 
-| Tier | Expectativa de Dano Jogador | Expectativa de Dano Inimigo |
+| Grau | Expectativa de Dano Jogador | Expectativa de Dano Inimigo |
 |------|---------------------|-----------------------|
-| Tier 1 | Entre 15 e 30     | Entre 6 e 12          |
-| Tier 2 | Entre 30 e 60     | Entre 12 e 24         |
-| Tier 3 | Entre 60 e 90     | Entre 24 e 48         |
-| Tier 4 | Entre 90 e 150    | 48 ou mais            |
+| Grau 1 | Entre 15 e 30     | Entre 6 e 12          |
+| Grau 2 | Entre 30 e 60     | Entre 12 e 24         |
+| Grau 3 | Entre 60 e 90     | Entre 24 e 48         |
+| Grau 4 | Entre 90 e 150    | 48 ou mais            |
 
 É através dessa **tabela de referência simples** que conseguimos fazer todo o **Balanceamento do combate**.
 
-Diversas características do sistema foram criadas levando em consideração essa tabela, desde a quantidade de **Pontos de Vida**  que os personagens **ganham por nível**, até a **quantidade de Dano** que cada **Grimo** em cada **Tier** pode causar.
+Diversas características do sistema foram criadas levando em consideração essa tabela, desde a quantidade de **Pontos de Vida**  que os personagens **ganham por nível**, até a **quantidade de Dano** que cada **Grimo** em cada **Grau** pode causar.
 
 Quando entendemos a **média de Dano** que os **inimigos** causam, e a **média de dano** que os **Personagens** causam com os ataques e poderes, passamos a ter uma noção mais precisa de como criar inimigos personalizados, ou como **selecionar inimigos** para um combate.
 
-No [Bestiário](/database/monsters/) do nosso Sistema, **separamos os atributos dos inimigos em 4 Tiers**, da mesma forma que separamos os **Grimos de Personagem**.
+No [Bestiário](/database/monsters/) do nosso Sistema, **separamos os atributos dos inimigos em 4 Graus**, da mesma forma que separamos os **Grimos de Personagem**.
 
-Dessa forma, você como Narrador pode **utilizar inimigos** que os Personagens dos Jogadores **enfrentaram no Nível 1** (Tier 1), e **reutilizá-los** posteriormente em **Tiers mais avançados**:
+Dessa forma, você como Narrador pode **utilizar inimigos** que os Personagens dos Jogadores **enfrentaram no Nível 1** (Grau 1), e **reutilizá-los** posteriormente em **Graus mais avançados**:
 
 ![monsters-sheet.png](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C1c9b525e-9dc0-433f-9aa4-8e5375c8cdb9.png)
 
@@ -94,23 +94,23 @@ Essa expectativa vai te ajudar a entender como os seus Personagens podem progred
 
 Esses itens geralmente vão fornecer aos Personagens **valores de ataque e de defesa adicionais**, e por isso, precisam ser considerados na hora de criarmos novos inimigos para o Universo do **Fábulas & Goblins**.
 
-Inicialmente, cada atributo de Personagem **pode variar entre -1 e +4**, então você precisa considerar que um personagem **Tier 1** com uma **Espada +2** tecnicamente já pode possuir **+6 de Ataque**, o que permite que ele acerte facilmente os inimigos desse Tier.
+Inicialmente, cada atributo de Personagem **pode variar entre -1 e +4**, então você precisa considerar que um personagem **Grau 1** com uma **Espada +2** tecnicamente já pode possuir **+6 de Ataque**, o que permite que ele acerte facilmente os inimigos desse Grau.
 
 Todos os inimigos que você encontrará em nosso **Bestiário** foram criados com essa expectativa em mente.
 
-| Tier | Ataque Físico            | Ataque Mágico | Defesa Física | Defesa Mágica |
+| Grau | Ataque Físico            | Ataque Mágico | Defesa Física | Defesa Mágica |
 |------|--------------------------|---------------|---------------|---------------|
-| Tier 1 (Níveis 1 a 5)    | Entre +0 e +2            | Entre +0 e +2            | Entre +0 e +2            | Entre +0 e +2            |
-| Tier 2 (Níveis 5 a 10)    | Entre +2 e +4            | Entre +2 e +4            | Entre +2 e +4            | Entre +2 e +4            |
-| Tier 3 (Níveis 11 a 15)   | Entre +4 e +8            | Entre +4 e +8            | Entre +4 e +8            | Entre +4 e +8            |
-| Tier 4 (Níveis 16 a 20)   | Entre +8 e +16           | Entre +8 e +16           | Entre +8 e +16           | Entre +8 e +16           |
+| Grau 1 (Níveis 1 a 5)    | Entre +0 e +2            | Entre +0 e +2            | Entre +0 e +2            | Entre +0 e +2            |
+| Grau 2 (Níveis 5 a 10)    | Entre +2 e +4            | Entre +2 e +4            | Entre +2 e +4            | Entre +2 e +4            |
+| Grau 3 (Níveis 11 a 15)   | Entre +4 e +8            | Entre +4 e +8            | Entre +4 e +8            | Entre +4 e +8            |
+| Grau 4 (Níveis 16 a 20)   | Entre +8 e +16           | Entre +8 e +16           | Entre +8 e +16           | Entre +8 e +16           |
 
-Personagens de **Tier 4** podem possuir até **+16 de Bônus de Ataque**, isso porquê inimigos poderosos de Tier 4 como **Knerotracos** podem possuir **35 de Defesa** ou até mais que isso.
+Personagens de **Grau 4** podem possuir até **+16 de Bônus de Ataque**, isso porquê inimigos poderosos de Grau 4 como **Knerotracos** podem possuir **35 de Defesa** ou até mais que isso.
 No caso de um **Knerotraco de Fogo** por exemplo, jogadores com +4 de Atributo e +16 de Bônus de Ataque precisariam tirar **15 ou mais no Dado** caso queiram superar a defesa dele. *(4 + 16 + 15 = 35)*
 
 Logo, ao distribuir **itens mágicos** aos jogadores, você poderá usar a tabela acima para entender os **limites esperados** e **evitar** que os personagens se tornem **muito mais fortes** que os **inimigos do nosso bestiário**.
 
-Por exemplo, entregar uma **Espada +4** (Ataque Físico +4) a um **Personagem Nível 3** pode tornar ele muito forte em comparação aos inimigos desse Tier, já entregar uma **Espada +4** para um personagem **Nível 16** pode ser **inferior** ao nível de inimigos que eles enfrentarão.
+Por exemplo, entregar uma **Espada +4** (Ataque Físico +4) a um **Personagem Nível 3** pode tornar ele muito forte em comparação aos inimigos desse Grau, já entregar uma **Espada +4** para um personagem **Nível 16** pode ser **inferior** ao nível de inimigos que eles enfrentarão.
 
 :::note
 Apesar de **não recomendarmos**, vale dizer que essa regra é **irrelevante** caso você esteja **criando seus próprios inimigos** e fazendo seu próprio **balanceamento**!
@@ -120,7 +120,7 @@ Apesar de **não recomendarmos**, vale dizer que essa regra é **irrelevante** c
 
 Para criar um combate você precisa pré-selecionar um grupo de inimigos que vão enfrentar os Personagens dos Jogadores.
 
-Mas quais inimigos selecionar? E de quais Tiers?
+Mas quais inimigos selecionar? E de quais Graus?
 
 A resposta para essa pergunta é difícil, porque depende de muita coisa, como por exemplo:
 
@@ -134,14 +134,14 @@ A resposta para essa pergunta é difícil, porque depende de muita coisa, como p
 
 Esses certamente são alguns pontos para se considerar, mas com certeza existem mais!
 
-### Inimigos e Tiers
+### Inimigos e Graus
 
 Por definição, assumimos algumas regrinhas de balanceamento que podem te ajudar nessa tarefa. Elas não são precisas, mas certamente vão te dar algum norte.
 
-1. Cada Personagem de jogador é capaz de **vencer 1 inimigo do mesmo Tier que ele** com esforço moderado. (usando alguns poderes)
-2. Cada Personagem de jogador é capaz de **vencer 2 inimigos do mesmo Tier que ele** com um esforço alto. (usando muitos poderes)
-3. Cada Personagem de jogador é capaz de **vencer 1 inimigo de um Tier superior a ele** com muito esforço. (usando tudo o que tem).
-4. Dois Personagens são capazes de **vencer 1 inimigo de um Tier superior** com um esforço alto. (usando muitos poderes)
+1. Cada Personagem de jogador é capaz de **vencer 1 inimigo do mesmo Grau que ele** com esforço moderado. (usando alguns poderes)
+2. Cada Personagem de jogador é capaz de **vencer 2 inimigos do mesmo Grau que ele** com um esforço alto. (usando muitos poderes)
+3. Cada Personagem de jogador é capaz de **vencer 1 inimigo de um Grau superior a ele** com muito esforço. (usando tudo o que tem).
+4. Dois Personagens são capazes de **vencer 1 inimigo de um Grau superior** com um esforço alto. (usando muitos poderes)
 
 :::info
 Logicamente essas comparações consideram apenas jogadores em papéis de dano, que seriam capazes de causar dano ativamente a inimigos. Alguns personagens contudo, possuem habilidades estratégicas, que focam muito mais em suporte do grupo do que dano, e isso sempre precisa ser considerado na hora de criar um combate para o grupo.
@@ -151,11 +151,11 @@ Logicamente essas comparações consideram apenas jogadores em papéis de dano, 
 
 Pensando nas regras que definimos anteriormente, as seguintes configurações de inimigos e jogadores seriam equilibradas:
 
-- **4 Jogadores Tier 1**  VS  **6 Inimigos Tier 1**
-- **4 Jogadores Tier 1** VS **2 Inimigos Tier 2**
-- **4 Jogadores Tier 1** VS **4 Inimigos Tier 1 e 1 Inimigo Tier 2**
+- **4 Jogadores Grau 1**  VS  **6 Inimigos Grau 1**
+- **4 Jogadores Grau 1** VS **2 Inimigos Grau 2**
+- **4 Jogadores Grau 1** VS **4 Inimigos Grau 1 e 1 Inimigo Grau 2**
 
-Tenha cautela ao colocar Inimigos de Tiers mais avançados para batalhar contra os jogadores. Esses inimigos podem possuir habilidades que controlam o sistema de batalha ou desabilitam os personagens, tornando esse cálculo de balanceamento muito mais difícil de realizar.
+Tenha cautela ao colocar Inimigos de Graus mais avançados para batalhar contra os jogadores. Esses inimigos podem possuir habilidades que controlam o sistema de batalha ou desabilitam os personagens, tornando esse cálculo de balanceamento muito mais difícil de realizar.
 
 :::info Comece aos poucos
 Todas essas regras são baseadas nos inimigos que criamos para o nosso Bestiário. Caso você esteja criando seus próprios Inimigos, é interessante que comece devagar, colocando menos inimigos, e depois aumente gradualmente, conforme sentir que os jogadores estão conseguindo enfrentar as ameaças que você pensou.
@@ -165,7 +165,7 @@ Pesar a mão nesse processo pode fazer com que todo o time seja derrotado. (o qu
 
 ### Balanceando Combates
 
-O balanceamento perfeito é muito difícil de se fazer. E por mais que o nosso Bestiário possua **Inimigos separados por Tiers**, e oferecermos no livro **diversas idéias** para criar um combate equilibrado para os Personagens, as vezes essas regras não vão ser suficientes.
+O balanceamento perfeito é muito difícil de se fazer. E por mais que o nosso Bestiário possua **Inimigos separados por Graus**, e oferecermos no livro **diversas idéias** para criar um combate equilibrado para os Personagens, as vezes essas regras não vão ser suficientes.
 
 As vezes seus jogadores tomarão atitudes não esperadas em um combate, e tudo isso poderá comprometer o delicado equilíbrio que você calculou previamente.
 

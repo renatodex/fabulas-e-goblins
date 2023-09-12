@@ -10,7 +10,6 @@
   "icon": "GiLightningDome",
   "element": null,
   "caption": "Conjura um poderoso Domo de proteção que protege o conjurador de ataques inimigos.",
-  "description": "<p>Faça um <b>teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido,</b> você conjura um <b>domo elemental</b> que ocupa até <code>3x3 espaços</code>. O domo possui <code>TIER * (2d12 + 15)</code> Pontos de Vida e se cura caso receba um ataque do seu elemento.</p><p>A barreira é tem aspecto translúcido, é transponível para aliados mas sólida para inimigos, e só se desfaz ao perder todos os Pontos de Vida, ou a qualquer momento que o conjurador desejar.</p>",
+  "description": "<p>Faça um <b>teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido,</b> você conjura um <b>domo elemental</b> que ocupa até <code>3x3 espaços</code>. O domo possui <code>GRAU * (2d12 + 15)</code> Pontos de Vida e se cura caso receba um ataque do seu elemento.</p><p>A barreira é tem aspecto translúcido, é transponível para aliados mas sólida para inimigos, e só se desfaz ao perder todos os Pontos de Vida, ou a qualquer momento que o conjurador desejar.</p>",
   "tags": ["grimo", "allura"]
 }
-

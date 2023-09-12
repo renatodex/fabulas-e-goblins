@@ -10,6 +10,6 @@
   "icon": "GiLayeredArmor",
   "element": null,
   "caption": "Seus Magnis agora podem ser conjurados com resistência adicional.",
-  "description": "<p>Aumenta permanentemente os P.V dos Magnis conjurados em <code>TIER * 5</code>.</p>",
+  "description": "<p>Aumenta permanentemente os P.V dos Magnis conjurados em <code>GRAU * 5</code>.</p>",
   "tags": ["grimo","magni"]
 }

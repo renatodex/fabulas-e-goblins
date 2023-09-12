@@ -53,11 +53,11 @@ Devido a utilização de muitas habilidades à distância, esses personagens nã
       <td>Intelecto, Elo Mágico ou Espírito</td>
     </tr>
     <tr>
-      <td>Pontos de Vida por Nível e Tier</td>
+      <td>Pontos de Vida por Nível e Grau</td>
       <td>+2/+4/+4/+6</td>
     </tr>
     <tr>
-      <td>Pontos de Magia por Nível e Tier</td>
+      <td>Pontos de Magia por Nível e Grau</td>
       <td>+5/+5/+10/+10</td>
     </tr>
   </tbody>

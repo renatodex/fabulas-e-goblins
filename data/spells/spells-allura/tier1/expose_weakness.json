@@ -10,6 +10,6 @@
   "icon": "GiCrackedGlass",
   "element": null,
   "caption": "Faíscas corrompidas cintilam enquanto o Mago estende a mão, evocando o poder das maldições ancestrais de seu Grimo. Adiante, seu alvo sente seu Elo retorcer-se em uma agonia mágica, como se a essência pura do elemento do conjurador se insinuasse nas entranhas do Elo de seu inimigo. A corrupção elemental então enlaça sua vítima, crescendo, queimando e fragilizando sua constituição mágica, intensificando a potência do elemento Alluriano.",
-  "description": "<p>Escolha um alvo a até <code>7 espaços</code> e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma <b>maldição elemental</b> que dura <code>3 turnos</code> e aumenta em <code>TIER * 1d10</code> o <b>dano mágico elemental</b> causado por magias do seu elemento.</p>",
+  "description": "<p>Escolha um alvo a até <code>7 espaços</code> e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma <b>maldição elemental</b> que dura <code>3 turnos</code> e aumenta em <code>GRAU * 1d10</code> o <b>dano mágico elemental</b> causado por magias do seu elemento.</p>",
   "tags": ["grimo", "allura"]
 }

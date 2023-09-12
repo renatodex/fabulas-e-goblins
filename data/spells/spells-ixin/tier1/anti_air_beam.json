@@ -10,6 +10,6 @@
   "icon": "GiAerodynamicHarpoon",
   "element": null,
   "caption": "Conjura um arpão runico que aflige alvos voadores, causando dano superior.",
-  "description": "<p>Escolha um alvo voador. Você conjura um <b>arpão rúnico</b> que causa <code>TIER * (2d12 + 10)</code> além de infligir <code>Derrubar 1</code>.</p><p><i>No meio aquatico, funciona apenas com alvos que podem <b>nadar pela coluna d'agua (verticalmente)</b>, geralmente fazem isso <b>sem precisar mudar sua direção</b> <i>(exemplos do mundo real: Polvos, Cavalos Marinhos, Medusas, etc.</i></p>",
+  "description": "<p>Escolha um alvo voador. Você conjura um <b>arpão rúnico</b> que causa <code>GRAU * (2d12 + 10)</code> além de infligir <code>Derrubar 1</code>.</p><p><i>No meio aquatico, funciona apenas com alvos que podem <b>nadar pela coluna d'agua (verticalmente)</b>, geralmente fazem isso <b>sem precisar mudar sua direção</b> <i>(exemplos do mundo real: Polvos, Cavalos Marinhos, Medusas, etc.</i></p>",
   "tags": ["grimo","ixin"]
 }

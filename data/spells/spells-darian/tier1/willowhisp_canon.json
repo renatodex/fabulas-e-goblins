@@ -10,6 +10,6 @@
   "icon": "GiRingedBeam",
   "element": null,
   "caption": "Conjura um canhão etéreo que dispara um único projétil de fogo fátuo contra um inimigo.",
-  "description": "<p>Escolha um alvo. Faça um teste de <b>Ataque Mágico</b> contra ele. Se for bem sucedido, você dispara uma esfera de puro fogo fátuo contra um alvo, causando <code>TIER * (3d6 + 10)</code> de dano.</p><p>No Tier 4, esse poder causa um adicional de <code>+20 de dano</code>.</p>",
+  "description": "<p>Escolha um alvo. Faça um teste de <b>Ataque Mágico</b> contra ele. Se for bem sucedido, você dispara uma esfera de puro fogo fátuo contra um alvo, causando <code>GRAU * (3d6 + 10)</code> de dano.</p><p>No Grau 4, esse poder causa um adicional de <code>+20 de dano</code>.</p>",
   "tags": ["grimo","darian"]
 }

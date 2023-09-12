@@ -85,7 +85,7 @@ A maioria dos Aventureiros querem continuar lutando, e a maioria dos Jogadores q
 
 Mas caso o seu personagem caia num combate, e você tenha decidido que não quer mais jogar com ele, basta conversar com o Narrador, e ele poderá considerar seu personagem finalizado de uma vez por todas.
 
-Uma outra ocasião onde seu personagem pode **morrer de vez** é através dos **Poderes de Martírio**. Esses poderes são poderes especiais encontrados no **último Tier de cada Grimo.**. São poderes extremamente poderosos, que **consomem a existência do personagem ao serem utilizados**, causando **efeitos Épicos e únicos**.
+Uma outra ocasião onde seu personagem pode **morrer de vez** é através dos **Poderes de Martírio**. Esses poderes são poderes especiais encontrados no **último Grau de cada Grimo.**. São poderes extremamente poderosos, que **consomem a existência do personagem ao serem utilizados**, causando **efeitos Épicos e únicos**.
 
 :::note Adquirindo Traumas fora do combate
 

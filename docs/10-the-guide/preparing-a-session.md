@@ -113,9 +113,9 @@ Agora que você sabe como os **Pontos de Aventura** e os **Níveis** funcionam, 
 
 Ao **passar de Nível**, os Personagens **resetam os seus Pontos de Aventura**, o que apenas significa que precisam adquirir **novos Pontos** para passar para o **próximo Nível**.
 
-Cada Tier possui seus próprios requisitos de Pontos de Aventura:
+Cada Grau possui seus próprios requisitos de Pontos de Aventura:
 
-![TierAdventurePoints.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C55f90ae0-b805-40ea-8462-4220eaab8581.jpg)
+![GrauAdventurePoints.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C55f90ae0-b805-40ea-8462-4220eaab8581.jpg)
 
 ## Como distribuir Experiência depois da Sessão?
 

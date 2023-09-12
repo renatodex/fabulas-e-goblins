@@ -10,6 +10,6 @@
   "icon": "GiHydraShot",
   "element": null,
   "caption": "Aprimora o <b>Feixe Linear</b> para sua versão Suprema, permitindo conjurar diversos feixes simultâneos.",
-  "description": "<p>Aprimora o seu poder <b>Feixe Linear</b>, <b>aumentando para <code>4</code> a quantidade de Feixes</b> que você pode manter por turno, e aumentando o Dano para <code>TIER * (2d10 + 20)</code>.</p><p><b>O Feixe não exige mais concentração.</b></p>",
+  "description": "<p>Aprimora o seu poder <b>Feixe Linear</b>, <b>aumentando para <code>4</code> a quantidade de Feixes</b> que você pode manter por turno, e aumentando o Dano para <code>GRAU * (2d10 + 20)</code>.</p><p><b>O Feixe não exige mais concentração.</b></p>",
   "tags": ["grimo", "allura"]
 }

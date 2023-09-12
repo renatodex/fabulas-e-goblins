@@ -10,6 +10,6 @@
   "icon": "GiWingedShield",
   "element": null,
   "caption": "Conjura um casco trazeiro em si mesmo que absorve danos.",
-  "description": "<p>O Casco é conjurado como um escudo de proteção em suas costas, e qualquer dano recebido dessa forma é reduzido em <code>TIER*d12</code>.</p><p>O Casco também se desfaz após receber dano proveniente de um ataque dorsal, e apenas um casco pode ser conjurado ao mesmo tempo.</p><p>O conjurador pode desfazer a proteção a qualquer momento, mas caso não o faça, ela pode durar até 1 hora.</p>",
+  "description": "<p>O Casco é conjurado como um escudo de proteção em suas costas, e qualquer dano recebido dessa forma é reduzido em <code>GRAU*d12</code>.</p><p>O Casco também se desfaz após receber dano proveniente de um ataque dorsal, e apenas um casco pode ser conjurado ao mesmo tempo.</p><p>O conjurador pode desfazer a proteção a qualquer momento, mas caso não o faça, ela pode durar até 1 hora.</p>",
   "tags": ["grimo","ravna"]
 }

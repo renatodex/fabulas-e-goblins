@@ -10,6 +10,6 @@
   "icon": "GiArrowFlights",
   "element": "",
   "caption": "Uma nuvem de projéteis afiados é criada no ar e disparada numa área causando danos a todos inimigos.",
-  "description": "<p>Escolha uma área de <code>2x2 espaços</code> a até <code>7 espaços</code> de distância da sua posição e faça um teste contra  <b>Defesa Física</b> de todos inimigos na área.</p><p><b>Se for bem sucedido em pelo menos 1 alvo,</b> você conjura uma chuva de projéteis que causa <code>TIER * 4d8</code> de dano físico a todos inimigos afetados.</p>",
+  "description": "<p>Escolha uma área de <code>2x2 espaços</code> a até <code>7 espaços</code> de distância da sua posição e faça um teste contra  <b>Defesa Física</b> de todos inimigos na área.</p><p><b>Se for bem sucedido em pelo menos 1 alvo,</b> você conjura uma chuva de projéteis que causa <code>GRAU * 4d8</code> de dano físico a todos inimigos afetados.</p>",
   "tags": ["grimo", "kanus"]
 }

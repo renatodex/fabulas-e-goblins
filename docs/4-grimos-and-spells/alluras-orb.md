@@ -114,7 +114,7 @@ Como você deve ter reparado, cada escolha elemental vêm também com uma **Fraq
 Normalmente, a Magia não é afetada por essas fraquezas, mas os **Mestres Arcanistas** acreditam que a **Orbe de Allura** emite uma pequena aura invisível que afeta apenas seu utilizador, tornando o dominador um pouco mais sensível aos danos elementais causados pelo elemento com carga imediatamente oposta.
 
 Conforme a dominação elemental se intensifica, a Aura de Fraqueza parece também se intensificar, tornando o utilizador cada vez mais frágil ao Elemento opposto.<br/>
-Toda vez que você receber dano de uma Fonte de Dano elemental listada como **Fraqueza**, você receberá um adicional de **TIER*1d12** de Dano, onde Tier é o seu Tier como **Adepto de Allura**.
+Toda vez que você receber dano de uma Fonte de Dano elemental listada como **Fraqueza**, você receberá um adicional de **GRAU*1d12** de Dano, onde Grau é o seu Grau como **Adepto de Allura**.
 
 Para fins de reforço, essa caracteristica também está listada na seção poderes.
 
@@ -149,7 +149,7 @@ No primeiro momento essa definição pode ser tão simples como: Meu Mestre cham
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 
@@ -160,7 +160,7 @@ A menos que outra regra diga o contrário, você deverá:
 Cada um dos **12 Elementos** está associado a uma **Resistência**, um **Efeito** e uma **Fraqueza Elemental**.
 O **Fogo** por exemplo é forte contra o **Gelo**, pode causar **Queimaduras** e é fraco contra **Água**.
 
-Essas Forças e Fraquezas se traduzem em um **Bônus de Dano** de `Tier*1d12` cada vez que o Personagem recebe ou causa um dano associado à sua **Fraqueza** ou **Resistência**.
+Essas Forças e Fraquezas se traduzem em um **Bônus de Dano** de `Grau*1d12` cada vez que o Personagem recebe ou causa um dano associado à sua **Fraqueza** ou **Resistência**.
 
 ### 2. Sinergia Elemental
 
@@ -226,7 +226,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={alluras_torment} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={3} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={3} />
 
 <SpellFromJson expanded={false} spellData={apprentice_blast} />
 <SpellFromJson expanded={false} spellData={arcane_amplification} />
@@ -241,7 +241,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 <SpellFromJson expanded={false} spellData={prelemental_explosion} />
 <SpellFromJson expanded={false} spellData={read_element} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -256,7 +256,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={prelemental_explosion_2} />
 <SpellFromJson expanded={false} spellData={read_element_2} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -271,7 +271,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={spiral} />
 <SpellFromJson expanded={false} spellData={upgrade_skill} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

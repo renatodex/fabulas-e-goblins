@@ -10,6 +10,6 @@
   "icon": "GiBackstab",
   "element": "darkness",
   "caption": "Você espreita seu inimigo pelas sombras, fazendo um ataque sorrateiro que causa enorme dano adicional.",
-  "description": "<p>Você pode usar este poder a qualquer momento de seu turno como uma <b>Ação de Reação</b> para atacar um alvo que <b>não está atento à sua localização</b>, causando <code>4d8</code> de <b>dano de Sombras</b> extra. <i>(o dado aumenta para D10 no Tier 2, D12 no Tier 3 e D20 no Tier 4)</i></p>Você não pode estar <b>engajado</b> e nem pode ter sido <b>detectado</b> para usar esse poder. <i>(o importante aqui é que o inimigo não esteja atento à possibilidade de receber um ataque seu)</i></p><p>Pode ser usado em conjunto com outros poderes de Sombras que ocultam a presença do Zanariano.</p>",
+  "description": "<p>Você pode usar este poder a qualquer momento de seu turno como uma <b>Ação de Reação</b> para atacar um alvo que <b>não está atento à sua localização</b>, causando <code>4d8</code> de <b>dano de Sombras</b> extra. <i>(o dado aumenta para D10 no Grau 2, D12 no Grau 3 e D20 no Grau 4)</i></p>Você não pode estar <b>engajado</b> e nem pode ter sido <b>detectado</b> para usar esse poder. <i>(o importante aqui é que o inimigo não esteja atento à possibilidade de receber um ataque seu)</i></p><p>Pode ser usado em conjunto com outros poderes de Sombras que ocultam a presença do Zanariano.</p>",
   "tags": ["grimo","zanari"]
 }

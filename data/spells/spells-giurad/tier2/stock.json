@@ -10,6 +10,6 @@
   "icon": "GiPiercingSword",
   "element": null,
   "caption": "Impulsionado pelo poder do seu Grimo, você avança impetuosamente contra o inimigo, atingindo-o com uma estocada direta .",
-  "description": "<p>Faça um teste contra a <b>Defesa de um inimigo</b> que esteja a até <code>1 espaço de distância</code>.</p><p><b>Se for bem sucedido</b>, você <b>se move adjacente</b> ao alvo <b>sem qualquer penalidade</b>, desferindo uma <b>poderosa estocada</b> com sua arma que causa <code>TIER*d10 + Dano da Arma</code> de <b>Dano Físico</b>. Se a sua arma tiver a característica <b>Perfurante</b>, este ataque causa <code>TIER*d10</code> adicionais de dano, além de infligir <code>Sangramento 10</code>.</p><p><b>Se não for bem sucedido</b>, você ainda se move adjacente ao alvo, mas seu ataque não surte efeito.</p>",
+  "description": "<p>Faça um teste contra a <b>Defesa de um inimigo</b> que esteja a até <code>1 espaço de distância</code>.</p><p><b>Se for bem sucedido</b>, você <b>se move adjacente</b> ao alvo <b>sem qualquer penalidade</b>, desferindo uma <b>poderosa estocada</b> com sua arma que causa <code>GRAU*d10 + Dano da Arma</code> de <b>Dano Físico</b>. Se a sua arma tiver a característica <b>Perfurante</b>, este ataque causa <code>GRAU*d10</code> adicionais de dano, além de infligir <code>Sangramento 10</code>.</p><p><b>Se não for bem sucedido</b>, você ainda se move adjacente ao alvo, mas seu ataque não surte efeito.</p>",
   "tags": ["grimo", "giurad"]
 }

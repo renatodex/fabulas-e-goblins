@@ -10,6 +10,6 @@
   "icon": "GiIonCannonBlast",
   "element": null,
   "caption": "A ira do Cavaleiro desce sobre seus inimigos, canalizando uma energia incrível que flui do Grimo para sua arma, disparando uma rajada poderosa que atordoa seus inimigos.",
-  "description": "<p>Escolha uma <code>área de 2x2</code> a até <code>5 espaços de distância</code>. Em seguida, teste contra a <b>Defesa Física</b> de todos inimigos na área:</p><p><b>Para cada inimigo que for bem sucedido</b>, você causa <code>Dano da Arma + TIER*(D12+4)</code> de dano, além de infligir <code>Atordoar 1</code>.</p><p><b>Para cada inimigo que falhar</b>, você causa <b>metade do dano</b> e não inflige <code>Atordoar</code>.</p>",
+  "description": "<p>Escolha uma <code>área de 2x2</code> a até <code>5 espaços de distância</code>. Em seguida, teste contra a <b>Defesa Física</b> de todos inimigos na área:</p><p><b>Para cada inimigo que for bem sucedido</b>, você causa <code>Dano da Arma + GRAU*(D12+4)</code> de dano, além de infligir <code>Atordoar 1</code>.</p><p><b>Para cada inimigo que falhar</b>, você causa <b>metade do dano</b> e não inflige <code>Atordoar</code>.</p>",
   "tags": ["grimo", "giurad"]
 }

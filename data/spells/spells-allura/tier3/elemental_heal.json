@@ -10,6 +10,6 @@
   "icon": "GiHealthNormal",
   "element": null,
   "caption": "O seu Grimo está alinhado em perfeita sincronia, podendo utilizar o seu elemento até mesmo para curar suas feridas.",
-  "description": "<p>Escolha uma fonte elemental do seu elemento e faça um <b>teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido, </b> você consome a fonte elemental para recuperar <code>TIER * (2d8 + 10)</code> Pontos de Vida.</p><p>Se a fonte for abundante, o Narrador pode permitir que você use este poder múltiplas vezes.</p><p>A fonte elemental <b>precisa ser pura e natural</b>, e não pode ter sido gerada ou manipulada recentemente.</p>",
+  "description": "<p>Escolha uma fonte elemental do seu elemento e faça um <b>teste de Perícia</b> do atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido, </b> você consome a fonte elemental para recuperar <code>GRAU * (2d8 + 10)</code> Pontos de Vida.</p><p>Se a fonte for abundante, o Narrador pode permitir que você use este poder múltiplas vezes.</p><p>A fonte elemental <b>precisa ser pura e natural</b>, e não pode ter sido gerada ou manipulada recentemente.</p>",
   "tags": ["grimo", "allura"]
 }

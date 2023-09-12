@@ -10,6 +10,6 @@
   "icon": "GiNightVision",
   "element": null,
   "caption": "Você entra em modo de defesa na hora certa, preparado para receber o ataque inimigo.",
-  "description": "<p>Use a qualquer momento para aumentar dano do seu próximo ataque em <code>TIER*d12</code> de <b>Dano Físico</b>. Pode ser usado uma vez por encontro.</p>",
+  "description": "<p>Use a qualquer momento para aumentar dano do seu próximo ataque em <code>GRAU*d12</code> de <b>Dano Físico</b>. Pode ser usado uma vez por encontro.</p>",
   "tags": ["role", "carrier", "encounter"]
 }

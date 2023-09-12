@@ -10,6 +10,6 @@
   "icon": "GiWildfires",
   "element": null,
   "caption": "Evolui o poder Prisão de Fogo Fatuo para uma versão mais poderosa. Que agora causa dano enquanto prende o alvo.",
-  "description": "<p>O alvo atingido por <code>Prisão de Fogo Fátuo</code> agora sofre <code>TIER*(d12+10)</code> de dano mágico ao final de seu turno, quando for estiver prestes a se livrar da Prisão.</p><p>Se um alvo for abatido enquanto estiver na <b>Prisão de Fogo Fátuo</b>, a chama se expande em 1 espaço adjacente para todas as direções, causando <code>TIER*10</code> a inimigos e <code>TIER*5</code> aos aliados.</p>",
+  "description": "<p>O alvo atingido por <code>Prisão de Fogo Fátuo</code> agora sofre <code>GRAU*(d12+10)</code> de dano mágico ao final de seu turno, quando for estiver prestes a se livrar da Prisão.</p><p>Se um alvo for abatido enquanto estiver na <b>Prisão de Fogo Fátuo</b>, a chama se expande em 1 espaço adjacente para todas as direções, causando <code>GRAU*10</code> a inimigos e <code>GRAU*5</code> aos aliados.</p>",
   "tags": ["grimo","darian"]
 }

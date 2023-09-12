@@ -140,13 +140,13 @@ Você pode fazer o download dela aqui:
 
 Pode ser difícil para um Narrador iniciante no Sistema do Fábulas & Goblins de entender com **qual intensidade** os itens devem ser criados.
 
-**Quanto de Ataque** aquela espada precisa ter? E **quanto dano** ela precisa causar no Tier 2?
+**Quanto de Ataque** aquela espada precisa ter? E **quanto dano** ela precisa causar no Grau 2?
 
 Para todas essas perguntas, temos uma seção interessante dedicada exclusivamente ao [balanceamento de Personagens](/docs/10-the-guide/evolving-characters), mas aqui podemos prover uma tabela simples para te auxiliar nessa progressão:
 
 As colunas abaixo mostram os **valores máximos** de **ataque e defesa** que **Itens nesses níveis** devem **prover aos personagens** para que eles se mantenham desafiadores aos Inimigos.
 
-| Tier | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica | Expectativa de Dano | Números de Ouro <br/>(média de dano) |
+| Grau | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica | Expectativa de Dano | Números de Ouro <br/>(média de dano) |
 |------|---------------|---------------|---------------|---------------|---------------------|---------------------------|
 | 1    | entre +0 e +2            | entre +0 e +2            | entre +0 e +2            | entre +0 e +2            | entre 15 e 30                  | 25   |
 | 2    | entre +2 e +4            | entre +2 e +4            | entre +2 e +4            | entre +2 e +4            | entre 30 e 60                  | 45   |
@@ -185,9 +185,9 @@ Abaixo você pode encontrar uma ficha que preparamos exclusivamente para a cria�
 
 Uma das dúvidas mais comuns na criação de Inimigos é a definição balanceada de Ataque e Defesa.
 
-Abaixo listamos numa **tabela genérica** os **pontos médios** de **Ataque e Defesa (Física e Mágica)** para os **4 Tiers de jogo**.
+Abaixo listamos numa **tabela genérica** os **pontos médios** de **Ataque e Defesa (Física e Mágica)** para os **4 Graus de jogo**.
 
-| Tier | Pontos de Vida | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica |
+| Grau | Pontos de Vida | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica |
 |------|----------------|---------------|---------------|---------------|---------------|
 | 1    | 20             | 14            | 14            | 14            | 14            |
 | 2    | 40             | 20            | 20            | 20            | 20            |

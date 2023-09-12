@@ -10,6 +10,6 @@
   "icon": "GiChakram",
   "element": null,
   "caption": "Lança uma Chakram de pura energia que atravessa qualquer obstáculo para acertar um alvo.",
-  "description": "<p>Escolha um alvo, teste contra sua <b>Defesa Mágica</b> e role <code>TIER * (2d8 + 8)</code>. Você lança uma Chakram de energia que <b>pode atravessar obstáculos</b> para causar dano ao alvo escolhido.</p><p>Alvos atravessados pela Chakram <b>sofrem metade do dano</b>. Este dano não pode ser bloqueado, mas <b>pode ser reduzido por proteções mágicas</b>.</p><p>Se o alvo escolhido conseguir defender o ataque, ele não sofre dano.</p>",
+  "description": "<p>Escolha um alvo, teste contra sua <b>Defesa Mágica</b> e role <code>GRAU * (2d8 + 8)</code>. Você lança uma Chakram de energia que <b>pode atravessar obstáculos</b> para causar dano ao alvo escolhido.</p><p>Alvos atravessados pela Chakram <b>sofrem metade do dano</b>. Este dano não pode ser bloqueado, mas <b>pode ser reduzido por proteções mágicas</b>.</p><p>Se o alvo escolhido conseguir defender o ataque, ele não sofre dano.</p>",
   "tags": ["grimo","ixin"]
 }

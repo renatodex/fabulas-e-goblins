@@ -77,7 +77,7 @@ Ao escolher esse caminho, você deverá:
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial baseado na sua **Especialização Rúnica**.
 
 ## Virtudes
@@ -96,7 +96,7 @@ Estar em locais enriquecidos com **Energia Rúnica** concede a você um Bônus d
 
 Além disso, você tem **+2 de Vantagem** ao Atacar criaturas de constituição Rúnica, e possui **+2 de Defesa** ao se Defender dessas mesmas criaturas.
 
-Criaturas **Rúnicas** abatidas liberam **Energia Rúnica** pura, que pode ser absorvida pelo seu Grimo para lhe conceder **+1d6 de Dano** cumulativamente até o final do combate. Do Tier 3 para cima, o Bônus aumenta para **+1d12 de Dano**.
+Criaturas **Rúnicas** abatidas liberam **Energia Rúnica** pura, que pode ser absorvida pelo seu Grimo para lhe conceder **+1d6 de Dano** cumulativamente até o final do combate. Do Grau 3 para cima, o Bônus aumenta para **+1d12 de Dano**.
 
 A absorção é uma **Ação Livre**, mas é preciso **estar adjacente** a uma dessas criaturas **no momento do seu abate** para receber o Bônus.
 
@@ -173,7 +173,7 @@ Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, nã
 <SpellFromJson expanded={false} spellData={runelar_irruption} />
 <SpellFromJson expanded={false} spellData={eyes_of_the_zigurat} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={2} />
 
 <SpellFromJson expanded={false} spellData={absorv_energy} />
 <SpellFromJson expanded={false} spellData={anti_air_beam} />
@@ -188,7 +188,7 @@ Além disso, cada Marca ativada **subtitui uma Marca já ativa**. *(Ou seja, nã
 <SpellFromJson expanded={false} spellData={runic_trails} />
 <SpellFromJson expanded={false} spellData={store_energy} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -204,7 +204,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={runic_orbs} />
 <SpellFromJson expanded={false} spellData={weapon_toss} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -219,7 +219,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={suspension_seal} />
 <SpellFromJson expanded={false} spellData={zigurate_pillar} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={4} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={4} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

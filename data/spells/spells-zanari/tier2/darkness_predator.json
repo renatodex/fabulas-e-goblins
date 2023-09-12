@@ -10,6 +10,6 @@
   "icon": "GiFlyingDagger",
   "element": "darkness",
   "caption": "A escuridão te fortalece, potencializando suas capacidades.",
-  "description": "<p>Você causa <code>TIER*d10</code> de <b>dano sombrio</b> adicional sempre que atacar um inimigo na <b>escuridão absoluta</b>.</p>",
+  "description": "<p>Você causa <code>GRAU*d10</code> de <b>dano sombrio</b> adicional sempre que atacar um inimigo na <b>escuridão absoluta</b>.</p>",
   "tags": ["grimo","zanari"]
 }

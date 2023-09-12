@@ -10,6 +10,6 @@
   "icon": "GiDivingDagger",
   "element": "darkness",
   "caption": "Seus sentidos aguçados estão frescos e lhe conferem um primeiro ataque mais forte.",
-  "description": "<p>Se você for o primeiro na <b>ordem de iniciativa</b>, seu <b>primeiro ataque</b> em um combate causará <code>TIER*d12</code> de dano adicionais.</p>",
+  "description": "<p>Se você for o primeiro na <b>ordem de iniciativa</b>, seu <b>primeiro ataque</b> em um combate causará <code>GRAU*d12</code> de dano adicionais.</p>",
   "tags": ["grimo","zanari"]
 }

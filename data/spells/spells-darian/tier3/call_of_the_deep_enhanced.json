@@ -10,6 +10,6 @@
   "icon": "GiWildfires",
   "element": null,
   "caption": "Aumenta sua conexão com o Grimo, potencializando a Chama das Profundezas",
-  "description": "<p>Aprimora o poder <b>Chama das Profundezas</b>, fazendo com que a área de efeito se expanda para <b>3x3 quadrados</b>, e a fórmula de dano aumente para <code>TIER*(2d10 + 10)</code>.</p>",
+  "description": "<p>Aprimora o poder <b>Chama das Profundezas</b>, fazendo com que a área de efeito se expanda para <b>3x3 quadrados</b>, e a fórmula de dano aumente para <code>GRAU*(2d10 + 10)</code>.</p>",
   "tags": ["grimo","darian"]
 }

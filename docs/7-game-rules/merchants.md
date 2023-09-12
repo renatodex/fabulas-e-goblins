@@ -120,7 +120,7 @@ Além das Armas e equipamentos, existem também muitos outros itens utilitários
       <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
     </td>
     <td>Poções de Cura</td>
-    <td>Um item essêncial para qualquer aventureiro preparado. Existem diversos tipos de Poção de Cura que podem recuperar Pontos de Vida em diferentes intensidades dependendo do Tier de qualidade. A poção mínima recupera <code>1d12 + 5 P.V</code></td>
+    <td>Um item essêncial para qualquer aventureiro preparado. Existem diversos tipos de Poção de Cura que podem recuperar Pontos de Vida em diferentes intensidades dependendo do Grau de qualidade. A poção mínima recupera <code>1d12 + 5 P.V</code></td>
     <td>T1: 200<br/>T2: 400<br/>T3: 800<br/>T4: 1600<br/>T5: 3200</td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ Além das Armas e equipamentos, existem também muitos outros itens utilitários
       <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
     </td>
     <td>Bolsas de Moedas</td>
-    <td>Podem carregar moedas de forma eficiente sem ocupar espaço de Inventário, dependendo do Tier de qualidade, podem carregar diferentes quantidades de moeda.<br/><b>Capacidade da Bolsa:</b><br/>T1: 500 moedas / T2: 2000 moedas / T3: 8000 moedas / T4: 32000 moedas</td>
+    <td>Podem carregar moedas de forma eficiente sem ocupar espaço de Inventário, dependendo do Grau de qualidade, podem carregar diferentes quantidades de moeda.<br/><b>Capacidade da Bolsa:</b><br/>T1: 500 moedas / T2: 2000 moedas / T3: 8000 moedas / T4: 32000 moedas</td>
     <td>
       T1: 150<br/>
       T2: 600<br/>
@@ -157,7 +157,7 @@ Além das Armas e equipamentos, existem também muitos outros itens utilitários
       <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
     </td>
     <td>Bolsas para Viagem</td>
-    <td>Expandem o número de Itens carregados no inventário. Dependendo do Tier de qualidade, podem comportar mais itens.<br/><b>Capacidade da Bolsa:</b><br/>T1: +2 Espaços / T2: +4 Espaços / T3: +6 Espaços / T4: +8 Espaços</td>
+    <td>Expandem o número de Itens carregados no inventário. Dependendo do Grau de qualidade, podem comportar mais itens.<br/><b>Capacidade da Bolsa:</b><br/>T1: +2 Espaços / T2: +4 Espaços / T3: +6 Espaços / T4: +8 Espaços</td>
     <td>
       T1: 150<br/>
       T2: 600<br/>
@@ -178,7 +178,7 @@ Além das Armas e equipamentos, existem também muitos outros itens utilitários
       <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
     </td>
     <td>Poções de Aflição</td>
-    <td>Podem curar condições negativas como Envenenamento, Paralizia, Queimaduras, e outras condições sérias. Cada poção cura apenas 1 condição. As condições também são separadas em Tiers, logo, uma <b>Poção de Veneno Tier 1</b> não curará <b>Veneno Tier 2</b>.</td>
+    <td>Podem curar condições negativas como Envenenamento, Paralizia, Queimaduras, e outras condições sérias. Cada poção cura apenas 1 condição. As condições também são separadas em Graus, logo, uma <b>Poção de Veneno Grau 1</b> não curará <b>Veneno Grau 2</b>.</td>
     <td>150 ~ ?</td>
   </tr>
 </table>

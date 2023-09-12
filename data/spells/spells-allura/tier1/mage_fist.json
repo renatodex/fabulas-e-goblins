@@ -10,6 +10,6 @@
   "icon": "GiFirePunch",
   "element": null,
   "caption": "Se não pode resolver no Cajado, resolva nos Punhos!",
-  "description": "<p>Escolha um alvo adjacente e faça um teste contra sua <b>Defesa Física</b> utilizando seu <b>Ataque Mágico</b>.</p><p><b>Se for bem sucedido</b>, você canaliza seu elemento nas suas próprias mãos, desferindo um golpe potente em um único inimigo, e causando <code>TIER * 2d20</code> de <b>dano mágico</b> elemental do seu elemento.</p>",
+  "description": "<p>Escolha um alvo adjacente e faça um teste contra sua <b>Defesa Física</b> utilizando seu <b>Ataque Mágico</b>.</p><p><b>Se for bem sucedido</b>, você canaliza seu elemento nas suas próprias mãos, desferindo um golpe potente em um único inimigo, e causando <code>GRAU * 2d20</code> de <b>dano mágico</b> elemental do seu elemento.</p>",
   "tags": ["grimo", "allura"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiTornado",
   "element": null,
   "caption": "O Grimo se ilumina, enquanto transfere para o conjurador um incrível poder cinético para conjurar um poderoso tornado elemental.",
-  "description": "<p>Você conjura uma <b>tornado elemental</b> em uma área de até <code>2 espaços</code> em volta de sí mesmo.</p><p>Ao fazê-lo, faça um teste contra a maior <b>Defesa Mágica</b> entre os inimigos adjacentes.</p><p><b>Se for bem sucedido,</b> espiral causa <code>4d12 + 35</code> de dano a todos os inimigos no TIER 3 e <code>8d12 + 50</code> no TIER 4.</p>",
+  "description": "<p>Você conjura uma <b>tornado elemental</b> em uma área de até <code>2 espaços</code> em volta de sí mesmo.</p><p>Ao fazê-lo, faça um teste contra a maior <b>Defesa Mágica</b> entre os inimigos adjacentes.</p><p><b>Se for bem sucedido,</b> espiral causa <code>4d12 + 35</code> de dano a todos os inimigos no GRAU 3 e <code>8d12 + 50</code> no GRAU 4.</p>",
   "tags": ["grimo", "allura"]
 }

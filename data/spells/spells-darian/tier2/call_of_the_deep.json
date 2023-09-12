@@ -10,6 +10,6 @@
   "icon": "GiWildfires",
   "element": null,
   "caption": "Você conjura uma chama de fogo fátuo que atinge uma área queimando vários alvos simultaneamente.",
-  "description": "<p>Escolha uma área de 2x2 a até 6 espaços de distância. Uma chama azulada de 1 metro de altura surge na área, queimando todos os alvos. (aliados recebem metade do dano).</p><p>A chama causa <code>TIER*(2d8 + 7)</code> de dano não elemental a todos os alvos na área.</p>",
+  "description": "<p>Escolha uma área de 2x2 a até 6 espaços de distância. Uma chama azulada de 1 metro de altura surge na área, queimando todos os alvos. (aliados recebem metade do dano).</p><p>A chama causa <code>GRAU*(2d8 + 7)</code> de dano não elemental a todos os alvos na área.</p>",
   "tags": ["grimo","darian"]
 }

@@ -10,6 +10,6 @@
   "icon": "GiRingedBeam",
   "element": null,
   "caption": "Concentro o meu poder arcano, e do meu Grimo surge um projétil fulgurante do meu elemento. Eu o lanço com maestria. A rajada avança rapidamente, rasgando o ar com a velocidade de um Cogaran, alvejando meu inimigo com precisão.",
-  "description": "<p>Escolha um alvo a até <code>7 espaços</code> de distância e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você conjura um projétil mágico, que se origina do seu Grimo, atingindo o alvo escolhido e causando <code>5d4 + TIER*5</code> de dano elemental do seu elemento.</p><p>O dado do dano evolui para <code>d8</code> no Tier 2, <code>d12</code> no Tier 3 e <code>d20</code> no Tier 4.</p>",
+  "description": "<p>Escolha um alvo a até <code>7 espaços</code> de distância e teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você conjura um projétil mágico, que se origina do seu Grimo, atingindo o alvo escolhido e causando <code>5d4 + GRAU*5</code> de dano elemental do seu elemento.</p><p>O dado do dano evolui para <code>d8</code> no Grau 2, <code>d12</code> no Grau 3 e <code>d20</code> no Grau 4.</p>",
   "tags": ["grimo", "allura"]
 }

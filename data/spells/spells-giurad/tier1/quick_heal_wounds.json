@@ -10,6 +10,6 @@
   "icon": "GiHealing",
   "element": null,
   "caption": "Seu metabolismo se acelera, fechando feridas mais rapidamente.",
-  "description": "<p>Como uma habilidade Passiva, e apenas quando estiver em combate, recupere <code>1 * TIER</code> P.V no começo de cada turno seu. Pontos de Vida adicionais <b>recebidos por poderes</b> não podem ser recuperados.</p>",
+  "description": "<p>Como uma habilidade Passiva, e apenas quando estiver em combate, recupere <code>1 * GRAU</code> P.V no começo de cada turno seu. Pontos de Vida adicionais <b>recebidos por poderes</b> não podem ser recuperados.</p>",
   "tags": ["grimo", "giurad"]
 }

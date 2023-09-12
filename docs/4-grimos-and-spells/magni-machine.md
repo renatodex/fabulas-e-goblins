@@ -85,7 +85,7 @@ Ao seguir esse caminho, existem algumas coisas que você deve saber:
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 ## Virtudes
@@ -96,9 +96,9 @@ Como **Magnista**, você possui o poder de fundir objetos inanimados para criar 
 
 Os **Magnis** podem ser fabricados à partir de qualquer materia prima sobressalente, que esteja no ambiente, ou que seja carregada por você.
 
-Como uma **Ação Maior**, e apenas **1 vez por turno**, você pode animar um novo **Magni**, até o limite de **1 (um) Magni por TIER**. Em seguida, você precisará  obter controle do Magni, sendo necessário que você seja bem sucedido em uma **Ação de Perícia** do atributo **Elo Mágico**. Caso falhe, o **Magni** não o obedecerá, ou poderá até se tornar hostil. **(no caso de falha crítica)**.
+Como uma **Ação Maior**, e apenas **1 vez por turno**, você pode animar um novo **Magni**, até o limite de **1 (um) Magni por GRAU**. Em seguida, você precisará  obter controle do Magni, sendo necessário que você seja bem sucedido em uma **Ação de Perícia** do atributo **Elo Mágico**. Caso falhe, o **Magni** não o obedecerá, ou poderá até se tornar hostil. **(no caso de falha crítica)**.
 
-Cada Magni possui `P.V = TIER*10`, e adquire o mesmo **Ataque Físico e Mágico** do Dominador, assim como sua **Defesa Física e Mágica**. Ao serem utilizados em batalha, os pequenos constructos causam `TIER*1D10` de Dano físico. (mas também podem causar **dano mágico** com o uso de Mods)
+Cada Magni possui `P.V = GRAU*10`, e adquire o mesmo **Ataque Físico e Mágico** do Dominador, assim como sua **Defesa Física e Mágica**. Ao serem utilizados em batalha, os pequenos constructos causam `GRAU*1D10` de Dano físico. (mas também podem causar **dano mágico** com o uso de Mods)
 
 Um Magni pode ser **dissolvido a qualquer momento** pelo **Magnista**, mas se o fizer, **não contará como abatimento do mesmo** e nem **desencadeará efeitos secundários**.
 
@@ -112,7 +112,7 @@ Além disso, a **fabricação dos Magnis** exige uma quantidade mínima de **rec
 Se os recursos usados na fabricação do Magni forem itens mágicos ou armas, eles perdem suas propriedades mágicas durante o período que forem animados (a menos que alguma outra habilidade diga o contrário).
 :::
 
-### 2. Sinergia Mecânica (Passiva/Custo: TIER*4 P.M)
+### 2. Sinergia Mecânica (Passiva/Custo: GRAU*4 P.M)
 
 O Conjurador passa a possuir **Defesa +2** contra ataques de criaturas **Mecânicas** ou **Constructos**, assim como **Ataque +2** ao combater essas mesmas criaturas.
 
@@ -183,7 +183,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={pulse_cannon} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve selecionar duas dessas habilidades para compor sua build inicial.
 
@@ -200,7 +200,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, no início você deve 
 <SpellFromJson expanded={false} spellData={flaming_module} />
 <SpellFromJson expanded={false} spellData={short_circuit} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -215,7 +215,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={fire_cross} />
 <SpellFromJson expanded={false} spellData={auto_destruction} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={3} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={3} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -230,7 +230,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={load_balancer} />
 <SpellFromJson expanded={false} spellData={missile_module} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={5} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={5} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

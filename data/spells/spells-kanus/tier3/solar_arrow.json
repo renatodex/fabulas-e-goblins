@@ -10,6 +10,6 @@
   "icon": "GiFlamingArrow",
   "element": "fire",
   "caption": "Ao inflamar sua aljava, o Kanuriano dispara uma flecha solar ao zênite, em uma explosão de setas ígneas que descem buscando seus alvos com precisão ardente, inundando o campo de batalha com a ira incendiária dos céus.",
-  "description": "<p>Escolha <code>1 ponto</code> a até <code>10 espaços</code> de distância e faça um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido</b>, você dispara uma <b>flecha de fogo</b> para os céus que explode em dezenas de <b>setas de fogo</b> teleguiadas que atingem até <code>5 alvos</code> diferentes à sua escolha.</p><p>Para acertar o ataque, você deve realizar um teste adicional contra a maior <b>Defesa Física</b> entre os alvos.</p><p>Os alvos recebem <code>TIER * 2d12</code> além de <code>TIER * 5</code> de <b>dano mágico</b> adicional de <b>fogo</b>.</p>",
+  "description": "<p>Escolha <code>1 ponto</code> a até <code>10 espaços</code> de distância e faça um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido</b>, você dispara uma <b>flecha de fogo</b> para os céus que explode em dezenas de <b>setas de fogo</b> teleguiadas que atingem até <code>5 alvos</code> diferentes à sua escolha.</p><p>Para acertar o ataque, você deve realizar um teste adicional contra a maior <b>Defesa Física</b> entre os alvos.</p><p>Os alvos recebem <code>GRAU * 2d12</code> além de <code>GRAU * 5</code> de <b>dano mágico</b> adicional de <b>fogo</b>.</p>",
   "tags": ["grimo", "kanus"]
 }

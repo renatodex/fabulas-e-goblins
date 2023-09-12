@@ -83,7 +83,7 @@ Cada **Caçador** pode possuir até 3 contratos de Caça em seu nome, sendo que 
 
 A menos que outra regra diga o contrário, você deverá:
 
-- Escolher 2x (dois) Poderes do Tier 1.
+- Escolher 2x (dois) Poderes do Grau 1.
 - Escolher 1x (um) Poder Especial.
 
 ## Virtudes do Grimo
@@ -267,7 +267,7 @@ Esse são seus poderes especiais, cada personagem inicia com 1 Poder Especial, q
 
 <SpellFromJson expanded={false} spellData={letal_shot} />
 
-### Habilidades - Tier 1 <GrimoCostMod downCost={2} />
+### Habilidades - Grau 1 <GrimoCostMod downCost={2} />
 
 Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial seleciona duas dessas habilidades para compor sua build.
 
@@ -283,7 +283,7 @@ Essas são as habilidades iniciais do Grimo. Normalmente, um personagem inicial 
 <SpellFromJson expanded={false} spellData={hunters_favor} />
 <SpellFromJson expanded={false} spellData={prepare_attack_insect} />
 
-### Habilidades - Tier 2 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 2 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 
@@ -299,7 +299,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 5 do Grimo.
 <SpellFromJson expanded={false} spellData={sniper} />
 <SpellFromJson expanded={false} spellData={safe_camp} />
 
-### Habilidades - Tier 3 <GrimoCostMod upCost={2} downCost={2} />
+### Habilidades - Grau 3 <GrimoCostMod upCost={2} downCost={2} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 
@@ -314,7 +314,7 @@ Essas Habilidades só podem ser aprendidas a partir do Nível 10 do Grimo.
 <SpellFromJson expanded={false} spellData={solar_arrow} />
 <SpellFromJson expanded={false} spellData={ogoron_balista} />
 
-### Habilidades - Tier 4 <GrimoCostMod upCost={3} />
+### Habilidades - Grau 4 <GrimoCostMod upCost={3} />
 
 Essas Habilidades só podem ser aprendidas a partir do Nível 15 do Grimo.
 

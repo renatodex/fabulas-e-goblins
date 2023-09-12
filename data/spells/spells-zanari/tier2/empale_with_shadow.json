@@ -10,6 +10,6 @@
   "icon": "GiHoodedAssassin",
   "element": "darkness",
   "caption": "Conjura uma estaca semi densa em forma de cone que se conjura no chão e atravessa um alvo verticalmente, causando dano sombrio.",
-  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma estaca de sombras de surge a partir do chão na posição onde o alvo se encontra e o empala verticalmente, causando <code>TIER*(2d10+7)</code>",
+  "description": "<p>Escolha um alvo. Faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido</b>, você conjura uma estaca de sombras de surge a partir do chão na posição onde o alvo se encontra e o empala verticalmente, causando <code>GRAU*(2d10+7)</code>",
   "tags": ["grimo","zanari"]
 }

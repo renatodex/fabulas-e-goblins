@@ -10,6 +10,6 @@
   "icon": "GiTransparentSlime",
   "element": null,
   "caption": "Invoca uma criatura gosmenta do seu elemento que, ao tocar um inimigo, explode causando dano mágico devastador.",
-  "description": "<p>Faça um teste de Perícia usando o atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você pode conjurar uma <b>pequena criatura Gosmenta</b> do seu elemento a até <code>3 espaços</code> de distância.</p><p>A criatura não ataca, mas pode se mover a até <code>4 espaços</code> por turno.</p><p>Ao colidir com um inimigo ou objeto, ou ser atacada, a Gosma explode causando um estrondo elemental do seu elemento, afligindo os alvos adjacentes em <code>TIER * (2d10 + 12)</code> de dano mágico.</p>",
+  "description": "<p>Faça um teste de Perícia usando o atributo <b>Elo Mágico</b>.</p><p><b>Se for bem sucedido,</b> você pode conjurar uma <b>pequena criatura Gosmenta</b> do seu elemento a até <code>3 espaços</code> de distância.</p><p>A criatura não ataca, mas pode se mover a até <code>4 espaços</code> por turno.</p><p>Ao colidir com um inimigo ou objeto, ou ser atacada, a Gosma explode causando um estrondo elemental do seu elemento, afligindo os alvos adjacentes em <code>GRAU * (2d10 + 12)</code> de dano mágico.</p>",
   "tags": ["grimo", "allura"]
 }

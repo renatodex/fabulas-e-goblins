@@ -10,6 +10,6 @@
   "icon": "GiLightningDissipation",
   "element": null,
   "caption": "Canaliza a instabilidade mágica do seu Grimo para evocar uma grande explosão elemental em uma área.",
-  "description": "<p>Escolha uma <code>área de 2x2</code> a até <code>7 espaços</code> e faça um teste contra a maior <b>Defesa Mágica</b> dos alvos na área.</p><p><b>Se for bem sucedido</b>, você emite uma explosão mágica do seu elemento na área, causando <code>TIER * (2d12 + 5)</code> a todos os alvos.</p>",
+  "description": "<p>Escolha uma <code>área de 2x2</code> a até <code>7 espaços</code> e faça um teste contra a maior <b>Defesa Mágica</b> dos alvos na área.</p><p><b>Se for bem sucedido</b>, você emite uma explosão mágica do seu elemento na área, causando <code>GRAU * (2d12 + 5)</code> a todos os alvos.</p>",
   "tags": ["grimo", "allura"]
 }
