@@ -106,6 +106,7 @@ const sidebars = {
         'game-rules/challenge-checks',
         'game-rules/short-and-long-rest',
         'game-rules/merchants',
+        'game-rules/weapons-and-armors',
         'game-rules/blacksmiths',
         'game-rules/terrain',
         'game-rules/evolving',

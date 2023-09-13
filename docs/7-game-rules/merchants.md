@@ -15,9 +15,9 @@ Então, se você tem alguma dúvida de onde gastar seus preciosos [Temirs](/docs
 
 Hora de ir as compras!
 
-## Armas e Armaduras
+## Materia Prima e Materiais
 
-Seria impossível listar todos os tipos de Armas que existem no mundo do **Fábulas & Goblins**, até porque é muito possível que alguns deles sejam criados especialmente para a sua campanha! Mas podemos te ajudar fornecendo uma lista de **qualidades**, ou seja, **materiais frequentemente usados** para construir **armas e armaduras comuns**, em ordem de efficiência, durabilidade e preço.
+Seria impossível listar todos os tipos de materiais que existem no mundo do **Fábulas & Goblins**, até porque é muito possível que alguns deles sejam criados especialmente para a sua campanha! Mas podemos te ajudar fornecendo uma lista de **qualidades**, ou seja, **materiais frequentemente usados** para construir **armas, armaduras e **, em ordem de efficiência, durabilidade e preço.
 
 Assim, você terá uma noção de como funciona a economia das **Terras Místicas**, e quantas moedinhas você precisaria para comprar itens úteis para a sua missão.
 
