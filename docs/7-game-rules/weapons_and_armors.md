@@ -15,15 +15,13 @@ Para simplificar o processo de listar as armas, criamos um sistema simples, por�
 
 ## Compondo um equipamento
 
-Para compor um equipamento, você deverá juntar 7 componentes que fazem um equipamento ser como ele é. São os seguintes:
+Para compor um equipamento, você deverá juntar 5 componentes que fazem um equipamento ser como ele é. São os seguintes:
 
 1. Item Base
 2. Material
-3. Qualidade
-4. Conservação
-5. Aditivos
-6. Refinamento
-7. Magia
+3. Aditivos
+4. Refinamento
+5. Magia
 
 Juntos, esses componentes permitem que você crie praticamente qualquer tipo de arma no jogo, e de quebra simplificam as tabelas, caso contrário precisariamos quase que criar um livro só pra te mostrar todos os equipamentos disponíveis.
 
@@ -77,65 +75,50 @@ Alguns podem ser feitos de madeira, outros de Ouro, e outros até de Aço Galiri
 
 Cada material pode possuir propriedades únicas, e pode influenciar no dano, na sua durabilidade, e óbviamente, no preço.
 
-| Nome          | Incremento de Dano | Durabilidade base | Preço (T$)   |
+| Nome          | Dano por Grau | Durabilidade base | Preço (T$)   |
 | ----------    | --------------     | ----------------- | ---------    |
-| Madeira       | <code>0</code>     | 1                 | 50           |
-| Aço           | <code>0</code>     | 1                 | 100          |
-| Cobre         | <code>0</code>     | 1                 | 150          |
-| Prata         | <code>0</code>     | 1                 | 200          |
-| Cristal       | <code>0</code>     | 1                 | 250          |
-| Ouro          | <code>0</code>     | 1                 | 400          |
-| Obsidiana     | <code>0</code>     | 1                 | 600          |
-| Aço Galiriano | <code>0</code>     | 1                 | 800          |
-| Grimônio      | <code>0</code>     | 1                 | 1000         |
-| Zigônio       | <code>0</code>     | 1                 | 1200         |
-| Alizarita     | <code>0</code>     | 1                 | 1500         |
-| Urikirita     | <code>0</code>     | 1                 | 2000         |
-| Balarita      | <code>0</code>     | 1                 | 2500         |
-| Danarita      | <code>0</code>     | 1                 | 3000         |
+| Madeira       | <code>5</code>     | 1                 | 50-500       |
+| Aço           | <code>6</code>     | 1                 | 50-500       |
+| Cobre         | <code>7</code>     | 1                 | 50-500       |
+| Prata         | <code>8</code>     | 1                 | 50-500       |
+| Cristal       | <code>9</code>     | 1                 | 100-1000     |
+| Ouro          | <code>10</code>    | 1                 | 100-1000     |
+| Obsidiana     | <code>12</code>    | 1                 | 100-1000     |
+| Aço Galiriano | <code>14</code>    | 1                 | 100-1000     |
+| Grimônio      | <code>16</code>    | 1                 | 500-5000     |
+| Zigônio       | <code>18</code>    | 1                 | 500-5000     |
+| Alizarita     | <code>20</code>    | 1                 | 500-5000     |
+| Urikirita     | <code>22</code>    | 1                 | 1000-10000   |
+| Balarita      | <code>24</code>    | 1                 | 1000-10000   |
+| Danarita      | <code>26</code>    | 1                 | 1000-10000   |
 
-### 3. Qualidade
+### 3. Afixos
 
-A Qualidade determina o primor de construção do item.
-Uma espada feita de sobras de material sempre será inferior em termos de corte e eficiência, enquanto obras primas criadas por ferreiros lendários costumam utilizar materiais de primeira e que duram por gerações.
+Armas podem possuir as mais diversas propriedades, adquiridas durante o seu uso, ou até mesmo em sua construção para torná-las mais eficientes, potentes e duráveis.
 
-| Nome       | Descrição                                                                                              | Incremento de Dano | Preço (T$) |
-| ---------- | ------------------------------------------------------------------------------------------------------ | ------------------ | ---------  |
-| Pobre      | Um item feito de material frágil/poroso que possui baixa qualidade/durabilidade. Provavelmente foi criado nas pressas por algum ferreiro de esquina. | <code>0</code>     | 50         |
-| Comum      | Um item feito com materiais acessíveis, mas que é honesto ao cumprir sua função. | <code>0</code>     | 50         |
-| Mediano    | Um item de fabricação mediana. Não é feito com o que há de melhor, mas parece ter sido construído com materiais de qualidade razoável. | <code>0</code>     | 50         |
-| Superior   | O mínimo que um bom ferreiro poderia esperar. Itens superiores são de ótima fabricação e acabamento, feito com materiais mais difíceis de encontrar, mão de obra de qualidade e que com certeza não decepciona. | <code>0</code>     | 50         |
-| Obra prima | Um item excepcional, feito com materiais raros e que foi feito para passar por várias gerações. | <code>0</code>     | 50         |
-
-### 4. Conservação
-
-Mesmo o mais primoroso dos Machados está sujeito à ação do tempo.
-Com a utilização prolongada, as lâminas e as pontas das armas, assim como as placas das armaduras tendem a enfraquecer e se tornarem menos eficientes ao longo dos anos.
-
-| Nome       | Descrição                                                                                              | Incremento de Dano | Preço (T$) |
-| ---------- | ------------------------------------------------------------------------------------------------------ | ------------------ | ---------  |
-| Inutilizável | Um item deteriorado, possivelmente quebrado e inviável de se utilizar. | <code>0</code>     | 50         |
-| Usado | Um item provavelmente recondicionado, que já viu várias batalhas. Já não oferece mais os mesmos benefícios de antes, mas ainda pode ser usado. | <code>0</code>     | 50         |
-| Pouco uso    | Um item com marcas visíveis de uso, que não está mais em seu estado original mas pode ser utilizado sem grandes problemas. | <code>0</code>     | 50         |
-| Impecável   | Um item em perfeito estado de conservação, provavelmente nunca foi usado e parece impecável. | <code>0</code>     | 50         |
-
-### 5. Aditivos
-
-Armas podem ser modificadas durante ou após sua construção para torná-las mais eficientes, potentes ou duráveis.
-
-Diferente dos outros componentes, uma mesma arma pode possuir diversos Aditivos ao mesmo tempo, desde que não entrem em conflito com o próprio espaço físico do objeto.
+Diferente dos outros componentes, uma mesma arma pode possuir diversos Afixos ao mesmo tempo, desde que não entrem em conflito com o próprio espaço físico do objeto.
 
 | Nome                | Descrição                                                                                              | Incremento de Dano | Preço (T$) |
 | ------------------- | ------------------------------------------------------------------------------------------------------ | ------------------ | ---------  |
-| Espinhos            | Adiciona espinhos afiados à arma, tornando cada golpe mais doloroso.                          | d4                 | 50         |
-| Larga/Pesada        | Aumenta o peso e a dimensão da arma, tornando-a mais difícil de manusear, mas mais poderosa.           | d6                 | 60         |
+| Espinhos (F)            | Adiciona espinhos afiados ao item, adicionando a característica <code>Perfurar</code>. Em armas faz com que golpes infligidos causem um adicional de <code>(F)</code> de dano. Em armaduras faz com que golpes recebidos causem <code>(F)</code> de dano perfurante.                         | d4                 | 50         |
+| Larga (F)       | Um item grande. No caso de armas, exige que seja manipulada com as duas mãos, além de causar <code>(F)</code> de dano adicional. No caso de armaduras, só pode ser utilizada por personagens grandes e largos e que sejam compatíveis com o Perfil do item. | d6                 | 60         |
 | Perfurante          | Refina a lâmina para que ela possa penetrar armaduras com maior facilidade. <code>+(X) Ataque Físico</code>                           | d6                 | 90         |
-| Vorpal              | Aumenta a chance de decapitar o adversário em um golpe bem-sucedido.                                   | d10 (5% chance)    | 200        |
-| Ressonante          | A arma vibra com uma frequência única, causando dano extra a estruturas e construções.                | d6 contra estruturas | 85    |
-| Reforçada           | Reforça o material da arma, adicionando <code>+(X)</code> de durabilidade tornando-a mais resistente a quebras e desgastes.                         | d4                 | 80         |
-| Aterradora          | Aparência ameaçadora que causa <code>Terror M=(X)</code> em alvos padrões atingidos por ela.                                         | d4 + medo          | 120        |
-| Leve                | Reduz significativamente o peso da arma, podendo ser usada com apenas <code>1 mão</code>.                         | d4                 | 70         |
-| Longa               | Sua construção permite atacar alvos a até <code>(X) espaços</code> de distância adicional.                               | d4                 | 70         |
+| Vorpal (F)              | Aplica <code>Morte (F)</code> nos ataques, permitindo aniquilar o adversário em um único golpe.                                   | d10 (5% chance)    | 200        |
+| Ressonante (F)          | A arma vibra com uma frequência sônica, causando <code>(F)</code> de dano extra a estruturas e construções.                | d6 contra estruturas | 85    |
+| Predadora (F)          | Cada corte feito por essa arma em um alvo fazem com que cortes consecutivos causem <code>(F)</code> de dano adicional. Só funciona em armas.                                         | d4 + medo          | 120        |
+| Trambolhenta (M)          | Esse item é Massivo e reduz os Pontos de Movimento em <code>-(M)</code> sempre que estiver sendo usado.                                         | d4 + medo          | 120        |
+| Aterradora (M)          | Aparência ameaçadora que causa <code>Terror (M)</code> em alvos atingidos por ela que sejam da mesma categoria de tamanho do atacante.                                         | d4 + medo          | 120        |
+| Telescópica (M)          | Armas Telescópicas aumentam a distância de ataque em armas à distância em <code>(M)</code> espaços. Similar ao Afixo <code>Longa</code>.                                         | d4 + medo          | 120        |
+| Escoteira (X)          | Armaduras escoteiras aumentam o espaço de armazenamento em <code>+X</code>.                                         | d4 + medo          | 120        |
+| Leve                | Reduz significativamente o peso da arma, podendo ser usada com apenas <code>1 mão</code>. Pode ser usada em conjunto com o afixo <code>Larga</code> para anular o requisito de <code>2 mãos</code>.                | d4                 | 70         |
+| Longa (M)               | Sua construção permite atacar alvos a até <code>(M) espaços</code> de distância adicional.                               | d4                 | 70         |
+| Clivada               | Ataques com armas desse tipo também atingem <b>alvos adjacentes</b> ao alvo escolhido.                               | d4                 | 70         |
+| Inutilizável (X) | Um item deteriorado, quebrado e inviável de se utilizar. Possui durabilidade 0 até que seja refinado pelo menos <code>(X)</code> vezes. Itens inutilizáveis não podem ter níveis de refinamento prévio. | <code>0</code>     | 50         |
+| Frágil (X)    | Um item prestes a quebrar feito de material frágil/poroso de baixíssima qualidade. Não possui durabilidade e quebrará permanentemente após <code>(X)</code> ataques, bloqueios ou impactos contra objetos/superfícies. | <code>0</code>     | 50         |
+| Deteriorada | Um item desgastado e velho que já viu várias batalhas. Possui apenas <code>1</code> de Durabilidade máxima e não pode ser refinado. | <code>0</code>     | 50         |
+| Usada (N/N)    | Um item com marcas visíveis de uso, que não está mais em seu estado original. Durabilidade reduzida em <code>N/N</code> cargas (sendo o primeiro a Durabilidade atual e o segundo a Durabilidade máxima). | <code>0</code>     | 50         |
+| Reforçada (N/X?)           | Reforça o material do item, adicionando <code>+(N)</code> de durabilidade tornando-o mais resistente a quebras e desgastes. Em armaduras, aumenta a defesa em <code>+(X)</code>                       | d4                 | 80         |
+| Obra prima | Um item excepcional, forjado com materiais superiores e pensado para durar por gerações. Para todos os efeitos é considerado um item de <b>Grau 5</b>. | <code>0</code>     | 50         |
 
 Exemplo:
 Uma espada de madeira comum em excelente estado de conservação que causa <code>Terror 6</code> em inimigos, pode ser utilizada em <code>1 mão</code> e perfura Armaduras dando um <code>Bônus de +2</code> pode ser definida assim:
@@ -143,7 +126,7 @@ Uma espada de madeira comum em excelente estado de conservação que causa <code
 `Espada de Madeira Impecável +0 - Leve, Perfurante (2) e Aterradora (5)`<br/>
 *(Sempre que a qualidade for `comum`, ela pode ser omitida do nome do item)*
 
-### 6. Refinamento
+### 4. Refinamento
 
 Todo equipamento no jogo é apresentado com um **modificador de ataque/defesa** que segue o seguinte padrão:
 
@@ -186,31 +169,76 @@ Cada nível de refinamento aumenta o preço da arma em questão, seguindo a tabe
 | +15 |  8.500 |
 | +16 |  9.500 |
 
-### 7. Magia
+### 5. Magia
 
 Por último, para completar a composição da sua arma, existem propriedades mágicas que itens podem ter para se tornarem ainda mais poderosos.
 
 Aqui, provavelmente o céu é o limite, mas mesmo assim vamos descrever algumas propriedades comuns:
 
-| Nome                | Descrição                                                                                              | Incremento de Dano | Preço (T$) |
-| ------------------- | ------------------------------------------------------------------------------------------------------ | ------------------ | ---------  |
-| Venenosa            | A lâmina é coberta com um veneno paralisante, causando dano de Veneno                                 | d4 por 3 turnos    | 70         |
-| Mortal              | Pode matar um inimigo em um único golpe.                                                              | d8                 | 80         |
-| Escaldante          | Está sempre em alta temperatura, causando queimaduras no alvo.                                   | d6                 | 90         |
-| Congelante          | Encanta a arma com magia de gelo, podendo congelar o alvo brevemente.                                 | d4 + imobilização  | 100        |
-| Elétrica            | Concede à arma o poder dos raios, podendo paralisar o inimigo com choques elétricos.                  | d6 + atordoamento  | 110        |
-| Sagrada             | Abençoada por entidades divinas, eficaz contra mortos-vivos e entidades malignas.                     | d8 contra mortos-vivos | 120 |
-| Profana             | Corrompida por energias sombrias, é especialmente eficaz contra criaturas celestiais.                  | d8 contra celestiais | 130  |
-| Corrosiva           | Danifica armas e armaduras ao contato.                                                                                  | d8 contra celestiais | 130  |
-| Solar               | Encantada com a energia do sol, causa mais dano durante o dia.                                      | d8 à noite         | 110        |
-| Lunar               | Encantada com a energia da lua, causa mais dano durante a noite.                                      | d8 à noite         | 110        |
-| Ecliptica               | Tem seu dano acentuado em Eclipses e Luas de Orvalho.                                      | d8 à noite         | 110        |
-| Invernal            | Causa dano acentuado no Inverno e em momentos de frio intenso.                                                    | d8 à noite         | 110        |
-| Infernal            | Causa dano acentuado no Verão e em terras de calor intenso.                                                    | d8 à noite         | 110        |
-| Zéfirica            | Acertos também desferem rajadas de vento que empurram o alvo.                                                    | d8 à noite         | 110        |
-| Translocadora       | Acertos translocam o alvo para outra coordenada.                                                    | d8 à noite         | 110        |
-| Enraizante          | Acertos fazem brotar vinhas que prendem o alvo.                                                    | d8 à noite         | 110        |
-| Vampírica           | Absorve a vitalidade do alvo, restaurando a saúde do usuário.                                         | d4, +2 de vida     | 140        |
-| Cegante             | Encantada para emitir uma luz brilhante, pode cegar temporariamente o inimigo.                        | d4 + cegueira      | 95         |
-| Adaptativa           | Adapta-se ao elemento da área ao redor (fogo, água, terra, ar) e usa esse poder contra os inimigos.  | d6 variável        | 150        |
-| Elemental           | O item é embedado no elemento em questão (fogo, trovão, terra, etc), causando dano do elemento no caso de arma, ou absorvendo o elemento no caso de armadura. | d6 variável        | 150        |
+| Nome                | Descrição                                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------ |
+| Mágica (F)           | Armas mágicas causam <code>(+F)</code> de dano mágico não elemental a cada golpe. Já armaduras mágicas protegem contra <code>(F)</code> de dano mágico.                                |
+| Amplificadora (F)           | Itens Catalíticos ampliam o dano mágico causado pelo portador em <code>+(F)</code>.                                 |
+| Brilhante (X)           | Itens brilhantes emitem luz própria não-controlável, iluminando <code>X</code> espaços.                                 |
+| Detectora (T)           | Itens com essa propriedade podem pulsar quando detectam a presença próxima de inimigos do tipo <code>T</code>. <i>(ex: Detectora (Répteis))</i>                               |
+| Geomântica (T)           | Armas geomânticas atacam com vantagem quando estão em terreno do tipo <code>(T)</code>, e armaduras recebem vantagem ao se defender de ataques em terrenos <code>T</code>.                                 |
+| Regenerativa (N)           | Itens regenerativos se reparam automaticamente, recuperando <code>N</code> cargas de durabilidade por dia. (não funciona se o item estiver quebrado)                                 |
+| Consciente           | O item possui consciência própria e pode se recusar a cumprir seu papel dependendo da relação com o utilizador.                                |
+| Protetiva (F)           | Em armaduras, reduz o dano mágico recebido em <code>-F</code> .                               |
+| Venenosa            | A lâmina é coberta com um veneno paralisante, causando dano de Veneno                                 |
+| Mortal              | Pode matar um inimigo em um único golpe.                                                              |
+| Escaldante          | Está sempre em alta temperatura, causando queimaduras no alvo.                                   |
+| Congelante          | Encanta a arma com magia de gelo, podendo congelar o alvo brevemente.                                 |
+| Sônica (M)          | Itens com a característica Sônica emitem uma onda sônica ao entrar em contato com alvos, empurrando-os na direção oposta em <code>-(M)</code> espaços.                                         |
+| Minificável          | Independente do tamanho e peso, esse item pode ser reduzido ao tamanho da palma da mão do utilizador, com o custo de <b>1 Ação Menor</b>.                                        |
+| Teleguiado          | Se o item for uma arma de alcance, disparos com seus projéteis sempre acertarão o alvo.                                        |
+| Finalizadora (F)         | Causa <code>(F)</code> de dano adicional em lacaios fracos e alvos que estão com metade da vida ou menos.                                        |
+| Elétrica            | Concede à arma o poder dos raios, podendo paralisar o inimigo com choques elétricos.                  |
+| Sagrada             | Abençoada por entidades divinas, eficaz contra mortos-vivos e entidades malignas.                     |
+| Profana             | Corrompida por energias sombrias, é especialmente eficaz contra criaturas celestiais.                  |
+| Corrosiva           | Danifica armas e armaduras ao contato.                                                                                  |
+| Solar               | Encantada com a energia do sol, causa mais dano durante o dia.                                      |
+| Lunar               | Encantada com a energia da lua, causa mais dano durante a noite.                                      |
+| Ecliptica               | Tem seu dano acentuado em Eclipses e Luas de Orvalho.                                      |
+| Invernal            | Causa dano acentuado no Inverno e em momentos de frio intenso.                                                    |
+| Infernal            | Causa dano acentuado no Verão e em terras de calor intenso.                                                    |
+| Zéfirica            | Acertos também desferem rajadas de vento que empurram o alvo.                                                    |
+| Translocadora       | Acertos translocam o alvo para outra coordenada.                                                    |
+| Enraizante          | Acertos fazem brotar vinhas que prendem o alvo.                                                    |
+| Vampírica           | Absorve a vitalidade do alvo, restaurando a saúde do usuário.                                         |
+| Cegante             | Encantada para emitir uma luz brilhante, pode cegar temporariamente o inimigo.                        |
+| Adaptativa           | Adapta-se ao elemento da área ao redor (fogo, água, terra, ar) e usa esse poder contra os inimigos.  |
+| Elemental           | O item é embedado no elemento em questão (fogo, trovão, terra, etc), causando dano do elemento no caso de arma, ou absorvendo o elemento no caso de armadura. |
+| Fênix           | Itens com afixo Fênix podem "reviver" ao se quebrarem com durabilidade 0. Para isso, o controlador deve passar em um <b>Teste de Perícia</b> do atributo <b>Destino</b>. |
+| Transdimensional  | Golpes com armas transdimensionais podem atingir alvos a qualquer distância visível, através da abertura de um portal adjacente a vítima, aberto rapidamente apenas para desferir o golpe. Ataques transdimensionais são sempre feitos com vantagem. |
+| Anti-Gravitacional  | Ao ser atingido por uma arma anti-gravitacional, o alvo fica suspenso no ar durante 1 rodada, sem poder se locomover. |
+| Ilusional  | Ao ser atingido por uma arma ilusional, uma ilusão do alvo é conjurada adjacente a ele, realizando um ataque comum antes do próximo turno do alvo até que seja atingida. (possui 1 Ponto de Vida). |
+| Camaleônica | Muda de cor para se adaptar ao ambiente que está. |
+| Dimensiônica | Pode armazenar o portador. |
+
+### Perfil de Equipamento
+
+Um Metalóide dificilmente entraria em uma armadura feita para Goblins, imagine então para Armadons.
+O perfil do item serve para identificar a qual <b>espécie</b> esse item foi inicialmente desenhado.
+
+Se desejar, o Narrador pode definir o perfil do item no momento que ele for encontrado pelos jogadores, caso contrário, pode-se assumir que o item será compatível ao primeiro jogador que demonstrar interesse em utilizá-lo.
+
+E mesmo que o Narrador diga: *"Vocês encontram um Peitoral de Prata, que parece ser pequeno demais para um Goblin usar".*
+Se houver um Goblin no grupo, ele pode interromper o Narrador para utilizar seu talento racial <b>Armadura da Sorte</b>, exigindo um <b>Teste de Perícia</b> do atributo <code>Destino</code> para fazer com que a armadura seja compatível com um Goblin médio.
+
+Afixos de Armadura como <code>Larga</code> sempre vão se aplicar considerando o biótico da espécie a qual ele foi desenhado, logo, uma Armadura de Luminin com o afixo <b>Larga</b> talvez sirva num <b>Luminin com porte físico avantajado</b>, mas jamais serviria em um <b>Luminin magricelo</b>, um <b>Armadon</b>, e até mesmo em um <b>Goblin</b> pequeno.
+
+Caso um jogador ainda queira utilizar uma armadura fora de seu perfil, ele ainda poderá fazê-lo, mas não receberá os bônus de Defesa concedidos pelo item.
+
+### Precificando Itens
+
+Com tantas variações, afixos e tipos de equipamentos, pode ser complexo avaliar o preço de um equipamento, mas com a ajuda das mais influentes casas de penhores das **Terras Místicos**, desenvolvemos um método infalível para te auxiliar com essa tarefa!
+
+Para ter uma noção
+
+| Grau                      | Atk/Def Máximo Esperado  | Preço de Itens normais    | Preço de Itens afixados | Preço de Itens mágicos   |
+|---------------------------|--------------------------|---------------------------|-------------------------|--------------------------|--------------------------|
+| Grau 1 (Níveis 1 a 5)     | +0 ~ +2                  | 200~600                  | Entre +0 e +2           | Entre +0 e +2            | Entre +0 e +2            |
+| Grau 2 (Níveis 5 a 10)    | +2 ~ +4                  | 600~3000             | Entre +2 e +4           | Entre +2 e +4            | Entre +2 e +4            |
+| Grau 3 (Níveis 11 a 15)   | +4 ~ +8                  |                  | Entre +4 e +8           | Entre +4 e +8            | Entre +4 e +8            |
+| Grau 4 (Níveis 16 a 20)   | +8 ~ +16                 | Entre +8 e +16            | Entre +8 e +16          | Entre +8 e +16           | Entre +8 e +16           |
