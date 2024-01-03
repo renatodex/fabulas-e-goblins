@@ -5,6 +5,8 @@ slug: /7-game-rules/weapons-and-armors
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C49a1608a-71af-4124-a8bb-f92b20c0ae0f.jpg
 ---
 
+import EquipmentBlock from './../../src/components/equipment_block/index'
+
 ![Lista de Equipamentos encontrados nas Terras Místicas...](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cfeb0a893-8ce7-4be0-9619-15ea3085c7fa.jpg)
 
 Seria impossível listar todas as Armas, Armaduras, equipamentos e itens existentes nas Terras Místicas, mas com certeza existem itens bastante comuns que você pode encontrar por ai.
@@ -19,9 +21,9 @@ Para compor um equipamento, você deverá juntar 5 componentes que fazem um equi
 
 1. Item Base
 2. Material
-3. Aditivos
-4. Refinamento
-5. Magia
+3. Afixos Físicos
+4. Afixos Mágicos
+5. Refinamento
 
 Juntos, esses componentes permitem que você crie praticamente qualquer tipo de arma no jogo, e de quebra simplificam as tabelas, caso contrário precisariamos quase que criar um livro só pra te mostrar todos os equipamentos disponíveis.
 
@@ -36,37 +38,37 @@ Esse primeiro componente vai te dizer qual é a fórmula base de dano, assim com
 
 | Nome                 | Tipo Ataque | Dano Base             | Atributo    | Tipo Dano  | Preço (T$) |
 |----------------------|-------------|-----------------------|-------------|------------|------------|
-| Adaga                | Físico      | <code>2d4 + 7</code>  | Destino     | Cortante   | 50         |
-| Arco                 | Físico      | <code>d8 + 7</code>   | Força       | Perfurante | 120        |
-| Bastão               | Físico      | <code>d6 + 9</code>   | Resiliência | Contusivo  | 70         |
-| Bengala              | Físico      | <code>d4 + 11</code>  | Influência  | Contusivo  | 50         |
-| Besta                | Físico      | <code>d10 + 5</code>  | Força       | Perfurante | 140        |
-| Bomba                | Mágico      | <code>d8 + 7</code>   | Intelecto   | Mágico     | 110        |
-| Cajado               | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | Mágico     | 100        |
-| Cetro                | Mágico      | <code>d8 + 7</code>   | Elo Mágico  | Mágico     | 130        |
-| Chicote              | Físico      | <code>d6 + 8</code>   | Força       | Cortante   | 60         |
-| Clava                | Físico      | <code>d8 + 7</code>   | Força       | Contusivo  | 80         |
-| Cruz                 | Mágico      | <code>2d6 + 3</code>   | Espírito    | Mágico     | 90         |
-| Dardos               | Físico      | <code>2d4 + 7</code>  | Destino     | Perfurante | 40         |
-| Espada               | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 90         |
-| Estilingue           | Físico      | <code>d6 + 9</code>   | Força       | Contusivo  | 50         |
-| Foice                | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 100        |
-| Graveto              | Físico      | <code>d4 + 11</code>  | Intelecto   | Contusivo  | 30         |
-| Katar                | Físico      | <code>d6 + 9</code>   | Força       | Perfurante | 70         |
-| Lança                | Físico      | <code>d10 + 6</code>  | Força       | Perfurante | 150        |
-| Machado              | Físico      | <code>d12 + 4</code>  | Força       | Cortante   | 180        |
-| Manopla              | Físico      | <code>d8 + 7</code>   | Resiliência | Contusivo  | 80         |
-| Martelo              | Físico      | <code>d8 + 7</code>   | Força       | Contusivo  | 100        |
-| Maça                 | Físico      | <code>d8 + 7</code>   | Resiliência | Contusivo  | 90         |
-| Orbe                 | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | Mágico     | 120        |
-| Picareta             | Físico      | <code>d8 + 8</code>   | Força       | Cortante   | 85         |
-| Prisma               | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | Mágico     | 100        |
-| Projéteis (ex: Pedras)| Físico     | <code>d6 + 9</code>   | Força       | Contusivo  | 20         |
-| Punhal               | Físico      | <code>d6 + 9</code>   | Destino     | Cortante   | 70         |
-| Saxo                 | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 100        |
-| Tábua                | Físico      | <code>d4 + 11</code>  | Resiliência | Contusivo  | 40         |
-| Tridente             | Físico      | <code>d10 + 5</code>  | Força       | Perfurante | 160        |
-| Urna                 | Mágico      | <code>d6 + 8</code>   | Espírito    | Mágico     | 140        |
+| Adaga                | Físico      | <code>2d4 + 7</code>  | Destino     | Cortante   | 200         |
+| Arco                 | Físico      | <code>d8 + 7</code>   | Força       | Perfurante | 200        |
+| Bastão               | Físico      | <code>d6 + 9</code>   | Resiliência | Contusivo  | 200         |
+| Bengala              | Físico      | <code>d4 + 11</code>  | Influência  | Contusivo  | 200         |
+| Besta                | Físico      | <code>d10 + 5</code>  | Força       | Perfurante | 200        |
+| Bomba                | Mágico      | <code>d8 + 7</code>   | Intelecto   | -     | 300        |
+| Cajado               | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | -     | 300        |
+| Cetro                | Mágico      | <code>d8 + 7</code>   | Elo Mágico  | -     | 300        |
+| Chicote              | Físico      | <code>d6 + 8</code>   | Força       | Cortante   | 200         |
+| Clava                | Físico      | <code>d8 + 7</code>   | Força       | Contusivo  | 200         |
+| Cruz                 | Mágico      | <code>2d6 + 3</code>   | Espírito    | -     | 300         |
+| Dardos               | Físico      | <code>2d4 + 7</code>  | Destino     | Perfurante | 200         |
+| Espada               | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 200         |
+| Estilingue           | Físico      | <code>d6 + 9</code>   | Força       | Contusivo  | 200         |
+| Foice                | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 200        |
+| Graveto              | Físico      | <code>d4 + 11</code>  | Intelecto   | Contusivo  | 200         |
+| Katar                | Físico      | <code>d6 + 9</code>   | Força       | Perfurante | 200         |
+| Lança                | Físico      | <code>d10 + 6</code>  | Força       | Perfurante | 200        |
+| Machado              | Físico      | <code>d12 + 4</code>  | Resiliência       | Cortante   | 200        |
+| Manopla              | Físico      | <code>d8 + 7</code>   | Resiliência | Contusivo  | 200         |
+| Martelo              | Físico      | <code>d8 + 7</code>   | Força       | Contusivo  | 200        |
+| Maça                 | Físico      | <code>d8 + 7</code>   | Resiliência | Contusivo  | 200         |
+| Orbe                 | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | -     | 300        |
+| Picareta             | Físico      | <code>d8 + 8</code>   | Força       | Cortante   | 200         |
+| Prisma               | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | -     | 300        |
+| Projéteis (ex: Pedras)| Físico     | <code>d6 + 9</code>   | Força       | Contusivo  | 50         |
+| Punhal               | Físico      | <code>d6 + 9</code>   | Destino     | Cortante   | 200         |
+| Saxo                 | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 200        |
+| Tábua                | Físico      | <code>d4 + 11</code>  | Resiliência | Contusivo  | 200         |
+| Tridente             | Físico      | <code>d10 + 5</code>  | Força       | Perfurante | 200        |
+| Urna                 | Mágico      | <code>d6 + 8</code>   | Espírito    | -     | 300        |
 
 
 ### 2. Material
@@ -76,24 +78,26 @@ Alguns podem ser feitos de madeira, outros de Ouro, e outros até de Aço Galiri
 
 Cada material pode possuir propriedades únicas, e pode influenciar no dano, na sua durabilidade, e óbviamente, no preço.
 
-| Nome          | Dano por Grau | Durabilidade base | Preço (T$)   |
-| ----------    | --------------     | ----------------- | ---------    |
-| Madeira       | <code>5</code>     | 1                 | 50-500       |
-| Aço           | <code>6</code>     | 1                 | 50-500       |
-| Cobre         | <code>7</code>     | 1                 | 50-500       |
-| Prata         | <code>8</code>     | 1                 | 50-500       |
-| Cristal       | <code>9</code>     | 1                 | 100-1000     |
-| Ouro          | <code>10</code>    | 1                 | 100-1000     |
-| Obsidiana     | <code>12</code>    | 1                 | 100-1000     |
-| Aço Galiriano | <code>14</code>    | 1                 | 100-1000     |
-| Grimônio      | <code>16</code>    | 1                 | 500-5000     |
-| Zigônio       | <code>18</code>    | 1                 | 500-5000     |
-| Alizarita     | <code>20</code>    | 1                 | 500-5000     |
-| Urikirita     | <code>22</code>    | 1                 | 1000-10000   |
-| Balarita      | <code>24</code>    | 1                 | 1000-10000   |
-| Danarita      | <code>26</code>    | 1                 | 1000-10000   |
+| Nome          | Dano por Grau      | Multiplicador       | Grau Recomendado |
+| ----------    | ----------------   | ------------------- | ---------------- |
+| Madeira       | <code>0</code>     | 0.5                 | 1                |
+| Pedra         | <code>5</code>     | 1                   | 1                |
+| Aço           | <code>6</code>     | 1.5                 | 1                |
+| Bronze         | <code>7</code>    | 2.0                 | 2                |
+| Prata         | <code>8</code>     | 2.5                 | 2                |
+| Ouro          | <code>10</code>    | 3.5                 | 2                |
+| Platina       | <code>10</code>    | 4.0                 | 3                |
+| Diamante       | <code>9</code>    | 4.5                 | 3                |
+| Obsidiana     | <code>12</code>    | 5.0                 | 3                |
+| Aço Galiriano | <code>14</code>    | 5.5                 | 3                |
+| Grimônio      | <code>16</code>    | 6.0                 | 4                |
+| Zigônio       | <code>18</code>    | 7.0                 | 4                |
+| Alizarita     | <code>20</code>    | 8.0                 | 4                |
+| Urikirita     | <code>22</code>    | 8.0                 | 4                |
+| Balarita      | <code>24</code>    | 8.0                 | 4                |
+| Danarita      | <code>26</code>    | 8.0                 | 4                |
 
-### 3. Afixos
+### 3. Afixos Físicos
 
 Armas podem possuir as mais diversas propriedades, adquiridas durante o seu uso, ou até mesmo em sua construção para torná-las mais eficientes, potentes e duráveis.
 
@@ -127,7 +131,54 @@ Uma espada de madeira comum em excelente estado de conservação que causa <code
 `Espada de Madeira Impecável +0 - Leve, Perfurante (2) e Aterradora (5)`<br/>
 *(Sempre que a qualidade for `comum`, ela pode ser omitida do nome do item)*
 
-### 4. Refinamento
+### 4. Afixos Mágicos
+
+Por último, para completar a composição da sua arma, existem propriedades mágicas que itens podem ter para se tornarem ainda mais poderosos.
+
+Aqui, provavelmente o céu é o limite, mas mesmo assim vamos descrever algumas propriedades comuns:
+
+| Nome               | Descrição                                                                                                                | Multiplicador |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------|------------|
+| Mágica (F)         | Armas mágicas causam <code>(+F)</code> de dano mágico não elemental a cada golpe. Já armaduras mágicas protegem contra <code>(F)</code> de dano mágico. | 1        |
+| Amplificadora (F)  | Itens Catalíticos ampliam o dano mágico causado pelo portador em <code>+(F)</code>.                                      | 1        |
+| Brilhante (X)      | Itens brilhantes emitem luz própria não-controlável, iluminando <code>X</code> espaços.                                  | 1        |
+| Detectora (T)      | Itens com essa propriedade podem pulsar quando detectam a presença próxima de inimigos do tipo <code>T</code>.           | 1        |
+| Geomântica (T)     | Armas geomânticas atacam com vantagem quando estão em terreno do tipo <code>(T)</code>, e armaduras recebem vantagem ao se defender de ataques em terrenos <code>T</code>. | 1        |
+| Regenerativa (N)   | Itens regenerativos se reparam automaticamente, recuperando <code>N</code> cargas de durabilidade por dia.               | 1        |
+| Consciente         | O item possui consciência própria e pode se recusar a cumprir seu papel dependendo da relação com o utilizador.          | 1       |
+| Protetiva (F)      | Em armaduras, reduz o dano mágico recebido em <code>-F</code>.                                                           | 1        |
+| Venenosa           | A lâmina é coberta com um veneno paralisante, causando dano de Veneno.                                                   | 1        |
+| Mortal             | Pode matar um inimigo em um único golpe.                                                                                 | 1       |
+| Escaldante         | Está sempre em alta temperatura, causando queimaduras no alvo.                                                           | 1        |
+| Congelante         | Encanta a arma com magia de gelo, podendo congelar o alvo brevemente.                                                    | 1        |
+| Sônica (M)         | Itens com a característica Sônica emitem uma onda sônica ao entrar em contato com alvos, empurrando-os na direção oposta em <code>-(M)</code> espaços. | 1        |
+| Minificável        | Independente do tamanho e peso, esse item pode ser reduzido ao tamanho da palma da mão do utilizador, com o custo de <b>1 Ação Menor</b>.           | 1        |
+| Teleguiado         | Se o item for uma arma de alcance, disparos com seus projéteis sempre acertarão o alvo.                                  | 1       |
+| Finalizadora (F)   | Causa <code>(F)</code> de dano adicional em lacaios fracos e alvos que estão com metade da vida ou menos.                | 1       |
+| Elétrica           | Concede à arma o poder dos raios, podendo paralisar o inimigo com choques elétricos.                                     | 1        |
+| Sagrada            | Abençoada por entidades divinas, eficaz contra mortos-vivos e entidades malignas.                                        | 1       |
+| Profana            | Corrompida por energias sombrias, é especialmente eficaz contra criaturas celestiais.                                    | 1       |
+| Corrosiva          | Danifica armas e armaduras ao contato.                                                                                   | 1        |
+| Solar              | Encantada com a energia do sol, causa mais dano durante o dia.                                                           | 1        |
+| Lunar              | Encantada com a energia da lua, causa mais dano durante a noite.                                                         | 1        |
+| Ecliptica          | Tem seu dano acentuado em Eclipses e Luas de Orvalho.                                                                    | 1        |
+| Invernal           | Causa dano acentuado no Inverno e em momentos de frio intenso.                                                           | 1        |
+| Infernal           | Causa dano acentuado no Verão e em terras de calor intenso.                                                              | 1        |
+| Zéfirica           | Acertos também desferem rajadas de vento que empurram o alvo.                                                            | 1        |
+| Translocadora      | Acertos translocam o alvo para outra coordenada.                                                                         | 1        |
+| Enraizante         | Acertos fazem brotar vinhas que prendem o alvo.                                                                          | 1        |
+| Vampírica          | Absorve a vitalidade do alvo, restaurando a saúde do usuário.                                                            | 1       |
+| Cegante            | Encantada para emitir uma luz brilhante, pode cegar temporariamente o inimigo.                                           | 1        |
+| Adaptativa         | Adapta-se ao elemento da área ao redor (fogo, água, terra, ar) e usa esse poder contra os inimigos.                      | 1       |
+| Elemental          | O item é embedado no elemento em questão (fogo, trovão, terra, etc), causando dano do elemento no caso de arma, ou absorvendo o elemento no caso de armadura. | 1       |
+| Fênix              | Itens com afixo Fênix podem "reviver" ao se quebrarem com durabilidade 0. Para isso, o controlador deve passar em um <b>Teste de Perícia</b> do atributo <b>Destino</b>. | 1       |
+| Transdimensional   | Golpes com armas transdimensionais podem atingir alvos a qualquer distância visível, através da abertura de um portal adjacente a vítima, aberto rapidamente apenas para desferir o golpe. Ataques transdimensionais são sempre feitos com vantagem. | 1       |
+| Anti-Gravitacional | Ao ser atingido por uma arma anti-gravitacional, o alvo fica suspenso no ar durante 1 rodada, sem poder se locomover.       | 1       |
+| Ilusional          | Ao ser atingido por uma arma ilusional, uma ilusão do alvo é conjurada adjacente a ele, realizando um ataque comum antes do próximo turno do alvo até que seja atingida. (possui 1 Ponto de Vida). | 1       |
+| Camaleônica        | Muda de cor para se adaptar ao ambiente que está.                                                                        | 1        |
+| Dimensiônica       | Pode armazenar o portador.                                                                                               | 1       |
+
+### 5. Refinamento
 
 Todo equipamento no jogo é apresentado com um **modificador de ataque/defesa** que segue o seguinte padrão:
 
@@ -151,71 +202,24 @@ Em um grupo de RPG balanceado, sugerimos que armas e armaduras sigam os seguinte
 
 Cada nível de refinamento aumenta o preço da arma em questão, seguindo a tabela:
 
-| Grau | Preço (Temirs) |
-|------|--------------------------|
-| +1 |  50 |
-| +2 |  200 |
-| +3 |  600 |
-| +4 |  1.200 |
-| +5 |  1.600 |
-| +6 |  2.000 |
-| +7 |  2.400 |
-| +8 |  3.000 |
-| +9 |  4.000 |
-| +10 |  5.000 |
-| +11 |  5.800 |
-| +12 |  6.400 |
-| +13 |  7.000 |
-| +14 |  7.800 |
-| +15 |  8.500 |
-| +16 |  9.500 |
-
-### 5. Magia
-
-Por último, para completar a composição da sua arma, existem propriedades mágicas que itens podem ter para se tornarem ainda mais poderosos.
-
-Aqui, provavelmente o céu é o limite, mas mesmo assim vamos descrever algumas propriedades comuns:
-
-| Nome               | Descrição                                                                                                                | Preço (T$) |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------|------------|
-| Mágica (F)         | Armas mágicas causam <code>(+F)</code> de dano mágico não elemental a cada golpe. Já armaduras mágicas protegem contra <code>(F)</code> de dano mágico. | 500        |
-| Amplificadora (F)  | Itens Catalíticos ampliam o dano mágico causado pelo portador em <code>+(F)</code>.                                      | 800        |
-| Brilhante (X)      | Itens brilhantes emitem luz própria não-controlável, iluminando <code>X</code> espaços.                                  | 400        |
-| Detectora (T)      | Itens com essa propriedade podem pulsar quando detectam a presença próxima de inimigos do tipo <code>T</code>.           | 600        |
-| Geomântica (T)     | Armas geomânticas atacam com vantagem quando estão em terreno do tipo <code>(T)</code>, e armaduras recebem vantagem ao se defender de ataques em terrenos <code>T</code>. | 700        |
-| Regenerativa (N)   | Itens regenerativos se reparam automaticamente, recuperando <code>N</code> cargas de durabilidade por dia.                | 900        |
-| Consciente         | O item possui consciência própria e pode se recusar a cumprir seu papel dependendo da relação com o utilizador.          | 1000       |
-| Protetiva (F)      | Em armaduras, reduz o dano mágico recebido em <code>-F</code>.                                                           | 500        |
-| Venenosa           | A lâmina é coberta com um veneno paralisante, causando dano de Veneno.                                                   | 600        |
-| Mortal             | Pode matar um inimigo em um único golpe.                                                                                 | 2000       |
-| Escaldante         | Está sempre em alta temperatura, causando queimaduras no alvo.                                                           | 800        |
-| Congelante         | Encanta a arma com magia de gelo, podendo congelar o alvo brevemente.                                                    | 800        |
-| Sônica (M)         | Itens com a característica Sônica emitem uma onda sônica ao entrar em contato com alvos, empurrando-os na direção oposta em <code>-(M)</code> espaços. | 850        |
-| Minificável        | Independente do tamanho e peso, esse item pode ser reduzido ao tamanho da palma da mão do utilizador, com o custo de <b>1 Ação Menor</b>.           | 750        |
-| Teleguiado         | Se o item for uma arma de alcance, disparos com seus projéteis sempre acertarão o alvo.                                   | 1200       |
-| Finalizadora (F)   | Causa <code>(F)</code> de dano adicional em lacaios fracos e alvos que estão com metade da vida ou menos.                | 1000       |
-| Elétrica           | Concede à arma o poder dos raios, podendo paralisar o inimigo com choques elétricos.                                     | 900        |
-| Sagrada            | Abençoada por entidades divinas, eficaz contra mortos-vivos e entidades malignas.                                        | 1500       |
-| Profana            | Corrompida por energias sombrias, é especialmente eficaz contra criaturas celestiais.                                    | 1500       |
-| Corrosiva          | Danifica armas e armaduras ao contato.                                                                                   | 850        |
-| Solar              | Encantada com a energia do sol, causa mais dano durante o dia.                                                           | 700        |
-| Lunar              | Encantada com a energia da lua, causa mais dano durante a noite.                                                         | 700        |
-| Ecliptica          | Tem seu dano acentuado em Eclipses e Luas de Orvalho.                                                                   | 750        |
-| Invernal           | Causa dano acentuado no Inverno e em momentos de frio intenso.                                                           | 700        |
-| Infernal           | Causa dano acentuado no Verão e em terras de calor intenso.                                                              | 700        |
-| Zéfirica           | Acertos também desferem rajadas de vento que empurram o alvo.                                                            | 850        |
-| Translocadora      | Acertos translocam o alvo para outra coordenada.                                                                         | 950        |
-| Enraizante         | Acertos fazem brotar vinhas que prendem o alvo.                                                                          | 800        |
-| Vampírica          | Absorve a vitalidade do alvo, restaurando a saúde do usuário.                                                            | 1200       |
-| Cegante            | Encantada para emitir uma luz brilhante, pode cegar temporariamente o inimigo.                                           | 650        |
-| Adaptativa         | Adapta-se ao elemento da área ao redor (fogo, água, terra, ar) e usa esse poder contra os inimigos.                      | 1100       |
-| Elemental          | O item é embedado no elemento em questão (fogo, trovão, terra, etc), causando dano do elemento no caso de arma, ou absorvendo o elemento no caso de armadura. | 1000       |
-| Fênix              | Itens com afixo Fênix podem "reviver" ao se quebrarem com durabilidade 0. Para isso, o controlador deve passar em um <b>Teste de Perícia</b> do atributo <b>Destino</b>. | 2500       |
-| Transdimensional   | Golpes com armas transdimensionais podem atingir alvos a qualquer distância visível, através da abertura de um portal adjacente a vítima, aberto rapidamente apenas para desferir o golpe. Ataques transdimensionais são sempre feitos com vantagem. | 3000       |
-| Anti-Gravitacional | Ao ser atingido por uma arma anti-gravitacional, o alvo fica suspenso no ar durante 1 rodada, sem poder se locomover.       | 2000       |
-| Ilusional          | Ao ser atingido por uma arma ilusional, uma ilusão do alvo é conjurada adjacente a ele, realizando um ataque comum antes do próximo turno do alvo até que seja atingida. (possui 1 Ponto de Vida). | 2200       |
-| Camaleônica        | Muda de cor para se adaptar ao ambiente que está.                                                                        | 500        |
-| Dimensiônica       | Pode armazenar o portador.                                                                                               | 1800       |
+| Grau Exigido | Nível de Refinamento | Multiplicador |
+|--------------|----------------------|---------------|
+| 1 |  +1 |  x1.0 |
+| 1 |  +2 |  x3.0 |
+| 2 |  +3 |  x6.0 |
+| 2 |  +4 |  x9.0 |
+| 3 |  +5 |  x12.0 |
+| 3 |  +6 |  x14.0 |
+| 3 |  +7 |  x15.0 |
+| 4 |  +8 |  x16.0 |
+| 4 |  +9 |  x17.0 |
+| 4 |  +10 |  x18.0 |
+| 4 |  +11 |  x19.0 |
+| 4 |  +12 |  x20.0 |
+| 4 |  +13 |  x21.0 |
+| 4 |  +14 |  x23.0 |
+| 4 |  +15 |  x25.0 |
+| 4 |  +16 |  x30.0 |
 
 ### Perfil de Equipamento
 
@@ -235,11 +239,138 @@ Caso um jogador ainda queira utilizar uma armadura fora de seu perfil, ele ainda
 
 Com tantas variações, afixos e tipos de equipamentos, pode ser complexo avaliar o preço de um equipamento, mas com a ajuda das mais influentes casas de penhores das **Terras Místicos**, desenvolvemos um método infalível para te auxiliar com essa tarefa!
 
-Para ter uma noção
+Para simplificar, definimos um Custo base para cada tipo de incremento, seja ele um Refinamento, Afixo físico ou mágico.
+Esses valores aumentam conforme o Grau do item, que varia de 1 a 4 (salvo raras e).
 
-| Grau                      | Atk/Def Máximo Esperado  | Preço de Itens normais    | Preço de Itens afixados | Preço de Itens mágicos   |
-|---------------------------|--------------------------|---------------------------|-------------------------|--------------------------|--------------------------|
-| Grau 1 (Níveis 1 a 5)     | +0 ~ +2                  | 200~600                  | Entre +0 e +2           | Entre +0 e +2            | Entre +0 e +2            |
-| Grau 2 (Níveis 5 a 10)    | +2 ~ +4                  | 600~3000             | Entre +2 e +4           | Entre +2 e +4            | Entre +2 e +4            |
-| Grau 3 (Níveis 11 a 15)   | +4 ~ +8                  |                  | Entre +4 e +8           | Entre +4 e +8            | Entre +4 e +8            |
-| Grau 4 (Níveis 16 a 20)   | +8 ~ +16                 | Entre +8 e +16            | Entre +8 e +16          | Entre +8 e +16           | Entre +8 e +16           |
+| Grau                      | Custo Base de Material | Custo Base Afixo Físico  | Custo Base Afixo Mágico   | Custo Base Refinamento  |
+|---------------------------|------------------------|--------------------------|---------------------------|-------------------------|
+| Grau 1 (Níveis 1 a 5)     | 100                    | 200                      | 200                       | 150                     |
+| Grau 2 (Níveis 5 a 10)    | 250                    | 800                     | 1600                      | 250                     |
+| Grau 3 (Níveis 11 a 15)   | 500                   | 1600                     | 2400                       | 350                    |
+| Grau 4 (Níveis 16 a 20)   | 1000                   | 2000                     | 3200                      | 500                    |
+
+Com essa tabela em mãos, a fórmula de precificação fica fácil:
+
+<div class="tailwindpage">
+    <div class="border-solid border-gray-600 border rounded-xl shadow-md">
+        <p class="text-center text-xl bg-gray-300 rounded-t-xl p-3">Calculando Preço do Equipamento</p>
+        <p class="bg-gray-200 p-3 rounded-b-xl text-nowrap block whitespace-nowrap overflow-scroll">
+            {' '}<span class="text-3xl align-top">{'('}</span>{' '}
+            <span class="bg-emerald-200 border border-emerald-600 px-1 py-1 text-black rounded-xl">
+                Mult. Material
+            </span>
+            {' '}<span class="text-3xl align-middle">*</span>{' '}
+            <span class="bg-emerald-200 border border-emerald-600 px-1 py-1 text-black rounded-xl">
+                Item Base
+            </span>
+            {' '}<span class="text-3xl align-top">{')'}</span>{''}
+            {''}<span class="text-3xl align-base">+</span>{''} 
+            {''}<span class="text-3xl align-top">{'('}</span>{' '}
+            <span class="bg-sky-200 border border-sky-600 px-1 py-1 text-black rounded-xl">
+                Mult. Afixo
+            </span>
+            {' '}<span class="text-3xl align-middle">*</span>{' '}
+            <span class="bg-sky-200 border border-sky-600 px-1 py-1 text-black rounded-xl">
+                Custo Base Afixo
+            </span>
+            {' '}<span class="text-3xl align-top">{')'}</span>{''}
+            {''}<span class="text-3xl align-base">+</span>{''} 
+            {''}<span class="text-3xl align-top">{'('}</span>{' '}
+             <span class="bg-purple-200 border border-purple-600 px-1 py-1 text-black rounded-xl">
+                Mult. Refinamento
+            </span>
+            {' '}<span class="text-3xl align-middle">*</span>{' '}
+            <span class="bg-purple-200 border border-purple-600 px-2 py-1 text-black rounded-xl">
+                Custo Base Refinamento
+            </span>
+             {' '}<span class="text-3xl align-top">{')'}</span>{' '}
+        </p>
+    </div>
+</div>
+
+## Exemplo: Machado de Madeira +0 (GRAU 1)
+
+O <code>Machado de Madeira +0</code> é um exemplo bem simples de Arma para calcularmos o preço.
+
+Se quebrarmos o item nos 5 complementos, teremos:
+
+1. **Item Base**: Machado (T$ 200)
+2. **Material**: Madeira (x1)
+3. **Afixos Físicos**: Nenhum
+4. **Afixos Mágicos**: Nenhum
+5. **Refinamento**: Nenhum
+
+É um item **Grau 1**, então usaremos os valores de Grau 1 da tabela:
+
+<code>Preço = 1*200 (Material) + 0*300 (Afixo) + 0*800 (Afixo) + 0*400 (Refinamentos) = T$ 200.</code>
+<br/><br/>
+
+Nesse caso, **500** é o custo base de **Afixos Físicos**, **800** é o custo base de **Afixos Mágicos** e **400** o custo base de **Refinamento**.
+Como não temos nada disso, o resultado é zero.
+
+Simples certo? Agora vamos evoluir um pouco esse Machado.
+
+## Exemplo: Machado Largo de Bronze +2 c/ Espinhos (GRAU 1)
+
+Uau, agora sim esse Machado está começando a ficar interessante!
+
+Se quebrarmos o item nos 5 complementos, teremos:
+
+1. **Item Base**: Machado (T$ 200)
+2. **Material**: Bronze (200x2.0)
+3. **Afixos Físicos**: Largo (200x1.0), Espinhos (200x1.0)
+4. **Afixos Mágicos**: Nenhum
+5. **Refinamento**: +2 (150x3.0)
+
+O preço final ficaria:
+
+<code>Preço = 200*2.0 (Material) + 100*2.0 (Afixo) + 200*1.0 (Afixo) + 150*3.0 (Refinamentos) = T$ 1.250</code><br/><br/>
+
+
+<EquipmentBlock data={{
+  tier: 1,
+  name: "Machado de Pedra",
+  item_shape: {
+    name: "Machado",
+    base_damage: "d12 + 4",
+    base_price: 200,
+  },
+  material: {
+    name: "Pedra",
+    multiplier: 1,
+  },
+  buy_price: 1280,
+  slots: 1,
+  speed: -1,
+  durability: {
+    current: 3,
+    total: 3,
+  },
+  refinement: 2,
+  affixes: [
+    {
+      name: "Larga (F)",
+      is_physical: true,
+      is_magical: false,
+      multiplier: 1.0,
+      empowers: [
+        {
+          name: "F",
+          value: "1d10"
+        }
+      ]
+    },
+    {
+      name: "Espinhos (F)",
+      is_physical: true,
+      is_magical: false,
+      multiplier: 1.0,
+      empowers: [
+        {
+          name: "F",
+          value: "1d10",
+        }
+      ]
+    }
+  ]
+}}></EquipmentBlock>
