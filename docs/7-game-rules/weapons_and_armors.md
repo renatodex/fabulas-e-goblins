@@ -334,34 +334,31 @@ O preço final ficaria:
     name: "Machado",
     base_damage: "d12 + 4",
     base_price: 200,
+    item_type: 'attack_physical'
   },
   material: {
     name: "Pedra",
     multiplier: 1,
   },
   buy_price: 1280,
-  slots: 1,
+  weight: 1,
   speed: -1,
   durability: {
-    current: 3,
-    total: 3,
+    current: 4,
+    total: 7,
   },
-  refinement: 2,
+  refinement: {
+    attack_physical: 2,
+    attack_magical: 0,
+    defense_physical: 0,
+    defense_magical: 0
+  },
   affixes: [
     {
-      name: "Larga (F)",
-      is_physical: true,
-      is_magical: false,
-      multiplier: 1.0,
-      empowers: [
-        {
-          name: "F",
-          value: "1d10"
-        }
-      ]
-    },
-    {
-      name: "Espinhos (F)",
+      name: "Larga",
+      notation_name: "Larga (F)",
+      notation: "(F)",
+      description: 'Um item grande. No caso de armas, exige que seja manipulada com as duas mãos, além de causar (F) de dano adicional. No caso de armaduras, só pode ser utilizada por personagens grandes e largos e que sejam compatíveis com o Perfil do item.',
       is_physical: true,
       is_magical: false,
       multiplier: 1.0,
@@ -369,6 +366,55 @@ O preço final ficaria:
         {
           name: "F",
           value: "1d10",
+          damage_up: true,
+        }
+      ]
+    },
+    {
+      name: "Perfurante",
+      notation_name: "Perfurante (X)",
+      notation: "(X)",
+      description: 'Refina a lâmina para que ela possa penetrar armaduras com maior facilidade. + (X) Ataque Físico',
+      is_physical: true,
+      is_magical: false,
+      multiplier: 1.0,
+      empowers: [
+        {
+          name: "X",
+          value: "2",
+          attack_physical_up: true,
+        }
+      ]
+    },
+    {
+      name: "Espinhos",
+      notation_name: "Espinhos (F)",
+      notation: "(F)",
+      description: 'Adiciona espinhos afiados ao item, adicionando a característica Perfurar. Em armas faz com que golpes infligidos causem um adicional de (F) de dano. Em armaduras faz com que golpes recebidos causem (F) de dano perfurante.',
+      is_physical: true,
+      is_magical: false,
+      multiplier: 1.0,
+      empowers: [
+        {
+          name: "F",
+          value: "d6",
+          damage_up: true,
+        }
+      ]
+    },
+   {
+      name: "Amplificado",
+      notation_name: "Amplificado (F)",
+      notation: "(F)",
+      description: 'Itens Catalíticos ampliam o dano mágico causado pelo portador em (F).',
+      is_physical: false,
+      is_magical: true,
+      multiplier: 1.0,
+      empowers: [
+        {
+          name: "F",
+          value: "d4 + 5",
+          damage_up: true,
         }
       ]
     }
