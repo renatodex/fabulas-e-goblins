@@ -36,39 +36,39 @@ Basicamente é o que as pessoas diriam que o seu item é caso olhassem para ele 
 
 Esse primeiro componente vai te dizer qual é a fórmula base de dano, assim como o atributo necessário, o tipo de dano, de ataque, e o preço base de compra do item.
 
-| Nome                 | Tipo Ataque | Dano Base             | Atributo    | Tipo Dano  | Preço (T$) |
+| Nome                 | Tipo Ataque | Dano Base Físico      |  Dano Base Mágico       | Atributo    | Tipo Dano  | Preço (T$) |
 |----------------------|-------------|-----------------------|-------------|------------|------------|
-| Adaga                | Físico      | <code>2d4 + 7</code>  | Destino     | Cortante   | 200         |
-| Arco                 | Físico      | <code>d8 + 7</code>   | Força       | Perfurante | 200        |
-| Bastão               | Físico      | <code>d6 + 9</code>   | Resiliência | Contusivo  | 200         |
-| Bengala              | Físico      | <code>d4 + 11</code>  | Influência  | Contusivo  | 200         |
-| Besta                | Físico      | <code>d10 + 5</code>  | Força       | Perfurante | 200        |
-| Bomba                | Mágico      | <code>d8 + 7</code>   | Intelecto   | -     | 300        |
-| Cajado               | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | -     | 300        |
-| Cetro                | Mágico      | <code>d8 + 7</code>   | Elo Mágico  | -     | 300        |
-| Chicote              | Físico      | <code>d6 + 8</code>   | Força       | Cortante   | 200         |
-| Clava                | Físico      | <code>d8 + 7</code>   | Força       | Contusivo  | 200         |
-| Cruz                 | Mágico      | <code>2d6 + 3</code>   | Espírito    | -     | 300         |
-| Dardos               | Físico      | <code>2d4 + 7</code>  | Destino     | Perfurante | 200         |
-| Espada               | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 200         |
-| Estilingue           | Físico      | <code>d6 + 9</code>   | Força       | Contusivo  | 200         |
-| Foice                | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 200        |
-| Graveto              | Físico      | <code>d4 + 11</code>  | Intelecto   | Contusivo  | 200         |
-| Katar                | Físico      | <code>d6 + 9</code>   | Força       | Perfurante | 200         |
-| Lança                | Físico      | <code>d10 + 6</code>  | Força       | Perfurante | 200        |
-| Machado              | Físico      | <code>d12 + 4</code>  | Resiliência       | Cortante   | 200        |
-| Manopla              | Físico      | <code>d8 + 7</code>   | Resiliência | Contusivo  | 200         |
-| Martelo              | Físico      | <code>d8 + 7</code>   | Força       | Contusivo  | 200        |
-| Maça                 | Físico      | <code>d8 + 7</code>   | Resiliência | Contusivo  | 200         |
-| Orbe                 | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | -     | 300        |
-| Picareta             | Físico      | <code>d8 + 8</code>   | Força       | Cortante   | 200         |
-| Prisma               | Mágico      | <code>d6 + 9</code>   | Elo Mágico  | -     | 300        |
-| Projéteis (ex: Pedras)| Físico     | <code>d6 + 9</code>   | Força       | Contusivo  | 50         |
-| Punhal               | Físico      | <code>d6 + 9</code>   | Destino     | Cortante   | 200         |
-| Saxo                 | Físico      | <code>d8 + 7</code>   | Força       | Cortante   | 200        |
-| Tábua                | Físico      | <code>d4 + 11</code>  | Resiliência | Contusivo  | 200         |
-| Tridente             | Físico      | <code>d10 + 5</code>  | Força       | Perfurante | 200        |
-| Urna                 | Mágico      | <code>d6 + 8</code>   | Espírito    | -     | 300        |
+| Adaga                | Físico      | <code>d8</code>       | <code>-</code>            | Destino     | Cortante   | 200         |
+| Arco                 | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Perfurante | 200        |
+| Bastão               | Físico      | <code>d6</code>       | <code>-</code>            | Resiliência | Contusivo  | 200         |
+| Bengala              | Físico      | <code>d6</code>       | <code>-</code>            | Influência  | Contusivo  | 200         |
+| Besta                | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Perfurante | 200        |
+| Chicote              | Físico      | <code>d6</code>       | <code>-</code>            | Força       | Cortante   | 200         |
+| Clava                | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Contusivo  | 200         |
+| Cruz                 | Físico      | <code>d10</code>       | <code>-</code>            | Espírito    | -     | 300         |
+| Dardos               | Físico      | <code>d4</code>       | <code>-</code>            | Destino     | Perfurante | 200         |
+| Espada               | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Cortante   | 200         |
+| Estilingue           | Físico      | <code>d6</code>       | <code>-</code>            | Força       | Contusivo  | 200         |
+| Foice                | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Cortante   | 200        |
+| Graveto              | Físico      | <code>d6</code>       | <code>-</code>            | Intelecto   | Contusivo  | 200         |
+| Katar                | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Perfurante | 200         |
+| Lança                | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Perfurante | 200        |
+| Machado              | Físico      | <code>d12</code>      | <code>-</code>            | Resiliência       | Cortante   | 200        |
+| Manopla              | Físico      | <code>d10</code>      | <code>-</code>            | Resiliência | Contusivo  | 200         |
+| Martelo              | Físico      | <code>d12</code>      | <code>-</code>            | Força       | Contusivo  | 200        |
+| Maça                 | Físico      | <code>d10</code>      | <code>-</code>            | Resiliência | Contusivo  | 200         |
+| Picareta             | Físico      | <code>d6</code>       | <code>-</code>            | Força       | Cortante   | 200         |
+| Projéteis (ex: Pedras)| Físico     | <code>d4</code>       | <code>-</code>            | Força       | Contusivo  | 50         |
+| Punhal               | Físico      | <code>d8</code>       | <code>-</code>            | Destino     | Cortante   | 200         |
+| Saxo                 | Físico      | <code>d10</code>      | <code>-</code>            | Força       | Cortante   | 200        |
+| Tábua                | Físico      | <code>d6</code>       | <code>-</code>            | Resiliência | Contusivo  | 200         |
+| Tridente             | Físico      | <code>d12</code>      | <code>-</code>            | Força       | Perfurante | 200        |
+| Bomba Mágica         | Mágico      | <code>-</code>        | <code>d10</code>            | Intelecto   | -     | 300        |
+| Cetro                | Mágico      | <code>d8</code>       | <code>-</code>            | Elo Mágico  | -     | 300        |
+| Cajado               | Mágico      | <code>d8</code>       | <code>d8</code>            | Elo Mágico  | -     | 300        |
+| Prisma               | Mágico      | <code>-</code>        | <code>d10</code>            | Elo Mágico  | -     | 300        |
+| Orbe                 | Mágico      | <code>d4</code>       | <code>d10</code>            | Elo Mágico  | -     | 300        |
+| Urna                 | Mágico      | <code>d4</code>       | <code>d12</code>            | Espírito    | -     | 300        |
 
 
 ### 2. Material
