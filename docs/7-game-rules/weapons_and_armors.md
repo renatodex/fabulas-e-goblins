@@ -36,39 +36,39 @@ Basicamente é o que as pessoas diriam que o seu item é caso olhassem para ele 
 
 Esse primeiro componente vai te dizer qual é a fórmula base de dano, assim como o atributo necessário, o tipo de dano, de ataque, e o preço base de compra do item.
 
-| Nome                 | Tipo Ataque    | Dano Base             | Atributo      | Tipo Dano | Preço (T$) |
-| -------------------- | -------------- | --------------------- | ------------- | --------- | ---------- |
-| Adaga                | Físico         | <code>d4 + 5</code>                | Destino       | Cortante  | 60         |
-| Arco                 | Físico         | <code>d8 + 3</code>                | Força         | Perfurante| 130        |
-| Bastão               | Físico         | <code>d6 + 3</code>                | Resiliência   | Contusivo  | 90         |
-| Bengala              | Físico         | <code>d4 + 4</code>                | Influência    | Contusivo  | 70         |
-| Besta                | Físico         | <code>d10 + 1</code>               | Força         | Perfurante| 150        |
-| Bomba                | Mágico         | <code>d8 + 3</code>                | Intelecto     | Mágico    | 100        |
-| Cajado               | Mágico         | <code>d6 + 3</code>                | Elo Mágico    | Mágico    | 140        |
-| Cetro                | Mágico         | <code>d8 + 3</code>                | Elo Mágico    | Mágico    | 170        |
-| Chicote              | Físico         | <code>d6 + 2</code>                | Força         | Cortante  | 80         |
-| Clava                | Físico         | <code>d8 + 4</code>                | Força         | Contusivo  | 110        |
-| Cruz                 | Mágico         | <code>d6 + 4</code>                | Espírito      | Mágico    | 120        |
-| Dardos               | Físico         | <code>d4 + 4</code>                | Destino       | Perfurante| 60         |
-| Espada               | Físico         | <code>d8 + 4</code>                | Força         | Cortante  | 100        |
-| Estilingue           | Físico         | <code>d6 + 3</code>                | Força         | Contusivo  | 75         |
-| Foice                | Físico         | <code>d8 + 4</code>                | Força         | Cortante  | 150        |
-| Graveto              | Físico         | <code>d4 + 3</code>                | Intelecto     | Contusivo | 50         |
-| Katar                | Físico         | <code>d6 + 3</code>                | Força         | Perfurante| 95         |
-| Lança                | Físico         | <code>d10 + 2</code>               | Força         | Perfurante| 170        |
-| Machado              | Físico         | <code>d12 + 1</code>               | Força         | Cortante  | 190        |
-| Manopla              | Físico         | <code>d8 + 2</code>                | Resiliência   | Contusivo  | 110        |
-| Martelo              | Físico         | <code>d8 + 3</code>                | Força         | Contusivo  | 160        |
-| Maça                 | Físico         | <code>d8 + 4</code>                | Resiliência   | Contusivo  | 140        |
-| Orbe                 | Mágico         | <code>d6 + 3</code>                | Elo Mágico    | Mágico    | 155        |
-| Picareta             | Físico         | <code>d8 + 2</code>                | Força         | Cortante  | 120        |
-| Prisma               | Mágico         | <code>d6 + 3</code>                | Elo Mágico    | Mágico    | 150        |
-| Projéteis (ex: Pedras)| Físico        | <code>d6 + 2</code>                | Força         | Contusivo  | 25         |
-| Punhal               | Físico         | <code>d6 + 3</code>                | Destino       | Cortante  | 90         |
-| Saxo                 | Físico         | <code>d8 + 3</code>                | Força         | Cortante  | 130        |
-| Tábua                | Físico         | <code>d4 + 4</code>                | Resiliência   | Contusivo  | 70         |
-| Tridente             | Físico         | <code>d10 + 1</code>               | Força         | Perfurante| 165        |
-| Urna                 | Mágico         | <code>d6 + 4</code>                | Espírito      | Mágico    | 180        |
+| Nome                 | Tipo Ataque    | Dado de Dano Variável     | Valor de Dano Fixo           | Atributo      | Tipo Dano  | Preço (T$) |
+| -------------------- | -------------- | ------------------------- | ---------------------------- | ------------- | ---------- | ---------- |
+| Adaga                | Físico         | <code>d4</code>           | <code>5</code>               | Destino       | Cortante   | 60         |
+| Arco                 | Físico         | <code>d8</code>           | <code>3</code>               | Força         | Perfurante | 130        |
+| Bastão               | Físico         | <code>d6</code>           | <code>3</code>               | Resiliência   | Contusivo  | 90         |
+| Bengala              | Físico         | <code>d4</code>           | <code>4</code>               | Influência    | Contusivo  | 70         |
+| Besta                | Físico         | <code>d10</code>          | <code>1</code>               | Força         | Perfurante | 150        |
+| Bomba                | Mágico         | <code>d8</code>           | <code>3</code>               | Intelecto     | Mágico     | 100        |
+| Cajado               | Mágico         | <code>d6</code>           | <code>3</code>               | Elo Mágico    | Mágico     | 140        |
+| Cetro                | Mágico         | <code>d8</code>           | <code>3</code>               | Elo Mágico    | Mágico     | 170        |
+| Chicote              | Físico         | <code>d6</code>           | <code>2</code>               | Força         | Cortante   | 80         |
+| Clava                | Físico         | <code>d8</code>           | <code>4</code>               | Força         | Contusivo  | 110        |
+| Cruz                 | Mágico         | <code>d6</code>           | <code>4</code>               | Espírito      | Mágico     | 120        |
+| Dardos               | Físico         | <code>d4</code>           | <code>4</code>               | Destino       | Perfurante | 60         |
+| Espada               | Físico         | <code>d8</code>           | <code>4</code>               | Força         | Cortante   | 100        |
+| Estilingue           | Físico         | <code>d6</code>           | <code>3</code>               | Força         | Contusivo  | 75         |
+| Foice                | Físico         | <code>d8</code>           | <code>4</code>               | Força         | Cortante   | 150        |
+| Graveto              | Físico         | <code>d4</code>           | <code>3</code>               | Intelecto     | Contusivo  | 50         |
+| Katar                | Físico         | <code>d6</code>           | <code>3</code>               | Força         | Perfurante | 95         |
+| Lança                | Físico         | <code>d10</code>          | <code>2</code>               | Força         | Perfurante | 170        |
+| Machado              | Físico         | <code>d12</code>          | <code>4</code>               | Força         | Cortante   | 130        |
+| Manopla              | Físico         | <code>d8</code>           | <code>2</code>               | Resiliência   | Contusivo  | 110        |
+| Martelo              | Físico         | <code>d8</code>           | <code>3</code>               | Força         | Contusivo  | 160        |
+| Maça                 | Físico         | <code>d8</code>           | <code>4</code>               | Resiliência   | Contusivo  | 140        |
+| Orbe                 | Mágico         | <code>d6</code>           | <code>3</code>               | Elo Mágico    | Mágico     | 155        |
+| Picareta             | Físico         | <code>d8</code>           | <code>2</code>               | Força         | Cortante   | 120        |
+| Prisma               | Mágico         | <code>d6</code>           | <code>3</code>               | Elo Mágico    | Mágico     | 150        |
+| Projéteis (ex: Pedras)| Físico        | <code>d6</code>           | <code>2</code>               | Força         | Contusivo  | 25         |
+| Punhal               | Físico         | <code>d6</code>           | <code>3</code>               | Destino       | Cortante   | 90         |
+| Saxo                 | Físico         | <code>d8</code>           | <code>3</code>               | Força         | Cortante   | 130        |
+| Tábua                | Físico         | <code>d4</code>           | <code>4</code>               | Resiliência   | Contusivo  | 70         |
+| Tridente             | Físico         | <code>d10</code>          | <code>1</code>               | Força         | Perfurante | 165        |
+| Urna                 | Mágico         | <code>d6</code>           | <code>4</code>               | Espírito      | Mágico     | 180        |
 
 ### 2. Material
 
@@ -79,45 +79,46 @@ Cada material pode possuir propriedades únicas, e pode influenciar no dano, na 
 
 | Nome          | Incremento de Dano | Durabilidade base | Preço (T$)   |
 | ----------    | --------------     | ----------------- | ---------    |
-| Madeira       | <code>0</code>     | 1                 | 50           |
-| Aço           | <code>0</code>     | 1                 | 100          |
-| Cobre         | <code>0</code>     | 1                 | 150          |
-| Prata         | <code>0</code>     | 1                 | 200          |
-| Cristal       | <code>0</code>     | 1                 | 250          |
-| Ouro          | <code>0</code>     | 1                 | 400          |
-| Obsidiana     | <code>0</code>     | 1                 | 600          |
-| Aço Galiriano | <code>0</code>     | 1                 | 800          |
-| Grimônio      | <code>0</code>     | 1                 | 1000         |
-| Zigônio       | <code>0</code>     | 1                 | 1200         |
-| Alizarita     | <code>0</code>     | 1                 | 1500         |
-| Urikirita     | <code>0</code>     | 1                 | 2000         |
-| Balarita      | <code>0</code>     | 1                 | 2500         |
-| Danarita      | <code>0</code>     | 1                 | 3000         |
+| Madeira       | <code>1</code>     | 3                 | 50           |
+| Pedra         | <code>2</code>     | 4                 | 50           |
+| Aço/Ferro     | <code>4</code>     | 4                 | 100          |
+| Cobre         | <code>6</code>     | 5                 | 150          |
+| Prata         | <code>8</code>     | 5                 | 200          |
+| Cristal       | <code>10</code>    | 3                 | 250          |
+| Ouro          | <code>12</code>    | 6                 | 400          |
+| Obsidiana     | <code>14</code>    | 6                 | 600          |
+| Aço Galiriano | <code>16</code>    | 7                 | 800          |
+| Grimônio      | <code>18</code>    | 6                 | 1000         |
+| Zigônio       | <code>20</code>    | 6                 | 1200         |
+| Alizarita     | <code>15</code>    | 5                 | 1500         |
+| Urikirita     | <code>15</code>    | 5                 | 2000         |
+| Balarita      | <code>15</code>    | 5                 | 2500         |
+| Danarita      | <code>15</code>    | 5                 | 3000         |
 
 ### 3. Qualidade
 
 A Qualidade determina o primor de construção do item.
 Uma espada feita de sobras de material sempre será inferior em termos de corte e eficiência, enquanto obras primas criadas por ferreiros lendários costumam utilizar materiais de primeira e que duram por gerações.
 
-| Nome       | Descrição                                                                                              | Incremento de Dano | Preço (T$) |
-| ---------- | ------------------------------------------------------------------------------------------------------ | ------------------ | ---------  |
-| Pobre      | Um item feito de material frágil/poroso que possui baixa qualidade/durabilidade. Provavelmente foi criado nas pressas por algum ferreiro de esquina. | <code>0</code>     | 50         |
-| Comum      | Um item feito com materiais acessíveis, mas que é honesto ao cumprir sua função. | <code>0</code>     | 50         |
-| Mediano    | Um item de fabricação mediana. Não é feito com o que há de melhor, mas parece ter sido construído com materiais de qualidade razoável. | <code>0</code>     | 50         |
-| Superior   | O mínimo que um bom ferreiro poderia esperar. Itens superiores são de ótima fabricação e acabamento, feito com materiais mais difíceis de encontrar, mão de obra de qualidade e que com certeza não decepciona. | <code>0</code>     | 50         |
-| Obra prima | Um item excepcional, feito com materiais raros e que foi feito para passar por várias gerações. | <code>0</code>     | 50         |
+| Nome       | Descrição                                                                                                                                                                                                       | Incremento de Dano              | Preço (T$) | Durabilidade |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------  | ------------ |
+| Pobre      | Um item feito de material frágil/poroso que possui baixa qualidade/durabilidade. Provavelmente foi criado nas pressas por algum ferreiro de esquina.                                                            | <code>-1 dado</code>            | 20         | -1 Carga     |
+| Comum      | Um item feito com materiais acessíveis, mas que é honesto ao cumprir sua função.                                                                                                                                | --                              | 80        | 0 Cargas     |
+| Mediano    | Um item de fabricação mediana. Não é feito com o que há de melhor, mas parece ter sido construído com materiais de qualidade razoável.                                                                          | <code>+1 dado</code>            | 200        | +1 Carga     |
+| Superior   | O mínimo que um bom ferreiro poderia esperar. Itens superiores são de ótima fabricação e acabamento, feito com materiais mais difíceis de encontrar, mão de obra de qualidade e que com certeza não decepciona. | <code>+2 dados</code>           | 2000       | +2 Cargas    |
+| Obra prima | Um item excepcional, feito com materiais raros e que foi feito para passar por várias gerações.                                                                                                                 | <code>+3 dados</code>           | 5000       | +3 Cargas    |
 
 ### 4. Conservação
 
 Mesmo o mais primoroso dos Machados está sujeito à ação do tempo.
 Com a utilização prolongada, as lâminas e as pontas das armas, assim como as placas das armaduras tendem a enfraquecer e se tornarem menos eficientes ao longo dos anos.
 
-| Nome       | Descrição                                                                                              | Incremento de Dano | Preço (T$) |
-| ---------- | ------------------------------------------------------------------------------------------------------ | ------------------ | ---------  |
-| Inutilizável | Um item deteriorado, possivelmente quebrado e inviável de se utilizar. | <code>0</code>     | 50         |
-| Usado | Um item provavelmente recondicionado, que já viu várias batalhas. Já não oferece mais os mesmos benefícios de antes, mas ainda pode ser usado. | <code>0</code>     | 50         |
-| Pouco uso    | Um item com marcas visíveis de uso, que não está mais em seu estado original mas pode ser utilizado sem grandes problemas. | <code>0</code>     | 50         |
-| Impecável   | Um item em perfeito estado de conservação, provavelmente nunca foi usado e parece impecável. | <code>0</code>     | 50         |
+| Nome       | Descrição                                                                                                                                 | Decremento de Cargas   | Preço (T$)            |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------- |
+| Inutilizável | Um item deteriorado, possivelmente quebrado e inviável de se utilizar.                                                                  | <code>Quebrado</code>  | 0                     |
+| Usado | Um item provavelmente recondicionado, que já viu várias batalhas. Já não oferece mais os mesmos benefícios de antes, mas ainda pode ser usado. | <code>-2</code>        | <code>+ Preço/3</code>         |
+| Pouco uso    | Um item com marcas visíveis de uso, que não está mais em seu estado original mas pode ser utilizado sem grandes problemas.              | <code>-1</code>        | <code>+ (Preço/2)</code>     |
+| Impecável   | Um item em perfeito estado de conservação, provavelmente nunca foi usado e parece impecável.                                             | <code>0</code>         | <code>+ (Preço)</code>     |
 
 ### 5. Aditivos
 
