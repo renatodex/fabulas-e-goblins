@@ -4,7 +4,6 @@ const { readdir } = require('fs').promises;
 const fs = require('node:fs');
 const Dictionary = require('./_column_names_dictionary')
 
-console.log(Dictionary)
 async function getFiles(dir) {
   const dirents = await readdir(dir, { withFileTypes: true });
   const files = await Promise.all(dirents.map((dirent) => {

@@ -62,8 +62,6 @@ export function SpellBlock ({ spellData, onSelectSpellEvent, selected }) {
     )
   }
 
-  console.log(spellData)
-
   return (
     <div className={styles['spell-block']}>
       <div className={styles['title-grid']}>
