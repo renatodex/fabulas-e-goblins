@@ -15,6 +15,78 @@ Então, se você tem alguma dúvida de onde gastar seus preciosos [Temirs](/docs
 
 Hora de ir as compras!
 
+## Itens Utilitários
+
+Além das Armas e equipamentos, existem também muitos outros itens utilitários frequentemente usados por Aventureiros no mundo todo. Eles compõem o cinto de utilidades do Aventureiro, sendo imprescindíveis em muitas missões!
+
+| Material           | Descrição                                                                                                                                                                                                                                                                         | Faixa de Preço (em Temirs)                                                      |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
+| Óleos de Caça      | Muito utilizados por Caçadores e Adeptos de Kanus para embanhar armas e armaduras contra tipos específicos de criaturas. Essaes componentes são preparados levando em conta as fraquezas olfativas e anatômicas das criaturas.                                                    | 50 ~ 200                                                                        |
+| Poções de Cura     | Um item essêncial para qualquer aventureiro preparado. Existem diversos tipos de Poção de Cura que podem recuperar Pontos de Vida em diferentes intensidades dependendo do Grau de qualidade. A poção mínima recupera `GRAU * (2d12 + 5)` P.V                                     | Grau 1: 200<br/>Grau 2: 400<br />Grau 3: 800<br />Grau 4: 1600<br/>Grau 5: 3200 |
+| Armadilhas         | Frequentemente usadas por Caçadores para surpreender suas presas. Geralmente tem efeito imobilizante ou tranquilizante.                                                                                                                                                           | 200 ~ 600                                                                       |
+| Kit do Aventureiro | Cada Kit contém 1 Saco de Durmir individual, comida e água para uma viagem de até 3 dias, corda e uma tocha embedada em óleo. Podem ser vendidos de forma diferente dependendo da região.                                                                                         | 80 ~ 300                                                                        |
+| Bolsas de Moedas   | Podem carregar moedas de forma eficiente sem ocupar espaço de Inventário, dependendo do Grau de qualidade, podem carregar diferentes quantidades de moeda.<br/>**Capacidade da Bolsa:**<br/>Grau 1: 500 moedas / Grau 2: 2000 moedas / Grau 3: 8000 moedas / Grau 4: 32000 moedas | Grau 1: 150<br/>Grau 2: 600<br/>Grau 3: 2400<br/>Grau 4: 9600                   |
+| Bolsas para Viagem | Expandem o número de Itens carregados no inventário. Dependendo do Grau de qualidade, podem comportar mais itens.<br/>**Capacidade da Bolsa:**<br/>Grau 1: +2 Espaços / Grau 2: +4 Espaços / Grau 3: +6 Espaços / Grau 4: +8 Espaços                                              | Grau 1: 150<br/>Grau 2: 600<br/>Grau 3: 2400<br/>Grau 4: 9600                   |
+| Tochas Avulsas     | Muito procuradas pelos Aventureiros, as Tochas comuns são uteis para iluminar ambientes escuros como cavernas e templos antigos. Cada tocha ilumina 3 quadrados e dura 1 hora. Tochas de melhor qualidade podem iluminar mais, e também custar mais caro.                         | 30 ~ 100                                                                        |
+| Poções de Aflição  | Podem curar condições negativas como Envenenamento, Paralizia, Queimaduras, e outras condições sérias. Cada poção cura apenas 1 condição. As condições também são separadas em Graus, logo, uma **Poção de Veneno Grau 1** não curará **Veneno Grau 2**.                          | 150 ~ ?                                                                         |
+
+## Poções de Vida e Elo
+
+| Item                   | Descrição                                                                                                                                                                                                                                                                                                                                         | Faixa de Preço (em Temirs) |
+|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|
+| Poção de Vida Menor    | Esta poção básica, de cor verde clara e sabor suave, é ideal para aventureiros iniciantes. Feita com ervas comuns, ela é eficaz para curar ferimentos leves e revitalizar o corpo após pequenos esforços. Recupera `1d20 + 10` de P.V.                                                                                                            | T$ 200                     |
+| Poção de Vida Maior    | De um tom verde esmeralda, esta poção possui um sabor mais intenso e é feita com ingredientes mais raros. Recomendada para aventureiros que enfrentam desafios moderados, ela proporciona uma cura mais substancial e um vigor renovado. Recupera `2d20 + 20` de P.V.                                                                             | T$ 400                     |
+| Poção de Vida Avançada | Esta poção de cor vermelha vibrante é composta por uma mistura complexa de ingredientes exóticos. Seu sabor é forte e revigorante, ideal para guerreiros experientes que enfrentam perigos consideráveis, oferecendo uma recuperação rápida e eficiente. Recupera `3d20 + 30` de P.V.                                                             | T$ 800                     |
+| Poção de Vida Superior | Com uma tonalidade vermelho escarlate vibrante e um sabor que remete a frutas silvestres exóticas e especiarias raras, esta poção é feita para situações extremas. Utiliza ingredientes de alta qualidade, proporcionando uma cura rápida e profunda até mesmo dos ferimentos mais graves. Recupera `4d20 + 40` de P.V.                           | T$ 1.600                    |
+| Poção de Vida Lendária | Esta poção, de coloração dourada e com um sabor indescritivelmente delicioso, é uma obra-prima da alquimia. Utiliza ingredientes místicos e raros, oferecendo uma recuperação milagrosa, capaz de salvar vidas mesmo nas circunstâncias mais desesperadoras. Recupera `5d20 + 50` de P.V.                                                         | T$ 3.200                    |
+| Poção de Elo Menor     | Esta poção, de cor azul-pálido e sabor refrescante, é perfeita para iniciantes em artes mágicas. Feita com cristais de mana e ervas leves, ela é eficaz para restaurar uma pequena quantidade de energia mágica e auxiliar em feitiços básicos. Recupera `1d12 + 10` de P.M.                                                                      | T$ 600                     |
+| Poção de Elo Maior     | Com um tom de azul mais profundo e sabor frutado, esta poção utiliza cristais de mana de qualidade superior e ingredientes mágicos moderadamente potentes. É ideal para magos intermediários, ajudando a recuperar uma quantidade maior de energia mágica. Recupera `2d12 + 20` de P.M.                                                           | T$ 1.200                     |
+| Poção de Elo Avançada  | Esta poção possui uma vibrante cor violeta e um sabor complexo que mistura notas florais e cítricas. Enriquecida com cristais de mana raros e ingredientes místicos, é indicada para magos experientes, proporcionando uma rápida recuperação de energia mágica. Recupera `3d12 + 30` de P.M.                                                     | T$ 2.400                     |
+| Poção de Elo Superior  | De uma intensa cor índigo e sabor exótico que lembra especiarias antigas, esta poção é composta por cristais de mana de alta pureza e ingredientes mágicos excepcionais. Ela é projetada para situações críticas, oferecendo uma restauração substancial de energia mágica. Recupera `4d12 + 40` de P.M.                                          | T$ 4.800                    |
+| Poção de Elo Lendária  | Esta lendária poção de Elo tem uma cor prateada cintilante e sua textura gliterizada possui um sabor que parece mudar a cada gole, proporcionando uma experiência única. Feita com os mais raros cristais primordiais de mana e ingredientes mágicos lendários, oferece uma recuperação milagrosa de energia mágica. Recupera `5d12 + 50` de P.M. | T$ 9.600                    |
+
+## Itens Utilitários
+
+| Item                          | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                           | Faixa de Preço (em Temirs) |
+|:------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|
+| Kit do Aventureiro            | Cada Kit contém **1 Saco de Durmir individual**, comida e água para uma viagem de até **3 dias**, 1x Corda e uma Tocha embedada em óleo. Podem ser vendidos de forma diferente dependendo da região.                                                                                                                                                                                                                                                | T$ 80                      |
+| Tochas Comum                  | Muito procuradas pelos Aventureiros, as Tochas comuns são uteis para iluminar ambientes escuros como cavernas e templos antigos. Cada tocha ilumina **3 espaços** e dura por **1 hora**.                                                                                                                                                                                                                                                            | T$ 30                      |
+| Tochas de Resina Mágica       | Esta tocha encantada é feita de madeira robusta, coletada das florestas encantadas de **Eldoria**. A chama, de um suave tom azul-celeste, é alimentada por um núcleo de resina mágica, permitindo que arda por até **2 horas** sem se extinguir. Ilumina até **5 espaços**.                                                                                                                                                                         | T$ 100                     |
+| Tochas de Fogo Etéreo         | Esta tocha é feita de um raro tipo de madeira encontrada apenas nas florestas encantadas de **Lerúnia**. A chama, de um brilho lilás e dançante, é alimentada por essência de fogo etéreo, que arde por até **3 horas** sem se extinguir. Ilumina até **6 espaços**, revelando não apenas a luz visível, mas também as energias místicas ocultas no ar. É especialmente valorizada por magos e caçadores de tesouros.                               | T$ 300                     |
+| Tochas de Chamas Prismáticas  | Esta tocha única apresenta um cabo entalhado com símbolos antigos e é coroada por uma chama prismática. A chama muda de cor, passando por todo o espectro, e dura até **6 horas**. Capaz de iluminar até **8 espaços**, suas chamas multicoloridas podem hipnotizar criaturas mágicas menores e são usadas tanto para iluminação quanto para defesa.                                                                                                | T$ 600                     |
+| Tochas do Solstício Eterno    | Encantada pelos Arcanistas da **Irmandade do Cetro**, esta tocha possui uma **chama dourada** que nunca se apaga *(mas pode ser apagada pelo portador)*. Ilumina até **12 espaços** com uma luz que imita o **sol do meio-dia**, banindo trevas e criaturas das sombras com facilidade. É uma ferramenta poderosa desejada entre os mais destemidos aventureiros.                                                                                   | T$ 1.200                   |
+
+## Itens de Armazenamento
+
+| Item                          | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                           | Faixa de Preço (em Temirs) |
+|:------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|
+| Bolsa de Moedas do Jagu       | Esta bolsa encantada, tecida com pelagem de Jagu e reforçada com fios de prata, é a companheira ideal para aventureiros iniciantes e pequenos comerciantes. Seu encanto básico de expansão, concedido por magos aprendizes, permite que ela mantenha uma capacidade surpreendente de **1.500 Temirs** em um espaço compacto, mantendo as moedas seguras com um feitiço de ocultação suave.                                                          | T$ 300                     |
+| Bolsa de Moedas do Aburu      | Criada pelas hábeis mãos de artesões Metalóides, esta bolsa de couro de Aburu jovem apresenta detalhes intrincados e um encanto intermediário de expansão. Ideal para mercadores ambiciosos e aventureiros experientes, ela comporta **3.000 Temirs**, protegidos por um feitiço de proteção que desvia os olhares curiosos.                                                                                                                        | T$ 1.000                   |
+| Bolsa de Moedas do Cromodon   | Forjada nas famosas dunas de Gemênia, esta bolsa robusta de couro envelhecido de Cromodon é adornada com runas de poder. Seu encanto avançado, infundido pelos melhores feiticeiros, aumenta a capacidade para **6.000 Temirs** e inclui um feitiço de peso-leve, tornando-a perfeita para longas jornadas e exploradores incansáveis.                                                                                                              | T$ 2.000                   |
+| Bolsa de Moedas do Zizagon    | Elegante e sofisticada, esta bolsa feita do couro fino de Zizagons com detalhes requintados é a escolha óbvia dos mais afortunados aventureiros. Com um encanto superior, ela oferece uma capacidade de armazenamento excepcional, permitindo o porte de até **12.000 Temirs**, ideal para aventureiros poderosos que não tem medo de carregar suas economias na cintura.                                                                           | T$ 4.000                   |
+| Bolsa de Moedas do Knerodraco | Lendária e cobiçada, esta bolsa é feita com escamas de Knerodraco e adornada com gemas primordiais. Seu encanto místico tecido pelos antigos Augúrios dos tempos pré blecaute, expandem sua capacidade para impressionantes **24.000 Temirs**. A bolsa possui uma **aura de invisibilidade** e só pode ser vista e tocada pelo seu verdadeiro dono, tornando-a uma relíquia desejada por reis e heróis.                                             | T$ 6.000                   |
+| Bolsa de Viagem do Jagu       | Esta bolsa encantada, tecida com pelagem de Jagu e reforçada com fios de prata, é a companheira ideal para aventureiros iniciantes e pequenos comerciantes. Seu encanto básico de expansão, concedido por magos aprendizes, permite que ela aumente o armazenamento de itens e equipamentos em até **2 espaços adicionais** em um interior compacto, mantendo seus tesouros seguros com um feitiço de ocultação suave.                              | T$ 300                     |
+| Bolsa de Viagem do Aburu      | Criada pelas hábeis mãos de artesões Metalóides, esta bolsa de couro de Aburu jovem apresenta detalhes intrincados e um encanto intermediário de expansão. Ideal para mercadores ambiciosos e aventureiros experientes, ela aumenta o armazenamento de itens e equipamentos em até **4 espaços adicionais**, protegidos por um feitiço de proteção que desvia os olhares curiosos.                                                                  | T$ 1.000                   |
+| Bolsa de Viagem do Cromodon   | Forjada nas famosas dunas de Gemênia, esta bolsa robusta de couro envelhecido de Cromodon é adornada com runas de poder. Seu encanto avançado, infundido pelos melhores feiticeiros, aumenta a capacidade de itens e equipamentos em até **6 espaços adicionais** e inclui um feitiço de peso-leve, tornando-a perfeita para longas jornadas e exploradores incansáveis.                                                                            | T$ 2.000                   |
+| Bolsa de Viagem do Zizagon    | Elegante e sofisticada, esta bolsa feita do couro fino de Zizagons com detalhes requintados é a escolha óbvia dos mais afortunados aventureiros. Com um encanto superior, ela oferece uma capacidade de armazenamento excepcional, aumentando a capacidade de itens e equipamentos em até **8 espaços adicionais**, ideal para aventureiros poderosos que não tem medo de carregar seus diversos tesouros na cintura.                               | T$ 4.000                   |
+| Bolsa de Viagem do Knerodraco | Lendária e cobiçada, esta bolsa é feita com escamas de Knerodraco e adornada com gemas primordiais. Seu encanto místico tecido pelos antigos Augúrios dos tempos pré blecaute, expandem sua capacidade de armazenar itens e equipamentos em até impressionantes **10 espaços adicionais**. A bolsa possui uma **aura de invisibilidade** e só pode ser vista e tocada pelo seu verdadeiro dono, tornando-a uma relíquia desejada por reis e heróis. | T$ 6.000                   |
+
+## Armadilhas
+
+--
+
+## Oleos de Caça
+
+--
+
+## Poções de Aflição
+
+--
+
+## Itens de Conjuração Expressa
+
+--
+
 ## Materia Prima e Materiais
 
 Seria impossível listar todos os tipos de materiais que existem no mundo do **Fábulas & Goblins**, até porque é muito possível que alguns deles sejam criados especialmente para a sua campanha! Mas podemos te ajudar fornecendo uma lista de **qualidades**, ou seja, **materiais frequentemente usados** para construir **armas, armaduras e **, em ordem de efficiência, durabilidade e preço.
@@ -23,242 +95,23 @@ Assim, você terá uma noção de como funciona a economia das **Terras Mística
 
 A tabela abaixo apenas lista de forma genérica os materiais usados para construir armas e armaduras comuns. Significa que todos os equipamentos feitos de aço tenderão a fornecer benefícios compatíveis com seu preço e qualidade.
 
-<table>
-  <tr>
-    <th>Imagem</th>
-    <th>Material</th>
-    <th>Descrição</th>
-    <th>Durabilidade</th>
-    <th>Preço</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Madeira Comum</td>
-    <td>Encontrada na maioria das florestas do mundo, muitas espécies de árvores se encaixam nessa categoria.</td>
-    <td>2 Cargas</td>
-    <td>100 ~ 300</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Madeira Rígida</td>
-    <td>Encontrada apenas em algumas espécies de Árvore, geralmente mais resistentes e mais caras.</td>
-    <td>3 Cargas</td>
-    <td>400 ~ 800</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Aço</td>
-    <td>Uma liga metálica naturalmente encontrada em regiões subterrâneas, ideal para armas de corte e perfuração devido sua boa resistência.</td>
-    <td>3 Cargas</td>
-    <td>600 ~ 1200</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Prata</td>
-    <td>Metal de natureza resistente e maleável, ideal para armas de todos os tipos devido à sua capacidade de absorção.</td>
-    <td>4 Cargas</td>
-    <td>1500 ~ 2000</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Cristal</td>
-    <td>Usada para descrever o agregado de cristais translúcidos maleáveis o suficientes para serem usados para confecção de armas e armaduras. Sua resistência e absorção de dano são superiores a da Prata, mas seu custo é bastante elevado.</td>
-    <td>4 Cargas</td>
-    <td>2500 ~ 3500</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Ouro</td>
-    <td>Metal raro que possui ótima resistência e maleabilidade, muito utilizado por cavaleiros abastados e figuras ilustres, capaz de confecionar laminas incrivelmente resilientes.</td>
-    <td>5 Cargas</td>
-    <td>4000 ~ 7000</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Obsidiana</td>
-    <td>Frágil mas muito cortante, esse material é muito utilizado para confecção de pequenas Adagas e Pontas de flecha. Sua performance é muito superior ao do Aço comum ou da Prata.</td>
-    <td>3 Cargas</td>
-    <td>3000 ~ 5000</td>
-  </tr>
-</table>
-
-## Itens Utilitários
-
-Além das Armas e equipamentos, existem também muitos outros itens utilitários frequentemente usados por Aventureiros no mundo todo. Eles compõem o cinto de utilidades do Aventureiro, sendo imprescindíveis em muitas missões!
-
-<table>
-  <tr>
-    <th>Imagem</th>
-    <th>Material</th>
-    <th>Descrição</th>
-    <th>Faixa de Preço (em Temirs)</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Óleos de Caça</td>
-    <td>Muito utilizados por Caçadores e Adeptos de Kanus para embanhar armas e armaduras contra tipos específicos de criaturas. Essaes componentes são preparados levando em conta as fraquezas olfativas e anatômicas das criaturas.</td>
-    <td>50 ~ 200</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Poções de Cura</td>
-    <td>Um item essêncial para qualquer aventureiro preparado. Existem diversos tipos de Poção de Cura que podem recuperar Pontos de Vida em diferentes intensidades dependendo do Grau de qualidade. A poção mínima recupera <code>1d12 + 5 P.V</code></td>
-    <td>T1: 200<br/>T2: 400<br/>T3: 800<br/>T4: 1600<br/>T5: 3200</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Armadilhas</td>
-    <td>Frequentemente usadas por Caçadores para surpreender suas presas. Geralmente tem efeito imobilizante ou tranquilizante.</td>
-    <td>200 ~ 600</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Kit do Aventureiro</td>
-    <td>Cada Kit contém 1 Saco de Durmir individual, comida e água para uma viagem de até 3 dias, corda e uma tocha embedada em óleo. Podem ser vendidos de forma diferente dependendo da região.</td>
-    <td>80 ~ 300</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Bolsas de Moedas</td>
-    <td>Podem carregar moedas de forma eficiente sem ocupar espaço de Inventário, dependendo do Grau de qualidade, podem carregar diferentes quantidades de moeda.<br/><b>Capacidade da Bolsa:</b><br/>T1: 500 moedas / T2: 2000 moedas / T3: 8000 moedas / T4: 32000 moedas</td>
-    <td>
-      T1: 150<br/>
-      T2: 600<br/>
-      T3: 2400<br/>
-      T4: 9600<br/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Bolsas para Viagem</td>
-    <td>Expandem o número de Itens carregados no inventário. Dependendo do Grau de qualidade, podem comportar mais itens.<br/><b>Capacidade da Bolsa:</b><br/>T1: +2 Espaços / T2: +4 Espaços / T3: +6 Espaços / T4: +8 Espaços</td>
-    <td>
-      T1: 150<br/>
-      T2: 600<br/>
-      T3: 2400<br/>
-      T4: 9600<br/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Tochas Avulsas</td>
-    <td>Muito procuradas pelos Aventureiros, as Tochas comuns são uteis para iluminar ambientes escuros como cavernas e templos antigos. Cada tocha ilumina 3 quadrados e dura 1 hora. Tochas de melhor qualidade podem iluminar mais, e também custar mais caro.</td>
-    <td>30 ~ 100</td>
-  </tr>
-   <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Poções de Aflição</td>
-    <td>Podem curar condições negativas como Envenenamento, Paralizia, Queimaduras, e outras condições sérias. Cada poção cura apenas 1 condição. As condições também são separadas em Graus, logo, uma <b>Poção de Veneno Grau 1</b> não curará <b>Veneno Grau 2</b>.</td>
-    <td>150 ~ ?</td>
-  </tr>
-</table>
-
-
-## Minérios das Terras Místicas
-
-Além dos metais e minérios usados para construir **equipamentos comuns**, existem uma série de outros materiais encontrados especialmente no universo do **Fábulas & Goblins**. Eles possuem propriedades distintas que vão além de sua simples durabilidade e resistência.
-
-Apesar de serem muito utilizados em itens mágicos e de Herança, esses materiais nem sempre possuem propriedades mágicas, e podem ser usados para forjar equipamentos comuns.
-
-<table>
-  <tr>
-    <th>Imagem</th>
-    <th>Material</th>
-    <th>Descrição</th>
-    <th>Durabilidade</th>
-    <th>Preço</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Aço Galiriano</td>
-    <td>Possui coloração acastanhada e costuma ter eficiencia superior ao Aço comum. Descoberto inicialmente nas **Ilhas Galirianas**, esse tipo especial de Aço pode cortar Madeira Rígida como se fosse papel. Seu corte é equivalente ao da Prata.</td>
-    <td>4 Cargas</td>
-    <td>1500 ~ 2500</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Grimônio</td>
-    <td>Este mineral de coloração espacial é conhecido por servir como isolante mágico, muito conhecido por ser utilizado na construção de Grimos, ele é bastante usado na construção de itens mágicos por ser capaz de armazenar magia.</td>
-    <td>2 Cargas</td>
-    <td>3000 ~ 3500</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png" width="50" />
-    </td>
-    <td>Zigônio</td>
-    <td>Fragmento rosado extraído de Criaturas selvagens. É muito procurado por Guerreiros de Giurad experiêntes por possuir resistência mágica natural.</td>
-    <td>3 Cargas</td>
-    <td>3500 ~ 5000</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc3073e71-ff78-4191-b288-bfa8e254f9c3.png" width="50" />
-    </td>
-    <td>Alizarita</td>
-    <td>Mineral avermelhado conhecido por característica isolante ao elemento fogo. Encontrado apenas em regiões de lava.</td>
-    <td>3 Cargas</td>
-    <td>8000 ~ 16000</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cbfba6420-0934-4807-bd62-137281d0770e.png" width="50" />
-    </td>
-    <td>Urikirita</td>
-    <td>Traduzido da lingua Anciã (Uri: Vida, Kiri: Sólida), esses minerais eram derretidos como o Gelo para se obter água em regiões subterrâneas. Eras depois, foi descoberto que a Urikirita não continha apenas água, mas sim Elemento Água concentrado em sua forma mágica. Por conta de sua natureza mágica, esse mineral é um isolante contra o elemento Água, sendo encontrado apenas em lagos subterrâneos profundos.</td>
-    <td>3 Cargas</td>
-    <td>8000 ~ 16000</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca4aa4ce3-de14-47df-9dfb-7d43b617c5e6.png" width="50" />
-    </td>
-    <td>Balarita</td>
-    <td>Metal redondo extremamente raro por armazenar Elemento Vento em seu interior sólido. Pode ser usado como isolante do elemento Vento, além de ser comum em armas e equipamentos mágicos. Formado apenas nas montanhas flutuante das ilhas Ivérnicas.</td>
-    <td>3 Cargas</td>
-    <td>8000 ~ 16000</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7af06157-f5f6-4393-9dd4-8baa3611ffb8.png" width="50" />
-    </td>
-    <td>Danarita</td>
-    <td>Esse metal é formado após milênios recebendo cargas elétricas que penetram no solo de locais-tempestade como na região de Nuvênia. Pode ser usado como isolante do Elemento Elétrico e é muito usado para construção de itens mágicos.</td>
-    <td>3 Cargas</td>
-    <td>8000 ~ 16000</td>
-  </tr>
-</table>
+|                                                          Imagem                                                         | Material          | Descrição                                                                                                                                                                                                                                                                                                                                                                                                              | Durabilidade |
+|:-----------------------------------------------------------------------------------------------------------------------:|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Madeira Comum     | Encontrada na maioria das florestas do mundo, muitas espécies de árvores se encaixam nessa categoria.                                                                                                                                                                                                                                                                                                                  | 2 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Madeira Rígida    | Encontrada apenas em algumas espécies de Árvore, geralmente mais resistentes e mais caras.                                                                                                                                                                                                                                                                                                                             | 3 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Gemas Brutas      | Gemas Brutas são pequenos cristais que armazenam baixa quantidade de magia. Possuem baixa durabilidade mas são frequentemente usadas para criar e amplificar itens mágicos e para armazenar pequenos feitiços.                                                                                                                                                                                                         | 2 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Aço               | Uma liga metálica naturalmente encontrada em regiões subterrâneas, ideal para armas de corte e perfuração devido sua boa resistência.                                                                                                                                                                                                                                                                                  | 5 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Prata             | Metal de natureza resistente e maleável, ideal para armas de todos os tipos devido à sua capacidade de absorção.                                                                                                                                                                                                                                                                                                       | 4 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Gemas Lapidadas   | Gemas Lapidadas são versões concentradas das Gemas comuns. Possuem melhor durabilidade e carregam mais magia, sendo muito comuns em itens mágicos de qualidade mediana e para armazenar feitiços comuns.                                                                                                                                                                                                               | 3 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Ouro              | Metal raro que possui boa resistência e ótima maleabilidade, muito utilizado por cavaleiros abastados e figuras ilustres, capaz de confecionar laminas incrivelmente belas.                                                                                                                                                                                                                                            | 4 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Platina           | Metal nobre, raro e resistente, ideal para a confecção de armas e armaduras de alta qualidade. Possui alta durabilidade e resistência à corrosão, e além disso é um símbolo de prestígio e status.                                                                                                                                                                                                                     | 6 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Obsidiana         | Frágil mas muito cortante, esse material é muito utilizado para confecção de pequenas Adagas e Pontas de flecha. Sua performance é muito superior ao do Aço comum ou da Prata.                                                                                                                                                                                                                                         | 2 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Gemas Perfeitas   | Gemas Perfeitas são versões puras das Gemas Lapidadas. Possuem boa durabilidade e carregam muito mais magia, sendo comuns em itens mágicos de ótima qualidade além de terem capacidade para armazenar feitiços poderosos.                                                                                                                                                                                              | 4 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Aço Galiriano     | Possui coloração acastanhada e costuma ter eficiencia superior ao Aço comum. Descoberto inicialmente nas **Ilhas Galirianas**, esse tipo especial de Aço pode cortar Madeira Rígida como se fosse papel. Seu corte é equivalente ao da Prata.                                                                                                                                                                          | 6 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Grimônio          | Este mineral de coloração espacial é conhecido por servir como isolante mágico, muito conhecido por ser utilizado na construção de Grimos, ele é bastante usado na construção de itens mágicos por ser capaz de armazenar magia.                                                                                                                                                                                       | 2 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Zigônio           | Fragmento rosado extraído de Criaturas selvagens. É muito procurado por Guerreiros de Giurad experiêntes por possuir resistência mágica natural.                                                                                                                                                                                                                                                                       | 3 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C9e813cb8-b03c-44db-967c-0411180a93a1.png) | Gemas Primordiais | Essas Gemas são apenas encontradas em grutas extremamente profundas e locais de magia abundante. Carregam grande quantidade de magia, sendo usadas para armazenar feitiços míticos e criar itens mágicos qualidade lendária.                                                                                                                                                                                           | 4 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc3073e71-ff78-4191-b288-bfa8e254f9c3.png) | Alizarita         | Mineral avermelhado conhecido por característica isolante ao elemento fogo. Encontrado apenas em regiões de lava.                                                                                                                                                                                                                                                                                                      | 3 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cbfba6420-0934-4807-bd62-137281d0770e.png) | Urikirita         | Traduzido da lingua Anciã (Uri: Vida, Kiri: Sólida), esses minerais eram derretidos como o Gelo para se obter água em regiões subterrâneas. Eras depois, foi descoberto que a Urikirita não continha apenas água, mas sim Elemento Água concentrado em sua forma mágica. Por conta de sua natureza mágica, esse mineral é um isolante contra o elemento Água, sendo encontrado apenas em lagos subterrâneos profundos. | 3 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Ca4aa4ce3-de14-47df-9dfb-7d43b617c5e6.png) | Balarita          | Metal redondo extremamente raro por armazenar Elemento Vento em seu interior sólido. Pode ser usado como isolante do elemento Vento, além de ser comum em armas e equipamentos mágicos. Formado apenas nas montanhas flutuante das ilhas Ivérnicas.                                                                                                                                                                    | 3 Cargas     |
+| ![Icon](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C7af06157-f5f6-4393-9dd4-8baa3611ffb8.png) | Danarita          | Esse metal é formado após milênios recebendo cargas elétricas que penetram no solo de locais-tempestade como na região de Nuvênia. Pode ser usado como isolante do Elemento Elétrico e é muito usado para construção de itens mágicos.                                                                                                                                                                                 | 3 Cargas     |

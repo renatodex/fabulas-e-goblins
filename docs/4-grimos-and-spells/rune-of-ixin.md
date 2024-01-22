@@ -149,7 +149,7 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto | Perfurante |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 | Físico | D12 + 3 | Espada comum embedada com energia rúnica. | 3 Cargas | Força | Cortante |
 
-**A distância padrão para Armas de Alcance é de 6 quadrados.*
+**A distância padrão para Armas de Alcance é de 7 espaços.*
 
 ## Requisito de entrada
 

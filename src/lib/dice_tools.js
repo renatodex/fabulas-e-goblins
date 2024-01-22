@@ -1,6 +1,6 @@
 /**
  * Converts a formula to individual dice components.
- * 
+ *
  * @param {string} formula - A dice formula. Eg: 2d6 + 1d4 + 3
  * @returns {Array<string>} - An array with individual dice components. Eg: ['d6', 'd6', 'd4', '3']
  */
@@ -11,7 +11,6 @@ export function formulaToDiceComponents(formula) {
   const minimalComponents = formulaComponents.map(component => {
     let match = /(\d+)(.*)/g.exec(component)
     if (!!match[1] && !!match[2]) {
-      console.log("Match", match)
       return Array.from({length: match[1]}, i => match[2])
     } else {
       return component
@@ -24,10 +23,10 @@ export function formulaToDiceComponents(formula) {
 
 /**
  * Converts an array of individual dice components into a summarized formula
- * 
- * 
+ *
+ *
  * @param {Array<string>} components - An array of dice strings. Eg: ['d4', '3', 'd6', 'd6']
- * 
+ *
  * @returns {string} - A summarized formula. Eg: 2d6 + 1d4 + 3
  */
 export function diceComponentsToFormula(components) {

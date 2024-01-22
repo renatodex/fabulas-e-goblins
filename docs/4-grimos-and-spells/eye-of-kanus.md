@@ -250,7 +250,7 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C67068ed3-ae88-4391-b3dc-a3b8529399d0.PNG" width="80" /> | Arco do Iniciante + 0 | Físico | D8 + 3 | Arco inicial do Aventureiro*, bem simples e medianamente construído. Flechas normais são "infinitas". | 3 Cargas | Sobrevivência | Perfurante |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C06a7be0e-8191-4a21-92f7-8a2512083d9e.png" width="80" /> | Adaga do Iniciante + 0 | Físico | D10 + 2 | Adaga inicial do Aventureiro, bem simples e suporta poucos cortes. | 3 Cargas | Agilidade | Cortante, Perfurante |
 
-**A distância padrão para Armas de Alcance é de 6 quadrados.*
+**A distância padrão para Armas de Alcance é de 7 espaços.*
 
 ## Requisito de entrada
 

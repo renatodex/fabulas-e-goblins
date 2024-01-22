@@ -5,7 +5,6 @@ function replaceAffixVariables(value, affix) {
   // Extract the base name and the variable parts
   let baseName = value.split('(')[0].trim();
   let variables = value.match(/\((.*?)\)/g);
-  console.log(variables)
 
   // Check if there are no variables to replace
   if (!variables) return baseName;
@@ -18,7 +17,7 @@ function replaceAffixVariables(value, affix) {
       let varName = variable.replace(/[()]/g, '');
 
       let empowerObj = tempEmpowers.find(e => e.name === varName);
-    
+
       if (empowerObj && affix.empowers.length > 1) {
           replacements.push(`${varName}=${empowerObj.value}`);
       }
@@ -50,8 +49,6 @@ export default function EquipmentBlock ({ data }) {
   const totalDefensePhysical = data.refinement.defense_physical + sumAffixesValues(data.affixes, (affix) => affix.defense_physical_up)
   const totalDefenseMagical = data.refinement.defense_magical + sumAffixesValues(data.affixes, (affix) => affix.defense_magical_up)
 
-  console.log(data.refinement.defense_magical, sumAffixesValues(data.affixes, (affix) => affix.defense_magical_up), totalAttackPhysical)
-
   function itemName () {
     if (data.material && data.item_shape) {
       return `${data.item_shape.name} de ${data.material.name}`
@@ -62,7 +59,7 @@ export default function EquipmentBlock ({ data }) {
 
   function damageFormula (affixes) {
     const affixesFormula = affixes.map(affix => affix.empowers).flat().filter(empower => empower.damage_up).map(empower => empower.value)
-    
+
     return diceComponentsToFormula(
       affixesFormula.map(formula => formulaToDiceComponents(formula)).flat()
     )
@@ -70,7 +67,7 @@ export default function EquipmentBlock ({ data }) {
 
   function sumAffixesValues (affixes, filterFunction) {
     const attackAffixes = affixes.map(affix => affix.empowers).flat().filter(filterFunction).map(empower => empower.value)
-    return attackAffixes.reduce(addReducer, 0) 
+    return attackAffixes.reduce(addReducer, 0)
   }
 
   return (
@@ -144,7 +141,6 @@ export default function EquipmentBlock ({ data }) {
                   <div className='inline-block'>
                     <div className='flex gap-1'>
                       {Array.from(new Array(data.durability.total)).map((slot, i) => {
-                        console.log(i)
                         return (
                           <span className={`flex-none ${i < data.durability.current ? 'bg-green-500' : 'bg-gray-400'} h-3 w-3 inline-block rounded-full`}></span>
                         )

@@ -1,0 +1,186 @@
+{
+  "column_names": {
+    "body_type": "Parte do Corpo",
+    "name": "Nome",
+    "physical_damage_reduction": "Redução de Dano Físico",
+    "magical_damage_reduction": "Redução de Dano Mágico",
+    "buy_price": "Preço (T$)"
+  },
+  "data": [
+      {
+          "body_type": "Cabeça",
+          "name": "Tiara / Coroa",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 350"
+      },
+      {
+          "body_type": "Cabeça",
+          "name": "Capuz / Gorro",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 100"
+      },
+      {
+          "body_type": "Cabeça",
+          "name": "Capacete (aberto)",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 200"
+      },
+      {
+          "body_type": "Cabeça",
+          "name": "Elmo (fechado)",
+          "physical_damage_reduction": "`2`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 300"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Trajes",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 50"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Corselete (roupas de couro leves)",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 100"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Peitoral de Gibão (roupas de couro pesadas)",
+          "physical_damage_reduction": "`2`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 200"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Peitoral de Cota de Malha",
+          "physical_damage_reduction": "`2`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 250"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Peitoral de Brunea ou Escama",
+          "physical_damage_reduction": "`3`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 300"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Peitoral de Placas",
+          "physical_damage_reduction": "`3`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 400"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Manto",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`2`",
+          "buy_price": "T$ 150"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Túnica",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`3`",
+          "buy_price": "T$ 300"
+      },
+      {
+          "body_type": "Tronco",
+          "name": "Robes",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`4`",
+          "buy_price": "T$ 450"
+      },
+      {
+          "body_type": "Braços",
+          "name": "Braçadeiras",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 100"
+      },
+      {
+          "body_type": "Mãos",
+          "name": "Luvas e Manoplas",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 150"
+      },
+      {
+          "body_type": "Mãos",
+          "name": "Escudo Leve",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 250"
+      },
+      {
+          "body_type": "Mãos",
+          "name": "Escudo Pesado",
+          "physical_damage_reduction": "`2`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 350"
+      },
+      {
+          "body_type": "Pés",
+          "name": "Calçados",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 50"
+      },
+      {
+          "body_type": "Pés",
+          "name": "Botas",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 150"
+      },
+      {
+          "body_type": "Pernas",
+          "name": "Grevas",
+          "physical_damage_reduction": "`2`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 300"
+      },
+      {
+          "body_type": "Cintura",
+          "name": "Ombreira",
+          "physical_damage_reduction": "`1`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 150"
+      },
+      {
+          "body_type": "Cintura",
+          "name": "Cinto",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 200"
+      },
+      {
+          "body_type": "Pescoço",
+          "name": "Amuleto",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 500"
+      },
+      {
+          "body_type": "Pescoço",
+          "name": "Anel",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 500"
+      },
+      {
+          "body_type": "Costas",
+          "name": "Capa",
+          "physical_damage_reduction": "`-`",
+          "magical_damage_reduction": "`-`",
+          "buy_price": "T$ 200"
+      }
+  ]
+}

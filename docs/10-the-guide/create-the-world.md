@@ -5,6 +5,9 @@ slug: /10-the-guide/create-the-world
 image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdd3f437b-0581-4b19-9157-75cf51401881.jpg
 ---
 
+import ModifierExpectations from './../../data/md_tables/expectations/modifiers.md'
+import EnemyExpectations from './../../data/md_tables/expectations/enemies.md'
+
 ![Como criar o seu próprio mundo de RPG](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdd3f437b-0581-4b19-9157-75cf51401881.jpg)
 
 Um mundo de RPG é uma entidade viva e pulsante, que através das suas idéias, é entregue aos Jogadores para ser entendido e explorado.
@@ -146,12 +149,7 @@ Para todas essas perguntas, temos uma seção interessante dedicada exclusivamen
 
 As colunas abaixo mostram os **valores máximos** de **ataque e defesa** que **Itens nesses níveis** devem **prover aos personagens** para que eles se mantenham desafiadores aos Inimigos.
 
-| Grau | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica | Expectativa de Dano | Números de Ouro <br/>(média de dano) |
-|------|---------------|---------------|---------------|---------------|---------------------|---------------------------|
-| 1    | entre +0 e +2            | entre +0 e +2            | entre +0 e +2            | entre +0 e +2            | entre 15 e 30                  | 25   |
-| 2    | entre +2 e +4            | entre +2 e +4            | entre +2 e +4            | entre +2 e +4            | entre 30 e 60                  | 45   |
-| 3    | entre +4 e +8            | entre +4 e +8            | entre +4 e +8            | entre +4 e +8            | entre 60 e 90                 | 75   |
-| 4    | entre +8 e +16           | entre +8 e +16           | entre +8 e +16           | entre +8 e +16           | entre 90 e 150                | 120  |
+<ModifierExpectations />
 
 Esses valores **podem variar para menos ou para mais**, dependendo do **nível real** do Personagem e da Aventura.
 
@@ -160,7 +158,7 @@ Esses valores **podem variar para menos ou para mais**, dependendo do **nível r
 
 Eles representam o quanto nós, **Game Designers**, esperamos que, **EM MÉDIA**, os Personagens vão **causar de Dano** com **um único ataque bem sucedido** em um **inimigo do seu mesmo nível**.
 
-Esses valores são importantíssimos, pois é através deles que conseguimos calcular quantos **Pontos de Vida** um Inimigo precisa possuir para **resistir** a uma quantidade pré-determinada de **turnos de combate**.
+Esses valores são importantíssimos, pois é através deles que conseguimos calcular quantos **Pontos de Vida** um Inimigo precisa possuir para **resistir** a uma quantidade pré-determinada de **turnos de combate** que uma batalha poderá ter.
 :::
 
 ## Criando Inimigos
@@ -187,12 +185,7 @@ Uma das dúvidas mais comuns na criação de Inimigos é a definição balancead
 
 Abaixo listamos numa **tabela genérica** os **pontos médios** de **Ataque e Defesa (Física e Mágica)** para os **4 Graus de jogo**.
 
-| Grau | Pontos de Vida | Ataque Físico | Ataque Mágico | Defesa Física | Defesa Mágica |
-|------|----------------|---------------|---------------|---------------|---------------|
-| 1    | 20             | 14            | 14            | 14            | 14            |
-| 2    | 40             | 20            | 20            | 20            | 20            |
-| 3    | 80             | 26            | 26            | 26            | 26            |
-| 4    | 160            | 32            | 32            | 32            | 32            |
+<EnemyExpectations/>
 
 Apesar de auxiliar, é importante ter em mente que essa tabela **não leva em consideração** os diversos Perfis de inimigo (Suporte, Tanque, etc), e nem é indicada para criação de Chefes e Desafios poderosos.
 

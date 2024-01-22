@@ -132,7 +132,7 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C28df9fc9-21e5-4a87-a8fb-afa90f6640e7.PNG" width="80" /> | Cajado do Iniciante + 0 | Mágico | D6 + 3 | Cajado inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas | Elo Mágico | Mágico |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C203894a8-17e4-49b8-b22b-1de705ebb086.PNG" width="80" /> | Cruz do Iniciante + 0 | Físico | D8 + 4 | Cruz inicial do Aventureiro, ataque corpo-a-corpo, já vem benzida. | 3 Cargas | Espírito | Contusivo |
 
-**A distância padrão para Armas de Alcance é de 6 quadrados.*
+**A distância padrão para Armas de Alcance é de 7 espaços.*
 
 ## Requisito de entrada
 

@@ -2,6 +2,9 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}", "./docs/**/*.md"],
   theme: {
     extend: {
+      gridTemplateColumns: {
+        'table': 'repeat(auto-fill, minmax(120px, 1fr))'
+      },
       colors: {
         'gunmetal': '#243338',
         'raisin-black': '#252525',

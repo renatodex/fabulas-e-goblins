@@ -131,7 +131,7 @@ Você pode escolher entre duas armas iniciais:
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd392a55e-0ee7-4899-a30e-4048a2248bae.png" width="80" /> | Dardos Venenosos + 0 | Físico | D6 + 3 | Dardos de veneno que causam **Envenenar D2 T3**. | 1 Carga | Agilidade | Perfurante |
 | <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbebdcce-d7e5-4d0b-9b4b-3ef4c1131266.PNG" width="80" /> | Punhal do Iniciante + 0 | Físico | D10 + 3 | Punhal inicial do Aventureiro, tem uma ponta afiada e é bem estiloso. | 3 Cargas | Agilidade | Perfurante |
 
-**A distância padrão para Armas de Alcance é de 6 quadrados.*
+**A distância padrão para Armas de Alcance é de 7 espaços.*
 
 ## Requisito de entrada
 

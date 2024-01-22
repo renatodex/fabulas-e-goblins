@@ -12,6 +12,10 @@
   @tailwind screens;
 }
 
+img[alt="Icon"] {
+  width: 50px;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #32b16c;

@@ -137,6 +137,7 @@ const sidebars = {
         'the-guide/fundamentals',
         'the-guide/structure-history',
         'the-guide/create-the-world',
+        'the-guide/create-custom-equipments',
         'the-guide/inhabit-the-world',
         'the-guide/preparing-a-session',
         'the-guide/preparing-combats',
