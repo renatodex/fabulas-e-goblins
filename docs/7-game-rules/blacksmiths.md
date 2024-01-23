@@ -23,32 +23,11 @@ Neste jogo, Armas e Equipamentos possuem [Cargas de Durabilidade](/docs/9-combat
 
 Ferreiros podem remover **Cargas de Desgaste** de Equipamentos, e o preço geralmente varia de acordo com o ferreiro e a qualidade do item, mas podemos te dar alguma idéia dos preços:
 
-<table>
-  <tr>
-    <th>Tipo do Item</th>
-    <th>Preço Base do Reparo</th>
-    <th>Adicional por Carga</th>
-    <th>Adicional por Qualidade</th>
-  </tr>
-  <tr>
-    <td>Item Comum</td>
-    <td>50 ~ 500</td>
-    <td>50 ~ 100</td>
-    <td>50 ~ 100</td>
-  </tr>
-  <tr>
-    <td>Item Mágico</td>
-    <td>500 ~ 5000</td>
-    <td>100 ~ 200</td>
-    <td>100 ~ 200</td>
-  </tr>
-  <tr>
-    <td>Item de Herança</td>
-    <td>5000 ~ 50000</td>
-    <td>200 ~ 1000</td>
-    <td>200 ~ 1000</td>
-  </tr>
-</table>
+| Tipo do Item    | Preço Base do Reparo | Adicional por Carga | Adicional por Qualidade |
+|:----------------|:---------------------|:--------------------|:------------------------|
+| Item Comum      | 100                  | 50                  | 50                      |
+| Item Mágico     | 500                  | 250                 | 250                     |
+| Item de Herança | 2000                 | 500                 | 500                     |
 
 :::note
 Seguindo o exemplo do nosso <b>Escudo de Aço +1</b>, caso um aventureiro desejasse remover 1 única carga de Desgaste, o orçamento do reparo seria algo assim:
@@ -82,19 +61,19 @@ A técnica de Refinamento consiste no aumento da Qualidade de Itens.
 
 O refinamento é uma técnica **extremamente arriscada**, e se não for feita da **forma correta**, pode trazer **sérias consequências** ao Item refinado.
 
-**Qualquer jogador** pode tentar refinar a **Qualidade de um Item**, seja **Mágico** ou de **Herança**, a única diferença serão os **preços do Ferreiro**.
+**Qualquer jogador** pode ir a um ferreiro para tentar refinar a **Qualidade de um Item**, seja **Mágico** ou de **Herança**. Abaixo mostramos preços comumente praticados para esse serviço:
 
-- **Itens Comuns**: *T$ 500 ~ T$ 2000*
-- **Itens Mágicos**: *T$ 1000 ~ T$ 4000*
-- **Itens de Herança**: *T$ 2000 ~ T$ 8000*
+- **Itens Comuns**: *T$ 500*
+- **Itens Mágicos**: *T$ 1000*
+- **Itens de Herança**: *T$ 2000*
 
 Para refinar, o Narrador usará a **Habilidade do Ferreiro** como um **teste especial de Resistência**. (por padrão, a *Habilidade de Ferreiros* comuns é **20**)
 
-O **Narrador** então rolará <code>X+1 D20</code>, onde X é a **quantidade de vezes** que esse item já foi refinado anteriormente.
+O **Narrador** então rolará <code>X+1 D20</code>, onde X é a **quantidade de vezes** que esse item já foi refinado anteriormente por você.
 
 Caso a soma dos D20 rolados **não ultrapasse** a *Habilidade do Ferreiro* **(padrão 20)**, o Item **recebe +1 de Qualidade**, *(ex: Se for Arma, recebe +1 de Ataque, se for Armadura, recebe +1 de Defesa).*
 
-Entretanto, caso a soma dos números rolados ultrapasse a **Habilidade do Ferreiro**, o Item não perde qualidade, mas recebe -1 de **Durabilidade máxima permanente**. Essa Durabilidade perdida **não pode ser reparada em ferreiros**. Ao chegar em 0 de Durabilidade Máxima, o **Item é destruído**.
+Entretanto, caso a soma dos números rolados ultrapasse a **Habilidade do Ferreiro**, o Item não perde qualidade, mas recebe `-1` de **Durabilidade máxima permanente**. Essa Durabilidade perdida **não pode ser reparada em ferreiros**. Ao chegar em `0` de Durabilidade Máxima, o **Item é destruído**.
 
 ![Refinamento](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C470982cd-217c-4ab1-9c47-99239cbdcf03.jpg)
 
@@ -108,6 +87,6 @@ A condição existe para que o Item possa descansar e se recuperar do processo d
 
 Também é possível **criar itens com Ferreiros**, mas o preço de cada item **deverá ser especificado pelo Narrador**, pois depende muito dos **itens disponíveis na campanha** e da **economia do Cenário** que está sendo jogado.
 
-Uma **boa referência de Custo** para se basear é a **lista de Itens por Material** da [Seção Mercadores](/docs/7-game-rules/merchants). Lembrando que itens fabricados por Ferreiros tendem a ser em média **30%~50% mais caro** que as Armas encontradas por **Mercadores**, pois essas muitas vezes são **consideradas usadas ou semi-novas**, enquanto Armas fabricadas pelos Ferreiros utilizam *"metal fresco"* e são feitas a mão em um **processo artesanal customizado**.
+Para entender a precificação e construção de itens customizados, consulte a [Seção Criando Armas e Armaduras](/docs/10-the-guide/create-custom-equipment).
 
 É importante também levar em consideração que o processo de **Criação de Armas em Ferreiros** podem **levar dias para serem realizados**, pois muitas vezes os Ferreiros **não possuem** todos os materiais de confecção *"à pronta entrega"*, e por isso, as vezes precisam fazer **pequenas viajens** para adquirir **componentes** de seus **fornecedores confiáveis**.

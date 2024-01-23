@@ -63,6 +63,16 @@ Apesar de ser um processo delicado e que leva tempo, os Metalóides se tornaram 
 No livro, há também uma regra especial para que o Narrador possa determinar qual será a propriedade do Item mágico, caso o metalóide seja bem sucedido.
 :::end:::
 
+## Itens de Herança
+
+Ainda mais raros e mais poderosos que os itens mágicos, os **Itens de Herança** são itens mágicos especiais, muitas vezes confeccionados eras atrás por famílias abastadas e influentes, e passados de geração a geração para cavaleiros e aventureiros poderosos.
+
+Itens de Herança raramente são vendidos por mercadores comuns, e encontrar um desses sem dono já é uma ocasião bastante rara, mas identificá-los geralmente é bastante fácil devido a qualidade dos materiais e o refinamento artesanal feito no item.
+
+Geralmente esses itens são criados por Ferreiros extremamente experiêntes, de renome internacional, e sempre levam uma ou mais marcas que remetem ao brasão da família, ao símbolo do guerreiro e algumas vezes a marca em homenagem ao portador atual ou original.
+
+De certa forma, Grimos e Itens de Herança tem propósitos parecidos, que é o de passar o poder e conhecimento de seu portador para as gerações futuras, e por isso, sempre que se deparar com itens assim, pode ter certeza que possuirão características físicas e mágicas bastante poderosas e únicas.
+
 ## Radamagi
 
 Outras civilizações também pesquisaram formas mais criativas de armazenarem magia.
