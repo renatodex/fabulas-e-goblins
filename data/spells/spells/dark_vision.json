@@ -10,6 +10,6 @@
   "icon": "GiNightVision",
   "element": null,
   "caption": "Com o tempo, os olhos podem se adaptar à escuridão.",
-  "description": "<p>Permite enxergar +1 quadrado, mesmo sem fonte de iluminação.</p>",
+  "description": "<p>Permite enxergar <code>+3 espaços</code>, mesmo sem fonte de iluminação.</p>",
   "tags": ["cultural", "children-of-underground"]
 }

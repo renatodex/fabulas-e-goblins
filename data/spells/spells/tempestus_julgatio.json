@@ -1,15 +1,15 @@
 {
   "name": "Tempestus Julgatio",
-  "magic_cost": "TLv*3 P.M",
+  "magic_cost": "GRAU*3 P.M",
   "duration_time": 1,
   "attack_logic": "Mágico",
   "action_type": "Ativa",
-  "cast_distance": 4,
+  "cast_distance": 6,
   "range_amount": 1,
   "range_type": "Alvo",
   "icon": "GiBoltSpellCast",
   "element": "eletric",
-  "caption": "Utiliza o Implemento do Tempesto para conjurar um Raio de Julgamento em um Inimigo impuro.",
-  "description": "Exige um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>, mas não terá efeito ao ser usada em Filhos da Tempestade ou indivíduos Puros. Causa (TLv*D12 + 1*TLv) de Dano Elétrico",
+  "caption": "Utiliza o Implemento do Tempesto para conjurar um Raio de Julgamento direto do coração da Tempesterna para ferir um inimigo impuro.",
+  "description": "<p>Escolha um alvo que não seja um <b>Filho da Tempestade</b> e faça um teste contra sua <b>Defesa Mágica</b>.</p><p><b>Se for bem sucedido,</b> você causa <code>(GRAU*2d12 + GRAU)</code> de <b>Dano Elétrico</b>.",
   "tags": ["racial", "children-of-storms"]
 }

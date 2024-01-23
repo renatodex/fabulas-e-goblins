@@ -10,6 +10,6 @@
   "icon": "GiBowieKnife",
   "element": null,
   "caption": "Sua força e preparação lhe permitem causar mais dano físico.",
-  "description": "<p>Adicione 1D6 de Dano sempre que utilizar um ataque corpo a corpo ou a distância com sua Arma (não acumula com Habilidades de Grimo).</b></p>",
+  "description": "<p>Adicione <code>GRAU*1d6</code> de Dano sempre que utilizar um ataque corpo a corpo ou a distância com sua Arma.</b></p>",
   "tags": ["racial", "children-of-sands"]
 }
