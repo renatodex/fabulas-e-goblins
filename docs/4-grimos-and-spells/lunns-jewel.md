@@ -127,10 +127,10 @@ Após o Blecaute, muitos Terrores deixaram o manto da Escuridão para encobrir a
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | --- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C28df9fc9-21e5-4a87-a8fb-afa90f6640e7.PNG" width="80" /> | Cajado do Iniciante + 0 | Mágico | D6 + 3 | Cajado inicial do Aventureiro, ataca a longa distância* com um feixe não elemental | 3 Cargas | Elo Mágico | Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C203894a8-17e4-49b8-b22b-1de705ebb086.PNG" width="80" /> | Cruz do Iniciante + 0 | Físico | D8 + 4 | Cruz inicial do Aventureiro, ataque corpo-a-corpo, já vem benzida. | 3 Cargas | Espírito | Contusivo |
+| Imagem                                                                                                                                  | Nome da Arma      | Tipo do Dano  | Dano       | Descrição                                                                           | Durabilidade | Atributo   | Tipo de Arma |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|---------------|------------|-------------------------------------------------------------------------------------|--------------|------------|--------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C28df9fc9-21e5-4a87-a8fb-afa90f6640e7.PNG" width="80" /> | Cajado de Madeira | Físico/Mágico | `2d8 + 2`  | Cajado inicial do Aventureiro, ataca a longa distância* com um feixe não elemental. | 2 Cargas     | Elo Mágico | Mágico       |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C203894a8-17e4-49b8-b22b-1de705ebb086.PNG" width="80" /> | Cruz de Madeira   | Físico        | `2d10 + 2` | Cruz inicial do Aventureiro, ataque corpo-a-corpo, já vêm benzida.                  | 2 Cargas     | Espírito   | Contusivo    |
 
 **A distância padrão para Armas de Alcance é de 7 espaços.*
 

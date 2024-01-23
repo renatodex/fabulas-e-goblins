@@ -192,10 +192,10 @@ Ao que se sabe, existem atualmente 4 Ecos conhecidos no Grimo:
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo Dano | Dano | Descrição | Durabilidade | Atributo   | Tipo de Arma |
-| ------ | ------------ | --------- | ---- | --------- | ------------ | ---------- | --- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C78b9ce5f-493f-4ea7-98e0-83521cb80da8.PNG" width="80" /> | Urna do Iniciante + 0 | Mágico | 2d6 + 4 | Conjura a mordida de uma criatura num oponente adjacente. | 3 Cargas | Elo Mágico | Contusivo, Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico + 0 | Mágico | D8 + 6 | Estilingue que dispara um projétil mágico não-elemental à distância. | 3 Cargas | Intelecto | Contusivo, Mágico |
+| Imagem                                                                                                                                  | Nome da Arma                 | Tipo Dano | Dano       | Descrição                                                                | Durabilidade | Atributo   | Tipo de Arma |
+|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------|------------|--------------------------------------------------------------------------|--------------|------------|--------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C78b9ce5f-493f-4ea7-98e0-83521cb80da8.PNG" width="80" /> | Urna de Madeira              | Mágico    | `2d12 + 2` | Conjura a mordida de uma criatura num oponente **adjacente**.            | 2 Cargas     | Elo Mágico | Mágico       |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C139228e0-86d7-468b-8435-e06d569efb01.png" width="80" /> | Estilingue Mágico de Madeira | Mágico    | `2d8 + 2`  | Estilingue que dispara um projétil mágico não-elemental à **distância**. | 2 Cargas     | Intelecto  | Mágico       |
 
 **A distância padrão para Armas de Alcance é de 7 espaços.*
 

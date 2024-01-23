@@ -14,41 +14,41 @@ Existe uma lista infinita de armas e armaduras que você poderia usar nas **Terr
 
 Na lista a seguir você verá diversas **armas de madeira**. Fazemos isso porque nosso livro apresenta **25 materiais** diferente entre **armas e armaduras**, e listar cada variação abaixo em cada material resultaria numa tabela com mais de **1000** itens!
 
-| Nome                    | Grau | Tipo Ataque | Dano Físico | Dano Mágico | Atributo    | Tipo Dano  | Preço (T$) |
-|-------------------------|------|-------------|:-----------:|:-----------:|-------------|------------|:----------:|
-| Adaga de Madeira        | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Destino     | Cortante   |   T$ 200   |
-| Arco de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Perfurante |   T$ 200   |
-| Bastão de Madeira       | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Resiliência | Contusivo  |   T$ 200   |
-| Bengala de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Influência  | Contusivo  |   T$ 200   |
-| Besta de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Perfurante |   T$ 200   |
-| Chicote de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Força       | Cortante   |   T$ 200   |
-| Clava de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Contusivo  |   T$ 200   |
-| Cruz de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Espírito    | -          |   T$ 300   |
-| Dardos de Madeira       | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Destino     | Perfurante |   T$ 200   |
-| Espada de Madeira       | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Cortante   |   T$ 200   |
-| Estilingue de Madeira   | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Força       | Contusivo  |   T$ 200   |
-| Foice de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Cortante   |   T$ 200   |
-| Graveto de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Intelecto   | Contusivo  |   T$ 200   |
-| Katar de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Perfurante |   T$ 200   |
-| Lança de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Perfurante |   T$ 200   |
-| Machado de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Resiliência | Cortante   |   T$ 200   |
-| Manopla de Madeira      | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência | Contusivo  |   T$ 200   |
-| Martelo de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Força       | Contusivo  |   T$ 200   |
-| Maça de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência | Contusivo  |   T$ 200   |
-| Picareta de Madeira     | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Força       | Cortante   |   T$ 200   |
-| Projéteis de Madeira    | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Força       | Contusivo  |    T$ 50   |
-| Punhal de Madeira       | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Destino     | Cortante   |   T$ 200   |
-| Saxo de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força       | Cortante   |   T$ 200   |
-| Tábua de Madeira        | `1`  | Físico      |  `2d4 + 2`  |  `2d10 + 2` | Espírito    | Contusivo  |   T$ 200   |
-| Tridente de Madeira     | `1`  | Físico      |  `2d12 + 2` |     `-`     | Força       | Perfurante |   T$ 200   |
-| Bomba Mágica de Madeira | `1`  | Mágico      |     `-`     |  `2d10 + 2` | Intelecto   | -          |   T$ 300   |
-| Cetro de Madeira        | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Elo Mágico  | -          |   T$ 300   |
-| Cajado de Madeira       | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Elo Mágico  | -          |   T$ 300   |
-| Varinha de Madeira      | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico  | -          |   T$ 300   |
-| Prisma de Madeira       | `1`  | Mágico      |     `-`     |  `2d12 + 2` | Elo Mágico  | -          |   T$ 300   |
-| Orbe de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico  | -          |   T$ 300   |
-| Urna de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d12 + 2` | Espírito    | -          |   T$ 300   |
-| Livro de Madeira        | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Intelecto   | -          |   T$ 300   |
+| Nome                    | Grau | Tipo Ataque | Dano Físico | Dano Mágico | Atributo      | Tipo Dano  | Preço (T$) |
+|-------------------------|------|-------------|:-----------:|:-----------:|---------------|------------|:----------:|
+| Adaga de Madeira        | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Agilidade     | Perfurante |   T$ 200   |
+| Arco de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Sobrevivência | Perfurante |   T$ 200   |
+| Bastão de Madeira       | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Agilidade     | Contusivo  |   T$ 200   |
+| Bengala de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Influência    | Contusivo  |   T$ 200   |
+| Besta de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Sobrevivência | Perfurante |   T$ 200   |
+| Chicote de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Agilidade     | Cortante   |   T$ 200   |
+| Clava de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
+| Cruz de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Espírito      | -          |   T$ 300   |
+| Dardos de Madeira       | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Destino       | Perfurante |   T$ 200   |
+| Espada de Madeira       | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Cortante   |   T$ 200   |
+| Estilingue de Madeira   | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Sobrevivência | Contusivo  |   T$ 200   |
+| Foice de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Agilidade     | Cortante   |   T$ 200   |
+| Graveto de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Intelecto     | Contusivo  |   T$ 200   |
+| Katar de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Agilidade     | Perfurante |   T$ 200   |
+| Lança de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Perfurante |   T$ 200   |
+| Machado de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Resiliência   | Cortante   |   T$ 200   |
+| Manopla de Madeira      | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
+| Martelo de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
+| Maça de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
+| Picareta de Madeira     | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Força         | Cortante   |   T$ 200   |
+| Projéteis de Madeira    | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Força         | Contusivo  |    T$ 50   |
+| Punhal de Madeira       | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Destino       | Cortante   |   T$ 200   |
+| Saxo de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Cortante   |   T$ 200   |
+| Tábua de Madeira        | `1`  | Físico      |  `2d4 + 2`  |  `2d10 + 2` | Espírito      | Contusivo  |   T$ 200   |
+| Tridente de Madeira     | `1`  | Físico      |  `2d12 + 2` |     `-`     | Força         | Perfurante |   T$ 200   |
+| Bomba Mágica de Madeira | `1`  | Mágico      |     `-`     |  `2d10 + 2` | Intelecto     | -          |   T$ 300   |
+| Cetro de Madeira        | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Intelecto     | -          |   T$ 300   |
+| Cajado de Madeira       | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Elo Mágico    | -          |   T$ 300   |
+| Varinha de Madeira      | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico    | -          |   T$ 300   |
+| Prisma de Madeira       | `1`  | Mágico      |     `-`     |  `2d12 + 2` | Elo Mágico    | -          |   T$ 300   |
+| Orbe de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico    | -          |   T$ 300   |
+| Urna de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d12 + 2` | Espírito      | -          |   T$ 300   |
+| Livro de Madeira        | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Intelecto     | -          |   T$ 300   |
 
 ## Armas de outros materiais
 

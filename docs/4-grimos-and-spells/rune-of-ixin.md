@@ -143,11 +143,11 @@ Ixin documentou com detalhe as doutrinas e procedimentos necessários para domar
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | ----- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico  Comum + 0 | Físico | D12 + 3 | Bastão comum embedado em energia rúnica. | 3 Cargas | Agilidade | Contusão |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia Comum + 0 | Mágico | D8 + 4 | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 3 Cargas | Intelecto | Perfurante |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica Comum + 0 | Físico | D12 + 3 | Espada comum embedada com energia rúnica. | 3 Cargas | Força | Cortante |
+| Imagem                                                                                                                                  | Nome da Arma                    | Tipo do Dano | Dano       | Descrição                                                                                   | Durabilidade | Atributo  | Tipo de Arma |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------|------------|---------------------------------------------------------------------------------------------|--------------|-----------|--------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6db848fe-ea1e-4cc4-b7a1-cdaf396b3823.png" width="80" /> | Bastão Longo Rúnico de Madeira  | Físico       | `4d6 + 2` | Bastão comum embedado em energia rúnica. (afixo Largo +2d6)                                                 | 2 Cargas     | Agilidade | Contusão     |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6f6e8b8-64b9-4d82-9ed3-1e7285a328f3.png" width="80" /> | Prisma de Artilharia de Madeira | Mágico       | `2d12 + 2` | Um prisma flutuante que gravita em torno do Ixiniano e atira feixes de energia à distância. | 2 Cargas     | Intelecto | Perfurante   |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4430e591-4b5c-43d2-a6fb-b487e3ec0bcc.png" width="80" /> | Espada Larga Rúnica de Madeira  | Físico       | `2d12 + 2` | Espada comum embedada com energia rúnica. (afixo Largo +0)                                     | 2 Cargas     | Força     | Cortante     |
 
 **A distância padrão para Armas de Alcance é de 7 espaços.*
 
