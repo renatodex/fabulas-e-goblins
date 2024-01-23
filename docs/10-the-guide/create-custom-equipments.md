@@ -218,9 +218,15 @@ Com essa tabela em mãos, a fórmula de precificação fica fácil:
                 Mult. Material
             </span>
             {' '}<span class="text-3xl align-middle">*</span>{' '}
+            {''}<span class="text-3xl align-top">{'('}</span>{' '}
             <span class="bg-emerald-200 border border-emerald-600 px-1 py-1 text-black rounded-xl">
                 Item Base
             </span>
+            {''}<span class="text-3xl align-base">+</span>{''}
+            <span class="bg-emerald-200 border border-emerald-600 px-1 py-1 text-black rounded-xl">
+              Custo Base Material
+            </span>
+            {' '}<span class="text-3xl align-top">{')'}</span>{''}
             {' '}<span class="text-3xl align-top">{')'}</span>{''}
             {''}<span class="text-3xl align-base">+</span>{''}
             {''}<span class="text-3xl align-top">{'('}</span>{' '}
@@ -260,11 +266,11 @@ Se quebrarmos o item nos 5 complementos, teremos:
 
 É um item **Grau 1**, então usaremos os valores de Grau 1 da tabela:
 
-<code>Preço = 1*200 (Material) + 0*300 (Afixo) + 0*800 (Afixo) + 0*400 (Refinamentos) = T$ 200.</code>
+<code>Preço = 1*(200 + 100) (Valor Item) + 0*200 (Afixo) + 0*400 (Afixo) + 0*400 (Refinamentos) = T$ 300.</code>
 <br/><br/>
 
-Nesse caso, **500** é o custo base de **Afixos Físicos**, **800** é o custo base de **Afixos Mágicos** e **400** o custo base de **Refinamento**.
-Como não temos nada disso, o resultado é zero.
+Nesse caso, **0\*200** é o custo base de **Afixos Físicos** de **Grau 1**, e **0\*400** é o custo base de **Afixos Mágicos** de **Grau 1**, e por último temos **0\*400** como o custo base de **Refinamento** de **Grau 1**.
+Como não temos nada disso, o resultado é zero e sobra apenas o valor do Machado (T$ 200) somado ao Custo Base de Material de Grau 1 (T$ 100), resultando em **T$ 300**.
 
 <EquipmentBlock data={{
   tier: 1,
@@ -273,28 +279,29 @@ Como não temos nada disso, o resultado é zero.
     name: "Machado",
     base_damage: "2d12 + 4",
     base_price: 200,
-    item_type: 'attack_physical'
+    item_type: 'attack_physical',
+    attribute: 'Resiliência',
   },
   material: {
     name: "Madeira",
     multiplier: 1,
   },
-  buy_price: 1280,
+  buy_price: 200,
   weight: 1,
-  speed: -1,
+  speed: 0,
   durability: {
     current: 1,
     total: 3,
   },
   refinement: {
-    attack_physical: 1,
+    attack_physical: 0,
     attack_magical: 0,
     defense_physical: 0,
     defense_magical: 0
   },
   affixes: []
 }}></EquipmentBlock>
-
+<br/>
 Simples certo? Agora vamos evoluir um pouco esse Machado.
 
 ## Exemplo: Machado de Bronze Largo Espinhento Perfurante +2 (GRAU 1)
@@ -305,13 +312,13 @@ Se quebrarmos o item nos 5 complementos, teremos:
 
 1. **Item Base**: Machado (T$ 200)
 2. **Material**: Bronze (200x2.0)
-3. **Afixos Físicos**: Largo (200x1.0), Espinhos (200x1.0)
+3. **Afixos Físicos**: Largo (200x1.0), Espinhos (200x1.0), Perfurante (150x1.0)
 4. **Afixos Mágicos**: Nenhum
 5. **Refinamento**: +2 (150x3.0)
 
 O preço final ficaria:
 
-<code>Preço = 200*2.0 (Material) + 100*2.0 (Afixo) + 200*1.0 (Afixo) + 150*3.0 (Refinamentos) = T$ 1.250</code><br/><br/>
+<code>Preço = 2.0*(200 + 100) (Material Bronze) + 200*2.0 (Afixo Largo) + 200*3.0 (Afixo Espinhos) + 200*3.0 (Afixo Perfurante) + 150*3.0 (Refinamentos) = T$ 2.650</code><br/><br/>
 
 
 <EquipmentBlock data={{
@@ -321,17 +328,18 @@ O preço final ficaria:
     name: "Machado",
     base_damage: "2d12 + 4",
     base_price: 200,
-    item_type: 'attack_physical'
+    item_type: 'attack_physical',
+    attribute: 'Resiliência',
   },
   material: {
     name: "Bronze",
     multiplier: 2,
   },
-  buy_price: 1280,
+  buy_price: 2650,
   weight: 1,
   speed: -1,
   durability: {
-    current: 4,
+    current: 7,
     total: 7,
   },
   refinement: {
@@ -345,7 +353,7 @@ O preço final ficaria:
       name: "Larga",
       notation_name: "Larga (F)",
       notation: "(F)",
-      description: 'Um item grande. No caso de armas, exige que seja manipulada com as duas mãos, além de causar (F) de dano adicional. No caso de armaduras, só pode ser utilizada por personagens grandes e largos e que sejam compatíveis com o Perfil do item.',
+      description: 'Um item grande. No caso de armas, exige que seja manipulada com as duas mãos, além de causar (1d10) de dano adicional. No caso de armaduras, só pode ser utilizada por personagens grandes e largos e que sejam compatíveis com o Perfil do item.',
       is_physical: true,
       is_magical: false,
       multiplier: 1.0,
@@ -361,7 +369,7 @@ O preço final ficaria:
       name: "Perfurante",
       notation_name: "Perfurante (X)",
       notation: "(X)",
-      description: 'Refina a lâmina para que ela possa penetrar armaduras com maior facilidade. + (X) Ataque Físico',
+      description: 'Refina a lâmina para que ela possa penetrar armaduras com maior facilidade. + (2) Ataque Físico',
       is_physical: true,
       is_magical: false,
       multiplier: 1.0,
@@ -377,7 +385,7 @@ O preço final ficaria:
       name: "Espinhos",
       notation_name: "Espinhos (F)",
       notation: "(F)",
-      description: 'Adiciona espinhos afiados ao item, adicionando a característica Perfurar. Em armas faz com que golpes infligidos causem um adicional de (F) de dano. Em armaduras faz com que golpes recebidos causem (F) de dano perfurante.',
+      description: 'Adiciona espinhos afiados ao item, adicionando a característica Perfurar. Em armas faz com que golpes infligidos causem um adicional de (d6) de dano. Em armaduras faz com que golpes recebidos causem (d6) de dano perfurante.',
       is_physical: true,
       is_magical: false,
       multiplier: 1.0,

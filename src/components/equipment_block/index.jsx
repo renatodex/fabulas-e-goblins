@@ -156,11 +156,11 @@ export default function EquipmentBlock ({ data }) {
               </div>
               <div className='sm:flex'>
                 <div className='border flex-1 border-b-0 sm:border-r-0 border-black rounded-t-xl sm:rounded-t-none px-2 py-1'>Attributo</div>
-                <div className='border flex-1 sm:border-b-0 border-black rounded-b-xl sm:rounded-b-none px-2 py-1'>Sobrevivência</div>
+                <div className='border flex-1 sm:border-b-0 border-black rounded-b-xl sm:rounded-b-none px-2 py-1'>{data.item_shape.attribute}</div>
               </div>
               <div className='sm:flex'>
                 <div className='border flex-1 border-black border-b-0 sm:border-b sm:border-r-0 px-2 py-1 rounded-t-xl sm:rounded-t-none sm:rounded-br-none sm:rounded-b-xl sm:rounded-r-none'>Preço de Venda</div>
-                <div className='border flex-1 border-black px-2 py-1 sm:rounded-b-xl rounded-b-xl sm:rounded-b-none sm:rounded-bl-none sm:rounded-l-none'>T$ 20.000</div>
+                <div className='border flex-1 border-black px-2 py-1 sm:rounded-b-xl rounded-b-xl sm:rounded-b-none sm:rounded-bl-none sm:rounded-l-none'>T$ {data.buy_price}</div>
               </div>
             </div>
           </div>
@@ -203,7 +203,7 @@ export function AffixBlock ({ affix }) {
         </div>
       </div>
       <div className='p-3'>
-        {replaceAffixVariables(affix.description, affix)}
+        {affix.description}
       </div>
     </div>
   )
