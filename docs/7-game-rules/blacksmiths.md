@@ -87,6 +87,6 @@ A condição existe para que o Item possa descansar e se recuperar do processo d
 
 Também é possível **criar itens com Ferreiros**, mas o preço de cada item **deverá ser especificado pelo Narrador**, pois depende muito dos **itens disponíveis na campanha** e da **economia do Cenário** que está sendo jogado.
 
-Para entender a precificação e construção de itens customizados, consulte a [Seção Criando Armas e Armaduras](/docs/10-the-guide/create-custom-equipment).
+Para entender a precificação e construção de itens customizados, consulte a [Seção Criando Armas e Armaduras](/docs/10-the-guide/create-custom-equipments).
 
 É importante também levar em consideração que o processo de **Criação de Armas em Ferreiros** podem **levar dias para serem realizados**, pois muitas vezes os Ferreiros **não possuem** todos os materiais de confecção *"à pronta entrega"*, e por isso, as vezes precisam fazer **pequenas viajens** para adquirir **componentes** de seus **fornecedores confiáveis**.
