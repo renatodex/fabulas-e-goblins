@@ -10,6 +10,6 @@
   "icon": "GiWaterDrop",
   "element": null,
   "caption": "O costume e a proximidade da Vegetação Desértica permitiram aos Areanos aprender algumas técnicas interessantes para encontrar água ao ar livre. Plantas da vegetação comum escondem reservatórios de água que podem ser explorados por alguém que souber onde olhar.<br/>Esses conhecimentos são muito específicos e sutís, mas essas técnicas são frequentemente muito difundidas pelos Povos de Areia. A navegação entre cidades no Deserto é muito comum entre esses povos, e em situações de emergência esse conhecimento pode ser interessante.",
-  "description": "A qualquer momento você poderá fazer uma ação de Sobrevivência para procurar por Água com um Bônus de +2.<br/>Se estiver em um deserto, receba +4 de Bônus nessa Ação.",
+  "description": "A qualquer momento você poderá fazer uma ação de <b>Sobrevivência</b> para procurar por Água com um Bônus de <code>+2</code>.<br/>Se estiver em um deserto, receba <code>+4</code> de Bônus nessa Ação.",
   "tags": ["cultural", "children-of-sands"]
 }

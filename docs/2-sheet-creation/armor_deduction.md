@@ -14,65 +14,9 @@ Alem disso, como falamos antes, quanto mais **pesada sua armadura**, mais **dif�
 
 Cada Armadura do jogo pode ser categorizada em 4 diferentes Classes de Armaduras.
 
-<table>
-  <thead>
-  <tr>
-    <th>
-      Classe de Armadura
-      </th>
-    <th>
-      Descrição
-      </th>
-    <th>
-      Dedução
-      </th>
-    </tr>
-    </thead>
-
-  <tbody>
-  <tr>
-    <td>
-      Armaduras Leves
-      </td>
-    <td>
-      Constituída por proteções super leves que afetam pouco o movimento. Ex: Vestimentas de Couro, Robes, etc.
-      </td>
-    <td>
-      -0
-      </td>
-    </tr>
-    <tr>
-    <td>
-      Armaduras Médias
-      </td>
-    <td>
-      Aqui falamos de armaduras um pouco mais pesadas. Placas Metálicas e Escudos Grandes são candidatos perfeitos para Armaduras Médias.
-      </td>
-       <td>
-      -1
-      </td>
-    </tr>
-   <tr>
-    <td>
-      Armaduras Pesadas
-      </td>
-    <td>
-      Essa categoria se refere a Armaduras de Corpo inteiro, daquelas que vemos Templários e Paladinos usarem. Essas Armaduras são extremamente pesadas e podem super prejudicar seu movimento no combate.
-      </td>
-      <td>
-      -2
-      </td>
-    </tr>
-  <tr>
-    <td>
-      Armaduras Super Pesadas
-      </td>
-    <td>
-      Essa categoria se refere a Armaduras de Corpo inteiro que são reforçadas com camadas extras de proteção para conceder incrível resiliência ao seu portador. Essas Armaduras geralmente são épicas, e apenas usadas por personagens com bastante Força física.
-      </td>
-      <td>
-      -3
-      </td>
-    </tr>
-    </tbody>
-  </table>
+| Classe de Armadura      | Descrição                                                                                                                                                  | Dedução |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Armaduras Leves         | Constituída por proteções super leves que afetam pouco o movimento. Ex: Vestimentas de Couro, Robes, etc.                                                   | -0      |
+| Armaduras Médias        | Aqui falamos de armaduras um pouco mais pesadas. Placas Metálicas e Escudos Grandes são candidatos perfeitos para Armaduras Médias.                         | -1      |
+| Armaduras Pesadas       | Essa categoria se refere a Armaduras de Corpo inteiro, daquelas que vemos Templários e Paladinos usarem. Essas Armaduras são extremamente pesadas e podem super prejudicar seu movimento no combate. | -2      |
+| Armaduras Super Pesadas | Essa categoria se refere a Armaduras de Corpo inteiro que são reforçadas com camadas extras de proteção para conceder incrível resiliência ao seu portador. Essas Armaduras geralmente são épicas, e apenas usadas por personagens com bastante Força física. | -3      |

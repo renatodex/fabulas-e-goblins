@@ -156,10 +156,10 @@ Uma das grandes virtudes que se destacam na criação do Grimo é sua criativida
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo de Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | --------| --- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado do Iniciante + 0 | Físico | D12 + 4 | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Resiliência | Cortante |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada do Iniciante + 0 | Físico | D12 + 4 | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes. | 3 Cargas | Força | Cortante |
+| Imagem                                                                                                                                  | Nome da Arma       | Tipo de Dano | Dano       | Descrição                                                             | Durabilidade | Atributo    | Tipo de Arma |
+|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------|------------|-----------------------------------------------------------------------|--------------|-------------|--------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd2270d31-e7bf-4168-a90d-bcf772514e1d.png" width="80" /> | Machado de Madeira | Físico       | `2d12 + 2` | Machado inicial do Aventureiro, bem simples, e suporta poucos cortes. | 2 Cargas     | Resiliência | Cortante     |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc728c292-e23a-4e87-a070-a3ee81e17dde.png" width="80" /> | Espada de Madeira  | Físico       | `2d10 + 2` | Espada inicial do Aventureiro, bem simples, e suporta poucos cortes.  | 2 Cargas     | Força       | Cortante     |
 
 ## Requisito de entrada
 

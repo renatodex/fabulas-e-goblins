@@ -1,6 +1,6 @@
 {
   "name": "Tempestus Protectio",
-  "magic_cost": "TLv*3 P.M",
+  "magic_cost": "GRAU*3 P.M",
   "duration_time": 1,
   "attack_logic": "Mágico",
   "action_type": "Ativa",
@@ -10,6 +10,6 @@
   "icon": "GiExtraLucid",
   "element": "holy",
   "caption": "Utiliza o Implemento do Tempesto para criar um Selo de proteção em um irmão convertido ou em si mesmo.",
-  "description": "Exige um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>, mas só pode ser usado em Filhos da Tempestade. Concede uma redução de (TLv*10) pontos de dano próximo turno.",
+  "description": "<p>Escolha entre sí mesmo ou um alvo aliado que seja um Tempesto, e faça um <b>Teste de Perícia</b> do atributo <b>Intelecto</b>.</p><p><b>Se for bem sucedido,</b> você conjura um Selo de proteção que reduz o dano recebido em <code>GRAU*10</code> até o final do próximo turno.</p>",
   "tags": ["racial", "children-of-storms"]
 }

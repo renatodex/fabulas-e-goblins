@@ -100,6 +100,10 @@ Se você for afligido por um envenenamento, pode fazer uma **Ação de Perícia*
 
 Caso seja bem sucedido, os efeitos são completamente neutralizados do seu corpo.
 
+### 3. Agilidade <-> Destino
+
+Adeptos de Zanari podem realizar testes de Destino usando seu atributo de Agilidade, e vice versa.
+
 ## Interpretando um Adepto de Zanari
 
 Na **Sociedade Zanari**, os **Adeptos** são treinados como combatentes vorazes, dotados na arte do combate Ágil e que utilizam a **Magia das Trevas** com foco na **manipulação das Sombras** para desferir ataques devastadores em seus inimigos.
@@ -125,13 +129,13 @@ Por muitos anos essa misteriosa sociedade se mostrou fechada e reclusa, e o conh
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo de Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
-| ------ | ---- | --------- | ------------ | ------------ | ------| ----- |---|
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C91dcd6d8-ac98-4f71-a293-b5020bcc5783.PNG" width="80" /> | Katar do Iniciante + 0 | Físico | D6 + 2 | Katar inicial, um tipo especial de adaga que pode ser usada em conjunto para **dobrar o dano**. | 3 Cargas | Sobrevivência | Cortante, Perfurante |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd392a55e-0ee7-4899-a30e-4048a2248bae.png" width="80" /> | Dardos Venenosos + 0 | Físico | D6 + 3 | Dardos de veneno que causam **Envenenar D2 T3**. | 1 Carga | Agilidade | Perfurante |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbebdcce-d7e5-4d0b-9b4b-3ef4c1131266.PNG" width="80" /> | Punhal do Iniciante + 0 | Físico | D10 + 3 | Punhal inicial do Aventureiro, tem uma ponta afiada e é bem estiloso. | 3 Cargas | Agilidade | Perfurante |
+| Imagem                                                                                                                                  | Nome da Arma                | Tipo de Dano | Dano       | Descrição                                                                  | Durabilidade | Atributo          | Tipo de Arma         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------|------------|----------------------------------------------------------------------------|--------------|-------------------|----------------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C91dcd6d8-ac98-4f71-a293-b5020bcc5783.PNG" width="80" /> | Katar de Madeira            | Físico       | `2d10 + 2` | Katar inicial do aventureiro, de construção simples mas bastante cortante. | 2 Cargas     | Sobrevivência     | Cortante, Perfurante |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cd392a55e-0ee7-4899-a30e-4048a2248bae.png" width="80" /> | Dardos Venenosos de Madeira | Físico       | `2d4 + 2`  | Dardos de veneno que causam **Envenenar D2 T3**.                           | 2 Cargas     | Destino/Agilidade | Perfurante           |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cdbebdcce-d7e5-4d0b-9b4b-3ef4c1131266.PNG" width="80" /> | Punhal de Madeira           | Físico       | `2d8 + 2`  | Punhal inicial do Aventureiro, tem uma ponta afiada e é bem estiloso.      | 2 Cargas     | Destino/Agilidade | Perfurante           |
 
-**A distância padrão para Armas de Alcance é de 6 quadrados.*
+**A distância padrão para Armas de Alcance é de 7 espaços.*
 
 ## Requisito de entrada
 

@@ -10,6 +10,6 @@
   "icon": "GiFootsteps",
   "element": null,
   "caption": "Após anos de experiência caçando na floresta, pode ser impossível não reconhecer rastros óbvios.",
-  "description": "<p>Devido a sua experiência vivendo próximo a florestas por tanto tempo, você possui uma habilidade natural para perceber rastros de movimentação na floresta, deixados pela bagunça das folhas, e outras nuances que passariam despercebido a um olho destreinado.</p><p>A Habilidade só funciona se houverem Rastros detectáveis.</p><p>Ao utilizar essa habilidade, o Narrador pode exigir um teste de Sobrevivência.</p>",
+  "description": "<p>Devido à sua experiência vivendo próximo a florestas por tanto tempo, você possui uma habilidade natural para perceber rastros quase imperceptíveis de movimentação, deixados por galhos, bagunça das folhas, além outras nuances que passariam despercebida mesmo a um olho bem treinado.</p><p>Rastrear reduz em <code>-4</code> a dificuldade de qualquer teste de Sobrevivência envolvendo orientação florestal, rastreio, sentir presença ou detecção.</p>",
   "tags": ["cultural", "children-of-dew"]
 }

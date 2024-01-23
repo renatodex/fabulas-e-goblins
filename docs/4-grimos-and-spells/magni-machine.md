@@ -150,12 +150,12 @@ Com o passar do tempo, enormes **templos de metal** conhecidos como  **Cubos de 
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | --- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e74fe53-1a59-4a12-b983-03853213d10f.PNG" width="80" /> | Bomba Comum + 0 | Mágico | D4 + 3 | Bomba mágica que atinge alvos em uma área 2x2 escolhida pelo usuário. **(custo: 1 P.M)** | 3 Cargas | Intelecto | Queimadura, Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Caff778c3-7731-4b7b-99c5-4b4273c07a2d.png" width="80" /> | Manopla de Energia Comum + 0 | Físico e Mágico | D10 + 2 | Manopla de energia que desfere um ataque físico, mas causa dano mágico não elemental. | 3 Cargas | Intelecto | Contusão, Mágico |
+| Imagem                                                                                                                                  | Nome da Arma                  | Tipo do Dano    | Dano       | Descrição                                                                                    | Durabilidade | Atributo              | Tipo de Arma       |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------|------------|----------------------------------------------------------------------------------------------|--------------|-----------------------|--------------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C2e74fe53-1a59-4a12-b983-03853213d10f.PNG" width="80" /> | Bomba Mágica de Madeira       | Mágico          | `2d10 + 2` | Bomba mágica que atinge alvos em uma área **2x2** escolhida pelo usuário. **(custo: 1 P.M)** | 2 Cargas     | Intelecto             | Queimadura, Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Caff778c3-7731-4b7b-99c5-4b4273c07a2d.png" width="80" /> | Manopla de Energia de Madeira | Físico e Mágico | `2d10 + 2` | Manopla de energia que desfere um ataque físico, mas causa dano mágico não elemental.        | 2 Cargas     | Intelecto/Resiliência | Contusão, Mágico   |
 
-**A distância padrão para Armas de Alcance é de 6 quadrados.*
+**A distância padrão para Armas de Alcance é de 7 espaços.*
 
 ## Requisito de entrada
 

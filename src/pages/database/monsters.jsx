@@ -479,7 +479,6 @@ function EnemyDetailsMobile ({
           href="#"
           className='underline'
           onClick={e => {
-            console.log("close")
             onClose()
           }}
         >&lt; Voltar ao Bestiário</button>

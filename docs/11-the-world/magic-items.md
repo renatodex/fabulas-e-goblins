@@ -30,13 +30,30 @@ Pergaminhos por outro lado possuem algumas limitações:
 - Tem uma capacidade de armazenamento mágico limitada, e não é capaz de armazenar feitiços muito poderosos.
 - Seu processo de fabricação não é trivial, e exige uma fibra específica para ser confeccionado.
 
+## Gemas
+
+As Gemas são cristais mágicos que armazenam magia. Eles estão espalhados pelo mundo todo em todos os biomas. Assim como outros materiais, as Gemas mais comuns tem sinergia elemental e são propícias a "gostarem" mais de um elemento específico, e por isso, são frequentemente usadas para criar itens de conjuração rápida para aqueles que não possuem domínio da magia.
+
+No geral, Gemas armazenam mais magia que os pergaminhos, sendo geralmente divididas em:
+
+- Gemas Brutas, coletadas em sua forma natural e manipulada para criar itens de conjuração mágica.
+- Gemas Lapidadas, que é basicamente um passo além das Gemas brutas, onde as melhores são unidas e lapidadas para melhor aproveitamento.
+- Gemas Perfeitas, selecionadas por mineiradores experientes e lapidadas de forma perfeita para maximizar sua potencia.
+- Gemas Primordiais, encontradas apenas nas profundezas do mundo, e conhecidas por terem propriedades que superam até mesmo a Radamagi.
+
+Assim com os pergaminhos, as Gemas, apesar de mais resistentes, também tem limitações:
+
+- Não podem armazenar mais de um feitiço ao mesmo tempo.
+- Tem uma capacidade de armazenamento mágico limitada, e não é capaz de armazenar feitiços muito poderosos.
+- Seu processo de fabricação não é trivial, e exige uma fibra específica para ser confeccionado.
+
 ## Itens Mágicos
 
-De forma similar aos pergaminhos, Armas, Armaduras e outros Adereços e Equipamentos corporais também podem armazenar magia. Esse processo é ainda mais complexo que o dos pergaminhos, porque exige que um Ferreiro especializado manipule a magia numa forja especial, selando-a dentro do item.
+De forma similar as gemas, Armas, Armaduras e outros Adereços e Equipamentos corporais também podem armazenar magia. Esse processo é ainda mais complexo que o dos pergaminhos e gemas, porque exige que um Ferreiro especializado manipule a magia numa forja especial, selando-a dentro do item.
 
 Antigamente esses itens eram criados como heranças em famílias de Arcanistas muito ricos, mas com o passar do tempo, a prática se tornou mais comum, sendo realizada também comercialmente por Ferreiros especializados.
 
-Itens Mágicos são melhores que Pergaminhos em quase todos os aspectos, pois podem armazenar maior quantidade de magia, além de conseguirem armazenar múltiplas capacidades mágicas ao mesmo tempo. Além disso, são seguros e controláveis.
+Itens Mágicos são melhores que Pergaminhos e Gemas em quase todos os aspectos, pois podem armazenar maior quantidade de magia, além de conseguirem armazenar múltiplas capacidades mágicas ao mesmo tempo. Além disso, são seguros e controláveis.
 
 :::info Transformando Itens comuns em Mágicos
 Os Metalóides, por serem criaturas que vivem através do fluído mágico, são as únicas capazes de transmutar itens comuns em itens mágicos. Eles fazem isso utilizando sua própria essência através de um processo chamado "Manipulação Mágica".
@@ -46,9 +63,19 @@ Apesar de ser um processo delicado e que leva tempo, os Metalóides se tornaram 
 No livro, há também uma regra especial para que o Narrador possa determinar qual será a propriedade do Item mágico, caso o metalóide seja bem sucedido.
 :::end:::
 
+## Itens de Herança
+
+Ainda mais raros e mais poderosos que os itens mágicos, os **Itens de Herança** são itens mágicos especiais, muitas vezes confeccionados eras atrás por famílias abastadas e influentes, e passados de geração a geração para cavaleiros e aventureiros poderosos.
+
+Itens de Herança raramente são vendidos por mercadores comuns, e encontrar um desses sem dono já é uma ocasião bastante rara, mas identificá-los geralmente é bastante fácil devido a qualidade dos materiais e o refinamento artesanal feito no item.
+
+Geralmente esses itens são criados por Ferreiros extremamente experiêntes, de renome internacional, e sempre levam uma ou mais marcas que remetem ao brasão da família, ao símbolo do guerreiro e algumas vezes a marca em homenagem ao portador atual ou original.
+
+De certa forma, Grimos e Itens de Herança tem propósitos parecidos, que é o de passar o poder e conhecimento de seu portador para as gerações futuras, e por isso, sempre que se deparar com itens assim, pode ter certeza que possuirão características físicas e mágicas bastante poderosas e únicas.
+
 ## Radamagi
 
-Outras civilizações também pesquisaram formas mais criativas de armazenaram magia.
+Outras civilizações também pesquisaram formas mais criativas de armazenarem magia.
 
 Os **Razalans**, uma das raças mais antigas das Terras Místicas, possuem a forja mágica em seu DNA desde os primórdios conhecidos de sua existência.
 
@@ -62,9 +89,9 @@ Os **Razalans** também são conhecidos por possuirem belíssimas fazendas de Ma
 
 Ao pressionada com as mãos pelo utilizador, a **Radamagi** libera o poder mágico e cede o controle ao seu utilizador, que pode utiliza-lo como quiser.
 
-Comparada com os **Pergaminhos** a **Radamagi** é uma versão aprimorada e superior, muito mais cara para fabricar mas muito mais eficiente em termos de armazenamento mágico e manipulação.
+Comparada com os **Pergaminhos** e muitos tipos de **Gemas**, a **Radamagi** é uma versão aprimorada e superior, mais cara para fabricar mas muito mais eficiente em termos de armazenamento mágico e manipulação.
 
-Infelizmente, nos tempos de Blecaute, Radamagis são cada vez mais raras.
+Infelizmente, nos tempos de Blecaute, Pergaminhos Radamagis são cada vez mais raros.
 
 ## Grimos
 
@@ -76,7 +103,7 @@ Foi uma época em que os Pergaminhos mágicos estavam em alta, pois armazenavam 
 
 Mas os Grimos mudaram tudo isso. Diferente de um pergaminho, ou um Radamagi, os Grimos tem sua própria evolução, e conforme aumentam seu vínculo com o conjurador, tornam-se ainda mais poderosos juntos.
 
-Com o passar do tempo, os Grimos passaram a ser empunhados em Armas, Armaduras, em adereços como Colares e Braceletes, e até utilizados como Engrenagens em mecanismos tecnológicos através da Polêmica **Grimotek**.
+Com o passar do tempo, os Grimos passaram a ser empunhados em Armas, Armaduras, em adereços como Colares e Braceletes, e até utilizados como Engrenagens em mecanismos tecnológicos através da polêmica **Grimotek**.
 
 Os Grimos são criados por um Ferreiro especializado, chamado de Mestre-Elo.
 

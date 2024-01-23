@@ -135,11 +135,11 @@ Em pouco temepo, **Faruni** percebeu que outros Nobres também tinham interesse 
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem | Nome da Arma | Tipo do Dano | Dano | Descrição | Durabilidade | Atributo | Tipo de Arma |
-| ------ | ------------ | ---- | --------- | ------------ | -------- | ---- | ----- |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4f2944ae-b72e-4128-8412-b274ad09f69f.png" width="80" /> | Bengala Comum + 0 | Físico | D10 + 4 | Bengala comum. | 3 Cargas | Influência | Impacto |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4491bbc9-d502-4987-8b11-d1bf1ea661ee.png" width="80" /> | Punhal da Morte Comum + 0 | Mágico | D4 + 1 | Um Punhal da morte, que aplica ```Morte 2d20``` em um ataque bem sucedido. | 3 Cargas | Destino | Morte 2d20 |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6013984c-1b5a-4852-88a9-d8b4a8e80120.png" width="80" /> | Saxo Comum + 0 | Físico | D10 + 4 | Espada portátil comum. | 3 Cargas | Força | Cortante |
+| Imagem                                                                                                                                  | Nome da Arma               | Tipo do Dano | Dano       | Descrição                                                              | Durabilidade | Atributo   | Tipo de Arma |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------------|------------|------------------------------------------------------------------------|--------------|------------|--------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4f2944ae-b72e-4128-8412-b274ad09f69f.png" width="80" /> | Bengala de Madeira         | Físico       | `2d6 + 2`  | Bengala comum.                                                         | 2 Cargas     | Influência | Impacto      |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C4491bbc9-d502-4987-8b11-d1bf1ea661ee.png" width="80" /> | Punhal da Morte de Madeira | Mágico       | `2d8 + 2`  | Um Punhal da morte, que aplica `Morte 2d20` em um ataque bem sucedido. | 2 Cargas     | Destino    | Morte 2d20   |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C6013984c-1b5a-4852-88a9-d8b4a8e80120.png" width="80" /> | Saxo de Madeira            | Físico       | `2d10 + 2` | Espada portátil comum.                                                 | 2 Cargas     | Força      | Cortante     |
 
 ## Requisito de entrada
 
