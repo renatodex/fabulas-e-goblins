@@ -14,41 +14,41 @@ Existe uma lista infinita de armas e armaduras que você poderia usar nas **Terr
 
 Na lista a seguir você verá diversas **armas de madeira**. Fazemos isso porque nosso livro apresenta **25 materiais** diferente entre **armas e armaduras**, e listar cada variação abaixo em cada material resultaria numa tabela com mais de **1000** itens!
 
-| Nome                    | Grau | Tipo Ataque | Dano Físico | Dano Mágico | Atributo      | Tipo Dano  | Preço (T$) |
-|-------------------------|------|-------------|:-----------:|:-----------:|---------------|------------|:----------:|
-| Adaga de Madeira        | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Agilidade     | Perfurante |   T$ 200   |
-| Arco de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Sobrevivência | Perfurante |   T$ 200   |
-| Bastão de Madeira       | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Agilidade     | Contusivo  |   T$ 200   |
-| Bengala de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Influência    | Contusivo  |   T$ 200   |
-| Besta de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Sobrevivência | Perfurante |   T$ 200   |
-| Chicote de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Agilidade     | Cortante   |   T$ 200   |
-| Clava de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
-| Cruz de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Espírito      | -          |   T$ 300   |
-| Dardos de Madeira       | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Destino       | Perfurante |   T$ 200   |
-| Espada de Madeira       | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Cortante   |   T$ 200   |
-| Estilingue de Madeira   | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Sobrevivência | Contusivo  |   T$ 200   |
-| Foice de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Agilidade     | Cortante   |   T$ 200   |
-| Graveto de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Intelecto     | Contusivo  |   T$ 200   |
-| Katar de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Agilidade     | Perfurante |   T$ 200   |
-| Lança de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Perfurante |   T$ 200   |
-| Machado de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Resiliência   | Cortante   |   T$ 200   |
-| Manopla de Madeira      | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
-| Martelo de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
-| Maça de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo  |   T$ 200   |
-| Picareta de Madeira     | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Força         | Cortante   |   T$ 200   |
-| Projéteis de Madeira    | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Força         | Contusivo  |    T$ 50   |
-| Punhal de Madeira       | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Destino       | Cortante   |   T$ 200   |
-| Saxo de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Cortante   |   T$ 200   |
-| Tábua de Madeira        | `1`  | Físico      |  `2d4 + 2`  |  `2d10 + 2` | Espírito      | Contusivo  |   T$ 200   |
-| Tridente de Madeira     | `1`  | Físico      |  `2d12 + 2` |     `-`     | Força         | Perfurante |   T$ 200   |
-| Bomba Mágica de Madeira | `1`  | Mágico      |     `-`     |  `2d10 + 2` | Intelecto     | -          |   T$ 300   |
-| Cetro de Madeira        | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Intelecto     | -          |   T$ 300   |
-| Cajado de Madeira       | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Elo Mágico    | -          |   T$ 300   |
-| Varinha de Madeira      | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico    | -          |   T$ 300   |
-| Prisma de Madeira       | `1`  | Mágico      |     `-`     |  `2d12 + 2` | Elo Mágico    | -          |   T$ 300   |
-| Orbe de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico    | -          |   T$ 300   |
-| Urna de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d12 + 2` | Espírito      | -          |   T$ 300   |
-| Livro de Madeira        | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Intelecto     | -          |   T$ 300   |
+| Nome                    | Grau | Tipo Ataque | Dano Físico | Dano Mágico | Atributo      | Tipo Dano            | Preço (T$) |
+|-------------------------|------|-------------|:-----------:|:-----------:|---------------|----------------------|:----------:|
+| Adaga de Madeira        | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Agilidade     | Perfurante           |   T$ 200   |
+| Arco de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Sobrevivência | Perfurante           |   T$ 200   |
+| Bastão de Madeira       | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Agilidade     | Contusivo            |   T$ 200   |
+| Bengala de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Influência    | Contusivo            |   T$ 200   |
+| Besta de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Sobrevivência | Perfurante           |   T$ 200   |
+| Chicote de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Agilidade     | Cortante             |   T$ 200   |
+| Clava de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo            |   T$ 200   |
+| Cruz de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Espírito      | Contusivo/Perfurante |   T$ 300   |
+| Dardos de Madeira       | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Destino       | Perfurante           |   T$ 200   |
+| Espada de Madeira       | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Cortante             |   T$ 200   |
+| Estilingue de Madeira   | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Sobrevivência | Contusivo            |   T$ 200   |
+| Foice de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Agilidade     | Cortante             |   T$ 200   |
+| Graveto de Madeira      | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Intelecto     | Contusivo            |   T$ 200   |
+| Katar de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Agilidade     | Perfurante           |   T$ 200   |
+| Lança de Madeira        | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Perfurante           |   T$ 200   |
+| Machado de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Resiliência   | Cortante             |   T$ 200   |
+| Manopla de Madeira      | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo            |   T$ 200   |
+| Martelo de Madeira      | `1`  | Físico      |  `2d12 + 2` |     `-`     | Resiliência   | Contusivo            |   T$ 200   |
+| Maça de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Resiliência   | Contusivo            |   T$ 200   |
+| Picareta de Madeira     | `1`  | Físico      |  `2d6 + 2`  |     `-`     | Força         | Cortante             |   T$ 200   |
+| Projéteis de Madeira    | `1`  | Físico      |  `2d4 + 2`  |     `-`     | Força         | Contusivo            |    T$ 50   |
+| Punhal de Madeira       | `1`  | Físico      |  `2d8 + 2`  |     `-`     | Destino       | Cortante             |   T$ 200   |
+| Saxo de Madeira         | `1`  | Físico      |  `2d10 + 2` |     `-`     | Força         | Cortante             |   T$ 200   |
+| Tábua de Madeira        | `1`  | Físico      |  `2d4 + 2`  |  `2d10 + 2` | Espírito      | Contusivo            |   T$ 200   |
+| Tridente de Madeira     | `1`  | Físico      |  `2d12 + 2` |     `-`     | Força         | Perfurante           |   T$ 200   |
+| Bomba Mágica de Madeira | `1`  | Mágico      |     `-`     |  `2d10 + 2` | Intelecto     | Mágico               |   T$ 300   |
+| Cetro de Madeira        | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Intelecto     | Mágico               |   T$ 300   |
+| Cajado de Madeira       | `1`  | Mágico      |  `2d8 + 2`  |  `2d8 + 2`  | Elo Mágico    | Mágico               |   T$ 300   |
+| Varinha de Madeira      | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico    | Mágico               |   T$ 300   |
+| Prisma de Madeira       | `1`  | Mágico      |     `-`     |  `2d12 + 2` | Elo Mágico    | Mágico               |   T$ 300   |
+| Orbe de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Elo Mágico    | Mágico               |   T$ 300   |
+| Urna de Madeira         | `1`  | Mágico      |  `2d4 + 2`  |  `2d12 + 2` | Espírito      | Mágico               |   T$ 300   |
+| Livro de Madeira        | `1`  | Mágico      |  `2d4 + 2`  |  `2d10 + 2` | Intelecto     | Mágico               |   T$ 300   |
 
 ## Armas de outros materiais
 
@@ -83,33 +83,35 @@ Ou seja, sempre que você for atacado, seu conjunto de itens equipados absorver�
 Seguindo o mesmo padrão das armas, abaixo mostramos uma lista de equipamentos.
 Na lista usaremos **Couro** como o material principal, mas alguns tipos de equipamentos nessa lista são **robustos** por natureza, e só existem em materiais rígidos, como o **Aço** por exemplo.
 
-| Parte do Corpo | Grau | Nome                      | Redução de Dano Físico | Redução de Dano Mágico | Preço (T$) |
-|----------------|:----:|---------------------------|:----------------------:|:----------------------:|:----------:|
-| Cabeça         |  `1` | Tiara de Couro            |         `-`        |           `-`          |   T$ 350   |
-| Cabeça         |  `1` | Capuz de Couro            |         `0 + 1`        |           `-`          |   T$ 100   |
-| Cabeça         |  `1` | Capacete de Couro         |         `1 + 1`        |           `-`          |   T$ 200   |
-| Cabeça         |  `1` | Elmo de Couro             |         `2 + 1`        |           `-`          |   T$ 300   |
-| Tronco         |  `1` | Trajes de Couro           |         `0 + 1`        |           `-`          |    T$ 50   |
-| Tronco         |  `1` | Corselete de Couro        |         `1 + 1`        |           `-`          |   T$ 100   |
-| Tronco         |  `1` | Gibão de Couro            |         `2 + 1`        |           `-`          |   T$ 200   |
-| Tronco         |  `1` | Cota de Malha de Aço      |         `2 + 2`        |           `-`          |   T$ 250   |
-| Tronco         |  `1` | Brunea de Aço             |         `3 + 2`        |           `-`          |   T$ 300   |
-| Tronco         |  `1` | Peitoral de Placas de Aço |         `3 + 2`        |           `-`          |   T$ 400   |
-| Tronco         |  `1` | Manto de Couro            |         `0 + 1`        |         `2 + 1`        |   T$ 150   |
-| Tronco         |  `1` | Túnica de Couro           |         `0 + 1`        |         `3 + 1`        |   T$ 300   |
-| Tronco         |  `1` | Robes de Couro            |         `0 + 1`        |         `4 + 1`        |   T$ 450   |
-| Braços         |  `1` | Braçadeiras de Couro      |         `1 + 1`        |           `-`          |   T$ 100   |
-| Mãos           |  `1` | Luvas e Manoplas de Couro |         `1 + 1`        |           `-`          |   T$ 150   |
-| Mãos           |  `1` | Escudo Leve de Couro      |         `1 + 1`        |           `-`          |   T$ 250   |
-| Mãos           |  `1` | Escudo Pesado de Aço      |         `2 + 1`        |           `-`          |   T$ 350   |
-| Pés            |  `1` | Calçados de Couro         |         `1 + 1`        |           `-`          |    T$ 50   |
-| Pés            |  `1` | Botas de Couro            |         `1 + 1`        |           `-`          |   T$ 150   |
-| Pernas         |  `1` | Grevas de Aço             |         `2 + 2`        |           `-`          |   T$ 300   |
-| Cintura        |  `1` | Ombreira de Couro         |         `1 + 1`        |           `-`          |   T$ 150   |
-| Cintura        |  `1` | Cinto de Couro            |         `0 + 1`        |           `-`          |   T$ 200   |
-| Pescoço        |  `1` | Amuleto de Couro          |         `0 + 1`        |           `-`          |   T$ 500   |
-| Pescoço        |  `1` | Anel de Couro             |         `0 + 1`        |           `-`          |   T$ 500   |
-| Costas         |  `1` | Capa de Couro             |         `0 + 1`        |           `-`          |   T$ 200   |
+| Parte do Corpo | Grau | Refinável? | Nome                      | Redução de Dano Físico | Redução de Dano Mágico | Preço (T$) |
+|----------------|:----:|------------|---------------------------|:----------------------:|:----------------------:|:----------:|
+| Cabeça         |  `1` | Sim        | Tiara de Couro            |          `-`*          |           `0`          |   T$ 350   |
+| Cabeça         |  `1` | Sim        | Capuz de Couro            |         `0 + 1`        |           `0`          |   T$ 100   |
+| Cabeça         |  `1` | Sim        | Capacete de Couro         |         `1 + 1`        |           `0`          |   T$ 200   |
+| Cabeça         |  `1` | Sim        | Elmo de Couro             |         `2 + 1`        |           `0`          |   T$ 300   |
+| Tronco         |  `1` | Não        | Trajes de Couro           |         `0 + 1`        |           `0`          |    T$ 50   |
+| Tronco         |  `1` | Sim        | Corselete de Couro        |         `1 + 1`        |           `0`          |   T$ 100   |
+| Tronco         |  `1` | Sim        | Gibão de Couro            |         `2 + 1`        |           `0`          |   T$ 200   |
+| Tronco         |  `1` | Sim        | Cota de Malha de Aço      |         `2 + 2`        |           `0`          |   T$ 250   |
+| Tronco         |  `1` | Sim        | Brunea de Aço             |         `3 + 2`        |           `0`          |   T$ 300   |
+| Tronco         |  `1` | Sim        | Peitoral de Placas de Aço |         `3 + 2`        |           `0`          |   T$ 400   |
+| Tronco         |  `1` | Sim        | Manto de Couro            |         `0 + 1`        |         `2 + 1`        |   T$ 150   |
+| Tronco         |  `1` | Sim        | Túnica de Couro           |         `0 + 1`        |         `3 + 1`        |   T$ 300   |
+| Tronco         |  `1` | Sim        | Robes de Couro            |         `0 + 1`        |         `4 + 1`        |   T$ 450   |
+| Ombros         |  `1` | Sim        | Ombreira de Couro         |         `1 + 1`        |           `0`          |   T$ 150   |
+| Braços         |  `1` | Não        | Braçadeiras de Couro      |         `1 + 1`        |           `0`          |   T$ 100   |
+| Mãos           |  `1` | Não        | Luvas e Manoplas de Couro |         `0 + 1`        |           `0`          |   T$ 150   |
+| Mãos           |  `1` | Sim        | Escudo Leve de Couro      |         `1 + 1`        |           `0`          |   T$ 250   |
+| Mãos           |  `1` | Sim        | Escudo Pesado de Aço      |         `2 + 1`        |           `0`          |   T$ 350   |
+| Pés            |  `1` | Não        | Calçados de Couro         |         `0 + 1`        |           `0`          |    T$ 50   |
+| Pés            |  `1` | Não        | Botas de Couro            |         `1 + 1`        |           `0`          |   T$ 150   |
+| Pernas         |  `1` | Não        | Grevas de Aço             |         `2 + 2`        |           `0`          |   T$ 300   |
+| Costas         |  `1` | Não        | Capa de Couro             |         `0 + 1`        |           `0`          |   T$ 200   |
+| Cintura        |  `1` | Não        | Cinto de Couro            |          `-`*          |           `0`          |   T$ 200   |
+| Pescoço        |  `1` | Não        | Amuleto de Couro          |          `-`*          |           `0`          |   T$ 500   |
+| Dedos          |  `1` | Não        | Anel de Couro             |          `-`*          |           `0`          |   T$ 500   |
+
+* Tiaras, Cintos, Amuletos e Anéis não conferem **Redução de Dano físico**, independente do material utilizado.
 
 ## Armaduras de outros materiais
 

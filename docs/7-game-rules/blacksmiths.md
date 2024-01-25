@@ -63,13 +63,15 @@ O refinamento é uma técnica **extremamente arriscada**, e se não for feita da
 
 **Qualquer jogador** pode ir a um ferreiro para tentar refinar a **Qualidade de um Item**, seja **Mágico** ou de **Herança**. Abaixo mostramos preços comumente praticados para esse serviço:
 
-- **Itens Comuns**: *T$ 500*
-- **Itens Mágicos**: *T$ 1000*
-- **Itens de Herança**: *T$ 2000*
+- **Itens Comuns**: *T$ 500* * (X+1)
+- **Itens Mágicos**: *T$ 1000* * (X+1)
+- **Itens de Herança**: *T$ 2000* * (X+1)
+
+Como você verá abaixo, `X` representa o número de vezes que você já refinou este item com um Ferreiro.
 
 Para refinar, o Narrador usará a **Habilidade do Ferreiro** como um **teste especial de Resistência**. (por padrão, a *Habilidade de Ferreiros* comuns é **20**)
 
-O **Narrador** então rolará <code>X+1 D20</code>, onde X é a **quantidade de vezes** que esse item já foi refinado anteriormente por você.
+O **Narrador** então rolará <code>X+1 D20</code>, onde X é a **quantidade de vezes** que esse item já foi refinado anteriormente por você. (ou seja, se você já obteve o item +4, então aqui X será 0)
 
 Caso a soma dos D20 rolados **não ultrapasse** a *Habilidade do Ferreiro* **(padrão 20)**, o Item **recebe +1 de Qualidade**, *(ex: Se for Arma, recebe +1 de Ataque, se for Armadura, recebe +1 de Defesa).*
 

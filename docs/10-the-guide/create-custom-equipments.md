@@ -64,6 +64,8 @@ Aqui, os campos **Redução de Dano Físico** e **Redução de Dano Mágico** de
 
 <BaseArmorList />
 
+* Tiaras, Cintos, Amuletos e Anéis não conferem **Redução de Dano físico**, independente do material utilizado.
+
 :::info Exemplo de Armadura
 Imagine um personagem que possua uma Armadura de Placas completa:
 - Peitoral de Placas (+3)
@@ -120,22 +122,42 @@ Aqui, provavelmente o céu é o limite, mas mesmo assim vamos descrever algumas 
 
 ### 5. Refinamento
 
-Todo equipamento no jogo é apresentado com um **modificador de ataque/defesa** que segue o seguinte padrão:
+Capacetes, Armaduras, Escudos e Armas no geral acompanham um **modificador de ataque ou de defesa** que segue o seguinte padrão:
 
 - Espada de Madeira +0
-- Orbe de Cristal +12
+- Orbe de Cristal +4
 - Escudo de Pedra +2
-- Armadura de Ouro +8
+- Armadura de Ouro +6
 
-Enquanto armas utilizam **modificadores de ataque** (físico ou mágico, dependendo da arma), itens de proteção como escudos e armaduras utilizam **modificadores de defesa**.
+Geralmente itens focados em **ataque físico** como **Machados** e **Espadas** possuem **modificadores de ataque físico**, enquanto itens focados  em **ataque mágico** como **Cetros** e **Orbes** geralmente possuem **modificadores de ataque mágico**.
 
-Logo, o `Escudo de Pedra +2` por exemplo ofereceria ao aventureiro um **Bônus de +2 de Defesa Física**, enquanto `Espada de Madeira +0` ofereceria um **Bônus de +0 de Ataque Físico**, e uma `Orbe de Cristal +12` ofereceria um **Bônus de +12 de Ataque Mágico**. *(porque a Orbe é um tipo de arma mágica)*
+Armaduras seguem um padrão similar, **Armaduras** e **Capacetes** com **modificadores de defesa física** e **Túnicas** e **Mantos** com **modificadores de defesa mágica**.
 
-Em um grupo de RPG balanceado, sugerimos que armas e armaduras sigam os seguintes  limites de modificadores:
+Uma forma simples de representar esse modificador de refinamento é adicionar a letra `F` para indicar caráter `Físico` e `M` para indicar caráter mágico, como em:
+
+- Escudo de Pedra +2F
+- Orbe de Cristal +3M
+
+Mas essa lógica varia muito de item para item e fica a cargo do Narrador. Por exemplo, nada impediria uma **Armadura de Placas +4F +3M** de existir, basta que o Narrador encontre um contexto apropriado para o item.
+
+Em casos óbvios, é até preferível por questão de simplificação omitir esse caráctere do sufixo, como por exemplo em `Escudo de Pedra +2`. Nesse caso, ficaria implícito que como `Escudo` é uma peça de armadura que geralmente tem objetivo de conceder **proteção física**, assume-se que esse `+2` concede `Defesa Física`.
+
+O mesmo se aplica para itens que não possuem refinamento, como é o caso de uma `Espada de Madeira`. Neste caso, assume-se que ela tem Nível 0 de refinamento, e por isso provê um **bônus de +0 de Ataque Físico**. Já uma `Orbe de Cristal +1` ofereceria um **Bônus de +1 de Ataque Mágico**. *(porque a Orbe é um tipo de arma com foco geralmente mágico)*
+
+É bom ter em mente que refinamentos podem ser perigosos para o Balanço do jogo, tecnicamente, seguindo apenas as mecânicas deste livro à risca, já seria possível por exemplo que um único personagem tivesse até `+36 de Ataque Físico` apenas com equipamentos. Este valor por exemplo seria **maior** que o valor de Defesa das criaturas mais épicas do jogo, como por exemplo o **Knerotraco** (**35 de Defesa**).
+
+Assumimos que um **bom valor máximo** de Ataque no **Nível 20** (Nível Máximo) seria o de `+16 de Ataque Físico`, pois cada jogador, ao realizar um ataque ainda vai somar o resultado de **2d20**, que neste caso, se ele tirasse 20, já conseguiria o resultado de `36` *apenas com os modificadores de equipamentos*, e sabemos que jogadores de Nível máximo conseguiriam muito mais que isso utilizando seus poderes.
+
+Então, para simplificar, pense que em um grupo de RPG balanceado, sugerimos que armas e armaduras sigam os seguintes limites de modificadores por Grau:
 
 <ModifierExpectation />
 
-Cada nível de refinamento aumenta o preço da arma em questão, seguindo a tabela:
+### Precificando Itens Refinados
+
+Como vimos anteriormente, você é livre para controlar o balanceamento do jogo, mas achamos de bom tom sentido introduzir algumas expectativas para que você possa ter uma referência e aumentar ou diminuir conforme sua necessidade.
+
+Abaixo, apresentamos uma tabela de Refinamentos para Precificar um Item em um determinado Nível de Refinamento.
+Cada Nível aumenta o preço da arma ou armadura em questão, seguindo a tabela:
 
 <BaseRefinementList />
 
@@ -264,13 +286,18 @@ Se quebrarmos o item nos 5 complementos, teremos:
 4. **Afixos Mágicos**: Nenhum
 5. **Refinamento**: Nenhum
 
-É um item **Grau 1**, então usaremos os valores de Grau 1 da tabela:
+É um item **Grau 1**, e como não possui Afixos nem Refinamento, o que vale aqui é só o valor do Item mesmo. Para isso, usaremos os valores de Grau 1 da tabela:
 
-<code>Preço = 1*(200 + 100) (Valor Item) + 0*200 (Afixo) + 0*400 (Afixo) + 0*400 (Refinamentos) = T$ 300.</code>
+<code>Preço = 1*(200 + 100) = T$ 300.</code>
 <br/><br/>
 
-Nesse caso, **0\*200** é o custo base de **Afixos Físicos** de **Grau 1**, e **0\*400** é o custo base de **Afixos Mágicos** de **Grau 1**, e por último temos **0\*400** como o custo base de **Refinamento** de **Grau 1**.
-Como não temos nada disso, o resultado é zero e sobra apenas o valor do Machado (T$ 200) somado ao Custo Base de Material de Grau 1 (T$ 100), resultando em **T$ 300**.
+Nesse caso:
+
+- `1` representa o multiplicador do **Material**, que é **Madeira**.
+- `200` representa o valor base do **Machado**.
+- `100` representa o **Custo Base do Material** de **Grau 1**.
+
+Como não temos nenhum afixo nem refinamento, simplificamos a fórmula já que esses valores terão resultado é zero. Então o valor final do Machado é de **T$ 300**.
 
 <EquipmentBlock data={{
   tier: 1,
@@ -304,22 +331,42 @@ Como não temos nada disso, o resultado é zero e sobra apenas o valor do Machad
 <br/>
 Simples certo? Agora vamos evoluir um pouco esse Machado.
 
-## Exemplo: Machado de Bronze Largo Espinhento Perfurante +2 (GRAU 1)
+## Exemplo: Machado de Bronze Largo Espinhento e Perfurante +2 (GRAU 1)
 
-Uau, agora sim esse Machado está começando a ficar interessante!
+Para este Machado usaremos 3x **Afixos Físicos**:
+
+- **Larga (d10)**: Transforma a arma em Arma de 2 mãos e adiciona `+1d10` de dano.
+- **Espinhenta (d6)**: Adiciona espinhos cortantes na arma que causam `+1d6` de dano.
+- **Perfurante (2)**: Torna a arma mais afiada nas pontas, adicionando `+2 de Ataque Físico`.
+
+Além disso, será uma arma com **Refinamento +2**, que neste caso também adicionará `+2 de Ataque Físico`.
 
 Se quebrarmos o item nos 5 complementos, teremos:
 
-1. **Item Base**: Machado (T$ 200)
-2. **Material**: Bronze (200x2.0)
-3. **Afixos Físicos**: Largo (200x1.0), Espinhos (200x1.0), Perfurante (150x1.0)
+1. **Item Base**: Machado **(Valor - T$ 200)**
+2. **Material**: Bronze **(Multiplicador - 2.0x)**
+3. **Afixos Físicos**: Largo *(200x2.0)*, Espinhenta *(200x3.0)*, Perfurante *(150x3.0)*
 4. **Afixos Mágicos**: Nenhum
-5. **Refinamento**: +2 (150x3.0)
+5. **Refinamento**: +2 *(150x3.0)*
 
 O preço final ficaria:
 
-<code>Preço = 2.0*(200 + 100) (Material Bronze) + 200*2.0 (Afixo Largo) + 200*3.0 (Afixo Espinhos) + 200*3.0 (Afixo Perfurante) + 150*3.0 (Refinamentos) = T$ 2.650</code><br/><br/>
+<code>Preço = 2.0*(200 + 100) (Material Bronze) + 200*2.0 (Afixo Largo) + 200*3.0 (Afixo Espinhenta) + 200*3.0 (Afixo Perfurante) + 150*3.0 (Refinamentos) = T$ 2.650</code><br/><br/>
 
+Aqui nesta formula, da esquerda para direita:
+
+- `2.0` representa o Multiplicador do Material **(Bronze)**
+- `200` representa o valor do Machado **(independente de Grau)**
+- `100` representa o **Custo Base do Material** para **Grau 1**.
+- `200*2.0` representa o valor do **Custo Base de Afixos Físicos** de **Grau 1** *(200)* vezes o Multiplicador do **Afixo Larga** *(2.0)*
+- `200*3.0` representa o valor do **Custo Base de Afixos Físicos** de **Grau 1** *(200)* vezes o Multiplicador do **Afixo Espinhenta** *(3.0)*
+- `200*3.0` representa o valor do **Custo Base de Afixos Físicos** de **Grau 1** *(200)* vezes o Multiplicador do **Afixo Perfurante** *(3.0)*
+- `150*3.0` representa o valor do **Custo Base de Afixos Refinamentos** de **Grau 1** *(150)* vezes o Multiplicador do **Nível de Refinamento** *(+2)*
+
+E todos esses custos juntos fazem com que nossa arma seja avaliada em **T$ 2.650** !
+Abaixo mostramos como ficaria a ficha dessa arma, com os Danos e valores de Ataque somados.
+
+Como você vai ver, apesar de ser uma Arma de **Grau 1**, ela tem tantos afixos que passa a ser "equivalente" a uma Arma de **Grau 2** em termos de Dano e Ataque.
 
 <EquipmentBlock data={{
   tier: 1,
@@ -399,3 +446,21 @@ O preço final ficaria:
     },
   ]
 }}></EquipmentBlock>
+
+
+## Afixos e Variaveis
+
+Como você viu anteriormente, muitos afixos como **Perfurante (F)** e **Larga (F)** possuem modificadores que melhoram a arma, aumentando o Dano, Ataque e outros atributos mecânicos.
+
+Mas essas variáveis são descritas de forma genérica, então tecnicamente, pelo sistema de Armas, uma arma que possua **Perfurante (1)** tem o mesmo valor que uma Arma **Perfurante (6)**, correto?
+
+Sim, e não!
+Bom, tecnicamente você estaria certo a dizer que não temos uma mecânica que faça uma Arma com Afixo melhor ser **mais cara**, até porque muitos afixos vão usar fórmula de Dano e seria muito complexo pensar numa precificação TÃO TÃO granular.
+
+Ao invés disso, a única coisa que fazemos é aumentar o valor do Item pelo seu Grau.
+
+Porém, como você pode ver, vai depender muito do jogo de cintura do Narrador de tornar esses Afixos balanceados, afinal, se ele entregar uma arma tão poderosa a algum jogador, não existe nenhuma mecânica em nenhum Sistema de RPG que vai impedir que o jogo fique desbalanceado.
+
+Então basicamente o que queremos passar aqui é que todos os valores e mecânicas que passamos aqui são **referências**, e cabe aos Jogadores e ao Narrador cuidarem para que o **equilíbrio mecânico** do jogo seja mantido, com armas sempre proporcionais ao nível de desafio.
+
+Nada impede que você crie seu próprio balanceamento, ou seus próprios afixos, mas tudo deve ser feito com moderação para priorizar a diversão e o equilíbrio dos combates no jogo!
