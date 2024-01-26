@@ -1,0 +1,24 @@
+| Nome                 | Grau Recomendado | Dano Físico Extra (Armas) | Dano Mágico Extra (Armas) | Redução de Dano Físico (Armadura) | Redução de Dano Mágico (Armadura) | Durabilidade | Multiplicador |
+|----------------------|:----------------:|:-------------------------:|---------------------------|:---------------------------------:|-----------------------------------|:------------:|:-------------:|
+| Pó de Gema           |        `1`       |            `0`            | `2`                       |                `0`                | `0`                               |     `-1`     |      `1`      |
+| Fragmentos de Gema   |        `1`       |            `0`            | `3`                       |                `0`                | `1`                               |     `-1`     |      `1`      |
+| Coração da Floresta  |        `1`       |            `0`            | `4`                       |                `0`                | `1`                               |     `-1`     |      `1`      |
+| Gema Arcana Bruta    |        `1`       |            `0`            | `5`                       |                `0`                | `2`                               |     `-1`     |      `2`      |
+| Gema de Andesita     |        `1`       |            `0`            | `5`                       |                `0`                | `1`                               |      `0`     |      `1`      |
+| Carbonita Imperial   |        `1`       |            `0`            | `6`                       |                `0`                | `2`                               |     `+1`     |     `1.5`     |
+| Gema de Bronze       |        `2`       |            `0`            | `7`                       |                `0`                | `2`                               |     `+1`     |     `2.0`     |
+| Matéria Argenta      |        `2`       |            `0`            | `8`                       |                `0`                | `2`                               |     `+1`     |     `2.5`     |
+| Estrela Áurea        |        `2`       |            `0`            | `10`                      |                `0`                | `3`                               |     `+1`     |     `3.5`     |
+| Gema Arcana Lapidada |        `2`       |            `0`            | `11`                      |                `0`                | `3`                               |     `+1`     |     `3.5`     |
+| Platina Solar        |        `3`       |            `0`            | `10`                      |                `0`                | `3`                               |     `+2`     |     `4.0`     |
+| Diamante Lunar       |        `3`       |            `0`            | `10`                      |                `0`                | `3`                               |     `+2`     |     `4.5`     |
+| Obsidiana Primal     |        `3`       |            `0`            | `12`                      |                `0`                | `3`                               |     `-1`     |     `4.0`     |
+| Gema Arcana Perfeita |        `3`       |            `0`            | `15`                      |                `0`                | `4`                               |     `+1`     |     `6.5`     |
+| Chama Galiriana      |        `3`       |            `0`            | `14`                      |                `0`                | `4`                               |     `+2`     |     `5.5`     |
+| Eco de Grimória      |        `4`       |            `0`            | `18`                      |                `0`                | `4`                               |     `-1`     |     `6.0`     |
+| Fulgor de Zígon      |        `4`       |            `0`            | `22`                      |                `0`                | `4`                               |      `0`     |     `7.0`     |
+| Flama de Alizarita   |        `4`       |            `0`            | `20`                      |                `0`                | `2`                               |      `0`     |     `8.0`     |
+| Lágrima de Urikirita |        `4`       |            `0`            | `20`                      |                `0`                | `2`                               |      `0`     |     `8.0`     |
+| Zéfiro de Balarita   |        `4`       |            `0`            | `20`                      |                `0`                | `2`                               |      `0`     |     `8.0`     |
+| Centelha de Danarita |        `4`       |            `0`            | `20`                      |                `0`                | `2`                               |      `0`     |     `8.0`     |
+| Gema Primordial      |        `4`       |            `0`            | `25`                      |                `0`                | `6`                               |     `+1`     |     `10.0`    |

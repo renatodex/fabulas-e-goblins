@@ -90,3 +90,20 @@ Também é possível **criar itens com Ferreiros**, mas o preço de cada item **
 Para entender a precificação e construção de itens customizados, consulte a [Seção Criando Armas e Armaduras](/docs/10-the-guide/create-custom-equipments).
 
 É importante também levar em consideração que o processo de **Criação de Armas em Ferreiros** podem **levar dias para serem realizados**, pois muitas vezes os Ferreiros **não possuem** todos os materiais de confecção *"à pronta entrega"*, e por isso, as vezes precisam fazer **pequenas viajens** para adquirir **componentes** de seus **fornecedores confiáveis**.
+
+## Infusão Mágica
+
+Infusão é uma técnica especial apenas aplicada em armas, onde uma Arma física é "convertida" em uma **Arma arcana**.
+
+Nem todos os ferreiros são capazes de fazer esse procedimento, mas ele basicamente consiste em pegar uma **arma fisica** e reforjar sua estrutura em um **material arcano** a base de Gemas ou outraos componentes mágicos.
+
+Qualquer material que a arma possua é descartado e substituído, o que removerá quaisquer **bônus de dano físicos**.
+
+Logo, o processo de infusão é basicamente a criação de uma nova arma, o que significa que afixos atuais e materiais existentes serão removidos no processo.
+
+O custo desse serviço depende do **grau dos materiais arcanos** a serem incrustrados na arma, e do seu custo.
+
+- **Gemas de Grau 1**: *T$ 200* + **Custo do material**
+- **Gemas de Grau 2**: *T$ 500* + **Custo do material**
+- **Gemas de Grau 3**: *T$ 700* + **Custo do material**
+- **Gemas de Grau 4**: *T$ 1000* + **Custo do material**
