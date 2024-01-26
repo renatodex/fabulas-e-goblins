@@ -9,7 +9,8 @@ import EquipmentBlock from './../../src/components/equipment_block/index'
 import DataTableBlock from './../../src/components/data_table_block/index'
 import BaseWeaponList from './../../data/md_tables/base_weapon_list.md'
 import BaseArmorList from './../../data/md_tables/base_armor_list.md'
-import BaseMaterialList from './../../data/md_tables/base_material_list.md'
+import BaseMaterialListPhysical from './../../data/md_tables/base_material_list_physical.md'
+import BaseMaterialListMagical from './../../data/md_tables/base_material_list_magical.md'
 import BaseRefinementList from './../../data/md_tables/base_refinement_list.md'
 import PhysicalAffixes from './../../data/md_tables/physical_affixes.md'
 import MagicalAffixes from './../../data/md_tables/magical_affixes.md'
@@ -38,33 +39,46 @@ Para compor um equipamento, você deverá juntar 5 componentes que fazem um equi
 
 Juntos, esses componentes permitem que você crie praticamente qualquer tipo de arma ou armadura no jogo, e de quebra simplificam as tabelas, caso contrário precisariamos quase que criar um livro só pra te mostrar todos os equipamentos disponíveis.
 
-### 1. Item Base - Armas
+## 1. Item Base
 
 O componente item base determina qual é a forma do seu item.
 Seria ele uma Espada? um Arco? Um Cajado?
 
 Basicamente é o que as pessoas diriam que o seu item é caso olhassem para ele sem nunca tê-lo visto.
 
-Esse primeiro componente vai te dizer qual é a fórmula base de dano, assim como o atributo necessário, o tipo de dano, de ataque, e o preço base de compra do item.
+Com base neste item podemos saber qual será a **fórmula base de dano**, assim como o **atributo** necessário, o **tipo de dano**, de **ataque**, e o **preço base de compra** do item.
 
-Como você verá, alguns deles causam apenas **Dano Físico**, enquanto outros causam apenas **Dano Mágico**, e em alguns casos raros, existem itens que podem ser usados para causar dano das duas formas. Mas mesmo nesses casos, não significa que o item causa **simultaneamente** dano físico e mágico.
+Vamos falar separadamente de armas e depois de armaduras.
 
-A exemplo do Cajado, batê-lo na cabeça de um inimigo adjacente causará dano, mas ativar seu poder mágico interior para desferir um projétil mágico contra um inimigo distante também causará dano.
+### 1a. Item Base - Armas
 
-Aqui é importante entendermos que para itens à distância (Arcos, Bestas, Cajados mágicos, etc), o alcance padrão será sempre `7`.
+Armas são a faca e a manteiga do aventureiro, pois portar uma arma confiável é o segredo para sobrevivência garantida nas diversas masmorras das Terras Místicas.
+
+Algumas delas por natureza são **itens físicos**, como a **Espada**, o **Machado**, e o **Arco**, e por isso, causam ou anulam **dano físico**. Outras delas como a **Orbe**, o **Cetro**, e o **Prisma** são por natureza **itens arcanos**, usados para causar **dano mágico**. E alguns deles podem inclusive causar dano físico e mágico, apesar de geralmente uma dela ser mais eficaz.
+
+Pense por exemplo na **Orbe**, é possível usá-la para acertar a cabeça de um inimigo adjacente, mas provavelmente conjurar seu feixe mágico com sua energia interior será muito mais efetivo!
+
+Isso também não significa que você não possa causar **dano mágico** com uma **Espada** ou um **Machado**. Como veremos nas próximas seções, armas podem ser submetidas a um processo especial chamado de **Infusão Arcana**, que é capaz de alterar suas propriedades mecânicas.
+
+A seguir, apresentamos uma lista de Armas e suas propriedades base.
+Campos que possuem o valor `-` não podem receber esse tipo de dano, independente do material utilizado. Isso se aplica principalmente à coluna `Dano Base Mágico` em `Armas Físicas`, pois para causar `dano mágico`, essas armas precisam primeiro passar por um processo chamado **Infusão Arcana**. (falamos mais disso adiante)
 
 <BaseWeaponList />
 
-### 1. Item Base - Armaduras
+\* Tiaras, Cintos, Amuletos e Anéis não conferem **Redução de Dano físico**, independente do material utilizado.
+\* Itens à distância (Arcos, Bestas, Cajados arcanos, etc) possuem alcance padrão `7`.
 
-Da mesma forma que temos uma listagem padrão de itens, temos também uma listagem padrão de peças de proteção ou armadura.
+### 1b. Item Base - Armaduras
+
+Da mesma forma que temos uma listagem padrão de Armas, temos também uma listagem padrão de peças de proteção ou armadura.
 Esses itens podem ser encontrados em conjunto ou separadamente, mas aqui consideramos os valores individuais de redução de dano de cada parte.
 
-Aqui, os campos **Redução de Dano Físico** e **Redução de Dano Mágico** devem sempre ser multiplicados pelo `GRAU` do **item** em questão, o que significa que um **Capacete de** **Grau 4** concederá `4 de Redução de dano Físico` (1x4).
+Assim como na tabela de armas, os campos marcados com  `-` significam que independente do material, esse item não pode ter essa redução de dano.
+Ou seja, uma **Tiara de Madeira** e uma **Tiara de Aço Galiriano** não vão reduzir nenhum dano físico, já uma **Tiara de Gema Arcana Bruta** reduzirá o **dano mágico** causado em `2`. (de acordo com a tabela de materiais)
 
 <BaseArmorList />
 
-* Tiaras, Cintos, Amuletos e Anéis não conferem **Redução de Dano físico**, independente do material utilizado.
+\* Tiaras, Cintos, Amuletos e Anéis não conferem **Redução de Dano físico**, independente do material utilizado.
 
 :::info Exemplo de Armadura
 Imagine um personagem que possua uma Armadura de Placas completa:
@@ -86,98 +100,13 @@ Enquanto um Gibão de Couro completo:
 Concederia ao usuário uma proteção de `+6` por GRAU de personagem. (ex: redução de `24 Pontos de Dano` no GRAU 4)
 :::
 
-### 2. Material
+## Calculando Adição e Redução de Dano
 
-Determina a qualidade do material utilizado na confecção do item.
-Alguns podem ser feitos de madeira, outros de Ouro, e outros até de Aço Galiriano e outros metais raros.
+### Em Armas
 
-Cada material influencia no dano causado (no caso de armas), dano recebido (no caso de armaduras), na durabilidade do item, e óbviamente, no preço.
+Armas são primariamente usadas para causar dano físico ou mágico.
 
-Além disso, aqui, os campos **Dano Extra (Armas)** e **Redução de Dano (Armaduras)** NÃO ESCALAM conforme o Grau, e o valor de redução de dano é aplicado ao material que está equipado em maioria no corpo do personagem. *(ex: Se ele tem mais proteções de Pedra do que de Madeira, considera-se a redução de dano de Madeira na tabela abaixo)*
-
-O campo **Durabilidade Adicional** define o incremento de durabilidade do item. Por padrão todos os itens começam com `Durabilidade 3`, e escalam conforme o material e propriedades.
-
-<BaseMaterialList />
-
-### 3. Afixos Físicos
-
-Armas podem possuir as mais diversas propriedades, adquiridas durante o seu uso, ou até mesmo em sua construção para torná-las mais eficientes, potentes e duráveis.
-
-Diferente dos outros componentes, uma mesma arma pode possuir diversos Afixos ao mesmo tempo, desde que não entrem em conflito com o próprio espaço físico do objeto.
-
-<PhysicalAffixes />
-
-Exemplo:
-Uma espada de madeira comum em excelente estado de conservação que causa <code>Terror 6</code> em inimigos, pode ser utilizada em <code>1 mão</code> e perfura Armaduras dando um <code>Bônus de +2</code> pode ser definida assim:
-
-`Espada de Madeira Impecável +0 - Leve, Perfurante (2) e Aterradora (5)`
-
-### 4. Afixos Mágicos
-
-Por último, para completar a composição da sua arma, existem propriedades mágicas que itens podem ter para se tornarem ainda mais poderosos.
-
-Aqui, provavelmente o céu é o limite, mas mesmo assim vamos descrever algumas propriedades comuns:
-
-<MagicalAffixes />
-
-### 5. Refinamento
-
-Capacetes, Armaduras, Escudos e Armas no geral acompanham um **modificador de ataque ou de defesa** que segue o seguinte padrão:
-
-- Espada de Madeira +0
-- Orbe de Cristal +4
-- Escudo de Pedra +2
-- Armadura de Ouro +6
-
-Geralmente itens focados em **ataque físico** como **Machados** e **Espadas** possuem **modificadores de ataque físico**, enquanto itens focados  em **ataque mágico** como **Cetros** e **Orbes** geralmente possuem **modificadores de ataque mágico**.
-
-Armaduras seguem um padrão similar, **Armaduras** e **Capacetes** com **modificadores de defesa física** e **Túnicas** e **Mantos** com **modificadores de defesa mágica**.
-
-Uma forma simples de representar esse modificador de refinamento é adicionar a letra `F` para indicar caráter `Físico` e `M` para indicar caráter mágico, como em:
-
-- Escudo de Pedra +2F
-- Orbe de Cristal +3M
-
-Mas essa lógica varia muito de item para item e fica a cargo do Narrador. Por exemplo, nada impediria uma **Armadura de Placas +4F +3M** de existir, basta que o Narrador encontre um contexto apropriado para o item.
-
-Em casos óbvios, é até preferível por questão de simplificação omitir esse caráctere do sufixo, como por exemplo em `Escudo de Pedra +2`. Nesse caso, ficaria implícito que como `Escudo` é uma peça de armadura que geralmente tem objetivo de conceder **proteção física**, assume-se que esse `+2` concede `Defesa Física`.
-
-O mesmo se aplica para itens que não possuem refinamento, como é o caso de uma `Espada de Madeira`. Neste caso, assume-se que ela tem Nível 0 de refinamento, e por isso provê um **bônus de +0 de Ataque Físico**. Já uma `Orbe de Cristal +1` ofereceria um **Bônus de +1 de Ataque Mágico**. *(porque a Orbe é um tipo de arma com foco geralmente mágico)*
-
-É bom ter em mente que refinamentos podem ser perigosos para o Balanço do jogo, tecnicamente, seguindo apenas as mecânicas deste livro à risca, já seria possível por exemplo que um único personagem tivesse até `+36 de Ataque Físico` apenas com equipamentos. Este valor por exemplo seria **maior** que o valor de Defesa das criaturas mais épicas do jogo, como por exemplo o **Knerotraco** (**35 de Defesa**).
-
-Assumimos que um **bom valor máximo** de Ataque no **Nível 20** (Nível Máximo) seria o de `+16 de Ataque Físico`, pois cada jogador, ao realizar um ataque ainda vai somar o resultado de **2d20**, que neste caso, se ele tirasse 20, já conseguiria o resultado de `36` *apenas com os modificadores de equipamentos*, e sabemos que jogadores de Nível máximo conseguiriam muito mais que isso utilizando seus poderes.
-
-Então, para simplificar, pense que em um grupo de RPG balanceado, sugerimos que armas e armaduras sigam os seguintes limites de modificadores por Grau:
-
-<ModifierExpectation />
-
-### Precificando Itens Refinados
-
-Como vimos anteriormente, você é livre para controlar o balanceamento do jogo, mas achamos de bom tom sentido introduzir algumas expectativas para que você possa ter uma referência e aumentar ou diminuir conforme sua necessidade.
-
-Abaixo, apresentamos uma tabela de Refinamentos para Precificar um Item em um determinado Nível de Refinamento.
-Cada Nível aumenta o preço da arma ou armadura em questão, seguindo a tabela:
-
-<BaseRefinementList />
-
-### Perfil de Equipamento
-
-Um Metalóide dificilmente entraria em uma armadura feita para Goblins, imagine então para Armadons.
-O perfil do item serve para identificar a qual <b>espécie</b> esse item foi inicialmente desenhado.
-
-Se desejar, o Narrador pode definir o perfil do item no momento que ele for encontrado pelos jogadores, caso contrário, pode-se assumir que o item será compatível ao primeiro jogador que demonstrar interesse em utilizá-lo.
-
-E mesmo que o Narrador diga: *"Vocês encontram um Peitoral de Prata, que parece ser pequeno demais para um Goblin usar".*
-Se houver um Goblin no grupo, ele pode interromper o Narrador para utilizar seu talento racial <b>Armadura da Sorte</b>, exigindo um <b>Teste de Perícia</b> do atributo <code>Destino</code> para fazer com que a armadura seja compatível com um Goblin médio.
-
-Afixos de Armadura como <code>Larga</code> sempre vão se aplicar considerando o biótico da espécie a qual ele foi desenhado, logo, uma Armadura de Luminin com o afixo <b>Larga</b> talvez sirva num <b>Luminin com porte físico avantajado</b>, mas jamais serviria em um <b>Luminin magricelo</b>, um <b>Armadon</b>, e até mesmo em um <b>Goblin</b> pequeno.
-
-Caso um jogador ainda queira utilizar uma armadura fora de seu perfil, ele ainda poderá fazê-lo, mas não receberá os bônus de Defesa concedidos pelo item.
-
-### Calculando o Dano final da Arma
-
-Como vimos anteriormente, o componente **Item Base** define a forma da sua arma, e além disso, também especifica um dado nas colunas **Dano Base Físico** e **Dano Base Mágico**.
+E como vimos anteriormente, o componente **Item Base** define a forma da sua arma, e além disso, também especifica um dado nas colunas **Dano Base Físico** e **Dano Base Mágico**.
 
 Esses dado é parte da equação para montar o dano da arma, que é tão simples quanto:
 
@@ -203,7 +132,9 @@ Dano Espada = d10*(2+1) + 10*2
 
 Ou seja, no **Grau 2** nossa espada dourada causará `3d10 + 20` de **dano físico**.
 
-## Calculando a Redução total de Armaduras
+### Em Armaduras
+
+O objetivo das Armaduras é de primariamente reduzir o dano físico ou mágico causado.
 
 Para calcular a Redução de dano total que um item ou um conjunto de itens concede, basta usar a fórmula da Armadura, que é bem parecida com a da Arma:
 
@@ -220,7 +151,181 @@ Logo, se você quiser simular quanto você teria de Redução de dano se equipas
 
 No final temos que a Redução destes dois itens equipados seria de `25 Pontos de Dano`!
 
-### Precificando Itens
+## 2. Material
+
+Determina a qualidade da matéria prima utilizada na confecção do item.
+Alguns podem ser feitos de madeira, Ouro, Aço Galiriano e até Gemas mágicas, como veremos a seguir.
+
+O material influencia nas seguintes propriedades do item:
+- Dano causado *(no caso de armas)*
+- Dano recebido *(no caso de armaduras)*
+- Durabilidade do item
+- Preço.
+
+Eles podem ser divididos em 2 categorias:
+
+- Materiais físicos *(madeira, couro, aço, ouro, etc)*
+- Materiais arcanos *(gemas e mineirais de origem mágica)*
+
+Nas tabelas a seguir apresentamos uma listagem separada para **materiais físicos** e outra para **materiais arcanos**.
+
+Em ambas, o campo **Durabilidade Adicional** define o incremento de durabilidade do item. Por padrão todos os itens começam com `Durabilidade 3`, e escalam conforme o material e propriedades.
+
+### Materiais físicos
+
+<BaseMaterialListPhysical />
+
+### Materiais arcanos
+
+<BaseMaterialListMagical />
+
+## Afixos
+
+Os Afixos são melhorias individuais que podem ser infundidas nas **armas e armaduras** para que se tornem mais poderosas.
+
+Essencialmente, **Itens Afixados** da forma que conhecemos
+
+### 3. Afixos Físicos
+
+Armas podem possuir as mais diversas propriedades, adquiridas durante o seu uso, ou até mesmo em sua construção para torná-las mais eficientes, potentes e duráveis.
+
+Diferente dos outros componentes, uma mesma arma pode possuir diversos Afixos ao mesmo tempo, desde que não entrem em conflito com o próprio espaço físico do objeto.
+
+<PhysicalAffixes />
+
+Exemplo:
+Uma espada de madeira comum em excelente estado de conservação que causa <code>Terror 6</code> em inimigos, pode ser utilizada em <code>1 mão</code> e perfura Armaduras dando um <code>Bônus de +2</code> pode ser definida assim:
+
+`Espada de Madeira Impecável +0 - Leve, Perfurante (2) e Aterradora (5)`
+
+### 4. Afixos Mágicos
+
+Por último, para completar a composição da sua arma, existem propriedades mágicas que itens podem ter para se tornarem ainda mais poderosos.
+
+Aqui, provavelmente o céu é o limite, mas mesmo assim vamos descrever algumas propriedades comuns:
+
+<MagicalAffixes />
+
+## Afixos e Variaveis
+
+Como você viu anteriormente, muitos afixos como **Perfurante (F)** e **Larga (F)** possuem modificadores que melhoram a arma, aumentando o Dano, Ataque e outros atributos mecânicos.
+
+Mas essas variáveis são descritas de forma genérica, então tecnicamente, pelo sistema de Armas, uma arma que possua **Perfurante (1)** tem o mesmo valor que uma Arma **Perfurante (6)**, correto?
+
+Sim, e não!
+Bom, tecnicamente você estaria certo a dizer que não temos uma mecânica que faça uma Arma com Afixo melhor ser **mais cara**, até porque muitos afixos vão usar fórmula de Dano e seria muito complexo pensar numa precificação TÃO TÃO granular.
+
+Ao invés disso, a única coisa que fazemos é aumentar o valor do Item pelo seu Grau.
+
+Porém, como você pode ver, vai depender muito do jogo de cintura do Narrador de tornar esses Afixos balanceados, afinal, se ele entregar uma arma tão poderosa a algum jogador, não existe nenhuma mecânica em nenhum Sistema de RPG que vai impedir que o jogo fique desbalanceado.
+
+Então basicamente o que queremos passar aqui é que todos os valores e mecânicas que passamos aqui são **referências**, e cabe aos Jogadores e ao Narrador cuidarem para que o **equilíbrio mecânico** do jogo seja mantido, com armas sempre proporcionais ao nível de desafio.
+
+Nada impede que você crie seu próprio balanceamento, ou seus próprios afixos, mas tudo deve ser feito com moderação para priorizar a diversão e o equilíbrio dos combates no jogo!
+
+## 5. Refinamento
+
+Nem todos os itens no jogo podem ser refinados.
+
+Por uma questão de equilíbrio, restringimos o refinamento para os seguintes itens:
+
+- Proteções para o Tronco (Armaduras no geral)
+- Proteções para a Cabeça (Capacetes no geral)
+- Escudos
+- Armas
+
+Esses itens podem possuir um **modificador de Refinamento**, que nada mais é do que um número que aumenta seu **ataque ou defesa**:
+
+- Espada de Madeira +0
+- Orbe de Cristal +4
+- Escudo de Pedra +2
+- Armadura de Ouro +6
+
+Mas como saber se o número no item aumenta a defesa ou ataque? E como saber se é físico ou mágico?
+
+Geralmente itens focados em **ataque físico** como **Machados** e **Espadas** possuem **modificadores de ataque físico**, enquanto **itens arcanos** focados  em **ataque mágico** como **Cetros** e **Orbes** geralmente possuem **modificadores de ataque mágico**.
+
+Armaduras seguem um padrão similar, **Armaduras** e **Capacetes** com **modificadores de defesa física** e **Túnicas** e **Mantos** com **modificadores de defesa mágica**.
+
+Uma forma simples de representar esse modificador de refinamento é adicionar a letra `F` para indicar o bônus `Físico` e `M` para indicar o bônus mágico (itens arcanos), como em:
+
+- Escudo de Pedra +2F
+- Orbe de Cristal +3M
+
+Mas essa lógica varia muito de item para item e fica a cargo do Narrador. Por exemplo, nada impediria uma **Armadura de Placas +4F +3M** de existir, basta que o Narrador encontre um contexto apropriado para o item.
+
+Em casos óbvios, é até preferível por questão de simplificação omitir esse caráctere do sufixo, como por exemplo em `Escudo de Pedra +2`. Nesse caso, ficaria implícito que como `Escudo` é uma peça de armadura que geralmente tem objetivo de conceder **proteção física**, assume-se que esse `+2` concede `Defesa Física`.
+
+O mesmo se aplica para itens que não possuem refinamento, como é o caso de uma `Espada de Madeira`. Neste caso, assume-se que ela tem Nível 0 de refinamento, e por isso provê um **bônus de +0 de Ataque Físico**. Já uma `Orbe de Cristal +1` ofereceria um **Bônus de +1 de Ataque Mágico**. *(porque a Orbe é naturalmente um item arcano com foco geralmente mágico)*
+
+### Grandes refinamentos, grandes responsabilidades
+
+É bom ter em mente que refinamentos podem ser perigosos para o Balanço do jogo, tecnicamente, seguindo apenas as mecânicas deste livro à risca, já seria possível por exemplo que um único personagem tivesse até `+48 de Defesa Física` *(16 de Armadura, 16 de Elmo, 16 de Escudo)*, e tudo isso apenas com equipamentos. Este valor por exemplo seria bem **maior** que o valor de Ataque de uma das criaturas mais épicas do jogo, como por exemplo o **Knerotraco** (**35 de Físico**).
+
+Assumimos que um **bom valor máximo** de Modificador no **Nível 20** (Nível Máximo) seria o de `+16 de Ataque/Defesa`, pois cada jogador, ao realizar um ataque ainda vai somar o resultado de **2d20**, que neste caso, se ele tirasse 20, já conseguiria o resultado de `36` *apenas com os modificadores de equipamentos*, e sabemos que jogadores de Nível máximo conseguiriam muito mais que isso utilizando seus poderes.
+
+Então, para simplificar, pense que em um grupo de RPG balanceado, sugerimos que armas e armaduras sigam os seguintes limites de modificadores por Grau:
+
+<ModifierExpectation />
+
+### Precificando Itens Refinados
+
+Como vimos anteriormente, você é livre para controlar o balanceamento do jogo, mas achamos de bom tom sentido introduzir algumas expectativas para que você possa ter uma referência e aumentar ou diminuir conforme sua necessidade.
+
+Abaixo, apresentamos uma tabela de Refinamentos para Precificar um Item em um determinado Nível de Refinamento.
+Cada Nível aumenta o preço da arma ou armadura em questão, seguindo a tabela:
+
+<BaseRefinementList />
+
+## Infusão Mágica
+
+Como mostramos anteriormente, itens Físicos na tabela  de Armas não possuem dado de **dano mágico**, mas é possível encontrar espadas no jogo que causam Dano Mágico. Como isso funciona?
+
+Alguns ferreiros transformam Armas físicas como **Espadas** e **Machados** em armas arcanas, e esse processo é conhecido por **Infusão Mágica**.
+A infusão consiste em alterar as propriedades de um item físico para que ele se torne um item arcano.
+
+Imagine uma **Espada de Pó de Gema**. Esse item, por ser forjado com **Gemas mágicas**, passa automaticamente a agir como um item arcano. Isso significa que qualquer coisa que se aplicaria a um item físico, agora não se aplica mais a espada, pois ela é, fundamentalmente, um item arcano.
+
+Esse é um processo que só se aplica a armas, pois Armaduras no jogo não possuem nem dados de dano nem atributos.
+
+Então por exemplo, sempre que uma Arma sofrer **Infusão Mágica**, seu atributo também se alterará, seguindo o seguinte mapeamento:
+
+- Força -> Intelecto
+- Sobrevivência -> Intelecto
+- Influência -> Elo Mágico
+- Resiliência -> Elo Mágico
+- Agilidade -> Espírito
+
+Isso significa que nossa espada, ao invés de **Força**, passaria ser um item de **Intelecto**.
+
+E qual seria o dano dessa espada?
+
+Tanto seu **dano físico** quanto seu **dano mágico** se alteram no processo, então a espada que causa `2d10 de dano físico` por Grau, agora causaria apenas `2d8 de dano físico` por Grau, reduzindo sempre uma categoria de **dado de dano** (de d10 para d8).
+Esse é o **sacríficio** que o nosso item precisa aceitar para transgredir de sua forma física para sua forma mágica.
+
+O **dano mágico** segue a mesma lógica do **dano físico**, ou seja, nossa Espada mágica causaria `2d8 de dano mágico` por Grau.
+
+Além disso, a Espada não receberia mais **adição de dano físico** por material, já que sua construção agora usaria **materiais arcanos**, e esses por sua vez só fornecem **adição de dano mágico**.
+
+Resumindo, se compararmos duas Espadas com materiais equivalentes:
+- Na forma física, uma **Espada de Madeira** no **Grau 4** causaria `5d10 + 8` de **dano físico** e `0` de **dano mágico**.
+- Na forma mágica, uma **Espada de Pó de Gema** no **Grau 4** causaria `5d8` de **dano físico** e `5d8 + 8` de **dano mágico**.
+
+## Perfil de Equipamento
+
+Um Metalóide dificilmente entraria em uma armadura feita para Goblins, imagine então para Armadons.
+O perfil do item serve para identificar a qual <b>espécie</b> esse item foi inicialmente desenhado.
+
+Se desejar, o Narrador pode definir o perfil do item no momento que ele for encontrado pelos jogadores, caso contrário, pode-se assumir que o item será compatível ao primeiro jogador que demonstrar interesse em utilizá-lo.
+
+E mesmo que o Narrador diga: *"Vocês encontram um Peitoral de Prata, que parece ser pequeno demais para um Goblin usar".*
+Se houver um Goblin no grupo, ele pode interromper o Narrador para utilizar seu talento racial <b>Armadura da Sorte</b>, exigindo um <b>Teste de Perícia</b> do atributo <code>Destino</code> para fazer com que a armadura seja compatível com um Goblin médio.
+
+Afixos de Armadura como <code>Larga</code> sempre vão se aplicar considerando o biótico da espécie a qual ele foi desenhado, logo, uma Armadura de Luminin com o afixo <b>Larga</b> talvez sirva num <b>Luminin com porte físico avantajado</b>, mas jamais serviria em um <b>Luminin magricelo</b>, um <b>Armadon</b>, e até mesmo em um <b>Goblin</b> pequeno.
+
+Caso um jogador ainda queira utilizar uma armadura fora de seu perfil, ele ainda poderá fazê-lo, mas não receberá os bônus de Defesa concedidos pelo item.
+
+## Precificando Itens
 
 Com tantas variações, afixos e tipos de equipamentos, pode ser complexo avaliar o preço de um equipamento, mas com a ajuda das mais influentes casas de penhores das **Terras Místicos**, desenvolvemos um método infalível para te auxiliar com essa tarefa!
 
@@ -274,7 +379,7 @@ Com essa tabela em mãos, a fórmula de precificação fica fácil:
     </div>
 </div>
 
-## Exemplo: Machado de Madeira +0 (GRAU 1)
+### Exemplo: Machado de Madeira +0 (GRAU 1)
 
 O <code>Machado de Madeira +0</code> é um exemplo bem simples de Arma para calcularmos o preço.
 
@@ -331,7 +436,7 @@ Como não temos nenhum afixo nem refinamento, simplificamos a fórmula já que e
 <br/>
 Simples certo? Agora vamos evoluir um pouco esse Machado.
 
-## Exemplo: Machado de Bronze Largo Espinhento e Perfurante +2 (GRAU 1)
+### Exemplo: Machado de Bronze Largo Espinhento e Perfurante +2 (GRAU 1)
 
 Para este Machado usaremos 3x **Afixos Físicos**:
 
@@ -345,7 +450,7 @@ Se quebrarmos o item nos 5 complementos, teremos:
 
 1. **Item Base**: Machado **(Valor - T$ 200)**
 2. **Material**: Bronze **(Multiplicador - 2.0x)**
-3. **Afixos Físicos**: Largo *(200x2.0)*, Espinhenta *(200x3.0)*, Perfurante *(150x3.0)*
+3. **Afixos Físicos**: Largo *(200x2.0)*, Espinhenta *(200x3.0)*, Perfurante *(200x3.0)*
 4. **Afixos Mágicos**: Nenhum
 5. **Refinamento**: +2 *(150x3.0)*
 
@@ -446,21 +551,3 @@ Como você vai ver, apesar de ser uma Arma de **Grau 1**, ela tem tantos afixos 
     },
   ]
 }}></EquipmentBlock>
-
-
-## Afixos e Variaveis
-
-Como você viu anteriormente, muitos afixos como **Perfurante (F)** e **Larga (F)** possuem modificadores que melhoram a arma, aumentando o Dano, Ataque e outros atributos mecânicos.
-
-Mas essas variáveis são descritas de forma genérica, então tecnicamente, pelo sistema de Armas, uma arma que possua **Perfurante (1)** tem o mesmo valor que uma Arma **Perfurante (6)**, correto?
-
-Sim, e não!
-Bom, tecnicamente você estaria certo a dizer que não temos uma mecânica que faça uma Arma com Afixo melhor ser **mais cara**, até porque muitos afixos vão usar fórmula de Dano e seria muito complexo pensar numa precificação TÃO TÃO granular.
-
-Ao invés disso, a única coisa que fazemos é aumentar o valor do Item pelo seu Grau.
-
-Porém, como você pode ver, vai depender muito do jogo de cintura do Narrador de tornar esses Afixos balanceados, afinal, se ele entregar uma arma tão poderosa a algum jogador, não existe nenhuma mecânica em nenhum Sistema de RPG que vai impedir que o jogo fique desbalanceado.
-
-Então basicamente o que queremos passar aqui é que todos os valores e mecânicas que passamos aqui são **referências**, e cabe aos Jogadores e ao Narrador cuidarem para que o **equilíbrio mecânico** do jogo seja mantido, com armas sempre proporcionais ao nível de desafio.
-
-Nada impede que você crie seu próprio balanceamento, ou seus próprios afixos, mas tudo deve ser feito com moderação para priorizar a diversão e o equilíbrio dos combates no jogo!

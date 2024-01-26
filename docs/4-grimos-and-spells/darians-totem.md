@@ -177,10 +177,10 @@ O **Tótem de Darian** foi uma relíquia encontrada por um famoso Arqueólogo co
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem                                                                                                                                  | Nome da Arma       | Tipo Dano     | Dano       | Descrição                                                     | Durabilidade | Atributo  | Tipo de Arma      |
-|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------|------------|---------------------------------------------------------------|--------------|-----------|-------------------|
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cef8883db-8f88-45d5-bf53-a85a41d3eed6.PNG" width="80" /> | Tábua de Madeira   | Físico/Mágico | `2d10 + 2` | Conjura um feixe espiritual a **distância** de um inimigo.    | 2 Cargas     | Espírito  | Contusivo, Mágico |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6d56889-b581-4a66-bfe2-d5b268ffc1f9.PNG" width="80" /> | Graveto de Madeira | Físico        | `2d6 + 2`  | Um graveto sólido, usado para atacar inimigos **adjacentes**. | 2 Cargas     | Intelecto | Contusivo         |
+| Imagem                                                                                                                                  | Nome da Arma        | Tipo Dano     | Dano       | Descrição                                                     | Durabilidade | Atributo  | Tipo de Arma      |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------|------------|---------------------------------------------------------------|--------------|-----------|-------------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cef8883db-8f88-45d5-bf53-a85a41d3eed6.PNG" width="80" /> | Tábua de Pó de Gema | Físico/Mágico | `2d8 + 2`  | Conjura um feixe espiritual a **distância** de um inimigo.    | 2 Cargas     | Espírito  | Contusivo, Mágico |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cf6d56889-b581-4a66-bfe2-d5b268ffc1f9.PNG" width="80" /> | Graveto de Madeira  | Físico        | `2d10 + 2` | Um graveto sólido, usado para atacar inimigos **adjacentes**. | 2 Cargas     | Intelecto | Contusivo         |
 
 **A distância padrão para Armas de Alcance é de 7 espaços.*
 
