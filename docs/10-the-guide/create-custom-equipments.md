@@ -449,7 +449,7 @@ Se quebrarmos o item nos 5 complementos, teremos:
 
 1. **Item Base**: Machado **(Valor - T$ 200)**
 2. **Material**: Bronze **(Multiplicador - 2.0x)**
-3. **Afixos Físicos**: Largo *(200x2.0)*, Espinhenta *(200x3.0)*, Perfurante *(150x3.0)*
+3. **Afixos Físicos**: Largo *(200x2.0)*, Espinhenta *(200x3.0)*, Perfurante *(200x3.0)*
 4. **Afixos Mágicos**: Nenhum
 5. **Refinamento**: +2 *(150x3.0)*
 
