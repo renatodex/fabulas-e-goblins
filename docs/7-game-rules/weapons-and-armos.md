@@ -50,7 +50,7 @@ Qualquer arma pode usar qualquer material em sua constituição, a diferença va
 | Punhal de Madeira          | `1`  | Físico      |  `2d8 + 2`  |     `0`     | Destino       | Cortante             |   T$ 200   |
 | Saxo de Madeira            | `1`  | Físico      |  `2d10 + 2` |     `0`     | Força         | Cortante             |   T$ 200   |
 | Tridente de Madeira        | `1`  | Físico      |  `2d12 + 2` |     `0`     | Força         | Perfurante           |   T$ 200   |
-| Tábua de Madeira           | `1`  | Arcano      |  `2d4 + 2`  |  `2d10 + 2` | Espírito      | Mágico               |   T$ 200   |
+| Tábua de Pó de Gema        | `1`  | Arcano      |    `2d4`    |  `2d10 + 2` | Espírito      | Mágico               |   T$ 200   |
 | Bomba Mágica de Pó de Gema | `1`  | Arcano      |     `0`     |  `2d10 + 2` | Intelecto     | Mágico               |   T$ 300   |
 | Cetro de Pó de Gema        | `1`  | Arcano      |    `2d8`    |  `2d8 + 2`  | Intelecto     | Mágico               |   T$ 300   |
 | Cajado de Pó de Gema       | `1`  | Arcano      |    `2d8`    |  `2d8 + 2`  | Elo Mágico    | Mágico               |   T$ 300   |
@@ -106,9 +106,9 @@ Na lista usaremos **Couro** como o material principal, mas alguns tipos de equip
 | Tronco         |  `1` | Sim        | Não      | Cota de Malha de Aço      |         `2 + 2`        |           `0`          |   T$ 250   |
 | Tronco         |  `1` | Sim        | Sim      | Brunea de Aço             |         `3 + 2`        |           `0`          |   T$ 300   |
 | Tronco         |  `1` | Sim        | Sim      | Peitoral de Placas de Aço |         `3 + 2`        |           `0`          |   T$ 400   |
-| Tronco         |  `1` | Sim        | Não      | Manto de Pó de Gema       |           `0`          |         `2 + 2`        |   T$ 150   |
-| Tronco         |  `1` | Sim        | Não      | Túnica de Pó de Gema      |           `0`          |         `3 + 2`        |   T$ 300   |
-| Tronco         |  `1` | Sim        | Não      | Robes de Pó de Gema       |           `0`          |         `4 + 2`        |   T$ 450   |
+| Tronco         |  `1` | Sim        | Não      | Manto de Pó de Gema       |           `0`          |         `2 + 0`        |   T$ 150   |
+| Tronco         |  `1` | Sim        | Não      | Túnica de Pó de Gema      |           `0`          |         `3 + 0`        |   T$ 300   |
+| Tronco         |  `1` | Sim        | Não      | Robes de Pó de Gema       |           `0`          |         `4 + 0`        |   T$ 450   |
 | Ombros         |  `1` | Sim        | Não      | Ombreira de Couro         |         `1 + 1`        |           `0`          |   T$ 150   |
 | Braços         |  `1` | Não        | Não      | Braçadeiras de Couro      |         `1 + 1`        |           `0`          |   T$ 100   |
 | Mãos           |  `1` | Não        | Não      | Luvas e Manoplas de Couro |         `0 + 1`        |           `0`          |   T$ 150   |
