@@ -20,7 +20,7 @@ Aqui nesta se apenas falar de Tipo e Material, mas se quiser saber mais sobre es
 
 Na lista a seguir você verá armas que usam o mesmo material. Fazemos isso porque nosso livro apresenta **25 materiais** diferente entre **armas e armaduras**, e listar cada variação abaixo em cada material resultaria numa tabela com mais de **1000** itens!
 
-Abaixo, usaremos `Madeira` como material para as **armas físicas** e `Pó de Gema` como material para as **armas mágicas**.
+Abaixo, usaremos `Madeira` como material para as **armas físicas** e `Pó de Gema` como material para as **armas arcanas**.
 
 Qualquer arma pode usar qualquer material em sua constituição, a diferença vai ser o **incremento/redução de dano**, que pode ser físico ou mágico.
 
@@ -74,7 +74,7 @@ No F&G, convencionamos que o dano de uma arma é definido pela fórmula:
 
 Já o **material da arma** define a porção estática da fórmula de dano. A **Madeira** por exemplo é um material geralmente de **Grau 1** que fornece **incremento de dano físico** em `+2`. Esse valor, multiplicado pelo **Grau 1** resultará no `+2` que vemos na tabela.
 
-Já os materiais para armas mágicas, como **Pó de Gema** fornecem **incremento de dano mágico** ao invés de físico, que neste caso, também é `+2`.
+Já os materiais para **armas arcanas**, como **Pó de Gema** fornecem **incremento de dano mágico** ao invés de físico, que neste caso, também é `+2`.
 
 Por exemplo, se você quisesse saber o dano de uma **Espada de Aço** de **Grau 3**, então a fórmula para calculá-lo seria: `(3+1)*(d10) + 3*6`, onde:
 - `3` indica o Grau da Arma que queremos calcular.
@@ -126,7 +126,7 @@ Na lista usaremos **Couro** como o material principal, mas alguns tipos de equip
 
 :::info Nota sobre Gemas e Materiais Arcanos
 
-As Gemas são pequenos minerais preciosos que possuem a capacidade de **armazenar magia**. São usados de forma similar a pergaminhos, mas também são cruciais na construção de armas mágicas.
+As Gemas são pequenos minerais preciosos que possuem a capacidade de **armazenar magia**. São usados de forma similar a pergaminhos, mas também são cruciais na construção de armas arcanas.
 
 Elas são apenas um dos cristais que chamamos de **materiais arcanos**, que diferente dos **materiais físicos**, tem o foco em aumentar ou reduzir **dano mágico**, entre outras capacidades. Qualquer item que possua **materiais arcanos** em sua constituição é por definição um **Item Arcano**.
 
@@ -142,7 +142,7 @@ Para saber como calcular a Redução de dano total que o item concede, basta usa
 
 `Redução de Dano da Armadura  = GRAU*(Soma da Redução de Dano dos Items) + (# de Itens do Material)*(Redução de Dano do Material))`
 
-Da mesma forma, armaduras que usam **materiais arcanos** como o **Manto de Pó de Gema** fornecem **redução de dano mágico** ao invés de dano físico. Que no caso do **Pó de Gema**  `+2`.
+Da mesma forma, armaduras que usam **materiais arcanos** como o **Manto de Pó de Gema** fornecem **redução de dano mágico** ao invés de dano físico. Porém, no caso do **Pó de Gema** esse valor é `+0`.
 
 Vamos imaginar como seria simular a Redução de dano para um **Escudo Pesado de Aço Galiriano** de **Grau 3**, e um **Peitoral de Ouro** de **Grau 4**. Para isso, bastaria aplicar a fórmula:
 

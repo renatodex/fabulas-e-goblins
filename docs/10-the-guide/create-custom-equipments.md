@@ -74,7 +74,7 @@ Da mesma forma que temos uma listagem padrão de Armas, temos também uma listag
 Esses itens podem ser encontrados em conjunto ou separadamente, mas aqui consideramos os valores individuais de redução de dano de cada parte.
 
 Assim como na tabela de armas, os campos marcados com  `-` significam que independente do material, esse item não pode ter essa redução de dano.
-Ou seja, uma **Tiara de Madeira** e uma **Tiara de Aço Galiriano** não vão reduzir nenhum dano físico, já uma **Tiara de Pó de Gema** reduzirá o **dano mágico** causado em `2`. (de acordo com a tabela de materiais)
+Ou seja, uma **Tiara de Madeira** e uma **Tiara de Aço Galiriano** não vão reduzir nenhum dano físico, já uma **Tiara de Gema Arcana Bruta** reduzirá o **dano mágico** causado em `2`. (de acordo com a tabela de materiais)
 
 <BaseArmorList />
 
