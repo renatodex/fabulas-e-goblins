@@ -202,10 +202,10 @@ As descobertas de **Drako** no primeiro Século após o Blecaute teriam salvo se
 
 Você pode escolher entre duas armas iniciais:
 
-| Imagem                                                                                                                                  | Nome da Arma     | Tipo Dano     | Dano       | Descrição                                                                         | Durabilidade | Atributo   | Tipo de Arma     |
-|-----------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------|------------|-----------------------------------------------------------------------------------|--------------|------------|------------------|
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C176956f9-2502-452c-963e-181799550369.png" width="80" /> | Orbe de Madeira  | Mágico        | `2d10 + 2` | Orbe inicial do Aventureiro, ataca a longa distância* com um feixe não-elemental. | 2 Cargas     | Elo Mágico | Mágico           |
-| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc8623aa6-2402-42d2-8633-faa7bd679ddd.png" width="80" /> | Cetro de Madeira | Mágico/Físico | `2d8 + 2`  | Cetro inicial do Aventureiro, ataque corpo-a-corpo ou mágico à distância.         | 2 Cargas     | Intelecto  | Mágico/Contusivo |
+| Imagem                                                                                                                                  | Nome da Arma        | Tipo Dano     | Dano       | Descrição                                                                         | Durabilidade | Atributo   | Tipo de Arma     |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------|------------|-----------------------------------------------------------------------------------|--------------|------------|------------------|
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C176956f9-2502-452c-963e-181799550369.png" width="80" /> | Orbe de Pó de Gema  | Mágico        | `2d10 + 2` | Orbe inicial do Aventureiro, ataca a longa distância* com um feixe não-elemental. | 2 Cargas     | Elo Mágico | Mágico           |
+| <img src="https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cc8623aa6-2402-42d2-8633-faa7bd679ddd.png" width="80" /> | Cetro de Pó de Gema | Mágico/Físico | `2d8 + 2`  | Cetro inicial do Aventureiro, ataque corpo-a-corpo ou mágico à distância.         | 2 Cargas     | Intelecto  | Mágico/Contusivo |
 
 **A distância padrão para Armas de Alcance é de 7 espaços.*
 

@@ -291,7 +291,8 @@ Esse é um processo que só se aplica a armas, pois Armaduras no jogo não possu
 Então por exemplo, sempre que uma Arma sofrer **Infusão Mágica**, seu atributo também se alterará, seguindo o seguinte mapeamento:
 
 - Força -> Intelecto
-- Influência -> Intelecto
+- Sobrevivência -> Intelecto
+- Influência -> Elo Mágico
 - Resiliência -> Elo Mágico
 - Agilidade -> Espírito
 
