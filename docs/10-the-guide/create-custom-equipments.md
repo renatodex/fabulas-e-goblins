@@ -78,6 +78,8 @@ Ou seja, uma **Tiara de Madeira** e uma **Tiara de Aço Galiriano** não vão re
 
 <BaseArmorList />
 
+\* Tiaras, Cintos, Amuletos e Anéis não conferem **Redução de Dano físico**, independente do material utilizado.
+
 :::info Exemplo de Armadura
 Imagine um personagem que possua uma Armadura de Placas completa:
 - Peitoral de Placas (+3)
