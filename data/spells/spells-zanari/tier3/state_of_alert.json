@@ -10,6 +10,6 @@
   "icon": "GiAwareness",
   "element": "darkness",
   "caption": "Sua essência vive na sombra de seus aliados, concedendo a você um estado de alerta constante para reagir aos seus inimigos.",
-  "description": "<p>Sempre que um aliado <b>receber um ataque de oportunidade</b>, você poderá realizar um <b>ataque extra neste inimigo</b> através da <b>sombra do seu aliado</b>.</p>",
+  "description": "<p>Sempre que um aliado <b>receber um Golpe de Reação</b>, você poderá realizar um <b>ataque extra neste inimigo</b> através da <b>sombra do seu aliado</b>.</p>",
   "tags": ["grimo","zanari"]
 }

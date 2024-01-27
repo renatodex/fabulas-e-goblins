@@ -7,7 +7,7 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C3eb
 
 ![As regras de movimentação durante o combate](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5C282494fd-606f-4748-b6f8-6030a155c40b.jpg)
 
-Uma boa movimentação durante o combate é essencial. Seja numa **masmorra fechada** ou em um **campo aberto**, a **coordenação tática** do grupo pode ser a diferença entre viver ou morrer. 
+Uma boa movimentação durante o combate é essencial. Seja numa **masmorra fechada** ou em um **campo aberto**, a **coordenação tática** do grupo pode ser a diferença entre viver ou morrer.
 
 Durante um Combate você frequentemente estará enfrentando seus inimigos em **terrenos que não lhe favorecem**, e mover-se incorretamente pode **impedir um aliado** de desferir aquele ataque crucial na hora certa.
 
@@ -27,7 +27,7 @@ Na ficha de cada Personagem e Inimigo, há um valor fixo para o **Movimento**, q
 
 Um Personagem com **Movimento 1** pode se mover o equivalente a **1 quadrado** no **Grid de Combate**.
 
-Cada quadrado equivale a aproximadamente **1,5m** de Distância. 
+Cada quadrado equivale a aproximadamente **1,5m** de Distância.
 
 ## O que é um Grid de Combate?
 
@@ -63,13 +63,13 @@ A mesma regra se aplica para criaturas **Gigantes e Colossais**.
 
 ## Engajamento de Combate
 
-Quando duas criaturas estão lado a lado no combate trocando ataques, dizemos que **elas estão Engajadas**. Um Personagem ou Inimigo engajado **não pode se mover normalmente** para **longe** do seu inimigo. Caso algum dos participantes engajados tente quebrar o engajamento **se movimentando para longe**, ele receberá um **Ataque de Oportunidade**.
+Quando duas criaturas estão lado a lado no combate trocando ataques, dizemos que **elas estão engajadas**. Um Personagem ou Inimigo engajado **não pode se mover** para **longe** do seu inimigo. (mas pode se mover a qualquer espaço adjacente a ele) Caso algum dos participantes engajados tente quebrar o engajamento **se movimentando para longe**, ele receberá um **Golpe de Reação**.
 
 ![ExemploGrid4.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cbe7f8706-95f2-45f9-aa9e-9c4c92f877e5.jpg)
 
 No exemplo acima, o **Goblin** e o **Camag** estão engajados numa troca de golpes, mas em um certo momento o **Camag** percebe que está perdendo, e decide quebrar engajamento de combate, fugindo do **Goblin**.
 
-Nessa situação, o **Goblin** tem direito a um **Ataque de Oportunidade**, que ocorre **antes que o Movimento do Camag ocorra**.
+Nessa situação, o **Goblin** tem direito a um **Golpe de Reação**, que ocorre **antes que o Movimento do Camag ocorra**.
 
 Esse ataque nada mais é do que um **Ataque Básico**, mas caso o Goblin seja bem sucedido nos dados, e acerte o ataque, o Movimento do **Camag** é **cancelado**, e a criatura também perde a oportunidade de fazer a **Ação de Ataque** que teria direito.
 
@@ -80,13 +80,13 @@ O Flanco é uma técnica de atacar o seu inimigo **simultaneamente pela frente e
 
 ![ExemploGrid5.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cae4ab261-19ea-42f9-8620-4067fe127006.jpg)
 
-Na situação acima, **dois Camags** estão flanqueando nosso Herói pela **frente e pelas costas**, o Alvo Flanqueado nesse caso recebe **-2 de Defesa Física e Mágica** até que o Flanco **seja quebrado**.
+Na situação acima, **dois Camags** estão flanqueando nosso Herói pela **frente e pelas costas**. Enquanto estiver flanqueado, nosso herói realizará **Ações em Desvantagem**, e os **Camags** que participam do flanqueio realizarão **Ações em Vantagem**, até que o Flanco **seja quebrado**.
 
-Lembrando que **tentar fugir** de um flanco concede aos inimigos múltiplos **Ataques de Oportunidade**. 
+Lembrando que **tentar fugir** de um flanco concederá a **cada inimigo** um **Golpes de Reação**.
 
 ## Terrenos Acidentados
 
-Alguns terrenos podem ser difíceis de atravessar, como barrancos e caminhos com entulhos. Num **Grid de Batalha**, cada Quadrado em **Terreno Acidentado** custa **2 Pontos de Movimento** para ser atravessado, enquanto Terrenos normais custam apenas 1 Ponto.
+Alguns terrenos podem ser difíceis de atravessar, como barrancos e caminhos com entulhos. Num **Grid de Batalha**, cada Quadrado em **Terreno Acidentado** custa **2 Pontos de Movimento** para ser atravessado, enquanto Terrenos normais custam apenas **1 Ponto**.
 
 ![ExemploGrid6.jpg](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cb5345213-90b2-4e17-beea-aa7c3ce3de84.jpg)
 

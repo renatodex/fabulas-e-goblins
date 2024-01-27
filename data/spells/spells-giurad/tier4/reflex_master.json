@@ -10,6 +10,6 @@
   "icon": "GiCatch",
   "element": null,
   "caption": "Os olhos treinados são a prova da composição de um verdadeiro Cavaleiro, para aqueles com olhos desprovidos, pode até parecer mágica, pois não importa de onde o ataque virá, um bom Cavaleiro sempre o aparará.",
-  "description": "<p>Você desenvolveu <b>reflexos incríveis</b>, e pode se mover para dentro e para <b>fora da área de oportunidade livremente sem receber dano</b>.</p><p>Com esta habilidade, você automaticamente <b>apara qualquer ataque de oportunidade</b> realizado contra você.</p>",
+  "description": "<p>Você desenvolveu <b>reflexos incríveis</b>, e pode se mover para dentro e para <b>fora da área de oportunidade livremente sem receber dano</b>.</p><p>Com esta habilidade, você automaticamente <b>apara qualquer Golpe de Reação</b> realizado contra você.</p>",
   "tags": ["grimo", "giurad"]
 }
