@@ -10,6 +10,6 @@
   "icon": "GiRunningNinja",
   "element": null,
   "caption": "Investe em um alvo na velocidade da luz, causando dano e empurrando um inimigo.",
-  "description": "<p>Escolha um alvo a até <code>4 espaços</code> de distância. Você avança para uma <b>posição adjacente</b> a este alvo numa fração de segundos, e <b>sem gastar Pontos de Movimento</b>.</p><p>Em seguida, realize um teste de <b>Ataque Físico</b> contra o alvo, se for bem sucedido, você causa <code>Dano da Arma + (Grau * 1d12)</code>.</p><p>Independente de acertar ou não o ataque, você ainda pode usar sua <b>Ação de Movimento</b>, mas caso acerte o alvo, mover-se para fora do engajamento não gerará um <b>Ataque de Oportunidade</b>.</p>",
+  "description": "<p>Escolha um alvo a até <code>4 espaços</code> de distância. Você avança para uma <b>posição adjacente</b> a este alvo numa fração de segundos, e <b>sem gastar Pontos de Movimento</b>.</p><p>Em seguida, realize um teste de <b>Ataque Físico</b> contra o alvo, se for bem sucedido, você causa <code>Dano da Arma + (Grau * 1d12)</code>.</p><p>Independente de acertar ou não o ataque, você ainda pode usar sua <b>Ação de Movimento</b>, mas caso acerte o alvo, mover-se para fora do engajamento não gerará um <b>Golpe de Reação</b>.</p>",
   "tags": ["grimo","ixin"]
 }
