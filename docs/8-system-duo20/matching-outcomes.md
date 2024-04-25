@@ -7,12 +7,11 @@ image: https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff2
 
 ![Uma falha neutra](https://s3.us-west-2.amazonaws.com/fabulas-e-goblins-book/%5Cvscode%5Cff2b0ab3-36f1-4c29-a454-7097f3199724.jpg)
 
-No **Sistema Duo20**, sempre que você tirar dois números iguais no Dado, o resultado será **sempre desconsiderado** e você deverá realizar um **novo lançamento de dados**.
+No **Sistema Duo20**, sempre que você tirar dois números iguais no Dado, o resultado será **sempre considerado como uma falha comum** e você deverá realizar um **novo lançamento de dados**.
 
-Mas existem **duas excessões**.
+Mas existem **uma excessão**.
 
-1. Ao rolar **dois números iguais** em uma **lançamento com vantagem**, o resultado sempre será considerado como **sucesso comum**, mesmo que o número **seja abaixo** do valor necessário para o sucesso. (exceto no caso de **Desastre** e **Triunfo**).
-2. Da mesma forma, rolar **dois números iguais** em um **lançamento com desvantagem** sempre resultará em um **falha comum**, mesmo que o número **seja acima** do valor necessário para o sucesso. (exceto no caso de **Desastre** e **Triunfo**)
+Ao rolar **dois números iguais** em uma **lançamento com vantagem**, o resultado sempre será considerado como **sucesso comum**, mesmo que o número **seja abaixo** do valor necessário para o sucesso. (exceto no caso de **Desastre** e **Triunfo**).
 
 :::note Exemplo de Lançamento com Desvantagem
 **Reno** é um **Caçador** que está tentando **acertar um alvo em uma janela** a **dezenas de metros** de distância.
