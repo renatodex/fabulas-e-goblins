@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Você provoca seu inimigo vorazmente, fazendo com que ele seja obrigado a te atacar..",
   "description": "Como Tanque, você pode usar uma Ação especial de Provocação. Provocar um inimigo faz com que ele receba <code>-4</code> de Ataque (Físico e Mágico) caso decida não te atacar. A Provocação só tem efeito até o próximo ataque do alvo.",
-  "tags": ["racial", "valdari"]
+  "tags": ["role", "tank", "encounter"]
 }
