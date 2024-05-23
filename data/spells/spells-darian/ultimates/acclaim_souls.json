@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Uma aura de luz envolve todos os aliados, curando-os e concedendo-lhes uma aura etérea.",
   "description": "<p>Todos os aliados (independente de onde estejam) são abençoados por uma <b>Aura Etérea</b>, que envolve seus corpos e concede a eles <code>GRAU*15</code> de P.V e <code>GRAU*5</code> de P.M temporários, além de <b>curar</b> seus P.V em <code>GRAU * (1d6 + 10)</code> e seus P.M em <code>GRAU * (1d4 + 5)</code></p>",
-  "tags": ["grimo","darian"]
+  "tags": ["grimo","darian","ultimate"]
 }

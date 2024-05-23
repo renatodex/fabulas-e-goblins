@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Sobrecarrega seu Grimo para conectar diversas criaturas entre sí que compartilham o dano recebido.",
   "description": "<p>Escolha até 3 <b>criaturas selvagens</b>. Os alvos ficam instantâneamente conectados por um feixe mágico translúcido que faz com que todo dano recebido por 1 alvo seja recebido por todos, sem decréscimo.</p><p><b>Exemplo 1</b>: Se você conectar 3 inimigos com este poder, e usar um ataque em área que cause 40 de dano aos 3 inimigos, cada inimigo sofrerá um total de 120 pontos de dano. (uma instância de dano adicional para cada um dos outros alvos conectados pela <b>Conexão Selvagem</b> que sofreram dano com o ataque.).</p><p><b>Exemplo 2</b>: Imagine que um ataque de um aliado causou 40 de dano em um dos inimigos conectados. Neste caso, os outros dois inimigos também recebem 40 de dano.</p><p>Ao <b>final do turno</b> de cada criatura conectada, o Narrador deve realizar uma <b>Ação de Perícia</b> sem modificadores (ou com os modificadores da unidade se ela tiver), para saber se o Elo da criatura será quebrado.</p><p><i>Essa é uma das poucas ocasiões onde um Narrador precisa fazer uma rolagem para os inimigos.</i></p>",
-  "tags": ["grimo","ravna"]
+  "tags": ["grimo","ravna","ultimate"]
 }
