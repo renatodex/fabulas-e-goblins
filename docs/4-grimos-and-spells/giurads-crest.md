@@ -9,7 +9,7 @@ import GrimoCostMod from '@site/src/components/grimo_cost_modifier/index'
 
 import { SpellFromJson } from './../../src/components/skill_block/index'
 
-import knights_fury from './../../data/spells/spells-giurad/tier1/knights_fury.json'
+import knights_fury from './../../data/spells/spells-giurad/ultimates/knights_fury.json'
 
 import armored from './../../data/spells/spells-giurad/tier1/armored.json'
 import bash from './../../data/spells/spells-giurad/tier1/bash.json'
