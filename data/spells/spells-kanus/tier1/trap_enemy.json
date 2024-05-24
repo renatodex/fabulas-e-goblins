@@ -11,5 +11,5 @@
   "element": "",
   "caption": "Você retira forças de seu Grimo para conjurar uma Boleadeira mágica, prendendo seu inimigo no lugar e restringindo suas ações.",
   "description": "<p>Escolha 1 alvo e faça um teste contra sua <b>Defesa Física</b>.</p><p><b>Se for bem sucedido,</b> você conjura uma <b>boleadeira mágica</b> que causa <code>Constrição T=1</code>.</p>",
-  "tags": ["grimo", "hunter"]
+  "tags": ["grimo", "kanus"]
 }
