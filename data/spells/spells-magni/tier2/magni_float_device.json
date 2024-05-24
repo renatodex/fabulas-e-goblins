@@ -11,5 +11,5 @@
   "element": null,
   "caption": "Sacrifica um Magni para transformá-lo em uma <b>prancha flutuante</b> que pode erguer o conjurador do chão.",
   "description": "<p>Escolha <b>1 Magni ativo</b>.</p><p>O <b>Magni</b> é convertido em uma prancha flutuante, que pode erguê-lo do chão a uma distância aproximada de <b>1 metro</b>.</p><p>Enquanto estiver conjurada, a Prancha ainda conta como <b>1 Magni ativo</b>.</p><p>Você pode desfazer a prancha a qualquer momento, mas se não o fizer, a prancha dura por <b>1 hora</b>, ou <b>1 combate</b>.</p>",
-  "tags": ["grimo","nomegrimooumonstro"]
+  "tags": ["grimo","magni"]
 }
