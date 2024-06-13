@@ -24,14 +24,14 @@ import squire_specialization from './../../data/spells/spells-giurad/tier1/squir
 import judgement from './../../data/spells/spells-giurad/tier1/judgement.json'
 import warrior_resistance from './../../data/spells/spells-giurad/tier1/warrior_resistance.json'
 
-import armored2 from './../../data/spells/spells-giurad/tier2/armored.json'
+import armored2 from './../../data/spells/spells-giurad/tier2/armored-2.json'
 import duel from './../../data/spells/spells-giurad/tier2/duel.json'
 import focused_double_attack from './../../data/spells/spells-giurad/tier2/focused_double_attack.json'
 import improved_strength from './../../data/spells/spells-giurad/tier2/improved_strength.json'
 import precise_parry from './../../data/spells/spells-giurad/tier2/precise_parry.json'
 import right_hit from './../../data/spells/spells-giurad/tier2/right_hit.json'
 import sismic_parry from './../../data/spells/spells-giurad/tier2/sismic_parry.json'
-import squire_specialization2 from './../../data/spells/spells-giurad/tier2/squire_specialization.json'
+import squire_specialization2 from './../../data/spells/spells-giurad/tier2/squire_specialization-2.json'
 import stock from './../../data/spells/spells-giurad/tier2/stock.json'
 import wear_resistance from './../../data/spells/spells-giurad/tier2/wear_resistance.json'
 

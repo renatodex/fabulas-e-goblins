@@ -20,7 +20,7 @@ import overcharge from './../../data/spells/spells-magni/tier1/overcharge.json'
 import remote_control from './../../data/spells/spells-magni/tier1/remote_control.json'
 import repair_magni from './../../data/spells/spells-magni/tier1/repair_magni.json'
 import repair_master from './../../data/spells/spells-magni/tier1/repair_master.json'
-import short_circuit from './../../data/spells/spells-magni/tier1/short_circuit.json'
+import short_circuit from './../../data/spells/spells-magni/tier1/short_circuit-2.json'
 import shove_module from './../../data/spells/spells-magni/tier1/shove_module.json'
 import solder_module from './../../data/spells/spells-magni/tier1/solder_module.json'
 
