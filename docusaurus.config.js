@@ -22,6 +22,9 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'renatodex', // Usually your GitHub org/user name.
   projectName: 'fabulas-e-goblins', // Usually your repo name.
+  clientModules: [
+    './src/analytics.js',
+  ],
 
   presets: [
     [
