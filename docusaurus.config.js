@@ -1,7 +1,17 @@
 const version = require('./version.json');
-const revision = require('child_process')
-  .execSync('git rev-parse HEAD')
-  .toString().trim().substring(0,7)
+function getRevision () {
+  if (process.env.RAILWAY_GIT_COMMIT_SHA) {
+    return process.env.RAILWAY_GIT_COMMIT_SHA
+  }
+  try {
+    return require('child_process')
+      .execSync('git rev-parse HEAD', { stdio: ['pipe', 'pipe', 'ignore'] })
+      .toString().trim()
+  } catch (e) {
+    return 'unknown'
+  }
+}
+const revision = getRevision().substring(0,7)
 const path = require('path')
 let buildVersion = version.version.replace('{commit}', revision)
 
